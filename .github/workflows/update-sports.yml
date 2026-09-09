@@ -16,27 +16,78 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Create RSS feed
+      - name: Get sports data and create RSS
         run: |
-          cat > sports.xml <<'EOF'
-          <?xml version="1.0" encoding="UTF-8"?>
+          python3 - <<'PY'
+          import json
+          import urllib.request
+          from datetime import datetime, timezone
+          from xml.sax.saxutils import escape
+
+          leagues = [
+              ("football", "nfl"),
+              ("football", "college-football"),
+              ("basketball", "nba"),
+              ("basketball", "mens-college-basketball"),
+              ("basketball", "wnba"),
+              ("baseball", "mlb"),
+              ("hockey", "nhl"),
+              ("soccer", "usa.1"),
+          ]
+
+          items = []
+
+          for sport, league in leagues:
+              url = f"https://site.api.espn.com/apis/site/v2/sports/{sport}/{league}/scoreboard"
+
+              try:
+                  with urllib.request.urlopen(url, timeout=15) as response:
+                      data = json.load(response)
+
+                  for event in data.get("events", []):
+                      name = event.get("name", "Sports Event")
+                      date = event.get("date", "")
+                      status = (
+                          event.get("status", {})
+                          .get("type", {})
+                          .get("description", "Scheduled")
+                      )
+
+                      items.append(f"""
+              <item>
+                <title>{escape(name)}</title>
+                <description>{escape(status)}</description>
+                <pubDate>{escape(date)}</pubDate>
+                <guid isPermaLink="false">{escape(event.get("id", name))}</guid>
+              </item>""")
+
+              except Exception as e:
+                  print(f"Could not load {sport}/{league}: {e}")
+
+          now = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
+
+          rss = f'''<?xml version="1.0" encoding="UTF-8"?>
           <rss version="2.0">
             <channel>
               <title>Live and Upcoming Sports</title>
               <description>Live and upcoming sports events</description>
               <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-              <item>
-                <title>Sports RSS Feed</title>
-                <description>Feed is active and ready for live and upcoming events.</description>
-              </item>
+              <lastBuildDate>{now}</lastBuildDate>
+              {''.join(items)}
             </channel>
           </rss>
-          EOF
+          '''
 
-      - name: Commit RSS feed
+          with open("sports.xml", "w", encoding="utf-8") as f:
+              f.write(rss)
+
+          print(f"Created RSS feed with {len(items)} events.")
+          PY
+
+      - name: Commit updated RSS
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add sports.xml
-          git diff --cached --quiet || git commit -m "Update sports RSS feed"
+          git diff --cached --quiet || git commit -m "Update live sports RSS"
           git push
