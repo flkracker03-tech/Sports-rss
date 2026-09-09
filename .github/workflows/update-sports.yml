@@ -16,12 +16,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Get sports data and create RSS
+      - name: Build 7-day sports RSS
         run: |
           python3 - <<'PY'
           import json
           import urllib.request
-          from datetime import datetime, timezone
+          from datetime import datetime, timedelta, timezone
           from xml.sax.saxutils import escape
 
           leagues = [
@@ -35,59 +35,82 @@ jobs:
               ("soccer", "usa.1"),
           ]
 
-          items = []
+          events = {}
 
-          for sport, league in leagues:
-              url = f"https://site.api.espn.com/apis/site/v2/sports/{sport}/{league}/scoreboard"
+          for days_ahead in range(8):
+              day = (datetime.now(timezone.utc) + timedelta(days=days_ahead)).strftime("%Y%m%d")
 
-              try:
-                  with urllib.request.urlopen(url, timeout=15) as response:
-                      data = json.load(response)
+              for sport, league in leagues:
+                  url = (
+                      f"https://site.api.espn.com/apis/site/v2/sports/"
+                      f"{sport}/{league}/scoreboard?dates={day}"
+                  )
 
-                  for event in data.get("events", []):
-                      name = event.get("name", "Sports Event")
-                      date = event.get("date", "")
-                      status = (
-                          event.get("status", {})
-                          .get("type", {})
-                          .get("description", "Scheduled")
-                      )
+                  try:
+                      with urllib.request.urlopen(url, timeout=20) as response:
+                          data = json.load(response)
 
-                      items.append(f"""
+                      for event in data.get("events", []):
+                          event_id = str(event.get("id", ""))
+
+                          if not event_id:
+                              continue
+
+                          events[event_id] = event
+
+                  except Exception as e:
+                      print(f"Skipping {sport}/{league} {day}: {e}")
+
+          rss_items = []
+
+          for event in sorted(
+              events.values(),
+              key=lambda e: e.get("date", "")
+          ):
+              event_id = str(event.get("id", ""))
+              name = event.get("name", "Sports Event")
+              date = event.get("date", "")
+
+              status = (
+                  event.get("status", {})
+                  .get("type", {})
+                  .get("description", "Scheduled")
+              )
+
+              rss_items.append(f"""
               <item>
                 <title>{escape(name)}</title>
                 <description>{escape(status)}</description>
                 <pubDate>{escape(date)}</pubDate>
-                <guid isPermaLink="false">{escape(event.get("id", name))}</guid>
+                <guid isPermaLink="false">{escape(event_id)}</guid>
               </item>""")
 
-              except Exception as e:
-                  print(f"Could not load {sport}/{league}: {e}")
+          now = datetime.now(timezone.utc).strftime(
+              "%a, %d %b %Y %H:%M:%S GMT"
+          )
 
-          now = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
-
-          rss = f'''<?xml version="1.0" encoding="UTF-8"?>
+          rss = f"""<?xml version="1.0" encoding="UTF-8"?>
           <rss version="2.0">
             <channel>
               <title>Live and Upcoming Sports</title>
               <description>Live and upcoming sports events</description>
               <link>https://flkracker03-tech.github.io/Sports-rss/</link>
               <lastBuildDate>{now}</lastBuildDate>
-              {''.join(items)}
+              {''.join(rss_items)}
             </channel>
           </rss>
-          '''
+          """
 
           with open("sports.xml", "w", encoding="utf-8") as f:
               f.write(rss)
 
-          print(f"Created RSS feed with {len(items)} events.")
+          print(f"Total unique events: {len(events)}")
           PY
 
-      - name: Commit updated RSS
+      - name: Commit RSS
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add sports.xml
-          git diff --cached --quiet || git commit -m "Update live sports RSS"
+          git diff --cached --quiet || git commit -m "Update sports RSS"
           git push
