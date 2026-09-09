@@ -23,21 +23,21 @@ jobs:
 
       - name: Generate RSS
         run: |
-          cat > index.html <<'EOF'
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-<channel>
-<title>Sports Events</title>
-<description>Live and upcoming sports events</description>
-<link>https://flkracker03-tech.github.io/sports-rss/</link>
-<item>
-<title>Sports RSS Feed</title>
-<description>Sports feed is active</description>
-<pubDate>$(date -u +"%a, %d %b %Y %H:%M:%S +0000")</pubDate>
-</item>
-</channel>
-</rss>
-EOF
+          cat > index.html <<EOF
+          <?xml version="1.0" encoding="UTF-8"?>
+          <rss version="2.0">
+          <channel>
+          <title>Sports Events</title>
+          <description>Live and upcoming sports events</description>
+          <link>https://flkracker03-tech.github.io/sports-rss/</link>
+          <item>
+          <title>Sports RSS Feed</title>
+          <description>Sports feed is active</description>
+          <pubDate>$(date -u +"%a, %d %b %Y %H:%M:%S +0000")</pubDate>
+          </item>
+          </channel>
+          </rss>
+          EOF
 
       - name: Publish
         run: |
