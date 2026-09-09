@@ -16,36 +16,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
-      - name: Create sports RSS feed
+      - name: Publish Sports RSS
         run: |
-          cat > index.html <<'EOF'
-          <?xml version="1.0" encoding="UTF-8"?>
-          <rss version="2.0">
-            <channel>
-              <title>Live and Upcoming Sports</title>
-              <description>Sports events with date and time</description>
-              <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-
-              <item>
-                <title>09/09/2026 • 7:00 PM — Test Sports Event</title>
-                <description>09/09/2026 at 7:00 PM</description>
-                <pubDate>Wed, 09 Sep 2026 19:00:00 -0400</pubDate>
-                <guid>test-event-2026-09-09-1900</guid>
-              </item>
-
-            </channel>
-          </rss>
-          EOF
+          cp Sports.xml index.html
 
       - name: Commit and push RSS feed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add index.html
-          git diff --cached --quiet || git commit -m "Update sports RSS feed"
+          git diff --cached --quiet || git commit -m "Publish sports RSS feed"
           git push
