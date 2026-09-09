@@ -16,7 +16,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Build 7-day sports RSS
+      - name: Build sports RSS
         run: |
           python3 - <<'PY'
           import json
@@ -25,22 +25,25 @@ jobs:
           from xml.sax.saxutils import escape
 
           leagues = [
-              ("football", "nfl"),
-              ("football", "college-football"),
-              ("basketball", "nba"),
-              ("basketball", "mens-college-basketball"),
-              ("basketball", "wnba"),
-              ("baseball", "mlb"),
-              ("hockey", "nhl"),
-              ("soccer", "usa.1"),
+              ("NFL", "football", "nfl"),
+              ("College Football", "football", "college-football"),
+              ("NBA", "basketball", "nba"),
+              ("College Basketball", "basketball", "mens-college-basketball"),
+              ("WNBA", "basketball", "wnba"),
+              ("MLB", "baseball", "mlb"),
+              ("NHL", "hockey", "nhl"),
+              ("MLS", "soccer", "usa.1"),
           ]
 
           events = {}
 
           for days_ahead in range(8):
-              day = (datetime.now(timezone.utc) + timedelta(days=days_ahead)).strftime("%Y%m%d")
+              day = (
+                  datetime.now(timezone.utc)
+                  + timedelta(days=days_ahead)
+              ).strftime("%Y%m%d")
 
-              for sport, league in leagues:
+              for sport_name, sport, league in leagues:
                   url = (
                       f"https://site.api.espn.com/apis/site/v2/sports/"
                       f"{sport}/{league}/scoreboard?dates={day}"
@@ -53,23 +56,23 @@ jobs:
                       for event in data.get("events", []):
                           event_id = str(event.get("id", ""))
 
-                          if not event_id:
-                              continue
-
-                          events[event_id] = event
+                          if event_id:
+                              event["_sport"] = sport_name
+                              events[event_id] = event
 
                   except Exception as e:
-                      print(f"Skipping {sport}/{league} {day}: {e}")
+                      print(f"Skipped {sport_name} {day}: {e}")
 
-          rss_items = []
+          items = []
 
           for event in sorted(
               events.values(),
-              key=lambda e: e.get("date", "")
+              key=lambda x: x.get("date", "")
           ):
               event_id = str(event.get("id", ""))
+              sport = event.get("_sport", "Sports")
+
               name = event.get("name", "Sports Event")
-              date = event.get("date", "")
 
               status = (
                   event.get("status", {})
@@ -77,10 +80,53 @@ jobs:
                   .get("description", "Scheduled")
               )
 
-              rss_items.append(f"""
+              competitors = []
+
+              for comp in event.get("competitions", []):
+                  for team in comp.get("competitors", []):
+                      team_name = (
+                          team.get("team", {}).get("displayName")
+                          or team.get("team", {}).get("shortDisplayName")
+                          or team.get("team", {}).get("name")
+                      )
+
+                      if team_name:
+                          home_away = team.get("homeAway", "")
+                          competitors.append(
+                              f"{team_name} ({home_away})"
+                          )
+
+                  venue = (
+                      comp.get("venue", {})
+                      .get("fullName", "")
+                  )
+
+                  break
+
+              teams = " vs ".join(competitors)
+
+              if teams:
+                  title = f"{sport}: {teams}"
+              else:
+                  title = f"{sport}: {name}"
+
+              description_parts = [
+                  f"Sport: {sport}",
+                  f"Event: {name}",
+                  f"Status: {status}"
+              ]
+
+              if venue:
+                  description_parts.append(f"Venue: {venue}")
+
+              description = " | ".join(description_parts)
+
+              date = event.get("date", "")
+
+              items.append(f"""
               <item>
-                <title>{escape(name)}</title>
-                <description>{escape(status)}</description>
+                <title>{escape(title)}</title>
+                <description>{escape(description)}</description>
                 <pubDate>{escape(date)}</pubDate>
                 <guid isPermaLink="false">{escape(event_id)}</guid>
               </item>""")
@@ -92,11 +138,11 @@ jobs:
           rss = f"""<?xml version="1.0" encoding="UTF-8"?>
           <rss version="2.0">
             <channel>
-              <title>Live and Upcoming Sports</title>
+              <title>Live &amp; Upcoming Sports</title>
               <description>Live and upcoming sports events</description>
               <link>https://flkracker03-tech.github.io/Sports-rss/</link>
               <lastBuildDate>{now}</lastBuildDate>
-              {''.join(rss_items)}
+              {''.join(items)}
             </channel>
           </rss>
           """
