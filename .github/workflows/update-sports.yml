@@ -22,6 +22,7 @@ jobs:
           import json
           import urllib.request
           from datetime import datetime, timedelta, timezone
+          from zoneinfo import ZoneInfo
           from xml.sax.saxutils import escape
 
           leagues = [
@@ -35,8 +36,10 @@ jobs:
               ("MLS", "soccer", "usa.1"),
           ]
 
+          eastern = ZoneInfo("America/New_York")
           events = {}
 
+          # Today + the next 7 days
           for days_ahead in range(8):
               day = (
                   datetime.now(timezone.utc)
@@ -71,8 +74,26 @@ jobs:
           ):
               event_id = str(event.get("id", ""))
               sport = event.get("_sport", "Sports")
-
               name = event.get("name", "Sports Event")
+
+              # Convert ESPN UTC event time to Eastern Time
+              raw_date = event.get("date", "")
+
+              try:
+                  dt = datetime.fromisoformat(
+                      raw_date.replace("Z", "+00:00")
+                  ).astimezone(eastern)
+
+                  date_text = dt.strftime("%A, %B %-d, %Y")
+                  time_text = dt.strftime("%-I:%M %p ET")
+                  rss_date = dt.strftime(
+                      "%a, %d %b %Y %H:%M:%S %z"
+                  )
+
+              except Exception:
+                  date_text = "Date unavailable"
+                  time_text = "Time unavailable"
+                  rss_date = raw_date
 
               status = (
                   event.get("status", {})
@@ -82,8 +103,8 @@ jobs:
 
               competitors = []
 
-              for comp in event.get("competitions", []):
-                  for team in comp.get("competitors", []):
+              for competition in event.get("competitions", []):
+                  for team in competition.get("competitors", []):
                       team_name = (
                           team.get("team", {}).get("displayName")
                           or team.get("team", {}).get("shortDisplayName")
@@ -91,29 +112,31 @@ jobs:
                       )
 
                       if team_name:
-                          home_away = team.get("homeAway", "")
-                          competitors.append(
-                              f"{team_name} ({home_away})"
-                          )
+                          competitors.append(team_name)
 
                   venue = (
-                      comp.get("venue", {})
+                      competition.get("venue", {})
                       .get("fullName", "")
                   )
 
                   break
 
-              teams = " vs ".join(competitors)
-
-              if teams:
-                  title = f"{sport}: {teams}"
+              if len(competitors) >= 2:
+                  matchup = f"{competitors[0]} vs {competitors[1]}"
               else:
-                  title = f"{sport}: {name}"
+                  matchup = name
+
+              title = (
+                  f"{sport} - {matchup} - "
+                  f"{date_text} - {time_text}"
+              )
 
               description_parts = [
+                  f"Date: {date_text}",
+                  f"Time: {time_text}",
+                  f"Status: {status}",
                   f"Sport: {sport}",
-                  f"Event: {name}",
-                  f"Status: {status}"
+                  f"Event: {name}"
               ]
 
               if venue:
@@ -121,25 +144,23 @@ jobs:
 
               description = " | ".join(description_parts)
 
-              date = event.get("date", "")
-
               items.append(f"""
               <item>
                 <title>{escape(title)}</title>
                 <description>{escape(description)}</description>
-                <pubDate>{escape(date)}</pubDate>
+                <pubDate>{escape(rss_date)}</pubDate>
                 <guid isPermaLink="false">{escape(event_id)}</guid>
               </item>""")
 
-          now = datetime.now(timezone.utc).strftime(
-              "%a, %d %b %Y %H:%M:%S GMT"
+          now = datetime.now(eastern).strftime(
+              "%a, %d %b %Y %H:%M:%S %z"
           )
 
           rss = f"""<?xml version="1.0" encoding="UTF-8"?>
           <rss version="2.0">
             <channel>
               <title>Live &amp; Upcoming Sports</title>
-              <description>Live and upcoming sports events</description>
+              <description>Live and upcoming sports events with Eastern Time</description>
               <link>https://flkracker03-tech.github.io/Sports-rss/</link>
               <lastBuildDate>{now}</lastBuildDate>
               {''.join(items)}
@@ -158,5 +179,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add sports.xml
-          git diff --cached --quiet || git commit -m "Update sports RSS"
+          git diff --cached --quiet || git commit -m "Add sports dates and times"
           git push
