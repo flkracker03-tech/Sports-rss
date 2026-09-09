@@ -3,7 +3,7 @@ name: Update Sports RSS
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/15 * * * *"
 
 permissions:
   contents: write
@@ -16,192 +16,27 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Node
-        uses: actions/setup-node@v5
-        with:
-          node-version: 24
-
-      - name: Generate Live Sports RSS
+      - name: Create RSS feed
         run: |
-          cat > generate-rss.js <<'NODE'
-          const fs = require("fs");
-
-          const leagues = [
-            ["NFL", "football", "nfl"],
-            ["College Football", "football", "college-football"],
-            ["NBA", "basketball", "nba"],
-            ["College Basketball", "basketball", "mens-college-basketball"],
-            ["WNBA", "basketball", "wnba"],
-            ["MLB", "baseball", "mlb"],
-            ["NHL", "hockey", "nhl"],
-            ["Premier League", "soccer", "eng.1"],
-            ["MLS", "soccer", "usa.1"],
-            ["La Liga", "soccer", "esp.1"],
-            ["Serie A", "soccer", "ita.1"],
-            ["Bundesliga", "soccer", "ger.1"],
-            ["Formula 1", "racing", "f1"],
-            ["ATP Tennis", "tennis", "atp"],
-            ["WTA Tennis", "tennis", "wta"]
-          ];
-
-          const now = new Date();
-          const events = [];
-
-          function escapeXml(value) {
-            return String(value ?? "")
-              .replace(/&/g, "&amp;")
-              .replace(/</g, "&lt;")
-              .replace(/>/g, "&gt;")
-              .replace(/"/g, "&quot;")
-              .replace(/'/g, "&apos;");
-          }
-
-          function dateString(date) {
-            return date.toISOString().slice(0, 10).replace(/-/g, "");
-          }
-
-          async function getEvents(leagueName, sport, league) {
-            for (let i = 0; i <= 7; i++) {
-              const date = new Date(now);
-              date.setUTCDate(date.getUTCDate() + i);
-
-              const url =
-                `https://site.api.espn.com/apis/site/v2/sports/${sport}/${league}/scoreboard?dates=${dateString(date)}`;
-
-              try {
-                const response = await fetch(url);
-
-                if (!response.ok) {
-                  console.log(`Skipping ${leagueName}: HTTP ${response.status}`);
-                  continue;
-                }
-
-                const data = await response.json();
-
-                for (const event of data.events || []) {
-                  const state = event.status?.type?.state;
-
-                  // Only live or upcoming events.
-                  if (state !== "pre" && state !== "in") continue;
-
-                  const competition = event.competitions?.[0];
-                  if (!competition) continue;
-
-                  const competitors = competition.competitors || [];
-
-                  const home = competitors.find(c => c.homeAway === "home");
-                  const away = competitors.find(c => c.homeAway === "away");
-
-                  const homeName =
-                    home?.team?.displayName ||
-                    home?.team?.shortDisplayName ||
-                    "Home";
-
-                  const awayName =
-                    away?.team?.displayName ||
-                    away?.team?.shortDisplayName ||
-                    "Away";
-
-                  const start = new Date(event.date);
-
-                  const statusText =
-                    state === "in"
-                      ? "LIVE"
-                      : new Date(start).toLocaleString("en-US", {
-                          month: "short",
-                          day: "numeric",
-                          hour: "numeric",
-                          minute: "2-digit",
-                          timeZoneName: "short"
-                        });
-
-                  const title =
-                    state === "in"
-                      ? `LIVE — ${awayName} at ${homeName}`
-                      : `${awayName} at ${homeName}`;
-
-                  const description =
-                    `${leagueName} — ${statusText}`;
-
-                  const link =
-                    event.links?.find(l => l.href)?.href ||
-                    `https://www.espn.com/${sport}/`;
-
-                  events.push({
-                    id: `${league}-${event.id}`,
-                    title,
-                    description,
-                    link,
-                    date: start
-                  });
-                }
-              } catch (error) {
-                console.log(`Error loading ${leagueName}: ${error.message}`);
-              }
-            }
-          }
-
-          (async () => {
-            for (const league of leagues) {
-              await getEvents(...league);
-            }
-
-            const unique = new Map();
-
-            for (const event of events) {
-              unique.set(event.id, event);
-            }
-
-            const sorted = [...unique.values()]
-              .sort((a, b) => a.date - b.date);
-
-            let items = "";
-
-            for (const event of sorted) {
-              items += `
-          <item>
-          <title>${escapeXml(event.title)}</title>
-          <description>${escapeXml(event.description)}</description>
-          <link>${escapeXml(event.link)}</link>
-          <guid isPermaLink="false">${escapeXml(event.id)}</guid>
-          <pubDate>${event.date.toUTCString()}</pubDate>
-          </item>`;
-            }
-
-            if (!items) {
-              items = `
-          <item>
-          <title>No live or upcoming sports events found</title>
-          <description>The sports feed is active. It will update automatically.</description>
-          <guid isPermaLink="false">sports-feed-empty</guid>
-          <pubDate>${now.toUTCString()}</pubDate>
-          </item>`;
-            }
-
-            const rss = `<?xml version="1.0" encoding="UTF-8"?>
+          cat > sports.xml <<'EOF'
+          <?xml version="1.0" encoding="UTF-8"?>
           <rss version="2.0">
-          <channel>
-          <title>Live &amp; Upcoming Sports</title>
-          <description>Live and upcoming sports events</description>
-          <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-          <language>en-us</language>
-          <lastBuildDate>${now.toUTCString()}</lastBuildDate>
-          ${items}
-          </channel>
-          </rss>`;
+            <channel>
+              <title>Live and Upcoming Sports</title>
+              <description>Live and upcoming sports events</description>
+              <link>https://flkracker03-tech.github.io/Sports-rss/</link>
+              <item>
+                <title>Sports RSS Feed</title>
+                <description>Feed is active and ready for live and upcoming events.</description>
+              </item>
+            </channel>
+          </rss>
+          EOF
 
-            fs.writeFileSync("index.html", rss.trim() + "\n");
-
-            console.log(`Generated ${sorted.length} live/upcoming events.`);
-          })();
-          NODE
-
-          node generate-rss.js
-
-      - name: Publish
+      - name: Commit RSS feed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add index.html
-          git diff --cached --quiet || git commit -m "Update live sports RSS"
+          git add sports.xml
+          git diff --cached --quiet || git commit -m "Update sports RSS feed"
           git push
