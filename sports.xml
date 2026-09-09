@@ -1,1425 +1,1425 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Live and Upcoming Sports</title>
-    <description>Live and upcoming sports events</description>
+    <title>Live &amp; Upcoming Sports</title>
+    <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Wed, 09 Sep 2026 15:43:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:56:03 -0400</lastBuildDate>
     
     <item>
-      <title>Minnesota Twins at Detroit Tigers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-09T17:10Z</pubDate>
+      <title>MLB - Detroit Tigers vs Minnesota Twins - Wednesday, September 9, 2026 - 1:10 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 1:10 PM ET | Status: Scheduled | Sport: MLB | Event: Minnesota Twins at Detroit Tigers | Venue: Comerica Park</description>
+      <pubDate>Wed, 09 Sep 2026 13:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816872</guid>
     </item>
     <item>
-      <title>Toronto Blue Jays at Athletics Athletics</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-09T19:05Z</pubDate>
+      <title>MLB - Athletics vs Toronto Blue Jays - Wednesday, September 9, 2026 - 3:05 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 3:05 PM ET | Status: Scheduled | Sport: MLB | Event: Toronto Blue Jays at Athletics Athletics | Venue: Sutter Health Park</description>
+      <pubDate>Wed, 09 Sep 2026 15:05:00 -0400</pubDate>
       <guid isPermaLink="false">401816881</guid>
     </item>
     <item>
-      <title>St. Louis Cardinals at San Francisco Giants</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-09T19:45Z</pubDate>
+      <title>MLB - San Francisco Giants vs St. Louis Cardinals - Wednesday, September 9, 2026 - 3:45 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 3:45 PM ET | Status: Scheduled | Sport: MLB | Event: St. Louis Cardinals at San Francisco Giants | Venue: Oracle Park</description>
+      <pubDate>Wed, 09 Sep 2026 15:45:00 -0400</pubDate>
       <guid isPermaLink="false">401816879</guid>
     </item>
     <item>
-      <title>Texas Rangers at Seattle Mariners</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-09T20:10Z</pubDate>
+      <title>MLB - Seattle Mariners vs Texas Rangers - Wednesday, September 9, 2026 - 4:10 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 4:10 PM ET | Status: Scheduled | Sport: MLB | Event: Texas Rangers at Seattle Mariners | Venue: T-Mobile Park</description>
+      <pubDate>Wed, 09 Sep 2026 16:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816880</guid>
     </item>
     <item>
-      <title>Washington Nationals at San Diego Padres</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-09T20:10Z</pubDate>
+      <title>MLB - San Diego Padres vs Washington Nationals - Wednesday, September 9, 2026 - 4:10 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 4:10 PM ET | Status: Scheduled | Sport: MLB | Event: Washington Nationals at San Diego Padres | Venue: Petco Park</description>
+      <pubDate>Wed, 09 Sep 2026 16:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816882</guid>
     </item>
     <item>
-      <title>Cleveland Guardians at Baltimore Orioles</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-09T22:35Z</pubDate>
+      <title>MLB - Baltimore Orioles vs Cleveland Guardians - Wednesday, September 9, 2026 - 6:35 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 6:35 PM ET | Status: Scheduled | Sport: MLB | Event: Cleveland Guardians at Baltimore Orioles | Venue: Oriole Park at Camden Yards</description>
+      <pubDate>Wed, 09 Sep 2026 18:35:00 -0400</pubDate>
       <guid isPermaLink="false">401816869</guid>
     </item>
     <item>
-      <title>Houston Astros at Philadelphia Phillies</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-09T22:40Z</pubDate>
+      <title>MLB - Philadelphia Phillies vs Houston Astros - Wednesday, September 9, 2026 - 6:40 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 6:40 PM ET | Status: Scheduled | Sport: MLB | Event: Houston Astros at Philadelphia Phillies | Venue: Citizens Bank Park</description>
+      <pubDate>Wed, 09 Sep 2026 18:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816871</guid>
     </item>
     <item>
-      <title>New York Mets at Miami Marlins</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-09T22:40Z</pubDate>
+      <title>MLB - Miami Marlins vs New York Mets - Wednesday, September 9, 2026 - 6:40 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 6:40 PM ET | Status: Scheduled | Sport: MLB | Event: New York Mets at Miami Marlins | Venue: loanDepot park</description>
+      <pubDate>Wed, 09 Sep 2026 18:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816873</guid>
     </item>
     <item>
-      <title>Los Angeles Angels at Boston Red Sox</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-09T22:45Z</pubDate>
+      <title>MLB - Boston Red Sox vs Los Angeles Angels - Wednesday, September 9, 2026 - 6:45 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 6:45 PM ET | Status: Scheduled | Sport: MLB | Event: Los Angeles Angels at Boston Red Sox | Venue: Fenway Park</description>
+      <pubDate>Wed, 09 Sep 2026 18:45:00 -0400</pubDate>
       <guid isPermaLink="false">401816868</guid>
     </item>
     <item>
-      <title>Colorado Rockies at New York Yankees</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-09T23:05Z</pubDate>
+      <title>MLB - New York Yankees vs Colorado Rockies - Wednesday, September 9, 2026 - 7:05 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 7:05 PM ET | Status: Scheduled | Sport: MLB | Event: Colorado Rockies at New York Yankees | Venue: Yankee Stadium</description>
+      <pubDate>Wed, 09 Sep 2026 19:05:00 -0400</pubDate>
       <guid isPermaLink="false">401816870</guid>
     </item>
     <item>
-      <title>Tampa Bay Rays at Atlanta Braves</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-09T23:15Z</pubDate>
+      <title>MLB - Atlanta Braves vs Tampa Bay Rays - Wednesday, September 9, 2026 - 7:15 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 7:15 PM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at Atlanta Braves | Venue: Truist Park</description>
+      <pubDate>Wed, 09 Sep 2026 19:15:00 -0400</pubDate>
       <guid isPermaLink="false">401816874</guid>
     </item>
     <item>
-      <title>Orlando City SC at Atlanta United FC</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-09T23:30Z</pubDate>
+      <title>MLS - Atlanta United FC vs Orlando City SC - Wednesday, September 9, 2026 - 7:30 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: MLS | Event: Orlando City SC at Atlanta United FC | Venue: Mercedes-Benz Stadium</description>
+      <pubDate>Wed, 09 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">761787</guid>
     </item>
     <item>
-      <title>Charlotte FC at CF Montréal</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-09T23:30Z</pubDate>
+      <title>MLS - CF Montréal vs Charlotte FC - Wednesday, September 9, 2026 - 7:30 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: MLS | Event: Charlotte FC at CF Montréal | Venue: Stade Saputo</description>
+      <pubDate>Wed, 09 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">761785</guid>
     </item>
     <item>
-      <title>Columbus Crew at D.C. United</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-09T23:30Z</pubDate>
+      <title>MLS - D.C. United vs Columbus Crew - Wednesday, September 9, 2026 - 7:30 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: MLS | Event: Columbus Crew at D.C. United | Venue: Audi Field</description>
+      <pubDate>Wed, 09 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">761789</guid>
     </item>
     <item>
-      <title>Nashville SC at Toronto FC</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-09T23:30Z</pubDate>
+      <title>MLS - Toronto FC vs Nashville SC - Wednesday, September 9, 2026 - 7:30 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: MLS | Event: Nashville SC at Toronto FC | Venue: BMO Field</description>
+      <pubDate>Wed, 09 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">761790</guid>
     </item>
     <item>
-      <title>Arizona Diamondbacks at Kansas City Royals</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-09T23:40Z</pubDate>
+      <title>MLB - Kansas City Royals vs Arizona Diamondbacks - Wednesday, September 9, 2026 - 7:40 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 7:40 PM ET | Status: Scheduled | Sport: MLB | Event: Arizona Diamondbacks at Kansas City Royals | Venue: Kauffman Stadium</description>
+      <pubDate>Wed, 09 Sep 2026 19:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816875</guid>
     </item>
     <item>
-      <title>Chicago Cubs at Milwaukee Brewers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-09T23:40Z</pubDate>
+      <title>MLB - Milwaukee Brewers vs Chicago Cubs - Wednesday, September 9, 2026 - 7:40 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 7:40 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago Cubs at Milwaukee Brewers | Venue: American Family Field</description>
+      <pubDate>Wed, 09 Sep 2026 19:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816876</guid>
     </item>
     <item>
-      <title>Pittsburgh Pirates at Chicago White Sox</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-09T23:40Z</pubDate>
+      <title>MLB - Chicago White Sox vs Pittsburgh Pirates - Wednesday, September 9, 2026 - 7:40 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 7:40 PM ET | Status: Scheduled | Sport: MLB | Event: Pittsburgh Pirates at Chicago White Sox | Venue: Rate Field</description>
+      <pubDate>Wed, 09 Sep 2026 19:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816877</guid>
     </item>
     <item>
-      <title>FC Cincinnati at Philadelphia Union</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-09T23:45Z</pubDate>
+      <title>MLS - Philadelphia Union vs FC Cincinnati - Wednesday, September 9, 2026 - 7:45 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 7:45 PM ET | Status: Scheduled | Sport: MLS | Event: FC Cincinnati at Philadelphia Union | Venue: Subaru Park</description>
+      <pubDate>Wed, 09 Sep 2026 19:45:00 -0400</pubDate>
       <guid isPermaLink="false">761786</guid>
     </item>
     <item>
-      <title>New England Revolution at New York City FC</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-10T00:00Z</pubDate>
+      <title>MLS - New York City FC vs New England Revolution - Wednesday, September 9, 2026 - 8:00 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLS | Event: New England Revolution at New York City FC | Venue: Citi Field</description>
+      <pubDate>Wed, 09 Sep 2026 20:00:00 -0400</pubDate>
       <guid isPermaLink="false">761788</guid>
     </item>
     <item>
-      <title>New England Patriots at Seattle Seahawks</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-10T00:20Z</pubDate>
+      <title>NFL - Seattle Seahawks vs New England Patriots - Wednesday, September 9, 2026 - 8:20 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 8:20 PM ET | Status: Scheduled | Sport: NFL | Event: New England Patriots at Seattle Seahawks | Venue: Lumen Field</description>
+      <pubDate>Wed, 09 Sep 2026 20:20:00 -0400</pubDate>
       <guid isPermaLink="false">401872656</guid>
     </item>
     <item>
-      <title>Colorado Rapids at Austin FC</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-10T00:30Z</pubDate>
+      <title>MLS - Austin FC vs Colorado Rapids - Wednesday, September 9, 2026 - 8:30 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 8:30 PM ET | Status: Scheduled | Sport: MLS | Event: Colorado Rapids at Austin FC | Venue: Q2 Stadium</description>
+      <pubDate>Wed, 09 Sep 2026 20:30:00 -0400</pubDate>
       <guid isPermaLink="false">761794</guid>
     </item>
     <item>
-      <title>Inter Miami CF at Chicago Fire FC</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-10T00:30Z</pubDate>
+      <title>MLS - Chicago Fire FC vs Inter Miami CF - Wednesday, September 9, 2026 - 8:30 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 8:30 PM ET | Status: Scheduled | Sport: MLS | Event: Inter Miami CF at Chicago Fire FC | Venue: Soldier Field</description>
+      <pubDate>Wed, 09 Sep 2026 20:30:00 -0400</pubDate>
       <guid isPermaLink="false">761792</guid>
     </item>
     <item>
-      <title>Real Salt Lake at Houston Dynamo FC</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-10T00:30Z</pubDate>
+      <title>MLS - Houston Dynamo FC vs Real Salt Lake - Wednesday, September 9, 2026 - 8:30 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 8:30 PM ET | Status: Scheduled | Sport: MLS | Event: Real Salt Lake at Houston Dynamo FC | Venue: Shell Energy Stadium</description>
+      <pubDate>Wed, 09 Sep 2026 20:30:00 -0400</pubDate>
       <guid isPermaLink="false">761791</guid>
     </item>
     <item>
-      <title>FC Dallas at Minnesota United FC</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-10T00:30Z</pubDate>
+      <title>MLS - Minnesota United FC vs FC Dallas - Wednesday, September 9, 2026 - 8:30 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 8:30 PM ET | Status: Scheduled | Sport: MLS | Event: FC Dallas at Minnesota United FC | Venue: Allianz Field</description>
+      <pubDate>Wed, 09 Sep 2026 20:30:00 -0400</pubDate>
       <guid isPermaLink="false">761793</guid>
     </item>
     <item>
-      <title>Cincinnati Reds at Los Angeles Dodgers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-10T02:10Z</pubDate>
+      <title>MLB - Los Angeles Dodgers vs Cincinnati Reds - Wednesday, September 9, 2026 - 10:10 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 10:10 PM ET | Status: Scheduled | Sport: MLB | Event: Cincinnati Reds at Los Angeles Dodgers | Venue: Dodger Stadium</description>
+      <pubDate>Wed, 09 Sep 2026 22:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816878</guid>
     </item>
     <item>
-      <title>Red Bull New York at LAFC</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-10T02:30Z</pubDate>
+      <title>MLS - LAFC vs Red Bull New York - Wednesday, September 9, 2026 - 10:30 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 10:30 PM ET | Status: Scheduled | Sport: MLS | Event: Red Bull New York at LAFC | Venue: BMO Stadium</description>
+      <pubDate>Wed, 09 Sep 2026 22:30:00 -0400</pubDate>
       <guid isPermaLink="false">761795</guid>
     </item>
     <item>
-      <title>St. Louis CITY SC at Portland Timbers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-10T02:30Z</pubDate>
+      <title>MLS - Portland Timbers vs St. Louis CITY SC - Wednesday, September 9, 2026 - 10:30 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 10:30 PM ET | Status: Scheduled | Sport: MLS | Event: St. Louis CITY SC at Portland Timbers | Venue: Providence Park</description>
+      <pubDate>Wed, 09 Sep 2026 22:30:00 -0400</pubDate>
       <guid isPermaLink="false">761796</guid>
     </item>
     <item>
-      <title>San Jose Earthquakes at San Diego FC</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-10T02:30Z</pubDate>
+      <title>MLS - San Diego FC vs San Jose Earthquakes - Wednesday, September 9, 2026 - 10:30 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 10:30 PM ET | Status: Scheduled | Sport: MLS | Event: San Jose Earthquakes at San Diego FC | Venue: Snapdragon Stadium</description>
+      <pubDate>Wed, 09 Sep 2026 22:30:00 -0400</pubDate>
       <guid isPermaLink="false">761797</guid>
     </item>
     <item>
-      <title>LA Galaxy at Vancouver Whitecaps</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-10T02:30Z</pubDate>
+      <title>MLS - Vancouver Whitecaps vs LA Galaxy - Wednesday, September 9, 2026 - 10:30 PM ET</title>
+      <description>Date: Wednesday, September 9, 2026 | Time: 10:30 PM ET | Status: Scheduled | Sport: MLS | Event: LA Galaxy at Vancouver Whitecaps | Venue: BC Place</description>
+      <pubDate>Wed, 09 Sep 2026 22:30:00 -0400</pubDate>
       <guid isPermaLink="false">761799</guid>
     </item>
     <item>
-      <title>Tampa Bay Rays at Atlanta Braves</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-10T16:15Z</pubDate>
+      <title>MLB - Atlanta Braves vs Tampa Bay Rays - Thursday, September 10, 2026 - 12:15 PM ET</title>
+      <description>Date: Thursday, September 10, 2026 | Time: 12:15 PM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at Atlanta Braves | Venue: Truist Park</description>
+      <pubDate>Thu, 10 Sep 2026 12:15:00 -0400</pubDate>
       <guid isPermaLink="false">401816885</guid>
     </item>
     <item>
-      <title>Houston Astros at Philadelphia Phillies</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-10T17:05Z</pubDate>
+      <title>MLB - Philadelphia Phillies vs Houston Astros - Thursday, September 10, 2026 - 1:05 PM ET</title>
+      <description>Date: Thursday, September 10, 2026 | Time: 1:05 PM ET | Status: Scheduled | Sport: MLB | Event: Houston Astros at Philadelphia Phillies | Venue: Citizens Bank Park</description>
+      <pubDate>Thu, 10 Sep 2026 13:05:00 -0400</pubDate>
       <guid isPermaLink="false">401816884</guid>
     </item>
     <item>
-      <title>Texas Rangers at Seattle Mariners</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-10T20:10Z</pubDate>
+      <title>MLB - Seattle Mariners vs Texas Rangers - Thursday, September 10, 2026 - 4:10 PM ET</title>
+      <description>Date: Thursday, September 10, 2026 | Time: 4:10 PM ET | Status: Scheduled | Sport: MLB | Event: Texas Rangers at Seattle Mariners | Venue: T-Mobile Park</description>
+      <pubDate>Thu, 10 Sep 2026 16:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816887</guid>
     </item>
     <item>
-      <title>Colorado Rockies at New York Yankees</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-10T23:05Z</pubDate>
+      <title>MLB - New York Yankees vs Colorado Rockies - Thursday, September 10, 2026 - 7:05 PM ET</title>
+      <description>Date: Thursday, September 10, 2026 | Time: 7:05 PM ET | Status: Scheduled | Sport: MLB | Event: Colorado Rockies at New York Yankees | Venue: Yankee Stadium</description>
+      <pubDate>Thu, 10 Sep 2026 19:05:00 -0400</pubDate>
       <guid isPermaLink="false">401816883</guid>
     </item>
     <item>
-      <title>Pittsburgh Pirates at Chicago White Sox</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-10T23:40Z</pubDate>
+      <title>MLB - Chicago White Sox vs Pittsburgh Pirates - Thursday, September 10, 2026 - 7:40 PM ET</title>
+      <description>Date: Thursday, September 10, 2026 | Time: 7:40 PM ET | Status: Scheduled | Sport: MLB | Event: Pittsburgh Pirates at Chicago White Sox | Venue: Rate Field</description>
+      <pubDate>Thu, 10 Sep 2026 19:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816886</guid>
     </item>
     <item>
-      <title>Florida A&amp;M Rattlers at Miami Hurricanes</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-11T00:00Z</pubDate>
+      <title>College Football - Miami Hurricanes vs Florida A&amp;M Rattlers - Thursday, September 10, 2026 - 8:00 PM ET</title>
+      <description>Date: Thursday, September 10, 2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: College Football | Event: Florida A&amp;M Rattlers at Miami Hurricanes | Venue: Hard Rock Stadium</description>
+      <pubDate>Thu, 10 Sep 2026 20:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858213</guid>
     </item>
     <item>
-      <title>San Francisco 49ers at Los Angeles Rams</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-11T00:35Z</pubDate>
+      <title>NFL - Los Angeles Rams vs San Francisco 49ers - Thursday, September 10, 2026 - 8:35 PM ET</title>
+      <description>Date: Thursday, September 10, 2026 | Time: 8:35 PM ET | Status: Scheduled | Sport: NFL | Event: San Francisco 49ers at Los Angeles Rams | Venue: Melbourne Cricket Ground</description>
+      <pubDate>Thu, 10 Sep 2026 20:35:00 -0400</pubDate>
       <guid isPermaLink="false">401872657</guid>
     </item>
     <item>
-      <title>Pittsburgh Pirates at Chicago Cubs</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-11T18:20Z</pubDate>
+      <title>MLB - Chicago Cubs vs Pittsburgh Pirates - Friday, September 11, 2026 - 2:20 PM ET</title>
+      <description>Date: Friday, September 11, 2026 | Time: 2:20 PM ET | Status: Scheduled | Sport: MLB | Event: Pittsburgh Pirates at Chicago Cubs | Venue: Wrigley Field</description>
+      <pubDate>Fri, 11 Sep 2026 14:20:00 -0400</pubDate>
       <guid isPermaLink="false">401816899</guid>
     </item>
     <item>
-      <title>Colorado Rockies at Detroit Tigers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-11T22:40Z</pubDate>
+      <title>MLB - Detroit Tigers vs Colorado Rockies - Friday, September 11, 2026 - 6:40 PM ET</title>
+      <description>Date: Friday, September 11, 2026 | Time: 6:40 PM ET | Status: Scheduled | Sport: MLB | Event: Colorado Rockies at Detroit Tigers | Venue: Comerica Park</description>
+      <pubDate>Fri, 11 Sep 2026 18:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816890</guid>
     </item>
     <item>
-      <title>Los Angeles Angels at Washington Nationals</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-11T22:45Z</pubDate>
+      <title>MLB - Washington Nationals vs Los Angeles Angels - Friday, September 11, 2026 - 6:45 PM ET</title>
+      <description>Date: Friday, September 11, 2026 | Time: 6:45 PM ET | Status: Scheduled | Sport: MLB | Event: Los Angeles Angels at Washington Nationals | Venue: Nationals Park</description>
+      <pubDate>Fri, 11 Sep 2026 18:45:00 -0400</pubDate>
       <guid isPermaLink="false">401816888</guid>
     </item>
     <item>
-      <title>Villanova Wildcats at Louisville Cardinals</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-11T23:00Z</pubDate>
+      <title>College Football - Louisville Cardinals vs Villanova Wildcats - Friday, September 11, 2026 - 7:00 PM ET</title>
+      <description>Date: Friday, September 11, 2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Villanova Wildcats at Louisville Cardinals | Venue: L&amp;N Federal Credit Union Stadium</description>
+      <pubDate>Fri, 11 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858215</guid>
     </item>
     <item>
-      <title>Norfolk State Spartans at Virginia Cavaliers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-11T23:00Z</pubDate>
+      <title>College Football - Virginia Cavaliers vs Norfolk State Spartans - Friday, September 11, 2026 - 7:00 PM ET</title>
+      <description>Date: Friday, September 11, 2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Norfolk State Spartans at Virginia Cavaliers | Venue: Scott Stadium</description>
+      <pubDate>Fri, 11 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858220</guid>
     </item>
     <item>
-      <title>Richmond Spiders at NC State Wolfpack</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-11T23:00Z</pubDate>
+      <title>College Football - NC State Wolfpack vs Richmond Spiders - Friday, September 11, 2026 - 7:00 PM ET</title>
+      <description>Date: Friday, September 11, 2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Richmond Spiders at NC State Wolfpack | Venue: Carter-Finley Stadium</description>
+      <pubDate>Fri, 11 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858222</guid>
     </item>
     <item>
-      <title>New York Mets at New York Yankees</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-11T23:05Z</pubDate>
+      <title>MLB - New York Yankees vs New York Mets - Friday, September 11, 2026 - 7:05 PM ET</title>
+      <description>Date: Friday, September 11, 2026 | Time: 7:05 PM ET | Status: Scheduled | Sport: MLB | Event: New York Mets at New York Yankees | Venue: Yankee Stadium</description>
+      <pubDate>Fri, 11 Sep 2026 19:05:00 -0400</pubDate>
       <guid isPermaLink="false">401816894</guid>
     </item>
     <item>
-      <title>Baltimore Orioles at Toronto Blue Jays</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-11T23:07Z</pubDate>
+      <title>MLB - Toronto Blue Jays vs Baltimore Orioles - Friday, September 11, 2026 - 7:07 PM ET</title>
+      <description>Date: Friday, September 11, 2026 | Time: 7:07 PM ET | Status: Scheduled | Sport: MLB | Event: Baltimore Orioles at Toronto Blue Jays | Venue: Rogers Centre</description>
+      <pubDate>Fri, 11 Sep 2026 19:07:00 -0400</pubDate>
       <guid isPermaLink="false">401816889</guid>
     </item>
     <item>
-      <title>Houston Astros at Tampa Bay Rays</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-11T23:10Z</pubDate>
+      <title>MLB - Tampa Bay Rays vs Houston Astros - Friday, September 11, 2026 - 7:10 PM ET</title>
+      <description>Date: Friday, September 11, 2026 | Time: 7:10 PM ET | Status: Scheduled | Sport: MLB | Event: Houston Astros at Tampa Bay Rays | Venue: Tropicana Field</description>
+      <pubDate>Fri, 11 Sep 2026 19:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816891</guid>
     </item>
     <item>
-      <title>Kansas City Royals at Boston Red Sox</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-11T23:10Z</pubDate>
+      <title>MLB - Boston Red Sox vs Kansas City Royals - Friday, September 11, 2026 - 7:10 PM ET</title>
+      <description>Date: Friday, September 11, 2026 | Time: 7:10 PM ET | Status: Scheduled | Sport: MLB | Event: Kansas City Royals at Boston Red Sox | Venue: Fenway Park</description>
+      <pubDate>Fri, 11 Sep 2026 19:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816892</guid>
     </item>
     <item>
-      <title>Los Angeles Dodgers at Miami Marlins</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-11T23:10Z</pubDate>
+      <title>MLB - Miami Marlins vs Los Angeles Dodgers - Friday, September 11, 2026 - 7:10 PM ET</title>
+      <description>Date: Friday, September 11, 2026 | Time: 7:10 PM ET | Status: Scheduled | Sport: MLB | Event: Los Angeles Dodgers at Miami Marlins | Venue: loanDepot park</description>
+      <pubDate>Fri, 11 Sep 2026 19:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816893</guid>
     </item>
     <item>
-      <title>Philadelphia Phillies at Atlanta Braves</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-11T23:15Z</pubDate>
+      <title>MLB - Atlanta Braves vs Philadelphia Phillies - Friday, September 11, 2026 - 7:15 PM ET</title>
+      <description>Date: Friday, September 11, 2026 | Time: 7:15 PM ET | Status: Scheduled | Sport: MLB | Event: Philadelphia Phillies at Atlanta Braves | Venue: Truist Park</description>
+      <pubDate>Fri, 11 Sep 2026 19:15:00 -0400</pubDate>
       <guid isPermaLink="false">401816895</guid>
     </item>
     <item>
-      <title>Rutgers Scarlet Knights at Boston College Eagles</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-11T23:30Z</pubDate>
+      <title>College Football - Boston College Eagles vs Rutgers Scarlet Knights - Friday, September 11, 2026 - 7:30 PM ET</title>
+      <description>Date: Friday, September 11, 2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Rutgers Scarlet Knights at Boston College Eagles | Venue: Alumni Stadium (Chestnut Hill, MA)</description>
+      <pubDate>Fri, 11 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858214</guid>
     </item>
     <item>
-      <title>Cincinnati Reds at Milwaukee Brewers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-11T23:40Z</pubDate>
+      <title>MLB - Milwaukee Brewers vs Cincinnati Reds - Friday, September 11, 2026 - 7:40 PM ET</title>
+      <description>Date: Friday, September 11, 2026 | Time: 7:40 PM ET | Status: Scheduled | Sport: MLB | Event: Cincinnati Reds at Milwaukee Brewers | Venue: American Family Field</description>
+      <pubDate>Fri, 11 Sep 2026 19:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816897</guid>
     </item>
     <item>
-      <title>Missouri Tigers at Kansas Jayhawks</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T00:00Z</pubDate>
+      <title>College Football - Kansas Jayhawks vs Missouri Tigers - Friday, September 11, 2026 - 8:00 PM ET</title>
+      <description>Date: Friday, September 11, 2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: College Football | Event: Missouri Tigers at Kansas Jayhawks | Venue: David Booth Kansas Memorial Stadium</description>
+      <pubDate>Fri, 11 Sep 2026 20:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856678</guid>
     </item>
     <item>
-      <title>Cleveland Guardians at Minnesota Twins</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T00:10Z</pubDate>
+      <title>MLB - Minnesota Twins vs Cleveland Guardians - Friday, September 11, 2026 - 8:10 PM ET</title>
+      <description>Date: Friday, September 11, 2026 | Time: 8:10 PM ET | Status: Scheduled | Sport: MLB | Event: Cleveland Guardians at Minnesota Twins | Venue: Target Field</description>
+      <pubDate>Fri, 11 Sep 2026 20:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816898</guid>
     </item>
     <item>
-      <title>Chicago White Sox at St. Louis Cardinals</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T00:15Z</pubDate>
+      <title>MLB - St. Louis Cardinals vs Chicago White Sox - Friday, September 11, 2026 - 8:15 PM ET</title>
+      <description>Date: Friday, September 11, 2026 | Time: 8:15 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago White Sox at St. Louis Cardinals | Venue: Busch Stadium</description>
+      <pubDate>Fri, 11 Sep 2026 20:15:00 -0400</pubDate>
       <guid isPermaLink="false">401816896</guid>
     </item>
     <item>
-      <title>Seattle Mariners at Athletics Athletics</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T01:40Z</pubDate>
+      <title>MLB - Athletics vs Seattle Mariners - Friday, September 11, 2026 - 9:40 PM ET</title>
+      <description>Date: Friday, September 11, 2026 | Time: 9:40 PM ET | Status: Scheduled | Sport: MLB | Event: Seattle Mariners at Athletics Athletics | Venue: Sutter Health Park</description>
+      <pubDate>Fri, 11 Sep 2026 21:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816901</guid>
     </item>
     <item>
-      <title>Texas Rangers at Arizona Diamondbacks</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T01:40Z</pubDate>
+      <title>MLB - Arizona Diamondbacks vs Texas Rangers - Friday, September 11, 2026 - 9:40 PM ET</title>
+      <description>Date: Friday, September 11, 2026 | Time: 9:40 PM ET | Status: Scheduled | Sport: MLB | Event: Texas Rangers at Arizona Diamondbacks | Venue: Chase Field</description>
+      <pubDate>Fri, 11 Sep 2026 21:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816902</guid>
     </item>
     <item>
-      <title>San Diego Padres at San Francisco Giants</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T02:15Z</pubDate>
+      <title>MLB - San Francisco Giants vs San Diego Padres - Friday, September 11, 2026 - 10:15 PM ET</title>
+      <description>Date: Friday, September 11, 2026 | Time: 10:15 PM ET | Status: Scheduled | Sport: MLB | Event: San Diego Padres at San Francisco Giants | Venue: Oracle Park</description>
+      <pubDate>Fri, 11 Sep 2026 22:15:00 -0400</pubDate>
       <guid isPermaLink="false">401816900</guid>
     </item>
     <item>
-      <title>Howard Bison at Indiana Hoosiers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T16:00Z</pubDate>
+      <title>College Football - Indiana Hoosiers vs Howard Bison - Saturday, September 12, 2026 - 12:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Howard Bison at Indiana Hoosiers | Venue: Memorial Stadium (Bloomington, IN)</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858439</guid>
     </item>
     <item>
-      <title>Oregon Ducks at Oklahoma State Cowboys</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T16:00Z</pubDate>
+      <title>College Football - Oklahoma State Cowboys vs Oregon Ducks - Saturday, September 12, 2026 - 12:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Oregon Ducks at Oklahoma State Cowboys | Venue: Boone Pickens Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856782</guid>
     </item>
     <item>
-      <title>Arizona State Sun Devils at Texas A&amp;M Aggies</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T16:00Z</pubDate>
+      <title>College Football - Texas A&amp;M Aggies vs Arizona State Sun Devils - Saturday, September 12, 2026 - 12:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Arizona State Sun Devils at Texas A&amp;M Aggies | Venue: Kyle Field</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856683</guid>
     </item>
     <item>
-      <title>Oklahoma Sooners at Michigan Wolverines</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T16:00Z</pubDate>
+      <title>College Football - Michigan Wolverines vs Oklahoma Sooners - Saturday, September 12, 2026 - 12:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Oklahoma Sooners at Michigan Wolverines | Venue: Michigan Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856679</guid>
     </item>
     <item>
-      <title>Penn State Nittany Lions at Temple Owls</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T16:00Z</pubDate>
+      <title>College Football - Temple Owls vs Penn State Nittany Lions - Saturday, September 12, 2026 - 12:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Penn State Nittany Lions at Temple Owls | Venue: Lincoln Financial Field</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858442</guid>
     </item>
     <item>
-      <title>Washington State Cougars at Kansas State Wildcats</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T16:00Z</pubDate>
+      <title>College Football - Kansas State Wildcats vs Washington State Cougars - Saturday, September 12, 2026 - 12:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Washington State Cougars at Kansas State Wildcats | Venue: Bill Snyder Family Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856781</guid>
     </item>
     <item>
-      <title>East Tennessee State Buccaneers at North Carolina Tar Heels</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T16:00Z</pubDate>
+      <title>College Football - North Carolina Tar Heels vs East Tennessee State Buccaneers - Saturday, September 12, 2026 - 12:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: East Tennessee State Buccaneers at North Carolina Tar Heels | Venue: Kenan Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858218</guid>
     </item>
     <item>
-      <title>Old Dominion Monarchs at Virginia Tech Hokies</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T16:00Z</pubDate>
+      <title>College Football - Virginia Tech Hokies vs Old Dominion Monarchs - Saturday, September 12, 2026 - 12:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Old Dominion Monarchs at Virginia Tech Hokies | Venue: Lane Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858221</guid>
     </item>
     <item>
-      <title>Wake Forest Demon Deacons at Purdue Boilermakers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T16:00Z</pubDate>
+      <title>College Football - Purdue Boilermakers vs Wake Forest Demon Deacons - Saturday, September 12, 2026 - 12:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Wake Forest Demon Deacons at Purdue Boilermakers | Venue: Ross-Ade Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858224</guid>
     </item>
     <item>
-      <title>South Florida Bulls at Army Black Knights</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T16:00Z</pubDate>
+      <title>College Football - Army Black Knights vs South Florida Bulls - Saturday, September 12, 2026 - 12:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: South Florida Bulls at Army Black Knights | Venue: Michie Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401862702</guid>
     </item>
     <item>
-      <title>App State Mountaineers at East Carolina Pirates</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T16:00Z</pubDate>
+      <title>College Football - East Carolina Pirates vs App State Mountaineers - Saturday, September 12, 2026 - 12:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: App State Mountaineers at East Carolina Pirates | Venue: Dowdy-Ficklen Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401864571</guid>
     </item>
     <item>
-      <title>Wofford Terriers at Kent State Golden Flashes</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T16:00Z</pubDate>
+      <title>College Football - Kent State Golden Flashes vs Wofford Terriers - Saturday, September 12, 2026 - 12:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Wofford Terriers at Kent State Golden Flashes | Venue: Zoeller Field at Dix Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401866416</guid>
     </item>
     <item>
-      <title>Western Kentucky Hilltoppers at Georgia Bulldogs</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T16:45Z</pubDate>
+      <title>College Football - Georgia Bulldogs vs Western Kentucky Hilltoppers - Saturday, September 12, 2026 - 12:45 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 12:45 PM ET | Status: Scheduled | Sport: College Football | Event: Western Kentucky Hilltoppers at Georgia Bulldogs | Venue: Sanford Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 12:45:00 -0400</pubDate>
       <guid isPermaLink="false">401856673</guid>
     </item>
     <item>
-      <title>UT Martin Skyhawks at West Virginia Mountaineers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T17:00Z</pubDate>
+      <title>College Football - West Virginia Mountaineers vs UT Martin Skyhawks - Saturday, September 12, 2026 - 1:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: College Football | Event: UT Martin Skyhawks at West Virginia Mountaineers | Venue: Milan Puskar Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856791</guid>
     </item>
     <item>
-      <title>Colgate Raiders at Central Michigan Chippewas</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T17:00Z</pubDate>
+      <title>College Football - Central Michigan Chippewas vs Colgate Raiders - Saturday, September 12, 2026 - 1:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: College Football | Event: Colgate Raiders at Central Michigan Chippewas | Venue: Kelly/Shorts Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401866415</guid>
     </item>
     <item>
-      <title>Holy Cross Crusaders at Miami (OH) RedHawks</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T17:00Z</pubDate>
+      <title>College Football - Miami (OH) RedHawks vs Holy Cross Crusaders - Saturday, September 12, 2026 - 1:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: College Football | Event: Holy Cross Crusaders at Miami (OH) RedHawks | Venue: Yager Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401866417</guid>
     </item>
     <item>
-      <title>Colorado Rockies at Detroit Tigers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T17:10Z</pubDate>
+      <title>MLB - Detroit Tigers vs Colorado Rockies - Saturday, September 12, 2026 - 1:10 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 1:10 PM ET | Status: Scheduled | Sport: MLB | Event: Colorado Rockies at Detroit Tigers | Venue: Comerica Park</description>
+      <pubDate>Sat, 12 Sep 2026 13:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816905</guid>
     </item>
     <item>
-      <title>New York Mets at New York Yankees</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T17:35Z</pubDate>
+      <title>MLB - New York Yankees vs New York Mets - Saturday, September 12, 2026 - 1:35 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 1:35 PM ET | Status: Scheduled | Sport: MLB | Event: New York Mets at New York Yankees | Venue: Yankee Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 13:35:00 -0400</pubDate>
       <guid isPermaLink="false">401816909</guid>
     </item>
     <item>
-      <title>Stony Brook Seawolves at Ball State Cardinals</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T18:00Z</pubDate>
+      <title>College Football - Ball State Cardinals vs Stony Brook Seawolves - Saturday, September 12, 2026 - 2:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 2:00 PM ET | Status: Scheduled | Sport: College Football | Event: Stony Brook Seawolves at Ball State Cardinals | Venue: Scheumann Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 14:00:00 -0400</pubDate>
       <guid isPermaLink="false">401866413</guid>
     </item>
     <item>
-      <title>Pittsburgh Pirates at Chicago Cubs</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T18:20Z</pubDate>
+      <title>MLB - Chicago Cubs vs Pittsburgh Pirates - Saturday, September 12, 2026 - 2:20 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 2:20 PM ET | Status: Scheduled | Sport: MLB | Event: Pittsburgh Pirates at Chicago Cubs | Venue: Wrigley Field</description>
+      <pubDate>Sat, 12 Sep 2026 14:20:00 -0400</pubDate>
       <guid isPermaLink="false">401816914</guid>
     </item>
     <item>
-      <title>Baltimore Orioles at Toronto Blue Jays</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T19:07Z</pubDate>
+      <title>MLB - Toronto Blue Jays vs Baltimore Orioles - Saturday, September 12, 2026 - 3:07 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 3:07 PM ET | Status: Scheduled | Sport: MLB | Event: Baltimore Orioles at Toronto Blue Jays | Venue: Rogers Centre</description>
+      <pubDate>Sat, 12 Sep 2026 15:07:00 -0400</pubDate>
       <guid isPermaLink="false">401816904</guid>
     </item>
     <item>
-      <title>Rice Owls at Notre Dame Fighting Irish</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T19:30Z</pubDate>
+      <title>College Football - Notre Dame Fighting Irish vs Rice Owls - Saturday, September 12, 2026 - 3:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Rice Owls at Notre Dame Fighting Irish | Venue: Notre Dame Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401859184</guid>
     </item>
     <item>
-      <title>Alabama Crimson Tide at Kentucky Wildcats</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T19:30Z</pubDate>
+      <title>College Football - Kentucky Wildcats vs Alabama Crimson Tide - Saturday, September 12, 2026 - 3:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Alabama Crimson Tide at Kentucky Wildcats | Venue: Kroger Field</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856674</guid>
     </item>
     <item>
-      <title>Arizona Wildcats at BYU Cougars</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T19:30Z</pubDate>
+      <title>College Football - BYU Cougars vs Arizona Wildcats - Saturday, September 12, 2026 - 3:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Arizona Wildcats at BYU Cougars | Venue: LaVell Edwards Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856810</guid>
     </item>
     <item>
-      <title>Utah State Aggies at Washington Huskies</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T19:30Z</pubDate>
+      <title>College Football - Washington Huskies vs Utah State Aggies - Saturday, September 12, 2026 - 3:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Utah State Aggies at Washington Huskies | Venue: Husky Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858446</guid>
     </item>
     <item>
-      <title>Mississippi State Bulldogs at Minnesota Golden Gophers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T19:30Z</pubDate>
+      <title>College Football - Minnesota Golden Gophers vs Mississippi State Bulldogs - Saturday, September 12, 2026 - 3:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Mississippi State Bulldogs at Minnesota Golden Gophers | Venue: Huntington Bank Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856677</guid>
     </item>
     <item>
-      <title>Weber State Wildcats at Colorado Buffaloes</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T19:30Z</pubDate>
+      <title>College Football - Colorado Buffaloes vs Weber State Wildcats - Saturday, September 12, 2026 - 3:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Weber State Wildcats at Colorado Buffaloes | Venue: Folsom Field</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856785</guid>
     </item>
     <item>
-      <title>UCF Knights at Pittsburgh Panthers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T19:30Z</pubDate>
+      <title>College Football - Pittsburgh Panthers vs UCF Knights - Saturday, September 12, 2026 - 3:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: UCF Knights at Pittsburgh Panthers | Venue: Acrisure Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856790</guid>
     </item>
     <item>
-      <title>California Golden Bears at Syracuse Orange</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T19:30Z</pubDate>
+      <title>College Football - Syracuse Orange vs California Golden Bears - Saturday, September 12, 2026 - 3:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: California Golden Bears at Syracuse Orange | Venue: JMA Wireless Dome</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858216</guid>
     </item>
     <item>
-      <title>Duke Blue Devils at Illinois Fighting Illini</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T19:30Z</pubDate>
+      <title>College Football - Illinois Fighting Illini vs Duke Blue Devils - Saturday, September 12, 2026 - 3:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Duke Blue Devils at Illinois Fighting Illini | Venue: Gies Memorial Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858217</guid>
     </item>
     <item>
-      <title>Eastern Michigan Eagles at Michigan State Spartans</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T19:30Z</pubDate>
+      <title>College Football - Michigan State Spartans vs Eastern Michigan Eagles - Saturday, September 12, 2026 - 3:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Eastern Michigan Eagles at Michigan State Spartans | Venue: Spartan Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858440</guid>
     </item>
     <item>
-      <title>Maryland Terrapins at UConn Huskies</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T19:30Z</pubDate>
+      <title>College Football - UConn Huskies vs Maryland Terrapins - Saturday, September 12, 2026 - 3:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Maryland Terrapins at UConn Huskies | Venue: Pratt &amp; Whitney Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858444</guid>
     </item>
     <item>
-      <title>UTSA Roadrunners at Texas State Bobcats</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T19:30Z</pubDate>
+      <title>College Football - Texas State Bobcats vs UTSA Roadrunners - Saturday, September 12, 2026 - 3:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: UTSA Roadrunners at Texas State Bobcats | Venue: UFCU Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401860884</guid>
     </item>
     <item>
-      <title>UL Monroe Warhawks at UAB Blazers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T19:30Z</pubDate>
+      <title>College Football - UAB Blazers vs UL Monroe Warhawks - Saturday, September 12, 2026 - 3:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: UL Monroe Warhawks at UAB Blazers | Venue: Protective Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401862708</guid>
     </item>
     <item>
-      <title>Robert Morris Colonials at Akron Zips</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T19:30Z</pubDate>
+      <title>College Football - Akron Zips vs Robert Morris Colonials - Saturday, September 12, 2026 - 3:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Robert Morris Colonials at Akron Zips | Venue: InfoCision Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401866412</guid>
     </item>
     <item>
-      <title>Central Connecticut Blue Devils at Toledo Rockets</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T19:30Z</pubDate>
+      <title>College Football - Toledo Rockets vs Central Connecticut Blue Devils - Saturday, September 12, 2026 - 3:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Central Connecticut Blue Devils at Toledo Rockets | Venue: Glass Bowl</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401866419</guid>
     </item>
     <item>
-      <title>Sacred Heart Pioneers at Massachusetts Minutemen</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T19:30Z</pubDate>
+      <title>College Football - Massachusetts Minutemen vs Sacred Heart Pioneers - Saturday, September 12, 2026 - 3:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Sacred Heart Pioneers at Massachusetts Minutemen | Venue: Warren McGuirk Alumni Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401866420</guid>
     </item>
     <item>
-      <title>Wagner Seahawks at James Madison Dukes</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T19:30Z</pubDate>
+      <title>College Football - James Madison Dukes vs Wagner Seahawks - Saturday, September 12, 2026 - 3:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Wagner Seahawks at James Madison Dukes | Venue: Bridgeforth Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401867929</guid>
     </item>
     <item>
-      <title>UNLV Rebels at North Texas Mean Green</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T19:45Z</pubDate>
+      <title>College Football - North Texas Mean Green vs UNLV Rebels - Saturday, September 12, 2026 - 3:45 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 3:45 PM ET | Status: Scheduled | Sport: College Football | Event: UNLV Rebels at North Texas Mean Green | Venue: DATCU Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 15:45:00 -0400</pubDate>
       <guid isPermaLink="false">401862705</guid>
     </item>
     <item>
-      <title>UC Davis Aggies at SMU Mustangs</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T20:00Z</pubDate>
+      <title>College Football - SMU Mustangs vs UC Davis Aggies - Saturday, September 12, 2026 - 4:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 4:00 PM ET | Status: Scheduled | Sport: College Football | Event: UC Davis Aggies at SMU Mustangs | Venue: Gerald J. Ford Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858223</guid>
     </item>
     <item>
-      <title>Northern Colorado Bears at Wyoming Cowboys</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T20:00Z</pubDate>
+      <title>College Football - Wyoming Cowboys vs Northern Colorado Bears - Saturday, September 12, 2026 - 4:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 4:00 PM ET | Status: Scheduled | Sport: College Football | Event: Northern Colorado Bears at Wyoming Cowboys | Venue: War Memorial Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401864506</guid>
     </item>
     <item>
-      <title>Mercyhurst Lakers at New Mexico Lobos</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T20:00Z</pubDate>
+      <title>College Football - New Mexico Lobos vs Mercyhurst Lakers - Saturday, September 12, 2026 - 4:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 4:00 PM ET | Status: Scheduled | Sport: College Football | Event: Mercyhurst Lakers at New Mexico Lobos | Venue: University Stadium (NM)</description>
+      <pubDate>Sat, 12 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401865252</guid>
     </item>
     <item>
-      <title>Alabama State Hornets at Troy Trojans</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T20:00Z</pubDate>
+      <title>College Football - Troy Trojans vs Alabama State Hornets - Saturday, September 12, 2026 - 4:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 4:00 PM ET | Status: Scheduled | Sport: College Football | Event: Alabama State Hornets at Troy Trojans | Venue: Veterans Memorial Stadium (AL)</description>
+      <pubDate>Sat, 12 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401868326</guid>
     </item>
     <item>
-      <title>Los Angeles Angels at Washington Nationals</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T20:05Z</pubDate>
+      <title>MLB - Washington Nationals vs Los Angeles Angels - Saturday, September 12, 2026 - 4:05 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 4:05 PM ET | Status: Scheduled | Sport: MLB | Event: Los Angeles Angels at Washington Nationals | Venue: Nationals Park</description>
+      <pubDate>Sat, 12 Sep 2026 16:05:00 -0400</pubDate>
       <guid isPermaLink="false">401816903</guid>
     </item>
     <item>
-      <title>San Diego Padres at San Francisco Giants</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T20:05Z</pubDate>
+      <title>MLB - San Francisco Giants vs San Diego Padres - Saturday, September 12, 2026 - 4:05 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 4:05 PM ET | Status: Scheduled | Sport: MLB | Event: San Diego Padres at San Francisco Giants | Venue: Oracle Park</description>
+      <pubDate>Sat, 12 Sep 2026 16:05:00 -0400</pubDate>
       <guid isPermaLink="false">401816915</guid>
     </item>
     <item>
-      <title>Kansas City Royals at Boston Red Sox</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T20:10Z</pubDate>
+      <title>MLB - Boston Red Sox vs Kansas City Royals - Saturday, September 12, 2026 - 4:10 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 4:10 PM ET | Status: Scheduled | Sport: MLB | Event: Kansas City Royals at Boston Red Sox | Venue: Fenway Park</description>
+      <pubDate>Sat, 12 Sep 2026 16:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816907</guid>
     </item>
     <item>
-      <title>Los Angeles Dodgers at Miami Marlins</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T20:10Z</pubDate>
+      <title>MLB - Miami Marlins vs Los Angeles Dodgers - Saturday, September 12, 2026 - 4:10 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 4:10 PM ET | Status: Scheduled | Sport: MLB | Event: Los Angeles Dodgers at Miami Marlins | Venue: loanDepot park</description>
+      <pubDate>Sat, 12 Sep 2026 16:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816908</guid>
     </item>
     <item>
-      <title>Cleveland Guardians at Minnesota Twins</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T20:10Z</pubDate>
+      <title>MLB - Minnesota Twins vs Cleveland Guardians - Saturday, September 12, 2026 - 4:10 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 4:10 PM ET | Status: Scheduled | Sport: MLB | Event: Cleveland Guardians at Minnesota Twins | Venue: Target Field</description>
+      <pubDate>Sat, 12 Sep 2026 16:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816913</guid>
     </item>
     <item>
-      <title>Delaware Blue Hens at Vanderbilt Commodores</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T20:15Z</pubDate>
+      <title>College Football - Vanderbilt Commodores vs Delaware Blue Hens - Saturday, September 12, 2026 - 4:15 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 4:15 PM ET | Status: Scheduled | Sport: College Football | Event: Delaware Blue Hens at Vanderbilt Commodores | Venue: FirstBank Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 16:15:00 -0400</pubDate>
       <guid isPermaLink="false">401856684</guid>
     </item>
     <item>
-      <title>Campbell Fighting Camels at Florida Gators</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T21:30Z</pubDate>
+      <title>College Football - Florida Gators vs Campbell Fighting Camels - Saturday, September 12, 2026 - 5:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 5:30 PM ET | Status: Scheduled | Sport: College Football | Event: Campbell Fighting Camels at Florida Gators | Venue: Ben Hill Griffin Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 17:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856672</guid>
     </item>
     <item>
-      <title>Memphis Tigers at Boise State Broncos</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T22:00Z</pubDate>
+      <title>College Football - Boise State Broncos vs Memphis Tigers - Saturday, September 12, 2026 - 6:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 6:00 PM ET | Status: Scheduled | Sport: College Football | Event: Memphis Tigers at Boise State Broncos | Venue: Albertsons Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 18:00:00 -0400</pubDate>
       <guid isPermaLink="false">401860881</guid>
     </item>
     <item>
-      <title>Buffalo Bulls at Florida International Panthers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T22:00Z</pubDate>
+      <title>College Football - Florida International Panthers vs Buffalo Bulls - Saturday, September 12, 2026 - 6:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 6:00 PM ET | Status: Scheduled | Sport: College Football | Event: Buffalo Bulls at Florida International Panthers | Venue: Pitbull Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 18:00:00 -0400</pubDate>
       <guid isPermaLink="false">401866414</guid>
     </item>
     <item>
-      <title>Jacksonville State Gamecocks at Ohio Bobcats</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T22:00Z</pubDate>
+      <title>College Football - Ohio Bobcats vs Jacksonville State Gamecocks - Saturday, September 12, 2026 - 6:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 6:00 PM ET | Status: Scheduled | Sport: College Football | Event: Jacksonville State Gamecocks at Ohio Bobcats | Venue: Peden Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 18:00:00 -0400</pubDate>
       <guid isPermaLink="false">401866418</guid>
     </item>
     <item>
-      <title>Gardner-Webb Runnin' Bulldogs at Liberty Flames</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T22:00Z</pubDate>
+      <title>College Football - Liberty Flames vs Gardner-Webb Runnin' Bulldogs - Saturday, September 12, 2026 - 6:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 6:00 PM ET | Status: Scheduled | Sport: College Football | Event: Gardner-Webb Runnin' Bulldogs at Liberty Flames | Venue: Williams Stadium (VA)</description>
+      <pubDate>Sat, 12 Sep 2026 18:00:00 -0400</pubDate>
       <guid isPermaLink="false">401868187</guid>
     </item>
     <item>
-      <title>Houston Astros at Tampa Bay Rays</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T22:10Z</pubDate>
+      <title>MLB - Tampa Bay Rays vs Houston Astros - Saturday, September 12, 2026 - 6:10 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 6:10 PM ET | Status: Scheduled | Sport: MLB | Event: Houston Astros at Tampa Bay Rays | Venue: Tropicana Field</description>
+      <pubDate>Sat, 12 Sep 2026 18:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816906</guid>
     </item>
     <item>
-      <title>Monmouth Hawks at Western Michigan Broncos</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T22:30Z</pubDate>
+      <title>College Football - Western Michigan Broncos vs Monmouth Hawks - Saturday, September 12, 2026 - 6:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 6:30 PM ET | Status: Scheduled | Sport: College Football | Event: Monmouth Hawks at Western Michigan Broncos | Venue: Waldo Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 18:30:00 -0400</pubDate>
       <guid isPermaLink="false">401866421</guid>
     </item>
     <item>
-      <title>Tennessee Volunteers at Georgia Tech Yellow Jackets</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:00Z</pubDate>
+      <title>College Football - Georgia Tech Yellow Jackets vs Tennessee Volunteers - Saturday, September 12, 2026 - 7:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Tennessee Volunteers at Georgia Tech Yellow Jackets | Venue: Bobby Dodd Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856681</guid>
     </item>
     <item>
-      <title>Southern Jaguars at Houston Cougars</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:00Z</pubDate>
+      <title>College Football - Houston Cougars vs Southern Jaguars - Saturday, September 12, 2026 - 7:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Southern Jaguars at Houston Cougars | Venue: TDECU Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856787</guid>
     </item>
     <item>
-      <title>Towson Tigers at South Carolina Gamecocks</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:00Z</pubDate>
+      <title>College Football - South Carolina Gamecocks vs Towson Tigers - Saturday, September 12, 2026 - 7:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Towson Tigers at South Carolina Gamecocks | Venue: Williams-Brice Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856680</guid>
     </item>
     <item>
-      <title>Western Carolina Catamounts at Cincinnati Bearcats</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:00Z</pubDate>
+      <title>College Football - Cincinnati Bearcats vs Western Carolina Catamounts - Saturday, September 12, 2026 - 7:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Western Carolina Catamounts at Cincinnati Bearcats | Venue: Nippert Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856786</guid>
     </item>
     <item>
-      <title>Bowling Green Falcons at Nebraska Cornhuskers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:00Z</pubDate>
+      <title>College Football - Nebraska Cornhuskers vs Bowling Green Falcons - Saturday, September 12, 2026 - 7:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Bowling Green Falcons at Nebraska Cornhuskers | Venue: Memorial Stadium (Lincoln, NE)</description>
+      <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858441</guid>
     </item>
     <item>
-      <title>Southern Utah Thunderbirds at Colorado State Rams</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:00Z</pubDate>
+      <title>College Football - Colorado State Rams vs Southern Utah Thunderbirds - Saturday, September 12, 2026 - 7:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Southern Utah Thunderbirds at Colorado State Rams | Venue: Canvas Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401860882</guid>
     </item>
     <item>
-      <title>Tulsa Golden Hurricane at Sam Houston Bearkats</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:00Z</pubDate>
+      <title>College Football - Sam Houston Bearkats vs Tulsa Golden Hurricane - Saturday, September 12, 2026 - 7:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Tulsa Golden Hurricane at Sam Houston Bearkats | Venue: Elliott T. Bowers Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401862707</guid>
     </item>
     <item>
-      <title>Illinois State Redbirds at Northern Illinois Huskies</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:00Z</pubDate>
+      <title>College Football - Northern Illinois Huskies vs Illinois State Redbirds - Saturday, September 12, 2026 - 7:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Illinois State Redbirds at Northern Illinois Huskies | Venue: Huskie Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401864503</guid>
     </item>
     <item>
-      <title>South Alabama Jaguars at Tulane Green Wave</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:00Z</pubDate>
+      <title>College Football - Tulane Green Wave vs South Alabama Jaguars - Saturday, September 12, 2026 - 7:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: South Alabama Jaguars at Tulane Green Wave | Venue: Yulman Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401864575</guid>
     </item>
     <item>
-      <title>West Georgia Wolves at Arkansas State Red Wolves</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:00Z</pubDate>
+      <title>College Football - Arkansas State Red Wolves vs West Georgia Wolves - Saturday, September 12, 2026 - 7:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: West Georgia Wolves at Arkansas State Red Wolves | Venue: Centennial Bank Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401868241</guid>
     </item>
     <item>
-      <title>Georgia State Panthers at Kennesaw State Owls</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:00Z</pubDate>
+      <title>College Football - Kennesaw State Owls vs Georgia State Panthers - Saturday, September 12, 2026 - 7:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Georgia State Panthers at Kennesaw State Owls | Venue: Walens Family Field at Fifth Third Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401869955</guid>
     </item>
     <item>
-      <title>Middle Tennessee Blue Raiders at Marshall Thundering Herd</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:00Z</pubDate>
+      <title>College Football - Marshall Thundering Herd vs Middle Tennessee Blue Raiders - Saturday, September 12, 2026 - 7:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Middle Tennessee Blue Raiders at Marshall Thundering Herd | Venue: Joan C. Edwards Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401871045</guid>
     </item>
     <item>
-      <title>Lindenwood Lions at Missouri State Bears</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:00Z</pubDate>
+      <title>College Football - Missouri State Bears vs Lindenwood Lions - Saturday, September 12, 2026 - 7:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Lindenwood Lions at Missouri State Bears | Venue: Robert W. Plaster Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401871046</guid>
     </item>
     <item>
-      <title>Cincinnati Reds at Milwaukee Brewers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:10Z</pubDate>
+      <title>MLB - Milwaukee Brewers vs Cincinnati Reds - Saturday, September 12, 2026 - 7:10 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:10 PM ET | Status: Scheduled | Sport: MLB | Event: Cincinnati Reds at Milwaukee Brewers | Venue: American Family Field</description>
+      <pubDate>Sat, 12 Sep 2026 19:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816912</guid>
     </item>
     <item>
-      <title>San Diego State Aztecs at UCLA Bruins</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:15Z</pubDate>
+      <title>College Football - UCLA Bruins vs San Diego State Aztecs - Saturday, September 12, 2026 - 7:15 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:15 PM ET | Status: Scheduled | Sport: College Football | Event: San Diego State Aztecs at UCLA Bruins | Venue: Rose Bowl</description>
+      <pubDate>Sat, 12 Sep 2026 19:15:00 -0400</pubDate>
       <guid isPermaLink="false">401858443</guid>
     </item>
     <item>
-      <title>Western Illinois Leathernecks at Wisconsin Badgers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:15Z</pubDate>
+      <title>College Football - Wisconsin Badgers vs Western Illinois Leathernecks - Saturday, September 12, 2026 - 7:15 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:15 PM ET | Status: Scheduled | Sport: College Football | Event: Western Illinois Leathernecks at Wisconsin Badgers | Venue: Camp Randall Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:15:00 -0400</pubDate>
       <guid isPermaLink="false">401858447</guid>
     </item>
     <item>
-      <title>Philadelphia Phillies at Atlanta Braves</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:15Z</pubDate>
+      <title>MLB - Atlanta Braves vs Philadelphia Phillies - Saturday, September 12, 2026 - 7:15 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:15 PM ET | Status: Scheduled | Sport: MLB | Event: Philadelphia Phillies at Atlanta Braves | Venue: Truist Park</description>
+      <pubDate>Sat, 12 Sep 2026 19:15:00 -0400</pubDate>
       <guid isPermaLink="false">401816910</guid>
     </item>
     <item>
-      <title>Chicago White Sox at St. Louis Cardinals</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:15Z</pubDate>
+      <title>MLB - St. Louis Cardinals vs Chicago White Sox - Saturday, September 12, 2026 - 7:15 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:15 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago White Sox at St. Louis Cardinals | Venue: Busch Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:15:00 -0400</pubDate>
       <guid isPermaLink="false">401816911</guid>
     </item>
     <item>
-      <title>Ohio State Buckeyes at Texas Longhorns</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:30Z</pubDate>
+      <title>College Football - Texas Longhorns vs Ohio State Buckeyes - Saturday, September 12, 2026 - 7:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Ohio State Buckeyes at Texas Longhorns | Venue: DKR-Texas Memorial Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856682</guid>
     </item>
     <item>
-      <title>Louisiana Tech Bulldogs at LSU Tigers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:30Z</pubDate>
+      <title>College Football - LSU Tigers vs Louisiana Tech Bulldogs - Saturday, September 12, 2026 - 7:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Louisiana Tech Bulldogs at LSU Tigers | Venue: Tiger Stadium (LA)</description>
+      <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401867796</guid>
     </item>
     <item>
-      <title>Texas Tech Red Raiders at Oregon State Beavers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:30Z</pubDate>
+      <title>College Football - Oregon State Beavers vs Texas Tech Red Raiders - Saturday, September 12, 2026 - 7:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Texas Tech Red Raiders at Oregon State Beavers | Venue: Reser Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856783</guid>
     </item>
     <item>
-      <title>Iowa State Cyclones at Iowa Hawkeyes</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:30Z</pubDate>
+      <title>College Football - Iowa Hawkeyes vs Iowa State Cyclones - Saturday, September 12, 2026 - 7:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Iowa State Cyclones at Iowa Hawkeyes | Venue: Kinnick Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856788</guid>
     </item>
     <item>
-      <title>Georgia Southern Eagles at Clemson Tigers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:30Z</pubDate>
+      <title>College Football - Clemson Tigers vs Georgia Southern Eagles - Saturday, September 12, 2026 - 7:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Georgia Southern Eagles at Clemson Tigers | Venue: Memorial Stadium (Clemson, SC)</description>
+      <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858219</guid>
     </item>
     <item>
-      <title>Navy Midshipmen at Florida Atlantic Owls</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:30Z</pubDate>
+      <title>College Football - Florida Atlantic Owls vs Navy Midshipmen - Saturday, September 12, 2026 - 7:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Navy Midshipmen at Florida Atlantic Owls | Venue: Flagler Credit Union Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401862703</guid>
     </item>
     <item>
-      <title>Fordham Rams at Coastal Carolina Chanticleers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:30Z</pubDate>
+      <title>College Football - Coastal Carolina Chanticleers vs Fordham Rams - Saturday, September 12, 2026 - 7:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Fordham Rams at Coastal Carolina Chanticleers | Venue: Brooks Stadium (SC)</description>
+      <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401868008</guid>
     </item>
     <item>
-      <title>Red Bull New York at Columbus Crew</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:30Z</pubDate>
+      <title>MLS - Columbus Crew vs Red Bull New York - Saturday, September 12, 2026 - 7:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: MLS | Event: Red Bull New York at Columbus Crew | Venue: ScottsMiracle-Gro Field</description>
+      <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">761804</guid>
     </item>
     <item>
-      <title>Atlanta United FC at D.C. United</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:30Z</pubDate>
+      <title>MLS - D.C. United vs Atlanta United FC - Saturday, September 12, 2026 - 7:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: MLS | Event: Atlanta United FC at D.C. United | Venue: Audi Field</description>
+      <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">761803</guid>
     </item>
     <item>
-      <title>Charlotte FC at FC Cincinnati</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:30Z</pubDate>
+      <title>MLS - FC Cincinnati vs Charlotte FC - Saturday, September 12, 2026 - 7:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: MLS | Event: Charlotte FC at FC Cincinnati | Venue: TQL Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">761802</guid>
     </item>
     <item>
-      <title>Nashville SC at Inter Miami CF</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:30Z</pubDate>
+      <title>MLS - Inter Miami CF vs Nashville SC - Saturday, September 12, 2026 - 7:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: MLS | Event: Nashville SC at Inter Miami CF | Venue: Nu Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">761800</guid>
     </item>
     <item>
-      <title>Toronto FC at Orlando City SC</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:30Z</pubDate>
+      <title>MLS - Orlando City SC vs Toronto FC - Saturday, September 12, 2026 - 7:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: MLS | Event: Toronto FC at Orlando City SC | Venue: Inter&amp;Co Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">761801</guid>
     </item>
     <item>
-      <title>Charlotte 49ers at Ole Miss Rebels</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:45Z</pubDate>
+      <title>College Football - Ole Miss Rebels vs Charlotte 49ers - Saturday, September 12, 2026 - 7:45 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:45 PM ET | Status: Scheduled | Sport: College Football | Event: Charlotte 49ers at Ole Miss Rebels | Venue: Vaught-Hemingway Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:45:00 -0400</pubDate>
       <guid isPermaLink="false">401856676</guid>
     </item>
     <item>
-      <title>Southern Miss Golden Eagles at Auburn Tigers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-12T23:45Z</pubDate>
+      <title>College Football - Auburn Tigers vs Southern Miss Golden Eagles - Saturday, September 12, 2026 - 7:45 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 7:45 PM ET | Status: Scheduled | Sport: College Football | Event: Southern Miss Golden Eagles at Auburn Tigers | Venue: Jordan-Hare Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:45:00 -0400</pubDate>
       <guid isPermaLink="false">401856671</guid>
     </item>
     <item>
-      <title>Grambling Tigers at TCU Horned Frogs</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T00:00Z</pubDate>
+      <title>College Football - TCU Horned Frogs vs Grambling Tigers - Saturday, September 12, 2026 - 8:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: College Football | Event: Grambling Tigers at TCU Horned Frogs | Venue: Amon G. Carter Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 20:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856789</guid>
     </item>
     <item>
-      <title>Prairie View A&amp;M Panthers at Baylor Bears</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T00:08Z</pubDate>
+      <title>College Football - Baylor Bears vs Prairie View A&amp;M Panthers - Saturday, September 12, 2026 - 8:08 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 8:08 PM ET | Status: Scheduled | Sport: College Football | Event: Prairie View A&amp;M Panthers at Baylor Bears | Venue: McLane Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 20:08:00 -0400</pubDate>
       <guid isPermaLink="false">401856784</guid>
     </item>
     <item>
-      <title>Texas Rangers at Arizona Diamondbacks</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T00:10Z</pubDate>
+      <title>MLB - Arizona Diamondbacks vs Texas Rangers - Saturday, September 12, 2026 - 8:10 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 8:10 PM ET | Status: Scheduled | Sport: MLB | Event: Texas Rangers at Arizona Diamondbacks | Venue: Chase Field</description>
+      <pubDate>Sat, 12 Sep 2026 20:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816917</guid>
     </item>
     <item>
-      <title>Portland Timbers at FC Dallas</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T00:30Z</pubDate>
+      <title>MLS - FC Dallas vs Portland Timbers - Saturday, September 12, 2026 - 8:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 8:30 PM ET | Status: Scheduled | Sport: MLS | Event: Portland Timbers at FC Dallas | Venue: Toyota Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 20:30:00 -0400</pubDate>
       <guid isPermaLink="false">761805</guid>
     </item>
     <item>
-      <title>LAFC at Sporting Kansas City</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T00:30Z</pubDate>
+      <title>MLS - Sporting Kansas City vs LAFC - Saturday, September 12, 2026 - 8:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 8:30 PM ET | Status: Scheduled | Sport: MLS | Event: LAFC at Sporting Kansas City | Venue: Sporting Park</description>
+      <pubDate>Sat, 12 Sep 2026 20:30:00 -0400</pubDate>
       <guid isPermaLink="false">761806</guid>
     </item>
     <item>
-      <title>Minnesota United FC at St. Louis CITY SC</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T00:30Z</pubDate>
+      <title>MLS - St. Louis CITY SC vs Minnesota United FC - Saturday, September 12, 2026 - 8:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 8:30 PM ET | Status: Scheduled | Sport: MLS | Event: Minnesota United FC at St. Louis CITY SC | Venue: Energizer Park</description>
+      <pubDate>Sat, 12 Sep 2026 20:30:00 -0400</pubDate>
       <guid isPermaLink="false">761807</guid>
     </item>
     <item>
-      <title>Cal Poly Mustangs at San José State Spartans</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T01:00Z</pubDate>
+      <title>College Football - San José State Spartans vs Cal Poly Mustangs - Saturday, September 12, 2026 - 9:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: College Football | Event: Cal Poly Mustangs at San José State Spartans | Venue: CEFCU Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 21:00:00 -0400</pubDate>
       <guid isPermaLink="false">401864504</guid>
     </item>
     <item>
-      <title>Texas Southern Tigers at UTEP Miners</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T01:00Z</pubDate>
+      <title>College Football - UTEP Miners vs Texas Southern Tigers - Saturday, September 12, 2026 - 9:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: College Football | Event: Texas Southern Tigers at UTEP Miners | Venue: Sun Bowl</description>
+      <pubDate>Sat, 12 Sep 2026 21:00:00 -0400</pubDate>
       <guid isPermaLink="false">401864505</guid>
     </item>
     <item>
-      <title>CF Montréal at Colorado Rapids</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T01:30Z</pubDate>
+      <title>MLS - Colorado Rapids vs CF Montréal - Saturday, September 12, 2026 - 9:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 9:30 PM ET | Status: Scheduled | Sport: MLS | Event: CF Montréal at Colorado Rapids | Venue: Dick's Sporting Goods Park</description>
+      <pubDate>Sat, 12 Sep 2026 21:30:00 -0400</pubDate>
       <guid isPermaLink="false">761808</guid>
     </item>
     <item>
-      <title>New York City FC at Real Salt Lake</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T01:30Z</pubDate>
+      <title>MLS - Real Salt Lake vs New York City FC - Saturday, September 12, 2026 - 9:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 9:30 PM ET | Status: Scheduled | Sport: MLS | Event: New York City FC at Real Salt Lake | Venue: America First Field</description>
+      <pubDate>Sat, 12 Sep 2026 21:30:00 -0400</pubDate>
       <guid isPermaLink="false">761809</guid>
     </item>
     <item>
-      <title>Seattle Mariners at Athletics Athletics</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T01:40Z</pubDate>
+      <title>MLB - Athletics vs Seattle Mariners - Saturday, September 12, 2026 - 9:40 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 9:40 PM ET | Status: Scheduled | Sport: MLB | Event: Seattle Mariners at Athletics Athletics | Venue: Sutter Health Park</description>
+      <pubDate>Sat, 12 Sep 2026 21:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816916</guid>
     </item>
     <item>
-      <title>North Dakota State Bison at Air Force Falcons</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T02:00Z</pubDate>
+      <title>College Football - Air Force Falcons vs North Dakota State Bison - Saturday, September 12, 2026 - 10:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: College Football | Event: North Dakota State Bison at Air Force Falcons | Venue: Falcon Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 22:00:00 -0400</pubDate>
       <guid isPermaLink="false">401864502</guid>
     </item>
     <item>
-      <title>Arkansas Razorbacks at Utah Utes</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T02:15Z</pubDate>
+      <title>College Football - Utah Utes vs Arkansas Razorbacks - Saturday, September 12, 2026 - 10:15 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 10:15 PM ET | Status: Scheduled | Sport: College Football | Event: Arkansas Razorbacks at Utah Utes | Venue: Rice-Eccles Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 22:15:00 -0400</pubDate>
       <guid isPermaLink="false">401856670</guid>
     </item>
     <item>
-      <title>Sacramento State Hornets at Fresno State Bulldogs</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T02:30Z</pubDate>
+      <title>College Football - Fresno State Bulldogs vs Sacramento State Hornets - Saturday, September 12, 2026 - 10:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 10:30 PM ET | Status: Scheduled | Sport: College Football | Event: Sacramento State Hornets at Fresno State Bulldogs | Venue: Valley Children's Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 22:30:00 -0400</pubDate>
       <guid isPermaLink="false">401860883</guid>
     </item>
     <item>
-      <title>Montana State Bobcats at Nevada Wolf Pack</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T02:30Z</pubDate>
+      <title>College Football - Nevada Wolf Pack vs Montana State Bobcats - Saturday, September 12, 2026 - 10:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 10:30 PM ET | Status: Scheduled | Sport: College Football | Event: Montana State Bobcats at Nevada Wolf Pack | Venue: Mackay Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 22:30:00 -0400</pubDate>
       <guid isPermaLink="false">401864500</guid>
     </item>
     <item>
-      <title>Seattle Sounders FC at LA Galaxy</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T02:30Z</pubDate>
+      <title>MLS - LA Galaxy vs Seattle Sounders FC - Saturday, September 12, 2026 - 10:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 10:30 PM ET | Status: Scheduled | Sport: MLS | Event: Seattle Sounders FC at LA Galaxy | Venue: Dignity Health Sports Park</description>
+      <pubDate>Sat, 12 Sep 2026 22:30:00 -0400</pubDate>
       <guid isPermaLink="false">761811</guid>
     </item>
     <item>
-      <title>Houston Dynamo FC at San Jose Earthquakes</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T02:30Z</pubDate>
+      <title>MLS - San Jose Earthquakes vs Houston Dynamo FC - Saturday, September 12, 2026 - 10:30 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 10:30 PM ET | Status: Scheduled | Sport: MLS | Event: Houston Dynamo FC at San Jose Earthquakes | Venue: PayPal Park</description>
+      <pubDate>Sat, 12 Sep 2026 22:30:00 -0400</pubDate>
       <guid isPermaLink="false">761810</guid>
     </item>
     <item>
-      <title>Louisiana Ragin' Cajuns at USC Trojans</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T03:00Z</pubDate>
+      <title>College Football - USC Trojans vs Louisiana Ragin' Cajuns - Saturday, September 12, 2026 - 11:00 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 11:00 PM ET | Status: Scheduled | Sport: College Football | Event: Louisiana Ragin' Cajuns at USC Trojans | Venue: Los Angeles Memorial Coliseum</description>
+      <pubDate>Sat, 12 Sep 2026 23:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858445</guid>
     </item>
     <item>
-      <title>New Mexico State Aggies at Hawai'i Rainbow Warriors</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T03:59Z</pubDate>
+      <title>College Football - Hawai'i Rainbow Warriors vs New Mexico State Aggies - Saturday, September 12, 2026 - 11:59 PM ET</title>
+      <description>Date: Saturday, September 12, 2026 | Time: 11:59 PM ET | Status: Scheduled | Sport: College Football | Event: New Mexico State Aggies at Hawai'i Rainbow Warriors | Venue: Clarence T.C. Ching Athletics Complex</description>
+      <pubDate>Sat, 12 Sep 2026 23:59:00 -0400</pubDate>
       <guid isPermaLink="false">401864578</guid>
     </item>
     <item>
-      <title>Colorado Rockies at Detroit Tigers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T16:10Z</pubDate>
+      <title>MLB - Detroit Tigers vs Colorado Rockies - Sunday, September 13, 2026 - 12:10 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 12:10 PM ET | Status: Scheduled | Sport: MLB | Event: Colorado Rockies at Detroit Tigers | Venue: Comerica Park</description>
+      <pubDate>Sun, 13 Sep 2026 12:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816920</guid>
     </item>
     <item>
-      <title>Tampa Bay Buccaneers at Cincinnati Bengals</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T17:00Z</pubDate>
+      <title>NFL - Cincinnati Bengals vs Tampa Bay Buccaneers - Sunday, September 13, 2026 - 1:00 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NFL | Event: Tampa Bay Buccaneers at Cincinnati Bengals | Venue: Paycor Stadium</description>
+      <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872925</guid>
     </item>
     <item>
-      <title>New Orleans Saints at Detroit Lions</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T17:00Z</pubDate>
+      <title>NFL - Detroit Lions vs New Orleans Saints - Sunday, September 13, 2026 - 1:00 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NFL | Event: New Orleans Saints at Detroit Lions | Venue: Ford Field</description>
+      <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872923</guid>
     </item>
     <item>
-      <title>New York Jets at Tennessee Titans</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T17:00Z</pubDate>
+      <title>NFL - Tennessee Titans vs New York Jets - Sunday, September 13, 2026 - 1:00 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NFL | Event: New York Jets at Tennessee Titans | Venue: Nissan Stadium</description>
+      <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872924</guid>
     </item>
     <item>
-      <title>Baltimore Ravens at Indianapolis Colts</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T17:00Z</pubDate>
+      <title>NFL - Indianapolis Colts vs Baltimore Ravens - Sunday, September 13, 2026 - 1:00 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NFL | Event: Baltimore Ravens at Indianapolis Colts | Venue: Lucas Oil Stadium</description>
+      <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872659</guid>
     </item>
     <item>
-      <title>Atlanta Falcons at Pittsburgh Steelers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T17:00Z</pubDate>
+      <title>NFL - Pittsburgh Steelers vs Atlanta Falcons - Sunday, September 13, 2026 - 1:00 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NFL | Event: Atlanta Falcons at Pittsburgh Steelers | Venue: Acrisure Stadium</description>
+      <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872658</guid>
     </item>
     <item>
-      <title>Chicago Bears at Carolina Panthers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T17:00Z</pubDate>
+      <title>NFL - Carolina Panthers vs Chicago Bears - Sunday, September 13, 2026 - 1:00 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NFL | Event: Chicago Bears at Carolina Panthers | Venue: Bank of America Stadium</description>
+      <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872661</guid>
     </item>
     <item>
-      <title>Cleveland Browns at Jacksonville Jaguars</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T17:00Z</pubDate>
+      <title>NFL - Jacksonville Jaguars vs Cleveland Browns - Sunday, September 13, 2026 - 1:00 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NFL | Event: Cleveland Browns at Jacksonville Jaguars | Venue: EverBank Stadium</description>
+      <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872922</guid>
     </item>
     <item>
-      <title>Buffalo Bills at Houston Texans</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T17:00Z</pubDate>
+      <title>NFL - Houston Texans vs Buffalo Bills - Sunday, September 13, 2026 - 1:00 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NFL | Event: Buffalo Bills at Houston Texans | Venue: Reliant Stadium</description>
+      <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872660</guid>
     </item>
     <item>
-      <title>Los Angeles Angels at Washington Nationals</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T17:35Z</pubDate>
+      <title>MLB - Washington Nationals vs Los Angeles Angels - Sunday, September 13, 2026 - 1:35 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 1:35 PM ET | Status: Scheduled | Sport: MLB | Event: Los Angeles Angels at Washington Nationals | Venue: Nationals Park</description>
+      <pubDate>Sun, 13 Sep 2026 13:35:00 -0400</pubDate>
       <guid isPermaLink="false">401816918</guid>
     </item>
     <item>
-      <title>Kansas City Royals at Boston Red Sox</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T17:35Z</pubDate>
+      <title>MLB - Boston Red Sox vs Kansas City Royals - Sunday, September 13, 2026 - 1:35 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 1:35 PM ET | Status: Scheduled | Sport: MLB | Event: Kansas City Royals at Boston Red Sox | Venue: Fenway Park</description>
+      <pubDate>Sun, 13 Sep 2026 13:35:00 -0400</pubDate>
       <guid isPermaLink="false">401816922</guid>
     </item>
     <item>
-      <title>New York Mets at New York Yankees</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T17:35Z</pubDate>
+      <title>MLB - New York Yankees vs New York Mets - Sunday, September 13, 2026 - 1:35 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 1:35 PM ET | Status: Scheduled | Sport: MLB | Event: New York Mets at New York Yankees | Venue: Yankee Stadium</description>
+      <pubDate>Sun, 13 Sep 2026 13:35:00 -0400</pubDate>
       <guid isPermaLink="false">401816924</guid>
     </item>
     <item>
-      <title>Philadelphia Phillies at Atlanta Braves</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T17:35Z</pubDate>
+      <title>MLB - Atlanta Braves vs Philadelphia Phillies - Sunday, September 13, 2026 - 1:35 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 1:35 PM ET | Status: Scheduled | Sport: MLB | Event: Philadelphia Phillies at Atlanta Braves | Venue: Truist Park</description>
+      <pubDate>Sun, 13 Sep 2026 13:35:00 -0400</pubDate>
       <guid isPermaLink="false">401816925</guid>
     </item>
     <item>
-      <title>Baltimore Orioles at Toronto Blue Jays</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T17:37Z</pubDate>
+      <title>MLB - Toronto Blue Jays vs Baltimore Orioles - Sunday, September 13, 2026 - 1:37 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 1:37 PM ET | Status: Scheduled | Sport: MLB | Event: Baltimore Orioles at Toronto Blue Jays | Venue: Rogers Centre</description>
+      <pubDate>Sun, 13 Sep 2026 13:37:00 -0400</pubDate>
       <guid isPermaLink="false">401816919</guid>
     </item>
     <item>
-      <title>Houston Astros at Tampa Bay Rays</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T17:40Z</pubDate>
+      <title>MLB - Tampa Bay Rays vs Houston Astros - Sunday, September 13, 2026 - 1:40 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 1:40 PM ET | Status: Scheduled | Sport: MLB | Event: Houston Astros at Tampa Bay Rays | Venue: Tropicana Field</description>
+      <pubDate>Sun, 13 Sep 2026 13:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816921</guid>
     </item>
     <item>
-      <title>Los Angeles Dodgers at Miami Marlins</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T17:40Z</pubDate>
+      <title>MLB - Miami Marlins vs Los Angeles Dodgers - Sunday, September 13, 2026 - 1:40 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 1:40 PM ET | Status: Scheduled | Sport: MLB | Event: Los Angeles Dodgers at Miami Marlins | Venue: loanDepot park</description>
+      <pubDate>Sun, 13 Sep 2026 13:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816923</guid>
     </item>
     <item>
-      <title>Cincinnati Reds at Milwaukee Brewers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T18:10Z</pubDate>
+      <title>MLB - Milwaukee Brewers vs Cincinnati Reds - Sunday, September 13, 2026 - 2:10 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 2:10 PM ET | Status: Scheduled | Sport: MLB | Event: Cincinnati Reds at Milwaukee Brewers | Venue: American Family Field</description>
+      <pubDate>Sun, 13 Sep 2026 14:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816927</guid>
     </item>
     <item>
-      <title>Cleveland Guardians at Minnesota Twins</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T18:10Z</pubDate>
+      <title>MLB - Minnesota Twins vs Cleveland Guardians - Sunday, September 13, 2026 - 2:10 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 2:10 PM ET | Status: Scheduled | Sport: MLB | Event: Cleveland Guardians at Minnesota Twins | Venue: Target Field</description>
+      <pubDate>Sun, 13 Sep 2026 14:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816928</guid>
     </item>
     <item>
-      <title>Chicago White Sox at St. Louis Cardinals</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T18:15Z</pubDate>
+      <title>MLB - St. Louis Cardinals vs Chicago White Sox - Sunday, September 13, 2026 - 2:15 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 2:15 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago White Sox at St. Louis Cardinals | Venue: Busch Stadium</description>
+      <pubDate>Sun, 13 Sep 2026 14:15:00 -0400</pubDate>
       <guid isPermaLink="false">401816926</guid>
     </item>
     <item>
-      <title>Pittsburgh Pirates at Chicago Cubs</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T18:20Z</pubDate>
+      <title>MLB - Chicago Cubs vs Pittsburgh Pirates - Sunday, September 13, 2026 - 2:20 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 2:20 PM ET | Status: Scheduled | Sport: MLB | Event: Pittsburgh Pirates at Chicago Cubs | Venue: Wrigley Field</description>
+      <pubDate>Sun, 13 Sep 2026 14:20:00 -0400</pubDate>
       <guid isPermaLink="false">401816929</guid>
     </item>
     <item>
-      <title>Seattle Mariners at Athletics Athletics</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T20:05Z</pubDate>
+      <title>MLB - Athletics vs Seattle Mariners - Sunday, September 13, 2026 - 4:05 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 4:05 PM ET | Status: Scheduled | Sport: MLB | Event: Seattle Mariners at Athletics Athletics | Venue: Sutter Health Park</description>
+      <pubDate>Sun, 13 Sep 2026 16:05:00 -0400</pubDate>
       <guid isPermaLink="false">401816931</guid>
     </item>
     <item>
-      <title>Texas Rangers at Arizona Diamondbacks</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T20:10Z</pubDate>
+      <title>MLB - Arizona Diamondbacks vs Texas Rangers - Sunday, September 13, 2026 - 4:10 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 4:10 PM ET | Status: Scheduled | Sport: MLB | Event: Texas Rangers at Arizona Diamondbacks | Venue: Chase Field</description>
+      <pubDate>Sun, 13 Sep 2026 16:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816932</guid>
     </item>
     <item>
-      <title>Miami Dolphins at Las Vegas Raiders</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T20:25Z</pubDate>
+      <title>NFL - Las Vegas Raiders vs Miami Dolphins - Sunday, September 13, 2026 - 4:25 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 4:25 PM ET | Status: Scheduled | Sport: NFL | Event: Miami Dolphins at Las Vegas Raiders | Venue: Allegiant Stadium</description>
+      <pubDate>Sun, 13 Sep 2026 16:25:00 -0400</pubDate>
       <guid isPermaLink="false">401872928</guid>
     </item>
     <item>
-      <title>Green Bay Packers at Minnesota Vikings</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T20:25Z</pubDate>
+      <title>NFL - Minnesota Vikings vs Green Bay Packers - Sunday, September 13, 2026 - 4:25 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 4:25 PM ET | Status: Scheduled | Sport: NFL | Event: Green Bay Packers at Minnesota Vikings | Venue: U.S. Bank Stadium</description>
+      <pubDate>Sun, 13 Sep 2026 16:25:00 -0400</pubDate>
       <guid isPermaLink="false">401872927</guid>
     </item>
     <item>
-      <title>Washington Commanders at Philadelphia Eagles</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T20:25Z</pubDate>
+      <title>NFL - Philadelphia Eagles vs Washington Commanders - Sunday, September 13, 2026 - 4:25 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 4:25 PM ET | Status: Scheduled | Sport: NFL | Event: Washington Commanders at Philadelphia Eagles | Venue: Lincoln Financial Field</description>
+      <pubDate>Sun, 13 Sep 2026 16:25:00 -0400</pubDate>
       <guid isPermaLink="false">401872929</guid>
     </item>
     <item>
-      <title>Arizona Cardinals at Los Angeles Chargers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T20:25Z</pubDate>
+      <title>NFL - Los Angeles Chargers vs Arizona Cardinals - Sunday, September 13, 2026 - 4:25 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 4:25 PM ET | Status: Scheduled | Sport: NFL | Event: Arizona Cardinals at Los Angeles Chargers | Venue: SoFi Stadium</description>
+      <pubDate>Sun, 13 Sep 2026 16:25:00 -0400</pubDate>
       <guid isPermaLink="false">401872926</guid>
     </item>
     <item>
-      <title>New England Revolution at Chicago Fire FC</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T21:30Z</pubDate>
+      <title>MLS - Chicago Fire FC vs New England Revolution - Sunday, September 13, 2026 - 5:30 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 5:30 PM ET | Status: Scheduled | Sport: MLS | Event: New England Revolution at Chicago Fire FC | Venue: Soldier Field</description>
+      <pubDate>Sun, 13 Sep 2026 17:30:00 -0400</pubDate>
       <guid isPermaLink="false">761812</guid>
     </item>
     <item>
-      <title>Austin FC at Vancouver Whitecaps</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T22:30Z</pubDate>
+      <title>MLS - Vancouver Whitecaps vs Austin FC - Sunday, September 13, 2026 - 6:30 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 6:30 PM ET | Status: Scheduled | Sport: MLS | Event: Austin FC at Vancouver Whitecaps | Venue: BC Place</description>
+      <pubDate>Sun, 13 Sep 2026 18:30:00 -0400</pubDate>
       <guid isPermaLink="false">761813</guid>
     </item>
     <item>
-      <title>San Diego Padres at San Francisco Giants</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-13T23:20Z</pubDate>
+      <title>MLB - San Francisco Giants vs San Diego Padres - Sunday, September 13, 2026 - 7:20 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 7:20 PM ET | Status: Scheduled | Sport: MLB | Event: San Diego Padres at San Francisco Giants | Venue: Oracle Park</description>
+      <pubDate>Sun, 13 Sep 2026 19:20:00 -0400</pubDate>
       <guid isPermaLink="false">401816930</guid>
     </item>
     <item>
-      <title>Dallas Cowboys at New York Giants</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-14T00:20Z</pubDate>
+      <title>NFL - New York Giants vs Dallas Cowboys - Sunday, September 13, 2026 - 8:20 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 8:20 PM ET | Status: Scheduled | Sport: NFL | Event: Dallas Cowboys at New York Giants | Venue: MetLife Stadium</description>
+      <pubDate>Sun, 13 Sep 2026 20:20:00 -0400</pubDate>
       <guid isPermaLink="false">401872930</guid>
     </item>
     <item>
-      <title>Philadelphia Union at San Diego FC</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-14T01:00Z</pubDate>
+      <title>MLS - San Diego FC vs Philadelphia Union - Sunday, September 13, 2026 - 9:00 PM ET</title>
+      <description>Date: Sunday, September 13, 2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: MLS | Event: Philadelphia Union at San Diego FC | Venue: Snapdragon Stadium</description>
+      <pubDate>Sun, 13 Sep 2026 21:00:00 -0400</pubDate>
       <guid isPermaLink="false">761814</guid>
     </item>
     <item>
-      <title>Chicago White Sox at Cleveland Guardians</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-14T22:40Z</pubDate>
+      <title>MLB - Cleveland Guardians vs Chicago White Sox - Monday, September 14, 2026 - 6:40 PM ET</title>
+      <description>Date: Monday, September 14, 2026 | Time: 6:40 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago White Sox at Cleveland Guardians | Venue: Progressive Field</description>
+      <pubDate>Mon, 14 Sep 2026 18:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816934</guid>
     </item>
     <item>
-      <title>Los Angeles Dodgers at Cincinnati Reds</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-14T22:40Z</pubDate>
+      <title>MLB - Cincinnati Reds vs Los Angeles Dodgers - Monday, September 14, 2026 - 6:40 PM ET</title>
+      <description>Date: Monday, September 14, 2026 | Time: 6:40 PM ET | Status: Scheduled | Sport: MLB | Event: Los Angeles Dodgers at Cincinnati Reds | Venue: Great American Ball Park</description>
+      <pubDate>Mon, 14 Sep 2026 18:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816936</guid>
     </item>
     <item>
-      <title>Detroit Tigers at Toronto Blue Jays</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-14T23:07Z</pubDate>
+      <title>MLB - Toronto Blue Jays vs Detroit Tigers - Monday, September 14, 2026 - 7:07 PM ET</title>
+      <description>Date: Monday, September 14, 2026 | Time: 7:07 PM ET | Status: Scheduled | Sport: MLB | Event: Detroit Tigers at Toronto Blue Jays | Venue: Rogers Centre</description>
+      <pubDate>Mon, 14 Sep 2026 19:07:00 -0400</pubDate>
       <guid isPermaLink="false">401816935</guid>
     </item>
     <item>
-      <title>Baltimore Orioles at New York Mets</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-14T23:10Z</pubDate>
+      <title>MLB - New York Mets vs Baltimore Orioles - Monday, September 14, 2026 - 7:10 PM ET</title>
+      <description>Date: Monday, September 14, 2026 | Time: 7:10 PM ET | Status: Scheduled | Sport: MLB | Event: Baltimore Orioles at New York Mets | Venue: Citi Field</description>
+      <pubDate>Mon, 14 Sep 2026 19:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816933</guid>
     </item>
     <item>
-      <title>Atlanta Braves at Chicago Cubs</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-14T23:40Z</pubDate>
+      <title>MLB - Chicago Cubs vs Atlanta Braves - Monday, September 14, 2026 - 7:40 PM ET</title>
+      <description>Date: Monday, September 14, 2026 | Time: 7:40 PM ET | Status: Scheduled | Sport: MLB | Event: Atlanta Braves at Chicago Cubs | Venue: Wrigley Field</description>
+      <pubDate>Mon, 14 Sep 2026 19:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816937</guid>
     </item>
     <item>
-      <title>New York Yankees at Minnesota Twins</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-14T23:40Z</pubDate>
+      <title>MLB - Minnesota Twins vs New York Yankees - Monday, September 14, 2026 - 7:40 PM ET</title>
+      <description>Date: Monday, September 14, 2026 | Time: 7:40 PM ET | Status: Scheduled | Sport: MLB | Event: New York Yankees at Minnesota Twins | Venue: Target Field</description>
+      <pubDate>Mon, 14 Sep 2026 19:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816938</guid>
     </item>
     <item>
-      <title>San Francisco Giants at St. Louis Cardinals</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-14T23:45Z</pubDate>
+      <title>MLB - St. Louis Cardinals vs San Francisco Giants - Monday, September 14, 2026 - 7:45 PM ET</title>
+      <description>Date: Monday, September 14, 2026 | Time: 7:45 PM ET | Status: Scheduled | Sport: MLB | Event: San Francisco Giants at St. Louis Cardinals | Venue: Busch Stadium</description>
+      <pubDate>Mon, 14 Sep 2026 19:45:00 -0400</pubDate>
       <guid isPermaLink="false">401816939</guid>
     </item>
     <item>
-      <title>Denver Broncos at Kansas City Chiefs</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-15T00:15Z</pubDate>
+      <title>NFL - Kansas City Chiefs vs Denver Broncos - Monday, September 14, 2026 - 8:15 PM ET</title>
+      <description>Date: Monday, September 14, 2026 | Time: 8:15 PM ET | Status: Scheduled | Sport: NFL | Event: Denver Broncos at Kansas City Chiefs | Venue: Arrowhead Stadium</description>
+      <pubDate>Mon, 14 Sep 2026 20:15:00 -0400</pubDate>
       <guid isPermaLink="false">401872931</guid>
     </item>
     <item>
-      <title>San Diego Padres at Colorado Rockies</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-15T00:40Z</pubDate>
+      <title>MLB - Colorado Rockies vs San Diego Padres - Monday, September 14, 2026 - 8:40 PM ET</title>
+      <description>Date: Monday, September 14, 2026 | Time: 8:40 PM ET | Status: Scheduled | Sport: MLB | Event: San Diego Padres at Colorado Rockies | Venue: Coors Field</description>
+      <pubDate>Mon, 14 Sep 2026 20:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816940</guid>
     </item>
     <item>
-      <title>Seattle Mariners at Los Angeles Angels</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-15T01:38Z</pubDate>
+      <title>MLB - Los Angeles Angels vs Seattle Mariners - Monday, September 14, 2026 - 9:38 PM ET</title>
+      <description>Date: Monday, September 14, 2026 | Time: 9:38 PM ET | Status: Scheduled | Sport: MLB | Event: Seattle Mariners at Los Angeles Angels | Venue: Angel Stadium</description>
+      <pubDate>Mon, 14 Sep 2026 21:38:00 -0400</pubDate>
       <guid isPermaLink="false">401816942</guid>
     </item>
     <item>
-      <title>Miami Marlins at Arizona Diamondbacks</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-15T01:40Z</pubDate>
+      <title>MLB - Arizona Diamondbacks vs Miami Marlins - Monday, September 14, 2026 - 9:40 PM ET</title>
+      <description>Date: Monday, September 14, 2026 | Time: 9:40 PM ET | Status: Scheduled | Sport: MLB | Event: Miami Marlins at Arizona Diamondbacks | Venue: Chase Field</description>
+      <pubDate>Mon, 14 Sep 2026 21:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816941</guid>
     </item>
     <item>
-      <title>Athletics Athletics at Tampa Bay Rays</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-15T22:40Z</pubDate>
+      <title>MLB - Tampa Bay Rays vs Athletics - Tuesday, September 15, 2026 - 6:40 PM ET</title>
+      <description>Date: Tuesday, September 15, 2026 | Time: 6:40 PM ET | Status: Scheduled | Sport: MLB | Event: Athletics Athletics at Tampa Bay Rays | Venue: Tropicana Field</description>
+      <pubDate>Tue, 15 Sep 2026 18:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816943</guid>
     </item>
     <item>
-      <title>Chicago White Sox at Cleveland Guardians</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-15T22:40Z</pubDate>
+      <title>MLB - Cleveland Guardians vs Chicago White Sox - Tuesday, September 15, 2026 - 6:40 PM ET</title>
+      <description>Date: Tuesday, September 15, 2026 | Time: 6:40 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago White Sox at Cleveland Guardians | Venue: Progressive Field</description>
+      <pubDate>Tue, 15 Sep 2026 18:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816945</guid>
     </item>
     <item>
-      <title>Los Angeles Dodgers at Cincinnati Reds</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-15T22:40Z</pubDate>
+      <title>MLB - Cincinnati Reds vs Los Angeles Dodgers - Tuesday, September 15, 2026 - 6:40 PM ET</title>
+      <description>Date: Tuesday, September 15, 2026 | Time: 6:40 PM ET | Status: Scheduled | Sport: MLB | Event: Los Angeles Dodgers at Cincinnati Reds | Venue: Great American Ball Park</description>
+      <pubDate>Tue, 15 Sep 2026 18:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816947</guid>
     </item>
     <item>
-      <title>Milwaukee Brewers at Pittsburgh Pirates</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-15T22:40Z</pubDate>
+      <title>MLB - Pittsburgh Pirates vs Milwaukee Brewers - Tuesday, September 15, 2026 - 6:40 PM ET</title>
+      <description>Date: Tuesday, September 15, 2026 | Time: 6:40 PM ET | Status: Scheduled | Sport: MLB | Event: Milwaukee Brewers at Pittsburgh Pirates | Venue: PNC Park</description>
+      <pubDate>Tue, 15 Sep 2026 18:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816948</guid>
     </item>
     <item>
-      <title>Philadelphia Phillies at Washington Nationals</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-15T22:45Z</pubDate>
+      <title>MLB - Washington Nationals vs Philadelphia Phillies - Tuesday, September 15, 2026 - 6:45 PM ET</title>
+      <description>Date: Tuesday, September 15, 2026 | Time: 6:45 PM ET | Status: Scheduled | Sport: MLB | Event: Philadelphia Phillies at Washington Nationals | Venue: Nationals Park</description>
+      <pubDate>Tue, 15 Sep 2026 18:45:00 -0400</pubDate>
       <guid isPermaLink="false">401816949</guid>
     </item>
     <item>
-      <title>Detroit Tigers at Toronto Blue Jays</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-15T23:07Z</pubDate>
+      <title>MLB - Toronto Blue Jays vs Detroit Tigers - Tuesday, September 15, 2026 - 7:07 PM ET</title>
+      <description>Date: Tuesday, September 15, 2026 | Time: 7:07 PM ET | Status: Scheduled | Sport: MLB | Event: Detroit Tigers at Toronto Blue Jays | Venue: Rogers Centre</description>
+      <pubDate>Tue, 15 Sep 2026 19:07:00 -0400</pubDate>
       <guid isPermaLink="false">401816946</guid>
     </item>
     <item>
-      <title>Baltimore Orioles at New York Mets</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-15T23:10Z</pubDate>
+      <title>MLB - New York Mets vs Baltimore Orioles - Tuesday, September 15, 2026 - 7:10 PM ET</title>
+      <description>Date: Tuesday, September 15, 2026 | Time: 7:10 PM ET | Status: Scheduled | Sport: MLB | Event: Baltimore Orioles at New York Mets | Venue: Citi Field</description>
+      <pubDate>Tue, 15 Sep 2026 19:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816944</guid>
     </item>
     <item>
-      <title>Atlanta Braves at Chicago Cubs</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-15T23:40Z</pubDate>
+      <title>MLB - Chicago Cubs vs Atlanta Braves - Tuesday, September 15, 2026 - 7:40 PM ET</title>
+      <description>Date: Tuesday, September 15, 2026 | Time: 7:40 PM ET | Status: Scheduled | Sport: MLB | Event: Atlanta Braves at Chicago Cubs | Venue: Wrigley Field</description>
+      <pubDate>Tue, 15 Sep 2026 19:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816950</guid>
     </item>
     <item>
-      <title>New York Yankees at Minnesota Twins</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-15T23:40Z</pubDate>
+      <title>MLB - Minnesota Twins vs New York Yankees - Tuesday, September 15, 2026 - 7:40 PM ET</title>
+      <description>Date: Tuesday, September 15, 2026 | Time: 7:40 PM ET | Status: Scheduled | Sport: MLB | Event: New York Yankees at Minnesota Twins | Venue: Target Field</description>
+      <pubDate>Tue, 15 Sep 2026 19:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816953</guid>
     </item>
     <item>
-      <title>San Francisco Giants at St. Louis Cardinals</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-15T23:45Z</pubDate>
+      <title>MLB - St. Louis Cardinals vs San Francisco Giants - Tuesday, September 15, 2026 - 7:45 PM ET</title>
+      <description>Date: Tuesday, September 15, 2026 | Time: 7:45 PM ET | Status: Scheduled | Sport: MLB | Event: San Francisco Giants at St. Louis Cardinals | Venue: Busch Stadium</description>
+      <pubDate>Tue, 15 Sep 2026 19:45:00 -0400</pubDate>
       <guid isPermaLink="false">401816954</guid>
     </item>
     <item>
-      <title>Boston Red Sox at Texas Rangers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-16T00:05Z</pubDate>
+      <title>MLB - Texas Rangers vs Boston Red Sox - Tuesday, September 15, 2026 - 8:05 PM ET</title>
+      <description>Date: Tuesday, September 15, 2026 | Time: 8:05 PM ET | Status: Scheduled | Sport: MLB | Event: Boston Red Sox at Texas Rangers | Venue: Globe Life Field</description>
+      <pubDate>Tue, 15 Sep 2026 20:05:00 -0400</pubDate>
       <guid isPermaLink="false">401816951</guid>
     </item>
     <item>
-      <title>Kansas City Royals at Houston Astros</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-16T00:10Z</pubDate>
+      <title>MLB - Houston Astros vs Kansas City Royals - Tuesday, September 15, 2026 - 8:10 PM ET</title>
+      <description>Date: Tuesday, September 15, 2026 | Time: 8:10 PM ET | Status: Scheduled | Sport: MLB | Event: Kansas City Royals at Houston Astros | Venue: Daikin Park</description>
+      <pubDate>Tue, 15 Sep 2026 20:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816952</guid>
     </item>
     <item>
-      <title>San Diego Padres at Colorado Rockies</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-16T00:40Z</pubDate>
+      <title>MLB - Colorado Rockies vs San Diego Padres - Tuesday, September 15, 2026 - 8:40 PM ET</title>
+      <description>Date: Tuesday, September 15, 2026 | Time: 8:40 PM ET | Status: Scheduled | Sport: MLB | Event: San Diego Padres at Colorado Rockies | Venue: Coors Field</description>
+      <pubDate>Tue, 15 Sep 2026 20:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816955</guid>
     </item>
     <item>
-      <title>Seattle Mariners at Los Angeles Angels</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-16T01:38Z</pubDate>
+      <title>MLB - Los Angeles Angels vs Seattle Mariners - Tuesday, September 15, 2026 - 9:38 PM ET</title>
+      <description>Date: Tuesday, September 15, 2026 | Time: 9:38 PM ET | Status: Scheduled | Sport: MLB | Event: Seattle Mariners at Los Angeles Angels | Venue: Angel Stadium</description>
+      <pubDate>Tue, 15 Sep 2026 21:38:00 -0400</pubDate>
       <guid isPermaLink="false">401816957</guid>
     </item>
     <item>
-      <title>Miami Marlins at Arizona Diamondbacks</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-16T01:40Z</pubDate>
+      <title>MLB - Arizona Diamondbacks vs Miami Marlins - Tuesday, September 15, 2026 - 9:40 PM ET</title>
+      <description>Date: Tuesday, September 15, 2026 | Time: 9:40 PM ET | Status: Scheduled | Sport: MLB | Event: Miami Marlins at Arizona Diamondbacks | Venue: Chase Field</description>
+      <pubDate>Tue, 15 Sep 2026 21:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816956</guid>
     </item>
     <item>
-      <title>Chicago White Sox at Cleveland Guardians</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-16T17:00Z</pubDate>
+      <title>MLB - Cleveland Guardians vs Chicago White Sox - Wednesday, September 16, 2026 - 1:00 PM ET</title>
+      <description>Date: Wednesday, September 16, 2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago White Sox at Cleveland Guardians | Venue: Progressive Field</description>
+      <pubDate>Wed, 16 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401816960</guid>
     </item>
     <item>
-      <title>San Francisco Giants at St. Louis Cardinals</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-16T17:15Z</pubDate>
+      <title>MLB - St. Louis Cardinals vs San Francisco Giants - Wednesday, September 16, 2026 - 1:15 PM ET</title>
+      <description>Date: Wednesday, September 16, 2026 | Time: 1:15 PM ET | Status: Scheduled | Sport: MLB | Event: San Francisco Giants at St. Louis Cardinals | Venue: Busch Stadium</description>
+      <pubDate>Wed, 16 Sep 2026 13:15:00 -0400</pubDate>
       <guid isPermaLink="false">401816969</guid>
     </item>
     <item>
-      <title>New York Yankees at Minnesota Twins</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-16T17:40Z</pubDate>
+      <title>MLB - Minnesota Twins vs New York Yankees - Wednesday, September 16, 2026 - 1:40 PM ET</title>
+      <description>Date: Wednesday, September 16, 2026 | Time: 1:40 PM ET | Status: Scheduled | Sport: MLB | Event: New York Yankees at Minnesota Twins | Venue: Target Field</description>
+      <pubDate>Wed, 16 Sep 2026 13:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816968</guid>
     </item>
     <item>
-      <title>Detroit Tigers at Toronto Blue Jays</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-16T19:07Z</pubDate>
+      <title>MLB - Toronto Blue Jays vs Detroit Tigers - Wednesday, September 16, 2026 - 3:07 PM ET</title>
+      <description>Date: Wednesday, September 16, 2026 | Time: 3:07 PM ET | Status: Scheduled | Sport: MLB | Event: Detroit Tigers at Toronto Blue Jays | Venue: Rogers Centre</description>
+      <pubDate>Wed, 16 Sep 2026 15:07:00 -0400</pubDate>
       <guid isPermaLink="false">401816961</guid>
     </item>
     <item>
-      <title>Athletics Athletics at Tampa Bay Rays</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-16T22:40Z</pubDate>
+      <title>MLB - Tampa Bay Rays vs Athletics - Wednesday, September 16, 2026 - 6:40 PM ET</title>
+      <description>Date: Wednesday, September 16, 2026 | Time: 6:40 PM ET | Status: Scheduled | Sport: MLB | Event: Athletics Athletics at Tampa Bay Rays | Venue: Tropicana Field</description>
+      <pubDate>Wed, 16 Sep 2026 18:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816958</guid>
     </item>
     <item>
-      <title>Los Angeles Dodgers at Cincinnati Reds</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-16T22:40Z</pubDate>
+      <title>MLB - Cincinnati Reds vs Los Angeles Dodgers - Wednesday, September 16, 2026 - 6:40 PM ET</title>
+      <description>Date: Wednesday, September 16, 2026 | Time: 6:40 PM ET | Status: Scheduled | Sport: MLB | Event: Los Angeles Dodgers at Cincinnati Reds | Venue: Great American Ball Park</description>
+      <pubDate>Wed, 16 Sep 2026 18:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816962</guid>
     </item>
     <item>
-      <title>Milwaukee Brewers at Pittsburgh Pirates</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-16T22:40Z</pubDate>
+      <title>MLB - Pittsburgh Pirates vs Milwaukee Brewers - Wednesday, September 16, 2026 - 6:40 PM ET</title>
+      <description>Date: Wednesday, September 16, 2026 | Time: 6:40 PM ET | Status: Scheduled | Sport: MLB | Event: Milwaukee Brewers at Pittsburgh Pirates | Venue: PNC Park</description>
+      <pubDate>Wed, 16 Sep 2026 18:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816963</guid>
     </item>
     <item>
-      <title>Philadelphia Phillies at Washington Nationals</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-16T22:45Z</pubDate>
+      <title>MLB - Washington Nationals vs Philadelphia Phillies - Wednesday, September 16, 2026 - 6:45 PM ET</title>
+      <description>Date: Wednesday, September 16, 2026 | Time: 6:45 PM ET | Status: Scheduled | Sport: MLB | Event: Philadelphia Phillies at Washington Nationals | Venue: Nationals Park</description>
+      <pubDate>Wed, 16 Sep 2026 18:45:00 -0400</pubDate>
       <guid isPermaLink="false">401816964</guid>
     </item>
     <item>
-      <title>Baltimore Orioles at New York Mets</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-16T23:00Z</pubDate>
+      <title>MLB - New York Mets vs Baltimore Orioles - Wednesday, September 16, 2026 - 7:00 PM ET</title>
+      <description>Date: Wednesday, September 16, 2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: MLB | Event: Baltimore Orioles at New York Mets | Venue: Citi Field</description>
+      <pubDate>Wed, 16 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401816959</guid>
     </item>
     <item>
-      <title>Atlanta Braves at Chicago Cubs</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-16T23:40Z</pubDate>
+      <title>MLB - Chicago Cubs vs Atlanta Braves - Wednesday, September 16, 2026 - 7:40 PM ET</title>
+      <description>Date: Wednesday, September 16, 2026 | Time: 7:40 PM ET | Status: Scheduled | Sport: MLB | Event: Atlanta Braves at Chicago Cubs | Venue: Wrigley Field</description>
+      <pubDate>Wed, 16 Sep 2026 19:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816965</guid>
     </item>
     <item>
-      <title>Boston Red Sox at Texas Rangers</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-17T00:05Z</pubDate>
+      <title>MLB - Texas Rangers vs Boston Red Sox - Wednesday, September 16, 2026 - 8:05 PM ET</title>
+      <description>Date: Wednesday, September 16, 2026 | Time: 8:05 PM ET | Status: Scheduled | Sport: MLB | Event: Boston Red Sox at Texas Rangers | Venue: Globe Life Field</description>
+      <pubDate>Wed, 16 Sep 2026 20:05:00 -0400</pubDate>
       <guid isPermaLink="false">401816966</guid>
     </item>
     <item>
-      <title>Kansas City Royals at Houston Astros</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-17T00:10Z</pubDate>
+      <title>MLB - Houston Astros vs Kansas City Royals - Wednesday, September 16, 2026 - 8:10 PM ET</title>
+      <description>Date: Wednesday, September 16, 2026 | Time: 8:10 PM ET | Status: Scheduled | Sport: MLB | Event: Kansas City Royals at Houston Astros | Venue: Daikin Park</description>
+      <pubDate>Wed, 16 Sep 2026 20:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816967</guid>
     </item>
     <item>
-      <title>San Diego Padres at Colorado Rockies</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-17T00:40Z</pubDate>
+      <title>MLB - Colorado Rockies vs San Diego Padres - Wednesday, September 16, 2026 - 8:40 PM ET</title>
+      <description>Date: Wednesday, September 16, 2026 | Time: 8:40 PM ET | Status: Scheduled | Sport: MLB | Event: San Diego Padres at Colorado Rockies | Venue: Coors Field</description>
+      <pubDate>Wed, 16 Sep 2026 20:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816970</guid>
     </item>
     <item>
-      <title>Seattle Mariners at Los Angeles Angels</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-17T01:38Z</pubDate>
+      <title>MLB - Los Angeles Angels vs Seattle Mariners - Wednesday, September 16, 2026 - 9:38 PM ET</title>
+      <description>Date: Wednesday, September 16, 2026 | Time: 9:38 PM ET | Status: Scheduled | Sport: MLB | Event: Seattle Mariners at Los Angeles Angels | Venue: Angel Stadium</description>
+      <pubDate>Wed, 16 Sep 2026 21:38:00 -0400</pubDate>
       <guid isPermaLink="false">401816972</guid>
     </item>
     <item>
-      <title>Miami Marlins at Arizona Diamondbacks</title>
-      <description>Scheduled</description>
-      <pubDate>2026-09-17T01:40Z</pubDate>
+      <title>MLB - Arizona Diamondbacks vs Miami Marlins - Wednesday, September 16, 2026 - 9:40 PM ET</title>
+      <description>Date: Wednesday, September 16, 2026 | Time: 9:40 PM ET | Status: Scheduled | Sport: MLB | Event: Miami Marlins at Arizona Diamondbacks | Venue: Chase Field</description>
+      <pubDate>Wed, 16 Sep 2026 21:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816971</guid>
     </item>
   </channel>
