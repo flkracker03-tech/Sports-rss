@@ -1,0 +1,48 @@
+name: Update Sports RSS
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v5
+        with:
+          node-version: 24
+
+      - name: Generate RSS
+        run: |
+          cat > index.html <<'EOF'
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Sports Events</title>
+<description>Live and upcoming sports events</description>
+<link>https://flkracker03-tech.github.io/sports-rss/</link>
+<item>
+<title>Sports RSS Feed</title>
+<description>Sports feed is active</description>
+<pubDate>$(date -u +"%a, %d %b %Y %H:%M:%S +0000")</pubDate>
+</item>
+</channel>
+</rss>
+EOF
+
+      - name: Publish
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          git diff --cached --quiet || git commit -m "Update sports RSS"
+          git push
