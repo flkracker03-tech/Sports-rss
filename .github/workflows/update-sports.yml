@@ -9,175 +9,43 @@ permissions:
   contents: write
 
 jobs:
-  update:
+  update-feed:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Build sports RSS
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Create sports RSS feed
         run: |
-          python3 - <<'PY'
-          import json
-          import urllib.request
-          from datetime import datetime, timedelta, timezone
-          from zoneinfo import ZoneInfo
-          from xml.sax.saxutils import escape
-
-          leagues = [
-              ("NFL", "football", "nfl"),
-              ("College Football", "football", "college-football"),
-              ("NBA", "basketball", "nba"),
-              ("College Basketball", "basketball", "mens-college-basketball"),
-              ("WNBA", "basketball", "wnba"),
-              ("MLB", "baseball", "mlb"),
-              ("NHL", "hockey", "nhl"),
-              ("MLS", "soccer", "usa.1"),
-          ]
-
-          eastern = ZoneInfo("America/New_York")
-          events = {}
-
-          # Today + the next 7 days
-          for days_ahead in range(8):
-              day = (
-                  datetime.now(timezone.utc)
-                  + timedelta(days=days_ahead)
-              ).strftime("%Y%m%d")
-
-              for sport_name, sport, league in leagues:
-                  url = (
-                      f"https://site.api.espn.com/apis/site/v2/sports/"
-                      f"{sport}/{league}/scoreboard?dates={day}"
-                  )
-
-                  try:
-                      with urllib.request.urlopen(url, timeout=20) as response:
-                          data = json.load(response)
-
-                      for event in data.get("events", []):
-                          event_id = str(event.get("id", ""))
-
-                          if event_id:
-                              event["_sport"] = sport_name
-                              events[event_id] = event
-
-                  except Exception as e:
-                      print(f"Skipped {sport_name} {day}: {e}")
-
-          items = []
-
-          for event in sorted(
-              events.values(),
-              key=lambda x: x.get("date", "")
-          ):
-              event_id = str(event.get("id", ""))
-              sport = event.get("_sport", "Sports")
-              name = event.get("name", "Sports Event")
-
-              # Convert ESPN UTC event time to Eastern Time
-              raw_date = event.get("date", "")
-
-              try:
-                  dt = datetime.fromisoformat(
-                      raw_date.replace("Z", "+00:00")
-                  ).astimezone(eastern)
-
-                  date_text = dt.strftime("%A, %B %-d, %Y")
-                  time_text = dt.strftime("%-I:%M %p ET")
-                  rss_date = dt.strftime(
-                      "%a, %d %b %Y %H:%M:%S %z"
-                  )
-
-              except Exception:
-                  date_text = "Date unavailable"
-                  time_text = "Time unavailable"
-                  rss_date = raw_date
-
-              status = (
-                  event.get("status", {})
-                  .get("type", {})
-                  .get("description", "Scheduled")
-              )
-
-              competitors = []
-
-              for competition in event.get("competitions", []):
-                  for team in competition.get("competitors", []):
-                      team_name = (
-                          team.get("team", {}).get("displayName")
-                          or team.get("team", {}).get("shortDisplayName")
-                          or team.get("team", {}).get("name")
-                      )
-
-                      if team_name:
-                          competitors.append(team_name)
-
-                  venue = (
-                      competition.get("venue", {})
-                      .get("fullName", "")
-                  )
-
-                  break
-
-              if len(competitors) >= 2:
-                  matchup = f"{competitors[0]} vs {competitors[1]}"
-              else:
-                  matchup = name
-
-              title = (
-                  f"{sport} - {matchup} - "
-                  f"{date_text} - {time_text}"
-              )
-
-              description_parts = [
-                  f"Date: {date_text}",
-                  f"Time: {time_text}",
-                  f"Status: {status}",
-                  f"Sport: {sport}",
-                  f"Event: {name}"
-              ]
-
-              if venue:
-                  description_parts.append(f"Venue: {venue}")
-
-              description = " | ".join(description_parts)
-
-              items.append(f"""
-              <item>
-                <title>{escape(title)}</title>
-                <description>{escape(description)}</description>
-                <pubDate>{escape(rss_date)}</pubDate>
-                <guid isPermaLink="false">{escape(event_id)}</guid>
-              </item>""")
-
-          now = datetime.now(eastern).strftime(
-              "%a, %d %b %Y %H:%M:%S %z"
-          )
-
-          rss = f"""<?xml version="1.0" encoding="UTF-8"?>
+          cat > index.html <<'EOF'
+          <?xml version="1.0" encoding="UTF-8"?>
           <rss version="2.0">
             <channel>
-              <title>Live &amp; Upcoming Sports</title>
-              <description>Live and upcoming sports events with Eastern Time</description>
+              <title>Live and Upcoming Sports</title>
+              <description>Sports events with date and time</description>
               <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-              <lastBuildDate>{now}</lastBuildDate>
-              {''.join(items)}
+
+              <item>
+                <title>09/09/2026 • 7:00 PM — Test Sports Event</title>
+                <description>09/09/2026 at 7:00 PM</description>
+                <pubDate>Wed, 09 Sep 2026 19:00:00 -0400</pubDate>
+                <guid>test-event-2026-09-09-1900</guid>
+              </item>
+
             </channel>
           </rss>
-          """
+          EOF
 
-          with open("sports.xml", "w", encoding="utf-8") as f:
-              f.write(rss)
-
-          print(f"Total unique events: {len(events)}")
-          PY
-
-      - name: Commit RSS
+      - name: Commit and push RSS feed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add sports.xml
-          git diff --cached --quiet || git commit -m "Add sports dates and times"
+          git add index.html
+          git diff --cached --quiet || git commit -m "Update sports RSS feed"
           git push
