@@ -1,0 +1,106 @@
+name: Update Sports RSS
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate RSS
+        run: |
+          python3 <<'PY'
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          from datetime import datetime, timezone
+
+          sports = [
+              ("NFL", "football/nfl"),
+              ("College Football", "football/college-football"),
+              ("NBA", "basketball/nba"),
+              ("WNBA", "basketball/wnba"),
+              ("MLB", "baseball/mlb"),
+              ("NHL", "hockey/nhl"),
+              ("CFL", "football/cfl"),
+          ]
+
+          items = []
+
+          for name, path in sports:
+              url = f"https://site.api.espn.com/apis/site/v2/sports/{path}/scoreboard"
+              try:
+                  data = urllib.request.urlopen(url, timeout=15).read()
+                  js = __import__("json").loads(data)
+
+                  for event in js.get("events", []):
+                      comp = event.get("competitions", [{}])[0]
+                      competitors = comp.get("competitors", [])
+
+                      teams = " vs ".join(
+                          c.get("team", {}).get("displayName", "TBD")
+                          for c in competitors
+                      )
+
+                      date = event.get("date", "")
+                      status = (
+                          event.get("status", {})
+                          .get("type", {})
+                          .get("detail", "")
+                      )
+
+                      title = f"{name} — {teams}"
+
+                      if status:
+                          title += f" — {status}"
+
+                      items.append((date, title))
+
+              except Exception as e:
+                  print(f"{name}: {e}")
+
+          items.sort(key=lambda x: x[0])
+
+          now = datetime.now(timezone.utc)
+
+          rss = [
+              '<?xml version="1.0" encoding="UTF-8"?>',
+              '<rss version="2.0"><channel>',
+              '<title>Sports Events</title>',
+              '<description>Live and upcoming sports events — no news</description>',
+              '<link>https://flkracker03-tech.github.io/sports-rss/</link>'
+          ]
+
+          for date, title in items:
+              try:
+                  dt = datetime.fromisoformat(date.replace("Z", "+00:00"))
+                  pub = dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
+              except:
+                  pub = now.strftime("%a, %d %b %Y %H:%M:%S +0000")
+
+              rss.append(
+                  f"<item><title>{title}</title>"
+                  f"<description>{title}</description>"
+                  f"<pubDate>{pub}</pubDate></item>"
+              )
+
+          rss.append("</channel></rss>")
+
+          open("sports.xml", "w", encoding="utf-8").write("\n".join(rss))
+          PY
+
+      - name: Commit updated feed
+        run: |
+          git config user.name "sports-rss-bot"
+          git config user.email "actions@github.com"
+          git add sports.xml
+          git diff --cached --quiet || git commit -m "Update sports RSS"
+          git push
