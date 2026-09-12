@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 12 Sep 2026 18:25:36 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 18:40:38 -0400</lastBuildDate>
     
     <item>
       <title>09/12/2026 • 12:00 PM ET — College Football — Indiana Hoosiers vs Howard Bison</title>
@@ -145,12 +145,6 @@
       <guid isPermaLink="false">401816904</guid>
     </item>
     <item>
-      <title>09/12/2026 • 3:30 PM ET — College Football — Notre Dame Fighting Irish vs Rice Owls</title>
-      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Rice Owls at Notre Dame Fighting Irish | Venue: Notre Dame Stadium</description>
-      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401859184</guid>
-    </item>
-    <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — Kentucky Wildcats vs Alabama Crimson Tide</title>
       <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Alabama Crimson Tide at Kentucky Wildcats | Venue: Kroger Field</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
@@ -217,12 +211,6 @@
       <guid isPermaLink="false">401860884</guid>
     </item>
     <item>
-      <title>09/12/2026 • 3:30 PM ET — College Football — UAB Blazers vs UL Monroe Warhawks</title>
-      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: UL Monroe Warhawks at UAB Blazers | Venue: Protective Stadium</description>
-      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401862708</guid>
-    </item>
-    <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — Akron Zips vs Robert Morris Colonials</title>
       <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Robert Morris Colonials at Akron Zips | Venue: InfoCision Stadium</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
@@ -235,8 +223,20 @@
       <guid isPermaLink="false">401866419</guid>
     </item>
     <item>
+      <title>09/12/2026 • 3:30 PM ET — College Football — Notre Dame Fighting Irish vs Rice Owls</title>
+      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Rice Owls at Notre Dame Fighting Irish | Venue: Notre Dame Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401859184</guid>
+    </item>
+    <item>
+      <title>09/12/2026 • 3:30 PM ET — College Football — UAB Blazers vs UL Monroe Warhawks</title>
+      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: UL Monroe Warhawks at UAB Blazers | Venue: Protective Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401862708</guid>
+    </item>
+    <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — Massachusetts Minutemen vs Sacred Heart Pioneers</title>
-      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Sacred Heart Pioneers at Massachusetts Minutemen | Venue: Warren McGuirk Alumni Stadium</description>
+      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Sacred Heart Pioneers at Massachusetts Minutemen | Venue: Warren McGuirk Alumni Stadium</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401866420</guid>
     </item>
@@ -284,7 +284,7 @@
     </item>
     <item>
       <title>09/12/2026 • 4:10 PM ET — MLB — Boston Red Sox vs Kansas City Royals</title>
-      <description>Date: 09/12/2026 | Time: 4:10 PM ET | Status: In Progress | Sport: MLB | Event: Kansas City Royals at Boston Red Sox | Venue: Fenway Park</description>
+      <description>Date: 09/12/2026 | Time: 4:10 PM ET | Status: Final | Sport: MLB | Event: Kansas City Royals at Boston Red Sox | Venue: Fenway Park</description>
       <pubDate>Sat, 12 Sep 2026 16:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816907</guid>
     </item>
@@ -302,7 +302,7 @@
     </item>
     <item>
       <title>09/12/2026 • 4:15 PM ET — College Football — Vanderbilt Commodores vs Delaware Blue Hens</title>
-      <description>Date: 09/12/2026 | Time: 4:15 PM ET | Status: Halftime | Sport: College Football | Event: Delaware Blue Hens at Vanderbilt Commodores | Venue: FirstBank Stadium</description>
+      <description>Date: 09/12/2026 | Time: 4:15 PM ET | Status: In Progress | Sport: College Football | Event: Delaware Blue Hens at Vanderbilt Commodores | Venue: FirstBank Stadium</description>
       <pubDate>Sat, 12 Sep 2026 16:15:00 -0400</pubDate>
       <guid isPermaLink="false">401856684</guid>
     </item>
@@ -320,7 +320,7 @@
     </item>
     <item>
       <title>09/12/2026 • 6:00 PM ET — College Football — Florida International Panthers vs Buffalo Bulls</title>
-      <description>Date: 09/12/2026 | Time: 6:00 PM ET | Status: In Progress | Sport: College Football | Event: Buffalo Bulls at Florida International Panthers | Venue: Pitbull Stadium</description>
+      <description>Date: 09/12/2026 | Time: 6:00 PM ET | Status: End of Period | Sport: College Football | Event: Buffalo Bulls at Florida International Panthers | Venue: Pitbull Stadium</description>
       <pubDate>Sat, 12 Sep 2026 18:00:00 -0400</pubDate>
       <guid isPermaLink="false">401866414</guid>
     </item>
@@ -338,7 +338,7 @@
     </item>
     <item>
       <title>09/12/2026 • 6:30 PM ET — College Football — Western Michigan Broncos vs Monmouth Hawks</title>
-      <description>Date: 09/12/2026 | Time: 6:30 PM ET | Status: Scheduled | Sport: College Football | Event: Monmouth Hawks at Western Michigan Broncos | Venue: Waldo Stadium</description>
+      <description>Date: 09/12/2026 | Time: 6:30 PM ET | Status: In Progress | Sport: College Football | Event: Monmouth Hawks at Western Michigan Broncos | Venue: Waldo Stadium</description>
       <pubDate>Sat, 12 Sep 2026 18:30:00 -0400</pubDate>
       <guid isPermaLink="false">401866421</guid>
     </item>
@@ -721,12 +721,6 @@
       <guid isPermaLink="false">401816925</guid>
     </item>
     <item>
-      <title>09/13/2026 • 1:35 PM ET — MLB — Boston Red Sox vs Kansas City Royals</title>
-      <description>Date: 09/13/2026 | Time: 1:35 PM ET | Status: Scheduled | Sport: MLB | Event: Kansas City Royals at Boston Red Sox | Venue: Fenway Park</description>
-      <pubDate>Sun, 13 Sep 2026 13:35:00 -0400</pubDate>
-      <guid isPermaLink="false">401816922</guid>
-    </item>
-    <item>
       <title>09/13/2026 • 1:37 PM ET — MLB — Toronto Blue Jays vs Baltimore Orioles</title>
       <description>Date: 09/13/2026 | Time: 1:37 PM ET | Status: Scheduled | Sport: MLB | Event: Baltimore Orioles at Toronto Blue Jays | Venue: Rogers Centre</description>
       <pubDate>Sun, 13 Sep 2026 13:37:00 -0400</pubDate>
@@ -767,6 +761,12 @@
       <description>Date: 09/13/2026 | Time: 2:20 PM ET | Status: Scheduled | Sport: MLB | Event: Pittsburgh Pirates at Chicago Cubs | Venue: Wrigley Field</description>
       <pubDate>Sun, 13 Sep 2026 14:20:00 -0400</pubDate>
       <guid isPermaLink="false">401816929</guid>
+    </item>
+    <item>
+      <title>09/13/2026 • 3:05 PM ET — MLB — Boston Red Sox vs Kansas City Royals</title>
+      <description>Date: 09/13/2026 | Time: 3:05 PM ET | Status: Scheduled | Sport: MLB | Event: Kansas City Royals at Boston Red Sox | Venue: Fenway Park</description>
+      <pubDate>Sun, 13 Sep 2026 15:05:00 -0400</pubDate>
+      <guid isPermaLink="false">401816922</guid>
     </item>
     <item>
       <title>09/13/2026 • 4:05 PM ET — MLB — Athletics vs Seattle Mariners</title>
