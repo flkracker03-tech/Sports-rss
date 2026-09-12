@@ -4,14 +4,8 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 12 Sep 2026 16:11:02 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 16:27:51 -0400</lastBuildDate>
     
-    <item>
-      <title>09/12/2026 • 12:00 PM ET — College Football — North Carolina Tar Heels vs East Tennessee State Buccaneers</title>
-      <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: East Tennessee State Buccaneers at North Carolina Tar Heels | Venue: Kenan Stadium</description>
-      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858218</guid>
-    </item>
     <item>
       <title>09/12/2026 • 12:00 PM ET — College Football — Indiana Hoosiers vs Howard Bison</title>
       <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: Final | Sport: College Football | Event: Howard Bison at Indiana Hoosiers | Venue: Memorial Stadium (Bloomington, IN)</description>
@@ -41,6 +35,12 @@
       <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: Final | Sport: College Football | Event: Washington State Cougars at Kansas State Wildcats | Venue: Bill Snyder Family Stadium</description>
       <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856781</guid>
+    </item>
+    <item>
+      <title>09/12/2026 • 12:00 PM ET — College Football — North Carolina Tar Heels vs East Tennessee State Buccaneers</title>
+      <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: Final | Sport: College Football | Event: East Tennessee State Buccaneers at North Carolina Tar Heels | Venue: Kenan Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401858218</guid>
     </item>
     <item>
       <title>09/12/2026 • 12:00 PM ET — College Football — Virginia Tech Hokies vs Old Dominion Monarchs</title>
@@ -86,13 +86,13 @@
     </item>
     <item>
       <title>09/12/2026 • 12:45 PM ET — College Football — Georgia Bulldogs vs Western Kentucky Hilltoppers</title>
-      <description>Date: 09/12/2026 | Time: 12:45 PM ET | Status: In Progress | Sport: College Football | Event: Western Kentucky Hilltoppers at Georgia Bulldogs | Venue: Sanford Stadium</description>
+      <description>Date: 09/12/2026 | Time: 12:45 PM ET | Status: Final | Sport: College Football | Event: Western Kentucky Hilltoppers at Georgia Bulldogs | Venue: Sanford Stadium</description>
       <pubDate>Sat, 12 Sep 2026 12:45:00 -0400</pubDate>
       <guid isPermaLink="false">401856673</guid>
     </item>
     <item>
       <title>09/12/2026 • 1:00 PM ET — College Football — West Virginia Mountaineers vs UT Martin Skyhawks</title>
-      <description>Date: 09/12/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: College Football | Event: UT Martin Skyhawks at West Virginia Mountaineers | Venue: Milan Puskar Stadium</description>
+      <description>Date: 09/12/2026 | Time: 1:00 PM ET | Status: Final | Sport: College Football | Event: UT Martin Skyhawks at West Virginia Mountaineers | Venue: Milan Puskar Stadium</description>
       <pubDate>Sat, 12 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856791</guid>
     </item>
@@ -122,7 +122,7 @@
     </item>
     <item>
       <title>09/12/2026 • 1:35 PM ET — MLB — New York Yankees vs New York Mets</title>
-      <description>Date: 09/12/2026 | Time: 1:35 PM ET | Status: In Progress | Sport: MLB | Event: New York Mets at New York Yankees | Venue: Yankee Stadium</description>
+      <description>Date: 09/12/2026 | Time: 1:35 PM ET | Status: Final | Sport: MLB | Event: New York Mets at New York Yankees | Venue: Yankee Stadium</description>
       <pubDate>Sat, 12 Sep 2026 13:35:00 -0400</pubDate>
       <guid isPermaLink="false">401816909</guid>
     </item>
@@ -182,7 +182,7 @@
     </item>
     <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — Pittsburgh Panthers vs UCF Knights</title>
-      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: UCF Knights at Pittsburgh Panthers | Venue: Acrisure Stadium</description>
+      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Delayed | Sport: College Football | Event: UCF Knights at Pittsburgh Panthers | Venue: Acrisure Stadium</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856790</guid>
     </item>
@@ -236,7 +236,7 @@
     </item>
     <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — Massachusetts Minutemen vs Sacred Heart Pioneers</title>
-      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: End of Period | Sport: College Football | Event: Sacred Heart Pioneers at Massachusetts Minutemen | Venue: Warren McGuirk Alumni Stadium</description>
+      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Sacred Heart Pioneers at Massachusetts Minutemen | Venue: Warren McGuirk Alumni Stadium</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401866420</guid>
     </item>
@@ -253,12 +253,6 @@
       <guid isPermaLink="false">401858223</guid>
     </item>
     <item>
-      <title>09/12/2026 • 4:00 PM ET — College Football — Troy Trojans vs Alabama State Hornets</title>
-      <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: Alabama State Hornets at Troy Trojans | Venue: Veterans Memorial Stadium (AL)</description>
-      <pubDate>Sat, 12 Sep 2026 16:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401868326</guid>
-    </item>
-    <item>
       <title>09/12/2026 • 4:00 PM ET — College Football — Wyoming Cowboys vs Northern Colorado Bears</title>
       <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: Northern Colorado Bears at Wyoming Cowboys | Venue: War Memorial Stadium</description>
       <pubDate>Sat, 12 Sep 2026 16:00:00 -0400</pubDate>
@@ -269,6 +263,12 @@
       <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: Mercyhurst Lakers at New Mexico Lobos | Venue: University Stadium (NM)</description>
       <pubDate>Sat, 12 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401865252</guid>
+    </item>
+    <item>
+      <title>09/12/2026 • 4:00 PM ET — College Football — Troy Trojans vs Alabama State Hornets</title>
+      <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: Alabama State Hornets at Troy Trojans | Venue: Veterans Memorial Stadium (AL)</description>
+      <pubDate>Sat, 12 Sep 2026 16:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401868326</guid>
     </item>
     <item>
       <title>09/12/2026 • 4:05 PM ET — MLB — Washington Nationals vs Los Angeles Angels</title>
@@ -284,7 +284,7 @@
     </item>
     <item>
       <title>09/12/2026 • 4:10 PM ET — MLB — Boston Red Sox vs Kansas City Royals</title>
-      <description>Date: 09/12/2026 | Time: 4:10 PM ET | Status: Scheduled | Sport: MLB | Event: Kansas City Royals at Boston Red Sox | Venue: Fenway Park</description>
+      <description>Date: 09/12/2026 | Time: 4:10 PM ET | Status: In Progress | Sport: MLB | Event: Kansas City Royals at Boston Red Sox | Venue: Fenway Park</description>
       <pubDate>Sat, 12 Sep 2026 16:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816907</guid>
     </item>
@@ -296,13 +296,13 @@
     </item>
     <item>
       <title>09/12/2026 • 4:10 PM ET — MLB — Minnesota Twins vs Cleveland Guardians</title>
-      <description>Date: 09/12/2026 | Time: 4:10 PM ET | Status: Scheduled | Sport: MLB | Event: Cleveland Guardians at Minnesota Twins | Venue: Target Field</description>
+      <description>Date: 09/12/2026 | Time: 4:10 PM ET | Status: In Progress | Sport: MLB | Event: Cleveland Guardians at Minnesota Twins | Venue: Target Field</description>
       <pubDate>Sat, 12 Sep 2026 16:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816913</guid>
     </item>
     <item>
       <title>09/12/2026 • 4:15 PM ET — College Football — Vanderbilt Commodores vs Delaware Blue Hens</title>
-      <description>Date: 09/12/2026 | Time: 4:15 PM ET | Status: Scheduled | Sport: College Football | Event: Delaware Blue Hens at Vanderbilt Commodores | Venue: FirstBank Stadium</description>
+      <description>Date: 09/12/2026 | Time: 4:15 PM ET | Status: In Progress | Sport: College Football | Event: Delaware Blue Hens at Vanderbilt Commodores | Venue: FirstBank Stadium</description>
       <pubDate>Sat, 12 Sep 2026 16:15:00 -0400</pubDate>
       <guid isPermaLink="false">401856684</guid>
     </item>
