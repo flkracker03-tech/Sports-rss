@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 12 Sep 2026 19:37:20 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 19:50:37 -0400</lastBuildDate>
     
     <item>
       <title>09/12/2026 • 12:00 PM ET — College Football — Indiana Hoosiers vs Howard Bison</title>
@@ -145,12 +145,6 @@
       <guid isPermaLink="false">401816904</guid>
     </item>
     <item>
-      <title>09/12/2026 • 3:30 PM ET — College Football — Pittsburgh Panthers vs UCF Knights</title>
-      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: UCF Knights at Pittsburgh Panthers | Venue: Acrisure Stadium</description>
-      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401856790</guid>
-    </item>
-    <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — Notre Dame Fighting Irish vs Rice Owls</title>
       <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Rice Owls at Notre Dame Fighting Irish | Venue: Notre Dame Stadium</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
@@ -185,6 +179,12 @@
       <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Weber State Wildcats at Colorado Buffaloes | Venue: Folsom Field</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856785</guid>
+    </item>
+    <item>
+      <title>09/12/2026 • 3:30 PM ET — College Football — Pittsburgh Panthers vs UCF Knights</title>
+      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: UCF Knights at Pittsburgh Panthers | Venue: Acrisure Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401856790</guid>
     </item>
     <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — Syracuse Orange vs California Golden Bears</title>
@@ -302,7 +302,7 @@
     </item>
     <item>
       <title>09/12/2026 • 4:15 PM ET — College Football — Vanderbilt Commodores vs Delaware Blue Hens</title>
-      <description>Date: 09/12/2026 | Time: 4:15 PM ET | Status: In Progress | Sport: College Football | Event: Delaware Blue Hens at Vanderbilt Commodores | Venue: FirstBank Stadium</description>
+      <description>Date: 09/12/2026 | Time: 4:15 PM ET | Status: Final | Sport: College Football | Event: Delaware Blue Hens at Vanderbilt Commodores | Venue: FirstBank Stadium</description>
       <pubDate>Sat, 12 Sep 2026 16:15:00 -0400</pubDate>
       <guid isPermaLink="false">401856684</guid>
     </item>
@@ -314,7 +314,7 @@
     </item>
     <item>
       <title>09/12/2026 • 6:00 PM ET — College Football — Boise State Broncos vs Memphis Tigers</title>
-      <description>Date: 09/12/2026 | Time: 6:00 PM ET | Status: In Progress | Sport: College Football | Event: Memphis Tigers at Boise State Broncos | Venue: Albertsons Stadium</description>
+      <description>Date: 09/12/2026 | Time: 6:00 PM ET | Status: Halftime | Sport: College Football | Event: Memphis Tigers at Boise State Broncos | Venue: Albertsons Stadium</description>
       <pubDate>Sat, 12 Sep 2026 18:00:00 -0400</pubDate>
       <guid isPermaLink="false">401860881</guid>
     </item>
@@ -404,7 +404,7 @@
     </item>
     <item>
       <title>09/12/2026 • 7:00 PM ET — College Football — Kennesaw State Owls vs Georgia State Panthers</title>
-      <description>Date: 09/12/2026 | Time: 7:00 PM ET | Status: End of Period | Sport: College Football | Event: Georgia State Panthers at Kennesaw State Owls | Venue: Walens Family Field at Fifth Third Stadium</description>
+      <description>Date: 09/12/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Georgia State Panthers at Kennesaw State Owls | Venue: Walens Family Field at Fifth Third Stadium</description>
       <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401869955</guid>
     </item>
@@ -446,7 +446,7 @@
     </item>
     <item>
       <title>09/12/2026 • 7:15 PM ET — MLB — St. Louis Cardinals vs Chicago White Sox</title>
-      <description>Date: 09/12/2026 | Time: 7:15 PM ET | Status: Delayed | Sport: MLB | Event: Chicago White Sox at St. Louis Cardinals | Venue: Busch Stadium</description>
+      <description>Date: 09/12/2026 | Time: 7:15 PM ET | Status: In Progress | Sport: MLB | Event: Chicago White Sox at St. Louis Cardinals | Venue: Busch Stadium</description>
       <pubDate>Sat, 12 Sep 2026 19:15:00 -0400</pubDate>
       <guid isPermaLink="false">401816911</guid>
     </item>
@@ -457,20 +457,8 @@
       <guid isPermaLink="false">401867796</guid>
     </item>
     <item>
-      <title>09/12/2026 • 7:30 PM ET — College Football — Coastal Carolina Chanticleers vs Fordham Rams</title>
-      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: In Progress | Sport: College Football | Event: Fordham Rams at Coastal Carolina Chanticleers | Venue: Brooks Stadium (SC)</description>
-      <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401868008</guid>
-    </item>
-    <item>
-      <title>09/12/2026 • 7:30 PM ET — College Football — Texas Longhorns vs Ohio State Buckeyes</title>
-      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Ohio State Buckeyes at Texas Longhorns | Venue: DKR-Texas Memorial Stadium</description>
-      <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401856682</guid>
-    </item>
-    <item>
       <title>09/12/2026 • 7:30 PM ET — College Football — Oregon State Beavers vs Texas Tech Red Raiders</title>
-      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Texas Tech Red Raiders at Oregon State Beavers | Venue: Reser Stadium</description>
+      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: In Progress | Sport: College Football | Event: Texas Tech Red Raiders at Oregon State Beavers | Venue: Reser Stadium</description>
       <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856783</guid>
     </item>
@@ -482,43 +470,55 @@
     </item>
     <item>
       <title>09/12/2026 • 7:30 PM ET — College Football — Clemson Tigers vs Georgia Southern Eagles</title>
-      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Georgia Southern Eagles at Clemson Tigers | Venue: Memorial Stadium (Clemson, SC)</description>
+      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: Delayed | Sport: College Football | Event: Georgia Southern Eagles at Clemson Tigers | Venue: Memorial Stadium (Clemson, SC)</description>
       <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858219</guid>
     </item>
     <item>
       <title>09/12/2026 • 7:30 PM ET — College Football — Florida Atlantic Owls vs Navy Midshipmen</title>
-      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Navy Midshipmen at Florida Atlantic Owls | Venue: Flagler Credit Union Stadium</description>
+      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: In Progress | Sport: College Football | Event: Navy Midshipmen at Florida Atlantic Owls | Venue: Flagler Credit Union Stadium</description>
       <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401862703</guid>
     </item>
     <item>
+      <title>09/12/2026 • 7:30 PM ET — College Football — Coastal Carolina Chanticleers vs Fordham Rams</title>
+      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: In Progress | Sport: College Football | Event: Fordham Rams at Coastal Carolina Chanticleers | Venue: Brooks Stadium (SC)</description>
+      <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401868008</guid>
+    </item>
+    <item>
+      <title>09/12/2026 • 7:30 PM ET — College Football — Texas Longhorns vs Ohio State Buckeyes</title>
+      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: In Progress | Sport: College Football | Event: Ohio State Buckeyes at Texas Longhorns | Venue: DKR-Texas Memorial Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401856682</guid>
+    </item>
+    <item>
       <title>09/12/2026 • 7:30 PM ET — MLS — Columbus Crew vs Red Bull New York</title>
-      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: MLS | Event: Red Bull New York at Columbus Crew | Venue: ScottsMiracle-Gro Field</description>
+      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: First Half | Sport: MLS | Event: Red Bull New York at Columbus Crew | Venue: ScottsMiracle-Gro Field</description>
       <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">761804</guid>
     </item>
     <item>
       <title>09/12/2026 • 7:30 PM ET — MLS — D.C. United vs Atlanta United FC</title>
-      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: MLS | Event: Atlanta United FC at D.C. United | Venue: Audi Field</description>
+      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: First Half | Sport: MLS | Event: Atlanta United FC at D.C. United | Venue: Audi Field</description>
       <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">761803</guid>
     </item>
     <item>
       <title>09/12/2026 • 7:30 PM ET — MLS — FC Cincinnati vs Charlotte FC</title>
-      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: MLS | Event: Charlotte FC at FC Cincinnati | Venue: TQL Stadium</description>
+      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: First Half | Sport: MLS | Event: Charlotte FC at FC Cincinnati | Venue: TQL Stadium</description>
       <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">761802</guid>
     </item>
     <item>
       <title>09/12/2026 • 7:30 PM ET — MLS — Inter Miami CF vs Nashville SC</title>
-      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: MLS | Event: Nashville SC at Inter Miami CF | Venue: Nu Stadium</description>
+      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: First Half | Sport: MLS | Event: Nashville SC at Inter Miami CF | Venue: Nu Stadium</description>
       <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">761800</guid>
     </item>
     <item>
       <title>09/12/2026 • 7:30 PM ET — MLS — Orlando City SC vs Toronto FC</title>
-      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: MLS | Event: Toronto FC at Orlando City SC | Venue: Inter&amp;Co Stadium</description>
+      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: First Half | Sport: MLS | Event: Toronto FC at Orlando City SC | Venue: Inter&amp;Co Stadium</description>
       <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">761801</guid>
     </item>
