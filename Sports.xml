@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 12 Sep 2026 17:13:34 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 17:27:55 -0400</lastBuildDate>
     
     <item>
       <title>09/12/2026 • 12:00 PM ET — College Football — Indiana Hoosiers vs Howard Bison</title>
@@ -128,7 +128,7 @@
     </item>
     <item>
       <title>09/12/2026 • 2:00 PM ET — College Football — Ball State Cardinals vs Stony Brook Seawolves</title>
-      <description>Date: 09/12/2026 | Time: 2:00 PM ET | Status: In Progress | Sport: College Football | Event: Stony Brook Seawolves at Ball State Cardinals | Venue: Scheumann Stadium</description>
+      <description>Date: 09/12/2026 | Time: 2:00 PM ET | Status: Final | Sport: College Football | Event: Stony Brook Seawolves at Ball State Cardinals | Venue: Scheumann Stadium</description>
       <pubDate>Sat, 12 Sep 2026 14:00:00 -0400</pubDate>
       <guid isPermaLink="false">401866413</guid>
     </item>
@@ -146,13 +146,13 @@
     </item>
     <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — Notre Dame Fighting Irish vs Rice Owls</title>
-      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Halftime | Sport: College Football | Event: Rice Owls at Notre Dame Fighting Irish | Venue: Notre Dame Stadium</description>
+      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Rice Owls at Notre Dame Fighting Irish | Venue: Notre Dame Stadium</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401859184</guid>
     </item>
     <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — Kentucky Wildcats vs Alabama Crimson Tide</title>
-      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Alabama Crimson Tide at Kentucky Wildcats | Venue: Kroger Field</description>
+      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Halftime | Sport: College Football | Event: Alabama Crimson Tide at Kentucky Wildcats | Venue: Kroger Field</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856674</guid>
     </item>
@@ -164,7 +164,7 @@
     </item>
     <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — Washington Huskies vs Utah State Aggies</title>
-      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Halftime | Sport: College Football | Event: Utah State Aggies at Washington Huskies | Venue: Husky Stadium</description>
+      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Utah State Aggies at Washington Huskies | Venue: Husky Stadium</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858446</guid>
     </item>
@@ -176,7 +176,7 @@
     </item>
     <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — Colorado Buffaloes vs Weber State Wildcats</title>
-      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Weber State Wildcats at Colorado Buffaloes | Venue: Folsom Field</description>
+      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Halftime | Sport: College Football | Event: Weber State Wildcats at Colorado Buffaloes | Venue: Folsom Field</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856785</guid>
     </item>
@@ -188,13 +188,13 @@
     </item>
     <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — Syracuse Orange vs California Golden Bears</title>
-      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: California Golden Bears at Syracuse Orange | Venue: JMA Wireless Dome</description>
+      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Halftime | Sport: College Football | Event: California Golden Bears at Syracuse Orange | Venue: JMA Wireless Dome</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858216</guid>
     </item>
     <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — Illinois Fighting Illini vs Duke Blue Devils</title>
-      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Duke Blue Devils at Illinois Fighting Illini | Venue: Gies Memorial Stadium</description>
+      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Halftime | Sport: College Football | Event: Duke Blue Devils at Illinois Fighting Illini | Venue: Gies Memorial Stadium</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858217</guid>
     </item>
@@ -206,7 +206,7 @@
     </item>
     <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — UConn Huskies vs Maryland Terrapins</title>
-      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Halftime | Sport: College Football | Event: Maryland Terrapins at UConn Huskies | Venue: Pratt &amp; Whitney Stadium</description>
+      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Maryland Terrapins at UConn Huskies | Venue: Pratt &amp; Whitney Stadium</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858444</guid>
     </item>
@@ -224,13 +224,13 @@
     </item>
     <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — Akron Zips vs Robert Morris Colonials</title>
-      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Halftime | Sport: College Football | Event: Robert Morris Colonials at Akron Zips | Venue: InfoCision Stadium</description>
+      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Robert Morris Colonials at Akron Zips | Venue: InfoCision Stadium</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401866412</guid>
     </item>
     <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — Toledo Rockets vs Central Connecticut Blue Devils</title>
-      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Halftime | Sport: College Football | Event: Central Connecticut Blue Devils at Toledo Rockets | Venue: Glass Bowl</description>
+      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Central Connecticut Blue Devils at Toledo Rockets | Venue: Glass Bowl</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401866419</guid>
     </item>
