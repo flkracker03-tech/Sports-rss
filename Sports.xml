@@ -4,14 +4,8 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 12 Sep 2026 15:50:50 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 16:11:02 -0400</lastBuildDate>
     
-    <item>
-      <title>09/12/2026 • 12:00 PM ET — College Football — Kansas State Wildcats vs Washington State Cougars</title>
-      <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Washington State Cougars at Kansas State Wildcats | Venue: Bill Snyder Family Stadium</description>
-      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401856781</guid>
-    </item>
     <item>
       <title>09/12/2026 • 12:00 PM ET — College Football — North Carolina Tar Heels vs East Tennessee State Buccaneers</title>
       <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: East Tennessee State Buccaneers at North Carolina Tar Heels | Venue: Kenan Stadium</description>
@@ -41,6 +35,12 @@
       <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: Final | Sport: College Football | Event: Penn State Nittany Lions at Temple Owls | Venue: Lincoln Financial Field</description>
       <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858442</guid>
+    </item>
+    <item>
+      <title>09/12/2026 • 12:00 PM ET — College Football — Kansas State Wildcats vs Washington State Cougars</title>
+      <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: Final | Sport: College Football | Event: Washington State Cougars at Kansas State Wildcats | Venue: Bill Snyder Family Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401856781</guid>
     </item>
     <item>
       <title>09/12/2026 • 12:00 PM ET — College Football — Virginia Tech Hokies vs Old Dominion Monarchs</title>
@@ -98,7 +98,7 @@
     </item>
     <item>
       <title>09/12/2026 • 1:00 PM ET — College Football — Central Michigan Chippewas vs Colgate Raiders</title>
-      <description>Date: 09/12/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: College Football | Event: Colgate Raiders at Central Michigan Chippewas | Venue: Kelly/Shorts Stadium</description>
+      <description>Date: 09/12/2026 | Time: 1:00 PM ET | Status: Final | Sport: College Football | Event: Colgate Raiders at Central Michigan Chippewas | Venue: Kelly/Shorts Stadium</description>
       <pubDate>Sat, 12 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401866415</guid>
     </item>
@@ -182,7 +182,7 @@
     </item>
     <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — Pittsburgh Panthers vs UCF Knights</title>
-      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Delayed | Sport: College Football | Event: UCF Knights at Pittsburgh Panthers | Venue: Acrisure Stadium</description>
+      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: UCF Knights at Pittsburgh Panthers | Venue: Acrisure Stadium</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856790</guid>
     </item>
@@ -236,7 +236,7 @@
     </item>
     <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — Massachusetts Minutemen vs Sacred Heart Pioneers</title>
-      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Sacred Heart Pioneers at Massachusetts Minutemen | Venue: Warren McGuirk Alumni Stadium</description>
+      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: End of Period | Sport: College Football | Event: Sacred Heart Pioneers at Massachusetts Minutemen | Venue: Warren McGuirk Alumni Stadium</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401866420</guid>
     </item>
@@ -248,37 +248,37 @@
     </item>
     <item>
       <title>09/12/2026 • 4:00 PM ET — College Football — SMU Mustangs vs UC Davis Aggies</title>
-      <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: Scheduled | Sport: College Football | Event: UC Davis Aggies at SMU Mustangs | Venue: Gerald J. Ford Stadium</description>
+      <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: UC Davis Aggies at SMU Mustangs | Venue: Gerald J. Ford Stadium</description>
       <pubDate>Sat, 12 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858223</guid>
     </item>
     <item>
+      <title>09/12/2026 • 4:00 PM ET — College Football — Troy Trojans vs Alabama State Hornets</title>
+      <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: Alabama State Hornets at Troy Trojans | Venue: Veterans Memorial Stadium (AL)</description>
+      <pubDate>Sat, 12 Sep 2026 16:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401868326</guid>
+    </item>
+    <item>
       <title>09/12/2026 • 4:00 PM ET — College Football — Wyoming Cowboys vs Northern Colorado Bears</title>
-      <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: Scheduled | Sport: College Football | Event: Northern Colorado Bears at Wyoming Cowboys | Venue: War Memorial Stadium</description>
+      <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: Northern Colorado Bears at Wyoming Cowboys | Venue: War Memorial Stadium</description>
       <pubDate>Sat, 12 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401864506</guid>
     </item>
     <item>
       <title>09/12/2026 • 4:00 PM ET — College Football — New Mexico Lobos vs Mercyhurst Lakers</title>
-      <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: Scheduled | Sport: College Football | Event: Mercyhurst Lakers at New Mexico Lobos | Venue: University Stadium (NM)</description>
+      <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: Mercyhurst Lakers at New Mexico Lobos | Venue: University Stadium (NM)</description>
       <pubDate>Sat, 12 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401865252</guid>
     </item>
     <item>
-      <title>09/12/2026 • 4:00 PM ET — College Football — Troy Trojans vs Alabama State Hornets</title>
-      <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: Scheduled | Sport: College Football | Event: Alabama State Hornets at Troy Trojans | Venue: Veterans Memorial Stadium (AL)</description>
-      <pubDate>Sat, 12 Sep 2026 16:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401868326</guid>
-    </item>
-    <item>
       <title>09/12/2026 • 4:05 PM ET — MLB — Washington Nationals vs Los Angeles Angels</title>
-      <description>Date: 09/12/2026 | Time: 4:05 PM ET | Status: Scheduled | Sport: MLB | Event: Los Angeles Angels at Washington Nationals | Venue: Nationals Park</description>
+      <description>Date: 09/12/2026 | Time: 4:05 PM ET | Status: In Progress | Sport: MLB | Event: Los Angeles Angels at Washington Nationals | Venue: Nationals Park</description>
       <pubDate>Sat, 12 Sep 2026 16:05:00 -0400</pubDate>
       <guid isPermaLink="false">401816903</guid>
     </item>
     <item>
       <title>09/12/2026 • 4:05 PM ET — MLB — San Francisco Giants vs San Diego Padres</title>
-      <description>Date: 09/12/2026 | Time: 4:05 PM ET | Status: Scheduled | Sport: MLB | Event: San Diego Padres at San Francisco Giants | Venue: Oracle Park</description>
+      <description>Date: 09/12/2026 | Time: 4:05 PM ET | Status: In Progress | Sport: MLB | Event: San Diego Padres at San Francisco Giants | Venue: Oracle Park</description>
       <pubDate>Sat, 12 Sep 2026 16:05:00 -0400</pubDate>
       <guid isPermaLink="false">401816915</guid>
     </item>
@@ -290,7 +290,7 @@
     </item>
     <item>
       <title>09/12/2026 • 4:10 PM ET — MLB — Miami Marlins vs Los Angeles Dodgers</title>
-      <description>Date: 09/12/2026 | Time: 4:10 PM ET | Status: Scheduled | Sport: MLB | Event: Los Angeles Dodgers at Miami Marlins | Venue: loanDepot park</description>
+      <description>Date: 09/12/2026 | Time: 4:10 PM ET | Status: In Progress | Sport: MLB | Event: Los Angeles Dodgers at Miami Marlins | Venue: loanDepot park</description>
       <pubDate>Sat, 12 Sep 2026 16:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816908</guid>
     </item>
