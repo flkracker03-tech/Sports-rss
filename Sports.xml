@@ -4,37 +4,13 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 12 Sep 2026 12:11:14 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 12:26:58 -0400</lastBuildDate>
     
     <item>
       <title>09/12/2026 • 12:00 PM ET — College Football — Indiana Hoosiers vs Howard Bison</title>
       <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Howard Bison at Indiana Hoosiers | Venue: Memorial Stadium (Bloomington, IN)</description>
       <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858439</guid>
-    </item>
-    <item>
-      <title>09/12/2026 • 12:00 PM ET — College Football — Temple Owls vs Penn State Nittany Lions</title>
-      <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Penn State Nittany Lions at Temple Owls | Venue: Lincoln Financial Field</description>
-      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858442</guid>
-    </item>
-    <item>
-      <title>09/12/2026 • 12:00 PM ET — College Football — Kansas State Wildcats vs Washington State Cougars</title>
-      <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Washington State Cougars at Kansas State Wildcats | Venue: Bill Snyder Family Stadium</description>
-      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401856781</guid>
-    </item>
-    <item>
-      <title>09/12/2026 • 12:00 PM ET — College Football — Kent State Golden Flashes vs Wofford Terriers</title>
-      <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Wofford Terriers at Kent State Golden Flashes | Venue: Zoeller Field at Dix Stadium</description>
-      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401866416</guid>
-    </item>
-    <item>
-      <title>09/12/2026 • 12:00 PM ET — College Football — James Madison Dukes vs Wagner Seahawks</title>
-      <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Wagner Seahawks at James Madison Dukes | Venue: Bridgeforth Stadium</description>
-      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401867929</guid>
     </item>
     <item>
       <title>09/12/2026 • 12:00 PM ET — College Football — Oklahoma State Cowboys vs Oregon Ducks</title>
@@ -50,9 +26,21 @@
     </item>
     <item>
       <title>09/12/2026 • 12:00 PM ET — College Football — Michigan Wolverines vs Oklahoma Sooners</title>
-      <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Oklahoma Sooners at Michigan Wolverines | Venue: Michigan Stadium</description>
+      <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Oklahoma Sooners at Michigan Wolverines | Venue: Michigan Stadium</description>
       <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856679</guid>
+    </item>
+    <item>
+      <title>09/12/2026 • 12:00 PM ET — College Football — Temple Owls vs Penn State Nittany Lions</title>
+      <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Penn State Nittany Lions at Temple Owls | Venue: Lincoln Financial Field</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401858442</guid>
+    </item>
+    <item>
+      <title>09/12/2026 • 12:00 PM ET — College Football — Kansas State Wildcats vs Washington State Cougars</title>
+      <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Washington State Cougars at Kansas State Wildcats | Venue: Bill Snyder Family Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401856781</guid>
     </item>
     <item>
       <title>09/12/2026 • 12:00 PM ET — College Football — North Carolina Tar Heels vs East Tennessee State Buccaneers</title>
@@ -83,6 +71,18 @@
       <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: App State Mountaineers at East Carolina Pirates | Venue: Dowdy-Ficklen Stadium</description>
       <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401864571</guid>
+    </item>
+    <item>
+      <title>09/12/2026 • 12:00 PM ET — College Football — Kent State Golden Flashes vs Wofford Terriers</title>
+      <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Wofford Terriers at Kent State Golden Flashes | Venue: Zoeller Field at Dix Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401866416</guid>
+    </item>
+    <item>
+      <title>09/12/2026 • 12:00 PM ET — College Football — James Madison Dukes vs Wagner Seahawks</title>
+      <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Wagner Seahawks at James Madison Dukes | Venue: Bridgeforth Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401867929</guid>
     </item>
     <item>
       <title>09/12/2026 • 12:00 PM ET — College Football — Liberty Flames vs Gardner-Webb Runnin' Bulldogs</title>
