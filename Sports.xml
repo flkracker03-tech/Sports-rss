@@ -4,14 +4,8 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 12 Sep 2026 14:53:59 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 15:09:23 -0400</lastBuildDate>
     
-    <item>
-      <title>09/12/2026 • 12:00 PM ET — College Football — Indiana Hoosiers vs Howard Bison</title>
-      <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: Final | Sport: College Football | Event: Howard Bison at Indiana Hoosiers | Venue: Memorial Stadium (Bloomington, IN)</description>
-      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858439</guid>
-    </item>
     <item>
       <title>09/12/2026 • 12:00 PM ET — College Football — Texas A&amp;M Aggies vs Arizona State Sun Devils</title>
       <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Arizona State Sun Devils at Texas A&amp;M Aggies | Venue: Kyle Field</description>
@@ -26,7 +20,7 @@
     </item>
     <item>
       <title>09/12/2026 • 12:00 PM ET — College Football — Temple Owls vs Penn State Nittany Lions</title>
-      <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Penn State Nittany Lions at Temple Owls | Venue: Lincoln Financial Field</description>
+      <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: Final | Sport: College Football | Event: Penn State Nittany Lions at Temple Owls | Venue: Lincoln Financial Field</description>
       <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858442</guid>
     </item>
@@ -85,6 +79,12 @@
       <guid isPermaLink="false">401868187</guid>
     </item>
     <item>
+      <title>09/12/2026 • 12:00 PM ET — College Football — Indiana Hoosiers vs Howard Bison</title>
+      <description>Date: 09/12/2026 | Time: 12:00 PM ET | Status: Final | Sport: College Football | Event: Howard Bison at Indiana Hoosiers | Venue: Memorial Stadium (Bloomington, IN)</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401858439</guid>
+    </item>
+    <item>
       <title>09/12/2026 • 12:45 PM ET — College Football — Georgia Bulldogs vs Western Kentucky Hilltoppers</title>
       <description>Date: 09/12/2026 | Time: 12:45 PM ET | Status: In Progress | Sport: College Football | Event: Western Kentucky Hilltoppers at Georgia Bulldogs | Venue: Sanford Stadium</description>
       <pubDate>Sat, 12 Sep 2026 12:45:00 -0400</pubDate>
@@ -140,7 +140,7 @@
     </item>
     <item>
       <title>09/12/2026 • 3:07 PM ET — MLB — Toronto Blue Jays vs Baltimore Orioles</title>
-      <description>Date: 09/12/2026 | Time: 3:07 PM ET | Status: Scheduled | Sport: MLB | Event: Baltimore Orioles at Toronto Blue Jays | Venue: Rogers Centre</description>
+      <description>Date: 09/12/2026 | Time: 3:07 PM ET | Status: In Progress | Sport: MLB | Event: Baltimore Orioles at Toronto Blue Jays | Venue: Rogers Centre</description>
       <pubDate>Sat, 12 Sep 2026 15:07:00 -0400</pubDate>
       <guid isPermaLink="false">401816904</guid>
     </item>
