@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 12 Sep 2026 19:10:28 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 19:25:00 -0400</lastBuildDate>
     
     <item>
       <title>09/12/2026 • 12:00 PM ET — College Football — Indiana Hoosiers vs Howard Bison</title>
@@ -145,18 +145,6 @@
       <guid isPermaLink="false">401816904</guid>
     </item>
     <item>
-      <title>09/12/2026 • 3:30 PM ET — College Football — Kentucky Wildcats vs Alabama Crimson Tide</title>
-      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Alabama Crimson Tide at Kentucky Wildcats | Venue: Kroger Field</description>
-      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401856674</guid>
-    </item>
-    <item>
-      <title>09/12/2026 • 3:30 PM ET — College Football — Colorado Buffaloes vs Weber State Wildcats</title>
-      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Weber State Wildcats at Colorado Buffaloes | Venue: Folsom Field</description>
-      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401856785</guid>
-    </item>
-    <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — Pittsburgh Panthers vs UCF Knights</title>
       <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: UCF Knights at Pittsburgh Panthers | Venue: Acrisure Stadium</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
@@ -170,7 +158,7 @@
     </item>
     <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — Texas State Bobcats vs UTSA Roadrunners</title>
-      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: UTSA Roadrunners at Texas State Bobcats | Venue: UFCU Stadium</description>
+      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: UTSA Roadrunners at Texas State Bobcats | Venue: UFCU Stadium</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401860884</guid>
     </item>
@@ -179,6 +167,12 @@
       <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Rice Owls at Notre Dame Fighting Irish | Venue: Notre Dame Stadium</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401859184</guid>
+    </item>
+    <item>
+      <title>09/12/2026 • 3:30 PM ET — College Football — Kentucky Wildcats vs Alabama Crimson Tide</title>
+      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Alabama Crimson Tide at Kentucky Wildcats | Venue: Kroger Field</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401856674</guid>
     </item>
     <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — BYU Cougars vs Arizona Wildcats</title>
@@ -197,6 +191,12 @@
       <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Mississippi State Bulldogs at Minnesota Golden Gophers | Venue: Huntington Bank Stadium</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856677</guid>
+    </item>
+    <item>
+      <title>09/12/2026 • 3:30 PM ET — College Football — Colorado Buffaloes vs Weber State Wildcats</title>
+      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Weber State Wildcats at Colorado Buffaloes | Venue: Folsom Field</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401856785</guid>
     </item>
     <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — Illinois Fighting Illini vs Duke Blue Devils</title>
@@ -242,25 +242,25 @@
     </item>
     <item>
       <title>09/12/2026 • 3:45 PM ET — College Football — North Texas Mean Green vs UNLV Rebels</title>
-      <description>Date: 09/12/2026 | Time: 3:45 PM ET | Status: In Progress | Sport: College Football | Event: UNLV Rebels at North Texas Mean Green | Venue: DATCU Stadium</description>
+      <description>Date: 09/12/2026 | Time: 3:45 PM ET | Status: Final | Sport: College Football | Event: UNLV Rebels at North Texas Mean Green | Venue: DATCU Stadium</description>
       <pubDate>Sat, 12 Sep 2026 15:45:00 -0400</pubDate>
       <guid isPermaLink="false">401862705</guid>
     </item>
     <item>
       <title>09/12/2026 • 4:00 PM ET — College Football — SMU Mustangs vs UC Davis Aggies</title>
-      <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: UC Davis Aggies at SMU Mustangs | Venue: Gerald J. Ford Stadium</description>
+      <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: Final | Sport: College Football | Event: UC Davis Aggies at SMU Mustangs | Venue: Gerald J. Ford Stadium</description>
       <pubDate>Sat, 12 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858223</guid>
     </item>
     <item>
       <title>09/12/2026 • 4:00 PM ET — College Football — Wyoming Cowboys vs Northern Colorado Bears</title>
-      <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: Delayed | Sport: College Football | Event: Northern Colorado Bears at Wyoming Cowboys | Venue: War Memorial Stadium</description>
+      <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: Northern Colorado Bears at Wyoming Cowboys | Venue: War Memorial Stadium</description>
       <pubDate>Sat, 12 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401864506</guid>
     </item>
     <item>
       <title>09/12/2026 • 4:00 PM ET — College Football — New Mexico Lobos vs Mercyhurst Lakers</title>
-      <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: Mercyhurst Lakers at New Mexico Lobos | Venue: University Stadium (NM)</description>
+      <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: Final | Sport: College Football | Event: Mercyhurst Lakers at New Mexico Lobos | Venue: University Stadium (NM)</description>
       <pubDate>Sat, 12 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401865252</guid>
     </item>
@@ -343,6 +343,12 @@
       <guid isPermaLink="false">401866421</guid>
     </item>
     <item>
+      <title>09/12/2026 • 7:00 PM ET — College Football — Georgia Tech Yellow Jackets vs Tennessee Volunteers</title>
+      <description>Date: 09/12/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Tennessee Volunteers at Georgia Tech Yellow Jackets | Venue: Bobby Dodd Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401856681</guid>
+    </item>
+    <item>
       <title>09/12/2026 • 7:00 PM ET — College Football — Houston Cougars vs Southern Jaguars</title>
       <description>Date: 09/12/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Southern Jaguars at Houston Cougars | Venue: TDECU Stadium</description>
       <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
@@ -361,6 +367,12 @@
       <guid isPermaLink="false">401856786</guid>
     </item>
     <item>
+      <title>09/12/2026 • 7:00 PM ET — College Football — Nebraska Cornhuskers vs Bowling Green Falcons</title>
+      <description>Date: 09/12/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Bowling Green Falcons at Nebraska Cornhuskers | Venue: Memorial Stadium (Lincoln, NE)</description>
+      <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401858441</guid>
+    </item>
+    <item>
       <title>09/12/2026 • 7:00 PM ET — College Football — Colorado State Rams vs Southern Utah Thunderbirds</title>
       <description>Date: 09/12/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Southern Utah Thunderbirds at Colorado State Rams | Venue: Canvas Stadium</description>
       <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
@@ -371,6 +383,12 @@
       <description>Date: 09/12/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Tulsa Golden Hurricane at Sam Houston Bearkats | Venue: Elliott T. Bowers Stadium</description>
       <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401862707</guid>
+    </item>
+    <item>
+      <title>09/12/2026 • 7:00 PM ET — College Football — Northern Illinois Huskies vs Illinois State Redbirds</title>
+      <description>Date: 09/12/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Illinois State Redbirds at Northern Illinois Huskies | Venue: Huskie Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401864503</guid>
     </item>
     <item>
       <title>09/12/2026 • 7:00 PM ET — College Football — Tulane Green Wave vs South Alabama Jaguars</title>
@@ -389,24 +407,6 @@
       <description>Date: 09/12/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Georgia State Panthers at Kennesaw State Owls | Venue: Walens Family Field at Fifth Third Stadium</description>
       <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401869955</guid>
-    </item>
-    <item>
-      <title>09/12/2026 • 7:00 PM ET — College Football — Georgia Tech Yellow Jackets vs Tennessee Volunteers</title>
-      <description>Date: 09/12/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Tennessee Volunteers at Georgia Tech Yellow Jackets | Venue: Bobby Dodd Stadium</description>
-      <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401856681</guid>
-    </item>
-    <item>
-      <title>09/12/2026 • 7:00 PM ET — College Football — Nebraska Cornhuskers vs Bowling Green Falcons</title>
-      <description>Date: 09/12/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Bowling Green Falcons at Nebraska Cornhuskers | Venue: Memorial Stadium (Lincoln, NE)</description>
-      <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858441</guid>
-    </item>
-    <item>
-      <title>09/12/2026 • 7:00 PM ET — College Football — Northern Illinois Huskies vs Illinois State Redbirds</title>
-      <description>Date: 09/12/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Illinois State Redbirds at Northern Illinois Huskies | Venue: Huskie Stadium</description>
-      <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401864503</guid>
     </item>
     <item>
       <title>09/12/2026 • 7:00 PM ET — College Football — Marshall Thundering Herd vs Middle Tennessee Blue Raiders</title>
@@ -428,25 +428,25 @@
     </item>
     <item>
       <title>09/12/2026 • 7:15 PM ET — College Football — UCLA Bruins vs San Diego State Aztecs</title>
-      <description>Date: 09/12/2026 | Time: 7:15 PM ET | Status: Scheduled | Sport: College Football | Event: San Diego State Aztecs at UCLA Bruins | Venue: Rose Bowl</description>
+      <description>Date: 09/12/2026 | Time: 7:15 PM ET | Status: In Progress | Sport: College Football | Event: San Diego State Aztecs at UCLA Bruins | Venue: Rose Bowl</description>
       <pubDate>Sat, 12 Sep 2026 19:15:00 -0400</pubDate>
       <guid isPermaLink="false">401858443</guid>
     </item>
     <item>
       <title>09/12/2026 • 7:15 PM ET — College Football — Wisconsin Badgers vs Western Illinois Leathernecks</title>
-      <description>Date: 09/12/2026 | Time: 7:15 PM ET | Status: Scheduled | Sport: College Football | Event: Western Illinois Leathernecks at Wisconsin Badgers | Venue: Camp Randall Stadium</description>
+      <description>Date: 09/12/2026 | Time: 7:15 PM ET | Status: In Progress | Sport: College Football | Event: Western Illinois Leathernecks at Wisconsin Badgers | Venue: Camp Randall Stadium</description>
       <pubDate>Sat, 12 Sep 2026 19:15:00 -0400</pubDate>
       <guid isPermaLink="false">401858447</guid>
     </item>
     <item>
       <title>09/12/2026 • 7:15 PM ET — MLB — Atlanta Braves vs Philadelphia Phillies</title>
-      <description>Date: 09/12/2026 | Time: 7:15 PM ET | Status: Scheduled | Sport: MLB | Event: Philadelphia Phillies at Atlanta Braves | Venue: Truist Park</description>
+      <description>Date: 09/12/2026 | Time: 7:15 PM ET | Status: In Progress | Sport: MLB | Event: Philadelphia Phillies at Atlanta Braves | Venue: Truist Park</description>
       <pubDate>Sat, 12 Sep 2026 19:15:00 -0400</pubDate>
       <guid isPermaLink="false">401816910</guid>
     </item>
     <item>
       <title>09/12/2026 • 7:15 PM ET — MLB — St. Louis Cardinals vs Chicago White Sox</title>
-      <description>Date: 09/12/2026 | Time: 7:15 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago White Sox at St. Louis Cardinals | Venue: Busch Stadium</description>
+      <description>Date: 09/12/2026 | Time: 7:15 PM ET | Status: Delayed | Sport: MLB | Event: Chicago White Sox at St. Louis Cardinals | Venue: Busch Stadium</description>
       <pubDate>Sat, 12 Sep 2026 19:15:00 -0400</pubDate>
       <guid isPermaLink="false">401816911</guid>
     </item>
