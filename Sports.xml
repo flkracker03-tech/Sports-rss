@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 12 Sep 2026 18:10:57 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 18:25:36 -0400</lastBuildDate>
     
     <item>
       <title>09/12/2026 • 12:00 PM ET — College Football — Indiana Hoosiers vs Howard Bison</title>
@@ -182,7 +182,7 @@
     </item>
     <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — Pittsburgh Panthers vs UCF Knights</title>
-      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Halftime | Sport: College Football | Event: UCF Knights at Pittsburgh Panthers | Venue: Acrisure Stadium</description>
+      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: UCF Knights at Pittsburgh Panthers | Venue: Acrisure Stadium</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856790</guid>
     </item>
@@ -260,7 +260,7 @@
     </item>
     <item>
       <title>09/12/2026 • 4:00 PM ET — College Football — New Mexico Lobos vs Mercyhurst Lakers</title>
-      <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: Halftime | Sport: College Football | Event: Mercyhurst Lakers at New Mexico Lobos | Venue: University Stadium (NM)</description>
+      <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: Mercyhurst Lakers at New Mexico Lobos | Venue: University Stadium (NM)</description>
       <pubDate>Sat, 12 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401865252</guid>
     </item>
@@ -313,6 +313,12 @@
       <guid isPermaLink="false">401856672</guid>
     </item>
     <item>
+      <title>09/12/2026 • 6:00 PM ET — College Football — Boise State Broncos vs Memphis Tigers</title>
+      <description>Date: 09/12/2026 | Time: 6:00 PM ET | Status: In Progress | Sport: College Football | Event: Memphis Tigers at Boise State Broncos | Venue: Albertsons Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 18:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401860881</guid>
+    </item>
+    <item>
       <title>09/12/2026 • 6:00 PM ET — College Football — Florida International Panthers vs Buffalo Bulls</title>
       <description>Date: 09/12/2026 | Time: 6:00 PM ET | Status: In Progress | Sport: College Football | Event: Buffalo Bulls at Florida International Panthers | Venue: Pitbull Stadium</description>
       <pubDate>Sat, 12 Sep 2026 18:00:00 -0400</pubDate>
@@ -323,12 +329,6 @@
       <description>Date: 09/12/2026 | Time: 6:00 PM ET | Status: In Progress | Sport: College Football | Event: Jacksonville State Gamecocks at Ohio Bobcats | Venue: Peden Stadium</description>
       <pubDate>Sat, 12 Sep 2026 18:00:00 -0400</pubDate>
       <guid isPermaLink="false">401866418</guid>
-    </item>
-    <item>
-      <title>09/12/2026 • 6:00 PM ET — College Football — Boise State Broncos vs Memphis Tigers</title>
-      <description>Date: 09/12/2026 | Time: 6:00 PM ET | Status: In Progress | Sport: College Football | Event: Memphis Tigers at Boise State Broncos | Venue: Albertsons Stadium</description>
-      <pubDate>Sat, 12 Sep 2026 18:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401860881</guid>
     </item>
     <item>
       <title>09/12/2026 • 6:10 PM ET — MLB — Tampa Bay Rays vs Houston Astros</title>
@@ -709,12 +709,6 @@
       <guid isPermaLink="false">401816918</guid>
     </item>
     <item>
-      <title>09/13/2026 • 1:35 PM ET — MLB — Boston Red Sox vs Kansas City Royals</title>
-      <description>Date: 09/13/2026 | Time: 1:35 PM ET | Status: Scheduled | Sport: MLB | Event: Kansas City Royals at Boston Red Sox | Venue: Fenway Park</description>
-      <pubDate>Sun, 13 Sep 2026 13:35:00 -0400</pubDate>
-      <guid isPermaLink="false">401816922</guid>
-    </item>
-    <item>
       <title>09/13/2026 • 1:35 PM ET — MLB — New York Yankees vs New York Mets</title>
       <description>Date: 09/13/2026 | Time: 1:35 PM ET | Status: Scheduled | Sport: MLB | Event: New York Mets at New York Yankees | Venue: Yankee Stadium</description>
       <pubDate>Sun, 13 Sep 2026 13:35:00 -0400</pubDate>
@@ -725,6 +719,12 @@
       <description>Date: 09/13/2026 | Time: 1:35 PM ET | Status: Scheduled | Sport: MLB | Event: Philadelphia Phillies at Atlanta Braves | Venue: Truist Park</description>
       <pubDate>Sun, 13 Sep 2026 13:35:00 -0400</pubDate>
       <guid isPermaLink="false">401816925</guid>
+    </item>
+    <item>
+      <title>09/13/2026 • 1:35 PM ET — MLB — Boston Red Sox vs Kansas City Royals</title>
+      <description>Date: 09/13/2026 | Time: 1:35 PM ET | Status: Scheduled | Sport: MLB | Event: Kansas City Royals at Boston Red Sox | Venue: Fenway Park</description>
+      <pubDate>Sun, 13 Sep 2026 13:35:00 -0400</pubDate>
+      <guid isPermaLink="false">401816922</guid>
     </item>
     <item>
       <title>09/13/2026 • 1:37 PM ET — MLB — Toronto Blue Jays vs Baltimore Orioles</title>
