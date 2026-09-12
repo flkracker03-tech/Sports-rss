@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 12 Sep 2026 19:25:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 19:37:20 -0400</lastBuildDate>
     
     <item>
       <title>09/12/2026 • 12:00 PM ET — College Football — Indiana Hoosiers vs Howard Bison</title>
@@ -151,18 +151,6 @@
       <guid isPermaLink="false">401856790</guid>
     </item>
     <item>
-      <title>09/12/2026 • 3:30 PM ET — College Football — Syracuse Orange vs California Golden Bears</title>
-      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: California Golden Bears at Syracuse Orange | Venue: JMA Wireless Dome</description>
-      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401858216</guid>
-    </item>
-    <item>
-      <title>09/12/2026 • 3:30 PM ET — College Football — Texas State Bobcats vs UTSA Roadrunners</title>
-      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: UTSA Roadrunners at Texas State Bobcats | Venue: UFCU Stadium</description>
-      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401860884</guid>
-    </item>
-    <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — Notre Dame Fighting Irish vs Rice Owls</title>
       <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Rice Owls at Notre Dame Fighting Irish | Venue: Notre Dame Stadium</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
@@ -199,6 +187,12 @@
       <guid isPermaLink="false">401856785</guid>
     </item>
     <item>
+      <title>09/12/2026 • 3:30 PM ET — College Football — Syracuse Orange vs California Golden Bears</title>
+      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: California Golden Bears at Syracuse Orange | Venue: JMA Wireless Dome</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401858216</guid>
+    </item>
+    <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — Illinois Fighting Illini vs Duke Blue Devils</title>
       <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Duke Blue Devils at Illinois Fighting Illini | Venue: Gies Memorial Stadium</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
@@ -215,6 +209,12 @@
       <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Maryland Terrapins at UConn Huskies | Venue: Pratt &amp; Whitney Stadium</description>
       <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858444</guid>
+    </item>
+    <item>
+      <title>09/12/2026 • 3:30 PM ET — College Football — Texas State Bobcats vs UTSA Roadrunners</title>
+      <description>Date: 09/12/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: UTSA Roadrunners at Texas State Bobcats | Venue: UFCU Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401860884</guid>
     </item>
     <item>
       <title>09/12/2026 • 3:30 PM ET — College Football — UAB Blazers vs UL Monroe Warhawks</title>
@@ -247,16 +247,16 @@
       <guid isPermaLink="false">401862705</guid>
     </item>
     <item>
-      <title>09/12/2026 • 4:00 PM ET — College Football — SMU Mustangs vs UC Davis Aggies</title>
-      <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: Final | Sport: College Football | Event: UC Davis Aggies at SMU Mustangs | Venue: Gerald J. Ford Stadium</description>
-      <pubDate>Sat, 12 Sep 2026 16:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858223</guid>
-    </item>
-    <item>
       <title>09/12/2026 • 4:00 PM ET — College Football — Wyoming Cowboys vs Northern Colorado Bears</title>
       <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: Northern Colorado Bears at Wyoming Cowboys | Venue: War Memorial Stadium</description>
       <pubDate>Sat, 12 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401864506</guid>
+    </item>
+    <item>
+      <title>09/12/2026 • 4:00 PM ET — College Football — SMU Mustangs vs UC Davis Aggies</title>
+      <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: Final | Sport: College Football | Event: UC Davis Aggies at SMU Mustangs | Venue: Gerald J. Ford Stadium</description>
+      <pubDate>Sat, 12 Sep 2026 16:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401858223</guid>
     </item>
     <item>
       <title>09/12/2026 • 4:00 PM ET — College Football — New Mexico Lobos vs Mercyhurst Lakers</title>
@@ -266,7 +266,7 @@
     </item>
     <item>
       <title>09/12/2026 • 4:00 PM ET — College Football — Troy Trojans vs Alabama State Hornets</title>
-      <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: Alabama State Hornets at Troy Trojans | Venue: Veterans Memorial Stadium (AL)</description>
+      <description>Date: 09/12/2026 | Time: 4:00 PM ET | Status: Final | Sport: College Football | Event: Alabama State Hornets at Troy Trojans | Venue: Veterans Memorial Stadium (AL)</description>
       <pubDate>Sat, 12 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401868326</guid>
     </item>
@@ -308,7 +308,7 @@
     </item>
     <item>
       <title>09/12/2026 • 5:30 PM ET — College Football — Florida Gators vs Campbell Fighting Camels</title>
-      <description>Date: 09/12/2026 | Time: 5:30 PM ET | Status: Halftime | Sport: College Football | Event: Campbell Fighting Camels at Florida Gators | Venue: Ben Hill Griffin Stadium</description>
+      <description>Date: 09/12/2026 | Time: 5:30 PM ET | Status: In Progress | Sport: College Football | Event: Campbell Fighting Camels at Florida Gators | Venue: Ben Hill Griffin Stadium</description>
       <pubDate>Sat, 12 Sep 2026 17:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856672</guid>
     </item>
@@ -320,13 +320,13 @@
     </item>
     <item>
       <title>09/12/2026 • 6:00 PM ET — College Football — Florida International Panthers vs Buffalo Bulls</title>
-      <description>Date: 09/12/2026 | Time: 6:00 PM ET | Status: In Progress | Sport: College Football | Event: Buffalo Bulls at Florida International Panthers | Venue: Pitbull Stadium</description>
+      <description>Date: 09/12/2026 | Time: 6:00 PM ET | Status: Halftime | Sport: College Football | Event: Buffalo Bulls at Florida International Panthers | Venue: Pitbull Stadium</description>
       <pubDate>Sat, 12 Sep 2026 18:00:00 -0400</pubDate>
       <guid isPermaLink="false">401866414</guid>
     </item>
     <item>
       <title>09/12/2026 • 6:00 PM ET — College Football — Ohio Bobcats vs Jacksonville State Gamecocks</title>
-      <description>Date: 09/12/2026 | Time: 6:00 PM ET | Status: In Progress | Sport: College Football | Event: Jacksonville State Gamecocks at Ohio Bobcats | Venue: Peden Stadium</description>
+      <description>Date: 09/12/2026 | Time: 6:00 PM ET | Status: Halftime | Sport: College Football | Event: Jacksonville State Gamecocks at Ohio Bobcats | Venue: Peden Stadium</description>
       <pubDate>Sat, 12 Sep 2026 18:00:00 -0400</pubDate>
       <guid isPermaLink="false">401866418</guid>
     </item>
@@ -404,7 +404,7 @@
     </item>
     <item>
       <title>09/12/2026 • 7:00 PM ET — College Football — Kennesaw State Owls vs Georgia State Panthers</title>
-      <description>Date: 09/12/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Georgia State Panthers at Kennesaw State Owls | Venue: Walens Family Field at Fifth Third Stadium</description>
+      <description>Date: 09/12/2026 | Time: 7:00 PM ET | Status: End of Period | Sport: College Football | Event: Georgia State Panthers at Kennesaw State Owls | Venue: Walens Family Field at Fifth Third Stadium</description>
       <pubDate>Sat, 12 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401869955</guid>
     </item>
@@ -451,16 +451,22 @@
       <guid isPermaLink="false">401816911</guid>
     </item>
     <item>
+      <title>09/12/2026 • 7:30 PM ET — College Football — LSU Tigers vs Louisiana Tech Bulldogs</title>
+      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: In Progress | Sport: College Football | Event: Louisiana Tech Bulldogs at LSU Tigers | Venue: Tiger Stadium (LA)</description>
+      <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401867796</guid>
+    </item>
+    <item>
+      <title>09/12/2026 • 7:30 PM ET — College Football — Coastal Carolina Chanticleers vs Fordham Rams</title>
+      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: In Progress | Sport: College Football | Event: Fordham Rams at Coastal Carolina Chanticleers | Venue: Brooks Stadium (SC)</description>
+      <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401868008</guid>
+    </item>
+    <item>
       <title>09/12/2026 • 7:30 PM ET — College Football — Texas Longhorns vs Ohio State Buckeyes</title>
       <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Ohio State Buckeyes at Texas Longhorns | Venue: DKR-Texas Memorial Stadium</description>
       <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856682</guid>
-    </item>
-    <item>
-      <title>09/12/2026 • 7:30 PM ET — College Football — LSU Tigers vs Louisiana Tech Bulldogs</title>
-      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Louisiana Tech Bulldogs at LSU Tigers | Venue: Tiger Stadium (LA)</description>
-      <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401867796</guid>
     </item>
     <item>
       <title>09/12/2026 • 7:30 PM ET — College Football — Oregon State Beavers vs Texas Tech Red Raiders</title>
@@ -470,7 +476,7 @@
     </item>
     <item>
       <title>09/12/2026 • 7:30 PM ET — College Football — Iowa Hawkeyes vs Iowa State Cyclones</title>
-      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Iowa State Cyclones at Iowa Hawkeyes | Venue: Kinnick Stadium</description>
+      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: In Progress | Sport: College Football | Event: Iowa State Cyclones at Iowa Hawkeyes | Venue: Kinnick Stadium</description>
       <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856788</guid>
     </item>
@@ -485,12 +491,6 @@
       <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Navy Midshipmen at Florida Atlantic Owls | Venue: Flagler Credit Union Stadium</description>
       <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401862703</guid>
-    </item>
-    <item>
-      <title>09/12/2026 • 7:30 PM ET — College Football — Coastal Carolina Chanticleers vs Fordham Rams</title>
-      <description>Date: 09/12/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Fordham Rams at Coastal Carolina Chanticleers | Venue: Brooks Stadium (SC)</description>
-      <pubDate>Sat, 12 Sep 2026 19:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401868008</guid>
     </item>
     <item>
       <title>09/12/2026 • 7:30 PM ET — MLS — Columbus Crew vs Red Bull New York</title>
