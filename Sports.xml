@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 13 Sep 2026 16:52:07 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 17:10:37 -0400</lastBuildDate>
     
     <item>
       <title>09/13/2026 • 12:10 PM ET — MLB — Detroit Tigers vs Colorado Rockies</title>
@@ -13,16 +13,16 @@
       <guid isPermaLink="false">401816920</guid>
     </item>
     <item>
-      <title>09/13/2026 • 1:00 PM ET — NFL — Detroit Lions vs New Orleans Saints</title>
-      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: New Orleans Saints at Detroit Lions | Venue: Ford Field</description>
-      <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401872923</guid>
-    </item>
-    <item>
       <title>09/13/2026 • 1:00 PM ET — NFL — Cincinnati Bengals vs Tampa Bay Buccaneers</title>
       <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Tampa Bay Buccaneers at Cincinnati Bengals | Venue: Paycor Stadium</description>
       <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872925</guid>
+    </item>
+    <item>
+      <title>09/13/2026 • 1:00 PM ET — NFL — Detroit Lions vs New Orleans Saints</title>
+      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: New Orleans Saints at Detroit Lions | Venue: Ford Field</description>
+      <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401872923</guid>
     </item>
     <item>
       <title>09/13/2026 • 1:00 PM ET — NFL — Tennessee Titans vs New York Jets</title>
@@ -104,7 +104,7 @@
     </item>
     <item>
       <title>09/13/2026 • 2:10 PM ET — MLB — Minnesota Twins vs Cleveland Guardians</title>
-      <description>Date: 09/13/2026 | Time: 2:10 PM ET | Status: In Progress | Sport: MLB | Event: Cleveland Guardians at Minnesota Twins | Venue: Target Field</description>
+      <description>Date: 09/13/2026 | Time: 2:10 PM ET | Status: Final | Sport: MLB | Event: Cleveland Guardians at Minnesota Twins | Venue: Target Field</description>
       <pubDate>Sun, 13 Sep 2026 14:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816928</guid>
     </item>
@@ -122,7 +122,7 @@
     </item>
     <item>
       <title>09/13/2026 • 3:05 PM ET — MLB — Boston Red Sox vs Kansas City Royals</title>
-      <description>Date: 09/13/2026 | Time: 3:05 PM ET | Status: Rain Delay | Sport: MLB | Event: Kansas City Royals at Boston Red Sox | Venue: Fenway Park</description>
+      <description>Date: 09/13/2026 | Time: 3:05 PM ET | Status: In Progress | Sport: MLB | Event: Kansas City Royals at Boston Red Sox | Venue: Fenway Park</description>
       <pubDate>Sun, 13 Sep 2026 15:05:00 -0400</pubDate>
       <guid isPermaLink="false">401816922</guid>
     </item>
