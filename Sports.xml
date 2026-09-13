@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 13 Sep 2026 19:24:33 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 19:38:31 -0400</lastBuildDate>
     
     <item>
       <title>09/13/2026 • 12:10 PM ET — MLB — Detroit Tigers vs Colorado Rockies</title>
@@ -122,13 +122,13 @@
     </item>
     <item>
       <title>09/13/2026 • 3:05 PM ET — MLB — Boston Red Sox vs Kansas City Royals</title>
-      <description>Date: 09/13/2026 | Time: 3:05 PM ET | Status: In Progress | Sport: MLB | Event: Kansas City Royals at Boston Red Sox | Venue: Fenway Park</description>
+      <description>Date: 09/13/2026 | Time: 3:05 PM ET | Status: Final | Sport: MLB | Event: Kansas City Royals at Boston Red Sox | Venue: Fenway Park</description>
       <pubDate>Sun, 13 Sep 2026 15:05:00 -0400</pubDate>
       <guid isPermaLink="false">401816922</guid>
     </item>
     <item>
       <title>09/13/2026 • 4:05 PM ET — MLB — Athletics vs Seattle Mariners</title>
-      <description>Date: 09/13/2026 | Time: 4:05 PM ET | Status: In Progress | Sport: MLB | Event: Seattle Mariners at Athletics Athletics | Venue: Sutter Health Park</description>
+      <description>Date: 09/13/2026 | Time: 4:05 PM ET | Status: Final | Sport: MLB | Event: Seattle Mariners at Athletics Athletics | Venue: Sutter Health Park</description>
       <pubDate>Sun, 13 Sep 2026 16:05:00 -0400</pubDate>
       <guid isPermaLink="false">401816931</guid>
     </item>
@@ -139,12 +139,6 @@
       <guid isPermaLink="false">401816932</guid>
     </item>
     <item>
-      <title>09/13/2026 • 4:25 PM ET — NFL — Las Vegas Raiders vs Miami Dolphins</title>
-      <description>Date: 09/13/2026 | Time: 4:25 PM ET | Status: In Progress | Sport: NFL | Event: Miami Dolphins at Las Vegas Raiders | Venue: Allegiant Stadium</description>
-      <pubDate>Sun, 13 Sep 2026 16:25:00 -0400</pubDate>
-      <guid isPermaLink="false">401872928</guid>
-    </item>
-    <item>
       <title>09/13/2026 • 4:25 PM ET — NFL — Minnesota Vikings vs Green Bay Packers</title>
       <description>Date: 09/13/2026 | Time: 4:25 PM ET | Status: In Progress | Sport: NFL | Event: Green Bay Packers at Minnesota Vikings | Venue: U.S. Bank Stadium</description>
       <pubDate>Sun, 13 Sep 2026 16:25:00 -0400</pubDate>
@@ -152,25 +146,31 @@
     </item>
     <item>
       <title>09/13/2026 • 4:25 PM ET — NFL — Philadelphia Eagles vs Washington Commanders</title>
-      <description>Date: 09/13/2026 | Time: 4:25 PM ET | Status: In Progress | Sport: NFL | Event: Washington Commanders at Philadelphia Eagles | Venue: Lincoln Financial Field</description>
+      <description>Date: 09/13/2026 | Time: 4:25 PM ET | Status: Final | Sport: NFL | Event: Washington Commanders at Philadelphia Eagles | Venue: Lincoln Financial Field</description>
       <pubDate>Sun, 13 Sep 2026 16:25:00 -0400</pubDate>
       <guid isPermaLink="false">401872929</guid>
     </item>
     <item>
+      <title>09/13/2026 • 4:25 PM ET — NFL — Las Vegas Raiders vs Miami Dolphins</title>
+      <description>Date: 09/13/2026 | Time: 4:25 PM ET | Status: Final | Sport: NFL | Event: Miami Dolphins at Las Vegas Raiders | Venue: Allegiant Stadium</description>
+      <pubDate>Sun, 13 Sep 2026 16:25:00 -0400</pubDate>
+      <guid isPermaLink="false">401872928</guid>
+    </item>
+    <item>
       <title>09/13/2026 • 4:25 PM ET — NFL — Los Angeles Chargers vs Arizona Cardinals</title>
-      <description>Date: 09/13/2026 | Time: 4:25 PM ET | Status: In Progress | Sport: NFL | Event: Arizona Cardinals at Los Angeles Chargers | Venue: SoFi Stadium</description>
+      <description>Date: 09/13/2026 | Time: 4:25 PM ET | Status: Final | Sport: NFL | Event: Arizona Cardinals at Los Angeles Chargers | Venue: SoFi Stadium</description>
       <pubDate>Sun, 13 Sep 2026 16:25:00 -0400</pubDate>
       <guid isPermaLink="false">401872926</guid>
     </item>
     <item>
       <title>09/13/2026 • 5:30 PM ET — MLS — Chicago Fire FC vs New England Revolution</title>
-      <description>Date: 09/13/2026 | Time: 5:30 PM ET | Status: Second Half | Sport: MLS | Event: New England Revolution at Chicago Fire FC | Venue: Soldier Field</description>
+      <description>Date: 09/13/2026 | Time: 5:30 PM ET | Status: Full Time | Sport: MLS | Event: New England Revolution at Chicago Fire FC | Venue: Soldier Field</description>
       <pubDate>Sun, 13 Sep 2026 17:30:00 -0400</pubDate>
       <guid isPermaLink="false">761812</guid>
     </item>
     <item>
       <title>09/13/2026 • 6:30 PM ET — MLS — Vancouver Whitecaps vs Austin FC</title>
-      <description>Date: 09/13/2026 | Time: 6:30 PM ET | Status: First Half | Sport: MLS | Event: Austin FC at Vancouver Whitecaps | Venue: BC Place</description>
+      <description>Date: 09/13/2026 | Time: 6:30 PM ET | Status: Halftime | Sport: MLS | Event: Austin FC at Vancouver Whitecaps | Venue: BC Place</description>
       <pubDate>Sun, 13 Sep 2026 18:30:00 -0400</pubDate>
       <guid isPermaLink="false">761813</guid>
     </item>
