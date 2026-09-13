@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 13 Sep 2026 16:41:05 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:52:07 -0400</lastBuildDate>
     
     <item>
       <title>09/13/2026 • 12:10 PM ET — MLB — Detroit Tigers vs Colorado Rockies</title>
@@ -14,15 +14,9 @@
     </item>
     <item>
       <title>09/13/2026 • 1:00 PM ET — NFL — Detroit Lions vs New Orleans Saints</title>
-      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: New Orleans Saints at Detroit Lions | Venue: Ford Field</description>
+      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: New Orleans Saints at Detroit Lions | Venue: Ford Field</description>
       <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872923</guid>
-    </item>
-    <item>
-      <title>09/13/2026 • 1:00 PM ET — NFL — Carolina Panthers vs Chicago Bears</title>
-      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Chicago Bears at Carolina Panthers | Venue: Bank of America Stadium</description>
-      <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401872661</guid>
     </item>
     <item>
       <title>09/13/2026 • 1:00 PM ET — NFL — Cincinnati Bengals vs Tampa Bay Buccaneers</title>
@@ -47,6 +41,12 @@
       <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Atlanta Falcons at Pittsburgh Steelers | Venue: Acrisure Stadium</description>
       <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872658</guid>
+    </item>
+    <item>
+      <title>09/13/2026 • 1:00 PM ET — NFL — Carolina Panthers vs Chicago Bears</title>
+      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Chicago Bears at Carolina Panthers | Venue: Bank of America Stadium</description>
+      <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401872661</guid>
     </item>
     <item>
       <title>09/13/2026 • 1:00 PM ET — NFL — Jacksonville Jaguars vs Cleveland Browns</title>
@@ -92,13 +92,13 @@
     </item>
     <item>
       <title>09/13/2026 • 1:40 PM ET — MLB — Miami Marlins vs Los Angeles Dodgers</title>
-      <description>Date: 09/13/2026 | Time: 1:40 PM ET | Status: In Progress | Sport: MLB | Event: Los Angeles Dodgers at Miami Marlins | Venue: loanDepot park</description>
+      <description>Date: 09/13/2026 | Time: 1:40 PM ET | Status: Final | Sport: MLB | Event: Los Angeles Dodgers at Miami Marlins | Venue: loanDepot park</description>
       <pubDate>Sun, 13 Sep 2026 13:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816923</guid>
     </item>
     <item>
       <title>09/13/2026 • 2:10 PM ET — MLB — Milwaukee Brewers vs Cincinnati Reds</title>
-      <description>Date: 09/13/2026 | Time: 2:10 PM ET | Status: In Progress | Sport: MLB | Event: Cincinnati Reds at Milwaukee Brewers | Venue: American Family Field</description>
+      <description>Date: 09/13/2026 | Time: 2:10 PM ET | Status: Final | Sport: MLB | Event: Cincinnati Reds at Milwaukee Brewers | Venue: American Family Field</description>
       <pubDate>Sun, 13 Sep 2026 14:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816927</guid>
     </item>
@@ -110,7 +110,7 @@
     </item>
     <item>
       <title>09/13/2026 • 2:15 PM ET — MLB — St. Louis Cardinals vs Chicago White Sox</title>
-      <description>Date: 09/13/2026 | Time: 2:15 PM ET | Status: In Progress | Sport: MLB | Event: Chicago White Sox at St. Louis Cardinals | Venue: Busch Stadium</description>
+      <description>Date: 09/13/2026 | Time: 2:15 PM ET | Status: Final | Sport: MLB | Event: Chicago White Sox at St. Louis Cardinals | Venue: Busch Stadium</description>
       <pubDate>Sun, 13 Sep 2026 14:15:00 -0400</pubDate>
       <guid isPermaLink="false">401816926</guid>
     </item>
