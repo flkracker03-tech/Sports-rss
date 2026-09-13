@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 13 Sep 2026 16:11:22 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:27:19 -0400</lastBuildDate>
     
     <item>
       <title>09/13/2026 • 12:10 PM ET — MLB — Detroit Tigers vs Colorado Rockies</title>
@@ -13,34 +13,10 @@
       <guid isPermaLink="false">401816920</guid>
     </item>
     <item>
-      <title>09/13/2026 • 1:00 PM ET — NFL — Cincinnati Bengals vs Tampa Bay Buccaneers</title>
-      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Tampa Bay Buccaneers at Cincinnati Bengals | Venue: Paycor Stadium</description>
-      <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401872925</guid>
-    </item>
-    <item>
       <title>09/13/2026 • 1:00 PM ET — NFL — Detroit Lions vs New Orleans Saints</title>
       <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: New Orleans Saints at Detroit Lions | Venue: Ford Field</description>
       <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872923</guid>
-    </item>
-    <item>
-      <title>09/13/2026 • 1:00 PM ET — NFL — Tennessee Titans vs New York Jets</title>
-      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: New York Jets at Tennessee Titans | Venue: Nissan Stadium</description>
-      <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401872924</guid>
-    </item>
-    <item>
-      <title>09/13/2026 • 1:00 PM ET — NFL — Indianapolis Colts vs Baltimore Ravens</title>
-      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Baltimore Ravens at Indianapolis Colts | Venue: Lucas Oil Stadium</description>
-      <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401872659</guid>
-    </item>
-    <item>
-      <title>09/13/2026 • 1:00 PM ET — NFL — Pittsburgh Steelers vs Atlanta Falcons</title>
-      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Atlanta Falcons at Pittsburgh Steelers | Venue: Acrisure Stadium</description>
-      <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401872658</guid>
     </item>
     <item>
       <title>09/13/2026 • 1:00 PM ET — NFL — Carolina Panthers vs Chicago Bears</title>
@@ -50,9 +26,33 @@
     </item>
     <item>
       <title>09/13/2026 • 1:00 PM ET — NFL — Houston Texans vs Buffalo Bills</title>
-      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Buffalo Bills at Houston Texans | Venue: Reliant Stadium</description>
+      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Buffalo Bills at Houston Texans | Venue: Reliant Stadium</description>
       <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872660</guid>
+    </item>
+    <item>
+      <title>09/13/2026 • 1:00 PM ET — NFL — Cincinnati Bengals vs Tampa Bay Buccaneers</title>
+      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Tampa Bay Buccaneers at Cincinnati Bengals | Venue: Paycor Stadium</description>
+      <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401872925</guid>
+    </item>
+    <item>
+      <title>09/13/2026 • 1:00 PM ET — NFL — Tennessee Titans vs New York Jets</title>
+      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: New York Jets at Tennessee Titans | Venue: Nissan Stadium</description>
+      <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401872924</guid>
+    </item>
+    <item>
+      <title>09/13/2026 • 1:00 PM ET — NFL — Indianapolis Colts vs Baltimore Ravens</title>
+      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Baltimore Ravens at Indianapolis Colts | Venue: Lucas Oil Stadium</description>
+      <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401872659</guid>
+    </item>
+    <item>
+      <title>09/13/2026 • 1:00 PM ET — NFL — Pittsburgh Steelers vs Atlanta Falcons</title>
+      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Atlanta Falcons at Pittsburgh Steelers | Venue: Acrisure Stadium</description>
+      <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401872658</guid>
     </item>
     <item>
       <title>09/13/2026 • 1:00 PM ET — NFL — Jacksonville Jaguars vs Cleveland Browns</title>
@@ -62,13 +62,13 @@
     </item>
     <item>
       <title>09/13/2026 • 1:35 PM ET — MLB — Washington Nationals vs Los Angeles Angels</title>
-      <description>Date: 09/13/2026 | Time: 1:35 PM ET | Status: In Progress | Sport: MLB | Event: Los Angeles Angels at Washington Nationals | Venue: Nationals Park</description>
+      <description>Date: 09/13/2026 | Time: 1:35 PM ET | Status: Final | Sport: MLB | Event: Los Angeles Angels at Washington Nationals | Venue: Nationals Park</description>
       <pubDate>Sun, 13 Sep 2026 13:35:00 -0400</pubDate>
       <guid isPermaLink="false">401816918</guid>
     </item>
     <item>
       <title>09/13/2026 • 1:35 PM ET — MLB — New York Yankees vs New York Mets</title>
-      <description>Date: 09/13/2026 | Time: 1:35 PM ET | Status: In Progress | Sport: MLB | Event: New York Mets at New York Yankees | Venue: Yankee Stadium</description>
+      <description>Date: 09/13/2026 | Time: 1:35 PM ET | Status: Final | Sport: MLB | Event: New York Mets at New York Yankees | Venue: Yankee Stadium</description>
       <pubDate>Sun, 13 Sep 2026 13:35:00 -0400</pubDate>
       <guid isPermaLink="false">401816924</guid>
     </item>
@@ -86,7 +86,7 @@
     </item>
     <item>
       <title>09/13/2026 • 1:40 PM ET — MLB — Tampa Bay Rays vs Houston Astros</title>
-      <description>Date: 09/13/2026 | Time: 1:40 PM ET | Status: In Progress | Sport: MLB | Event: Houston Astros at Tampa Bay Rays | Venue: Tropicana Field</description>
+      <description>Date: 09/13/2026 | Time: 1:40 PM ET | Status: Final | Sport: MLB | Event: Houston Astros at Tampa Bay Rays | Venue: Tropicana Field</description>
       <pubDate>Sun, 13 Sep 2026 13:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816921</guid>
     </item>
@@ -140,25 +140,25 @@
     </item>
     <item>
       <title>09/13/2026 • 4:25 PM ET — NFL — Las Vegas Raiders vs Miami Dolphins</title>
-      <description>Date: 09/13/2026 | Time: 4:25 PM ET | Status: Scheduled | Sport: NFL | Event: Miami Dolphins at Las Vegas Raiders | Venue: Allegiant Stadium</description>
+      <description>Date: 09/13/2026 | Time: 4:25 PM ET | Status: In Progress | Sport: NFL | Event: Miami Dolphins at Las Vegas Raiders | Venue: Allegiant Stadium</description>
       <pubDate>Sun, 13 Sep 2026 16:25:00 -0400</pubDate>
       <guid isPermaLink="false">401872928</guid>
     </item>
     <item>
       <title>09/13/2026 • 4:25 PM ET — NFL — Minnesota Vikings vs Green Bay Packers</title>
-      <description>Date: 09/13/2026 | Time: 4:25 PM ET | Status: Scheduled | Sport: NFL | Event: Green Bay Packers at Minnesota Vikings | Venue: U.S. Bank Stadium</description>
+      <description>Date: 09/13/2026 | Time: 4:25 PM ET | Status: In Progress | Sport: NFL | Event: Green Bay Packers at Minnesota Vikings | Venue: U.S. Bank Stadium</description>
       <pubDate>Sun, 13 Sep 2026 16:25:00 -0400</pubDate>
       <guid isPermaLink="false">401872927</guid>
     </item>
     <item>
       <title>09/13/2026 • 4:25 PM ET — NFL — Philadelphia Eagles vs Washington Commanders</title>
-      <description>Date: 09/13/2026 | Time: 4:25 PM ET | Status: Scheduled | Sport: NFL | Event: Washington Commanders at Philadelphia Eagles | Venue: Lincoln Financial Field</description>
+      <description>Date: 09/13/2026 | Time: 4:25 PM ET | Status: In Progress | Sport: NFL | Event: Washington Commanders at Philadelphia Eagles | Venue: Lincoln Financial Field</description>
       <pubDate>Sun, 13 Sep 2026 16:25:00 -0400</pubDate>
       <guid isPermaLink="false">401872929</guid>
     </item>
     <item>
       <title>09/13/2026 • 4:25 PM ET — NFL — Los Angeles Chargers vs Arizona Cardinals</title>
-      <description>Date: 09/13/2026 | Time: 4:25 PM ET | Status: Scheduled | Sport: NFL | Event: Arizona Cardinals at Los Angeles Chargers | Venue: SoFi Stadium</description>
+      <description>Date: 09/13/2026 | Time: 4:25 PM ET | Status: In Progress | Sport: NFL | Event: Arizona Cardinals at Los Angeles Chargers | Venue: SoFi Stadium</description>
       <pubDate>Sun, 13 Sep 2026 16:25:00 -0400</pubDate>
       <guid isPermaLink="false">401872926</guid>
     </item>
