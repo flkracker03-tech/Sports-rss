@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 13 Sep 2026 14:30:54 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 14:53:24 -0400</lastBuildDate>
     
     <item>
       <title>09/13/2026 • 12:10 PM ET — MLB — Detroit Tigers vs Colorado Rockies</title>
@@ -14,7 +14,7 @@
     </item>
     <item>
       <title>09/13/2026 • 1:00 PM ET — NFL — Cincinnati Bengals vs Tampa Bay Buccaneers</title>
-      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: Halftime | Sport: NFL | Event: Tampa Bay Buccaneers at Cincinnati Bengals | Venue: Paycor Stadium</description>
+      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Tampa Bay Buccaneers at Cincinnati Bengals | Venue: Paycor Stadium</description>
       <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872925</guid>
     </item>
@@ -26,31 +26,31 @@
     </item>
     <item>
       <title>09/13/2026 • 1:00 PM ET — NFL — Tennessee Titans vs New York Jets</title>
-      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: Halftime | Sport: NFL | Event: New York Jets at Tennessee Titans | Venue: Nissan Stadium</description>
+      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: New York Jets at Tennessee Titans | Venue: Nissan Stadium</description>
       <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872924</guid>
     </item>
     <item>
       <title>09/13/2026 • 1:00 PM ET — NFL — Indianapolis Colts vs Baltimore Ravens</title>
-      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Baltimore Ravens at Indianapolis Colts | Venue: Lucas Oil Stadium</description>
+      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: Halftime | Sport: NFL | Event: Baltimore Ravens at Indianapolis Colts | Venue: Lucas Oil Stadium</description>
       <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872659</guid>
     </item>
     <item>
       <title>09/13/2026 • 1:00 PM ET — NFL — Pittsburgh Steelers vs Atlanta Falcons</title>
-      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Atlanta Falcons at Pittsburgh Steelers | Venue: Acrisure Stadium</description>
+      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: Halftime | Sport: NFL | Event: Atlanta Falcons at Pittsburgh Steelers | Venue: Acrisure Stadium</description>
       <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872658</guid>
     </item>
     <item>
       <title>09/13/2026 • 1:00 PM ET — NFL — Carolina Panthers vs Chicago Bears</title>
-      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Chicago Bears at Carolina Panthers | Venue: Bank of America Stadium</description>
+      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: Halftime | Sport: NFL | Event: Chicago Bears at Carolina Panthers | Venue: Bank of America Stadium</description>
       <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872661</guid>
     </item>
     <item>
       <title>09/13/2026 • 1:00 PM ET — NFL — Jacksonville Jaguars vs Cleveland Browns</title>
-      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: Halftime | Sport: NFL | Event: Cleveland Browns at Jacksonville Jaguars | Venue: EverBank Stadium</description>
+      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Cleveland Browns at Jacksonville Jaguars | Venue: EverBank Stadium</description>
       <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872922</guid>
     </item>
@@ -673,16 +673,16 @@
       <guid isPermaLink="false">401869940</guid>
     </item>
     <item>
-      <title>09/19/2026 • 12:00 PM ET — College Football — Ohio State Buckeyes vs Kent State Golden Flashes</title>
-      <description>Date: 09/19/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Kent State Golden Flashes at Ohio State Buckeyes | Venue: Ohio Stadium</description>
-      <pubDate>Sat, 19 Sep 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858454</guid>
-    </item>
-    <item>
       <title>09/19/2026 • 12:00 PM ET — College Football — Arkansas Razorbacks vs Georgia Bulldogs</title>
       <description>Date: 09/19/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Georgia Bulldogs at Arkansas Razorbacks | Venue: Donald W. Reynolds Razorback Stadium</description>
       <pubDate>Sat, 19 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856686</guid>
+    </item>
+    <item>
+      <title>09/19/2026 • 12:00 PM ET — College Football — Ohio State Buckeyes vs Kent State Golden Flashes</title>
+      <description>Date: 09/19/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Kent State Golden Flashes at Ohio State Buckeyes | Venue: Ohio Stadium</description>
+      <pubDate>Sat, 19 Sep 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401858454</guid>
     </item>
     <item>
       <title>09/19/2026 • 12:00 PM ET — College Football — Penn State Nittany Lions vs Buffalo Bulls</title>
@@ -805,6 +805,12 @@
       <guid isPermaLink="false">401856801</guid>
     </item>
     <item>
+      <title>09/19/2026 • 3:30 PM ET — College Football — Michigan Wolverines vs UTEP Miners</title>
+      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: UTEP Miners at Michigan Wolverines | Venue: Michigan Stadium</description>
+      <pubDate>Sat, 19 Sep 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401858450</guid>
+    </item>
+    <item>
       <title>09/19/2026 • 3:30 PM ET — College Football — Cincinnati Bearcats vs Miami (OH) RedHawks</title>
       <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Miami (OH) RedHawks at Cincinnati Bearcats | Venue: TQL Stadium</description>
       <pubDate>Sat, 19 Sep 2026 15:30:00 -0400</pubDate>
@@ -815,12 +821,6 @@
       <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Wagner Seahawks at California Golden Bears | Venue: California Memorial Stadium</description>
       <pubDate>Sat, 19 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858233</guid>
-    </item>
-    <item>
-      <title>09/19/2026 • 3:30 PM ET — College Football — Michigan Wolverines vs UTEP Miners</title>
-      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: UTEP Miners at Michigan Wolverines | Venue: Michigan Stadium</description>
-      <pubDate>Sat, 19 Sep 2026 15:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401858450</guid>
     </item>
     <item>
       <title>09/19/2026 • 3:30 PM ET — College Football — Washington State Cougars vs Duquesne Dukes</title>
@@ -1051,16 +1051,16 @@
       <guid isPermaLink="false">401817004</guid>
     </item>
     <item>
-      <title>09/19/2026 • 7:15 PM ET — College Football — Washington Huskies vs Eastern Washington Eagles</title>
-      <description>Date: 09/19/2026 | Time: 7:15 PM ET | Status: Scheduled | Sport: College Football | Event: Eastern Washington Eagles at Washington Huskies | Venue: Husky Stadium</description>
-      <pubDate>Sat, 19 Sep 2026 19:15:00 -0400</pubDate>
-      <guid isPermaLink="false">401858459</guid>
-    </item>
-    <item>
       <title>09/19/2026 • 7:15 PM ET — College Football — Nebraska Cornhuskers vs North Dakota Fighting Hawks</title>
       <description>Date: 09/19/2026 | Time: 7:15 PM ET | Status: Scheduled | Sport: College Football | Event: North Dakota Fighting Hawks at Nebraska Cornhuskers | Venue: Memorial Stadium (Lincoln, NE)</description>
       <pubDate>Sat, 19 Sep 2026 19:15:00 -0400</pubDate>
       <guid isPermaLink="false">401858452</guid>
+    </item>
+    <item>
+      <title>09/19/2026 • 7:15 PM ET — College Football — Washington Huskies vs Eastern Washington Eagles</title>
+      <description>Date: 09/19/2026 | Time: 7:15 PM ET | Status: Scheduled | Sport: College Football | Event: Eastern Washington Eagles at Washington Huskies | Venue: Husky Stadium</description>
+      <pubDate>Sat, 19 Sep 2026 19:15:00 -0400</pubDate>
+      <guid isPermaLink="false">401858459</guid>
     </item>
     <item>
       <title>09/19/2026 • 7:15 PM ET — MLB — St. Louis Cardinals vs Washington Nationals</title>
@@ -1081,16 +1081,16 @@
       <guid isPermaLink="false">401856688</guid>
     </item>
     <item>
-      <title>09/19/2026 • 7:30 PM ET — College Football — Oklahoma Sooners vs New Mexico Lobos</title>
-      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: New Mexico Lobos at Oklahoma Sooners | Venue: Memorial Stadium (Norman, OK)</description>
-      <pubDate>Sat, 19 Sep 2026 19:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401856690</guid>
-    </item>
-    <item>
       <title>09/19/2026 • 7:30 PM ET — College Football — Colorado State Rams vs BYU Cougars</title>
       <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: BYU Cougars at Colorado State Rams | Venue: Canvas Stadium</description>
       <pubDate>Sat, 19 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856795</guid>
+    </item>
+    <item>
+      <title>09/19/2026 • 7:30 PM ET — College Football — Oklahoma Sooners vs New Mexico Lobos</title>
+      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: New Mexico Lobos at Oklahoma Sooners | Venue: Memorial Stadium (Norman, OK)</description>
+      <pubDate>Sat, 19 Sep 2026 19:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401856690</guid>
     </item>
     <item>
       <title>09/19/2026 • 7:30 PM ET — College Football — Virginia Cavaliers vs West Virginia Mountaineers</title>
