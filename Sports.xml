@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 13 Sep 2026 16:27:19 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:41:05 -0400</lastBuildDate>
     
     <item>
       <title>09/13/2026 • 12:10 PM ET — MLB — Detroit Tigers vs Colorado Rockies</title>
@@ -20,15 +20,9 @@
     </item>
     <item>
       <title>09/13/2026 • 1:00 PM ET — NFL — Carolina Panthers vs Chicago Bears</title>
-      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Chicago Bears at Carolina Panthers | Venue: Bank of America Stadium</description>
+      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Chicago Bears at Carolina Panthers | Venue: Bank of America Stadium</description>
       <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872661</guid>
-    </item>
-    <item>
-      <title>09/13/2026 • 1:00 PM ET — NFL — Houston Texans vs Buffalo Bills</title>
-      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Buffalo Bills at Houston Texans | Venue: Reliant Stadium</description>
-      <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401872660</guid>
     </item>
     <item>
       <title>09/13/2026 • 1:00 PM ET — NFL — Cincinnati Bengals vs Tampa Bay Buccaneers</title>
@@ -61,6 +55,12 @@
       <guid isPermaLink="false">401872922</guid>
     </item>
     <item>
+      <title>09/13/2026 • 1:00 PM ET — NFL — Houston Texans vs Buffalo Bills</title>
+      <description>Date: 09/13/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Buffalo Bills at Houston Texans | Venue: Reliant Stadium</description>
+      <pubDate>Sun, 13 Sep 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401872660</guid>
+    </item>
+    <item>
       <title>09/13/2026 • 1:35 PM ET — MLB — Washington Nationals vs Los Angeles Angels</title>
       <description>Date: 09/13/2026 | Time: 1:35 PM ET | Status: Final | Sport: MLB | Event: Los Angeles Angels at Washington Nationals | Venue: Nationals Park</description>
       <pubDate>Sun, 13 Sep 2026 13:35:00 -0400</pubDate>
@@ -74,13 +74,13 @@
     </item>
     <item>
       <title>09/13/2026 • 1:35 PM ET — MLB — Atlanta Braves vs Philadelphia Phillies</title>
-      <description>Date: 09/13/2026 | Time: 1:35 PM ET | Status: In Progress | Sport: MLB | Event: Philadelphia Phillies at Atlanta Braves | Venue: Truist Park</description>
+      <description>Date: 09/13/2026 | Time: 1:35 PM ET | Status: Final | Sport: MLB | Event: Philadelphia Phillies at Atlanta Braves | Venue: Truist Park</description>
       <pubDate>Sun, 13 Sep 2026 13:35:00 -0400</pubDate>
       <guid isPermaLink="false">401816925</guid>
     </item>
     <item>
       <title>09/13/2026 • 1:37 PM ET — MLB — Toronto Blue Jays vs Baltimore Orioles</title>
-      <description>Date: 09/13/2026 | Time: 1:37 PM ET | Status: In Progress | Sport: MLB | Event: Baltimore Orioles at Toronto Blue Jays | Venue: Rogers Centre</description>
+      <description>Date: 09/13/2026 | Time: 1:37 PM ET | Status: Final | Sport: MLB | Event: Baltimore Orioles at Toronto Blue Jays | Venue: Rogers Centre</description>
       <pubDate>Sun, 13 Sep 2026 13:37:00 -0400</pubDate>
       <guid isPermaLink="false">401816919</guid>
     </item>
