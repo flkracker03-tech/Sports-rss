@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 13 Sep 2026 21:27:40 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 21:43:20 -0400</lastBuildDate>
     
     <item>
       <title>09/14/2026 • 6:40 PM ET — MLB — Cleveland Guardians vs Chicago White Sox</title>
@@ -1051,6 +1051,12 @@
       <guid isPermaLink="false">401879412</guid>
     </item>
     <item>
+      <title>09/19/2026 • 9:00 PM ET — NHL — Seattle Kraken vs Vancouver Canucks</title>
+      <description>Date: 09/19/2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: NHL | Event: Vancouver Canucks at Seattle Kraken | Venue: Climate Pledge Arena</description>
+      <pubDate>Sat, 19 Sep 2026 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401879652</guid>
+    </item>
+    <item>
       <title>09/19/2026 • 9:10 PM ET — MLB — Los Angeles Dodgers vs San Francisco Giants</title>
       <description>Date: 09/19/2026 | Time: 9:10 PM ET | Status: Scheduled | Sport: MLB | Event: San Francisco Giants at Los Angeles Dodgers | Venue: Dodger Stadium</description>
       <pubDate>Sat, 19 Sep 2026 21:10:00 -0400</pubDate>
@@ -1091,12 +1097,6 @@
       <description>Date: 09/19/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: College Football | Event: James Madison Dukes at San Diego State Aztecs | Venue: Snapdragon Stadium</description>
       <pubDate>Sat, 19 Sep 2026 22:00:00 -0400</pubDate>
       <guid isPermaLink="false">401860887</guid>
-    </item>
-    <item>
-      <title>09/19/2026 • 10:00 PM ET — NHL — Seattle Kraken vs Vancouver Canucks</title>
-      <description>Date: 09/19/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NHL | Event: Vancouver Canucks at Seattle Kraken | Venue: Climate Pledge Arena</description>
-      <pubDate>Sat, 19 Sep 2026 22:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401879652</guid>
     </item>
     <item>
       <title>09/19/2026 • 10:30 PM ET — College Football — Arizona Wildcats vs Northern Illinois Huskies</title>
