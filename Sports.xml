@@ -4,74 +4,8 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Mon, 14 Sep 2026 19:52:11 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 20:16:49 -0400</lastBuildDate>
     
-    <item>
-      <title>09/14/2026 • 6:40 PM ET — MLB — Cleveland Guardians vs Chicago White Sox</title>
-      <description>Date: 09/14/2026 | Time: 6:40 PM ET | Status: In Progress | Sport: MLB | Event: Chicago White Sox at Cleveland Guardians | Venue: Progressive Field</description>
-      <pubDate>Mon, 14 Sep 2026 18:40:00 -0400</pubDate>
-      <guid isPermaLink="false">401816934</guid>
-    </item>
-    <item>
-      <title>09/14/2026 • 6:40 PM ET — MLB — Cincinnati Reds vs Los Angeles Dodgers</title>
-      <description>Date: 09/14/2026 | Time: 6:40 PM ET | Status: In Progress | Sport: MLB | Event: Los Angeles Dodgers at Cincinnati Reds | Venue: Great American Ball Park</description>
-      <pubDate>Mon, 14 Sep 2026 18:40:00 -0400</pubDate>
-      <guid isPermaLink="false">401816936</guid>
-    </item>
-    <item>
-      <title>09/14/2026 • 7:07 PM ET — MLB — Toronto Blue Jays vs Detroit Tigers</title>
-      <description>Date: 09/14/2026 | Time: 7:07 PM ET | Status: In Progress | Sport: MLB | Event: Detroit Tigers at Toronto Blue Jays | Venue: Rogers Centre</description>
-      <pubDate>Mon, 14 Sep 2026 19:07:00 -0400</pubDate>
-      <guid isPermaLink="false">401816935</guid>
-    </item>
-    <item>
-      <title>09/14/2026 • 7:10 PM ET — MLB — New York Mets vs Baltimore Orioles</title>
-      <description>Date: 09/14/2026 | Time: 7:10 PM ET | Status: In Progress | Sport: MLB | Event: Baltimore Orioles at New York Mets | Venue: Citi Field</description>
-      <pubDate>Mon, 14 Sep 2026 19:10:00 -0400</pubDate>
-      <guid isPermaLink="false">401816933</guid>
-    </item>
-    <item>
-      <title>09/14/2026 • 7:40 PM ET — MLB — Chicago Cubs vs Atlanta Braves</title>
-      <description>Date: 09/14/2026 | Time: 7:40 PM ET | Status: In Progress | Sport: MLB | Event: Atlanta Braves at Chicago Cubs | Venue: Wrigley Field</description>
-      <pubDate>Mon, 14 Sep 2026 19:40:00 -0400</pubDate>
-      <guid isPermaLink="false">401816937</guid>
-    </item>
-    <item>
-      <title>09/14/2026 • 7:40 PM ET — MLB — Minnesota Twins vs New York Yankees</title>
-      <description>Date: 09/14/2026 | Time: 7:40 PM ET | Status: In Progress | Sport: MLB | Event: New York Yankees at Minnesota Twins | Venue: Target Field</description>
-      <pubDate>Mon, 14 Sep 2026 19:40:00 -0400</pubDate>
-      <guid isPermaLink="false">401816938</guid>
-    </item>
-    <item>
-      <title>09/14/2026 • 7:45 PM ET — MLB — St. Louis Cardinals vs San Francisco Giants</title>
-      <description>Date: 09/14/2026 | Time: 7:45 PM ET | Status: In Progress | Sport: MLB | Event: San Francisco Giants at St. Louis Cardinals | Venue: Busch Stadium</description>
-      <pubDate>Mon, 14 Sep 2026 19:45:00 -0400</pubDate>
-      <guid isPermaLink="false">401816939</guid>
-    </item>
-    <item>
-      <title>09/14/2026 • 8:15 PM ET — NFL — Kansas City Chiefs vs Denver Broncos</title>
-      <description>Date: 09/14/2026 | Time: 8:15 PM ET | Status: Scheduled | Sport: NFL | Event: Denver Broncos at Kansas City Chiefs | Venue: Arrowhead Stadium</description>
-      <pubDate>Mon, 14 Sep 2026 20:15:00 -0400</pubDate>
-      <guid isPermaLink="false">401872931</guid>
-    </item>
-    <item>
-      <title>09/14/2026 • 8:40 PM ET — MLB — Colorado Rockies vs San Diego Padres</title>
-      <description>Date: 09/14/2026 | Time: 8:40 PM ET | Status: Scheduled | Sport: MLB | Event: San Diego Padres at Colorado Rockies | Venue: Coors Field</description>
-      <pubDate>Mon, 14 Sep 2026 20:40:00 -0400</pubDate>
-      <guid isPermaLink="false">401816940</guid>
-    </item>
-    <item>
-      <title>09/14/2026 • 9:38 PM ET — MLB — Los Angeles Angels vs Seattle Mariners</title>
-      <description>Date: 09/14/2026 | Time: 9:38 PM ET | Status: Scheduled | Sport: MLB | Event: Seattle Mariners at Los Angeles Angels | Venue: Angel Stadium</description>
-      <pubDate>Mon, 14 Sep 2026 21:38:00 -0400</pubDate>
-      <guid isPermaLink="false">401816942</guid>
-    </item>
-    <item>
-      <title>09/14/2026 • 9:40 PM ET — MLB — Arizona Diamondbacks vs Miami Marlins</title>
-      <description>Date: 09/14/2026 | Time: 9:40 PM ET | Status: Scheduled | Sport: MLB | Event: Miami Marlins at Arizona Diamondbacks | Venue: Chase Field</description>
-      <pubDate>Mon, 14 Sep 2026 21:40:00 -0400</pubDate>
-      <guid isPermaLink="false">401816941</guid>
-    </item>
     <item>
       <title>09/15/2026 • 6:40 PM ET — MLB — Tampa Bay Rays vs Athletics</title>
       <description>Date: 09/15/2026 | Time: 6:40 PM ET | Status: Scheduled | Sport: MLB | Event: Athletics Athletics at Tampa Bay Rays | Venue: Tropicana Field</description>
@@ -1469,6 +1403,192 @@
       <description>Date: 09/21/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: WNBA | Event: Dallas Wings at Phoenix Mercury | Venue: Mortgage Matchup Center</description>
       <pubDate>Mon, 21 Sep 2026 22:00:00 -0400</pubDate>
       <guid isPermaLink="false">401857207</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 1:05 PM ET — MLB — New York Yankees vs Tampa Bay Rays</title>
+      <description>Date: 09/22/2026 | Time: 1:05 PM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at New York Yankees | Venue: Yankee Stadium</description>
+      <pubDate>Tue, 22 Sep 2026 13:05:00 -0400</pubDate>
+      <guid isPermaLink="false">401873648</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 6:35 PM ET — MLB — Baltimore Orioles vs Toronto Blue Jays</title>
+      <description>Date: 09/22/2026 | Time: 6:35 PM ET | Status: Scheduled | Sport: MLB | Event: Toronto Blue Jays at Baltimore Orioles | Venue: Oriole Park at Camden Yards</description>
+      <pubDate>Tue, 22 Sep 2026 18:35:00 -0400</pubDate>
+      <guid isPermaLink="false">401817035</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 6:40 PM ET — MLB — Philadelphia Phillies vs Milwaukee Brewers</title>
+      <description>Date: 09/22/2026 | Time: 6:40 PM ET | Status: Scheduled | Sport: MLB | Event: Milwaukee Brewers at Philadelphia Phillies | Venue: Citizens Bank Park</description>
+      <pubDate>Tue, 22 Sep 2026 18:40:00 -0400</pubDate>
+      <guid isPermaLink="false">401817032</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 6:40 PM ET — MLB — Pittsburgh Pirates vs St. Louis Cardinals</title>
+      <description>Date: 09/22/2026 | Time: 6:40 PM ET | Status: Scheduled | Sport: MLB | Event: St. Louis Cardinals at Pittsburgh Pirates | Venue: PNC Park</description>
+      <pubDate>Tue, 22 Sep 2026 18:40:00 -0400</pubDate>
+      <guid isPermaLink="false">401817033</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 6:40 PM ET — MLB — Detroit Tigers vs Washington Nationals</title>
+      <description>Date: 09/22/2026 | Time: 6:40 PM ET | Status: Scheduled | Sport: MLB | Event: Washington Nationals at Detroit Tigers | Venue: Comerica Park</description>
+      <pubDate>Tue, 22 Sep 2026 18:40:00 -0400</pubDate>
+      <guid isPermaLink="false">401817036</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 6:45 PM ET — MLB — Boston Red Sox vs Cleveland Guardians</title>
+      <description>Date: 09/22/2026 | Time: 6:45 PM ET | Status: Scheduled | Sport: MLB | Event: Cleveland Guardians at Boston Red Sox | Venue: Fenway Park</description>
+      <pubDate>Tue, 22 Sep 2026 18:45:00 -0400</pubDate>
+      <guid isPermaLink="false">401817031</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 7:00 PM ET — NHL — Boston Bruins vs Philadelphia Flyers</title>
+      <description>Date: 09/22/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NHL | Event: Philadelphia Flyers at Boston Bruins | Venue: TD Garden</description>
+      <pubDate>Tue, 22 Sep 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401879362</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 7:00 PM ET — NHL — Pittsburgh Penguins vs Detroit Red Wings</title>
+      <description>Date: 09/22/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NHL | Event: Detroit Red Wings at Pittsburgh Penguins | Venue: PPG Paints Arena</description>
+      <pubDate>Tue, 22 Sep 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401879451</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 7:00 PM ET — NHL — Buffalo Sabres vs Columbus Blue Jackets</title>
+      <description>Date: 09/22/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NHL | Event: Columbus Blue Jackets at Buffalo Sabres | Venue: KeyBank Center</description>
+      <pubDate>Tue, 22 Sep 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401879454</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 7:00 PM ET — NHL — New York Rangers vs New York Islanders</title>
+      <description>Date: 09/22/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NHL | Event: New York Islanders at New York Rangers | Venue: Madison Square Garden</description>
+      <pubDate>Tue, 22 Sep 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401879648</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 7:00 PM ET — NHL — Carolina Hurricanes vs Florida Panthers</title>
+      <description>Date: 09/22/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NHL | Event: Florida Panthers at Carolina Hurricanes | Venue: Lenovo Center</description>
+      <pubDate>Tue, 22 Sep 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401879933</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 7:05 PM ET — MLB — New York Yankees vs Tampa Bay Rays</title>
+      <description>Date: 09/22/2026 | Time: 7:05 PM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at New York Yankees | Venue: Yankee Stadium</description>
+      <pubDate>Tue, 22 Sep 2026 19:05:00 -0400</pubDate>
+      <guid isPermaLink="false">401817034</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 7:15 PM ET — MLB — Atlanta Braves vs Cincinnati Reds</title>
+      <description>Date: 09/22/2026 | Time: 7:15 PM ET | Status: Scheduled | Sport: MLB | Event: Cincinnati Reds at Atlanta Braves | Venue: Truist Park</description>
+      <pubDate>Tue, 22 Sep 2026 19:15:00 -0400</pubDate>
+      <guid isPermaLink="false">401817030</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 7:30 PM ET — WNBA — Washington Mystics vs Connecticut Sun</title>
+      <description>Date: 09/22/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: WNBA | Event: Connecticut Sun at Washington Mystics | Venue: CareFirst Arena</description>
+      <pubDate>Tue, 22 Sep 2026 19:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401857208</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 7:40 PM ET — MLB — Kansas City Royals vs Chicago White Sox</title>
+      <description>Date: 09/22/2026 | Time: 7:40 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago White Sox at Kansas City Royals | Venue: Kauffman Stadium</description>
+      <pubDate>Tue, 22 Sep 2026 19:40:00 -0400</pubDate>
+      <guid isPermaLink="false">401817037</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 7:40 PM ET — MLB — Chicago Cubs vs Miami Marlins</title>
+      <description>Date: 09/22/2026 | Time: 7:40 PM ET | Status: Scheduled | Sport: MLB | Event: Miami Marlins at Chicago Cubs | Venue: Wrigley Field</description>
+      <pubDate>Tue, 22 Sep 2026 19:40:00 -0400</pubDate>
+      <guid isPermaLink="false">401817038</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 8:00 PM ET — WNBA — Indiana Fever vs Minnesota Lynx</title>
+      <description>Date: 09/22/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: WNBA | Event: Minnesota Lynx at Indiana Fever | Venue: Gainbridge Fieldhouse</description>
+      <pubDate>Tue, 22 Sep 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401857209</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 8:00 PM ET — WNBA — Chicago Sky vs Toronto Tempo</title>
+      <description>Date: 09/22/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: WNBA | Event: Toronto Tempo at Chicago Sky | Venue: Wintrust Arena</description>
+      <pubDate>Tue, 22 Sep 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401857210</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 8:00 PM ET — NHL — Winnipeg Jets vs Edmonton Oilers</title>
+      <description>Date: 09/22/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NHL | Event: Edmonton Oilers at Winnipeg Jets | Venue: Canada Life Centre</description>
+      <pubDate>Tue, 22 Sep 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401878101</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 8:00 PM ET — NHL — Nashville Predators vs Tampa Bay Lightning</title>
+      <description>Date: 09/22/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NHL | Event: Tampa Bay Lightning at Nashville Predators | Venue: Bridgestone Arena</description>
+      <pubDate>Tue, 22 Sep 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401881132</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 8:05 PM ET — MLB — Texas Rangers vs New York Mets</title>
+      <description>Date: 09/22/2026 | Time: 8:05 PM ET | Status: Scheduled | Sport: MLB | Event: New York Mets at Texas Rangers | Venue: Globe Life Field</description>
+      <pubDate>Tue, 22 Sep 2026 20:05:00 -0400</pubDate>
+      <guid isPermaLink="false">401817039</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 8:40 PM ET — MLB — Colorado Rockies vs Arizona Diamondbacks</title>
+      <description>Date: 09/22/2026 | Time: 8:40 PM ET | Status: Scheduled | Sport: MLB | Event: Arizona Diamondbacks at Colorado Rockies | Venue: Coors Field</description>
+      <pubDate>Tue, 22 Sep 2026 20:40:00 -0400</pubDate>
+      <guid isPermaLink="false">401817040</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 9:00 PM ET — NHL — Calgary Flames vs Vancouver Canucks</title>
+      <description>Date: 09/22/2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: NHL | Event: Vancouver Canucks at Calgary Flames | Venue: Scotiabank Saddledome</description>
+      <pubDate>Tue, 22 Sep 2026 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401879310</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 9:40 PM ET — MLB — Athletics vs Los Angeles Angels</title>
+      <description>Date: 09/22/2026 | Time: 9:40 PM ET | Status: Scheduled | Sport: MLB | Event: Los Angeles Angels at Athletics Athletics | Venue: Sutter Health Park</description>
+      <pubDate>Tue, 22 Sep 2026 21:40:00 -0400</pubDate>
+      <guid isPermaLink="false">401817041</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 9:40 PM ET — MLB — Seattle Mariners vs Houston Astros</title>
+      <description>Date: 09/22/2026 | Time: 9:40 PM ET | Status: Scheduled | Sport: MLB | Event: Houston Astros at Seattle Mariners | Venue: T-Mobile Park</description>
+      <pubDate>Tue, 22 Sep 2026 21:40:00 -0400</pubDate>
+      <guid isPermaLink="false">401817042</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 9:45 PM ET — MLB — San Francisco Giants vs Minnesota Twins</title>
+      <description>Date: 09/22/2026 | Time: 9:45 PM ET | Status: Scheduled | Sport: MLB | Event: Minnesota Twins at San Francisco Giants | Venue: Oracle Park</description>
+      <pubDate>Tue, 22 Sep 2026 21:45:00 -0400</pubDate>
+      <guid isPermaLink="false">401817043</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 10:00 PM ET — WNBA — Las Vegas Aces vs Los Angeles Sparks</title>
+      <description>Date: 09/22/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: WNBA | Event: Los Angeles Sparks at Las Vegas Aces | Venue: Michelob ULTRA Arena</description>
+      <pubDate>Tue, 22 Sep 2026 22:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401857211</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 10:00 PM ET — WNBA — Portland Fire vs Golden State Valkyries</title>
+      <description>Date: 09/22/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: WNBA | Event: Golden State Valkyries at Portland Fire | Venue: Moda Center</description>
+      <pubDate>Tue, 22 Sep 2026 22:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401857212</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 10:00 PM ET — NHL — Los Angeles Kings vs Utah Mammoth</title>
+      <description>Date: 09/22/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NHL | Event: Utah Mammoth at Los Angeles Kings | Venue: crypto.com Arena</description>
+      <pubDate>Tue, 22 Sep 2026 22:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401879366</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 10:00 PM ET — NHL — San Jose Sharks vs Vegas Golden Knights</title>
+      <description>Date: 09/22/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NHL | Event: Vegas Golden Knights at San Jose Sharks | Venue: SAP Center at San Jose</description>
+      <pubDate>Tue, 22 Sep 2026 22:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401879413</guid>
+    </item>
+    <item>
+      <title>09/22/2026 • 10:10 PM ET — MLB — Los Angeles Dodgers vs San Diego Padres</title>
+      <description>Date: 09/22/2026 | Time: 10:10 PM ET | Status: Scheduled | Sport: MLB | Event: San Diego Padres at Los Angeles Dodgers | Venue: Dodger Stadium</description>
+      <pubDate>Tue, 22 Sep 2026 22:10:00 -0400</pubDate>
+      <guid isPermaLink="false">401817044</guid>
     </item>
   </channel>
 </rss>
