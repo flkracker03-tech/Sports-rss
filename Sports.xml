@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 19 Sep 2026 19:37:43 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 19:50:45 -0400</lastBuildDate>
     
     <item>
       <title>09/19/2026 • 11:30 AM ET — College Football — Delaware Blue Hens vs Coastal Carolina Chanticleers</title>
@@ -175,22 +175,16 @@
       <guid isPermaLink="false">401856694</guid>
     </item>
     <item>
-      <title>09/19/2026 • 4:00 PM ET — College Football — Iowa Hawkeyes vs Northern Iowa Panthers</title>
-      <description>Date: 09/19/2026 | Time: 4:00 PM ET | Status: Final | Sport: College Football | Event: Northern Iowa Panthers at Iowa Hawkeyes | Venue: Kinnick Stadium</description>
-      <pubDate>Sat, 19 Sep 2026 16:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858471</guid>
-    </item>
-    <item>
-      <title>09/19/2026 • 4:00 PM ET — College Football — Baylor Bears vs Louisiana Tech Bulldogs</title>
-      <description>Date: 09/19/2026 | Time: 4:00 PM ET | Status: Final | Sport: College Football | Event: Louisiana Tech Bulldogs at Baylor Bears | Venue: McLane Stadium</description>
-      <pubDate>Sat, 19 Sep 2026 16:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401867804</guid>
-    </item>
-    <item>
       <title>09/19/2026 • 4:00 PM ET — College Football — Indiana Hoosiers vs Western Kentucky Hilltoppers</title>
       <description>Date: 09/19/2026 | Time: 4:00 PM ET | Status: Final | Sport: College Football | Event: Western Kentucky Hilltoppers at Indiana Hoosiers | Venue: Memorial Stadium (Bloomington, IN)</description>
       <pubDate>Sat, 19 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858449</guid>
+    </item>
+    <item>
+      <title>09/19/2026 • 4:00 PM ET — College Football — Iowa Hawkeyes vs Northern Iowa Panthers</title>
+      <description>Date: 09/19/2026 | Time: 4:00 PM ET | Status: Final | Sport: College Football | Event: Northern Iowa Panthers at Iowa Hawkeyes | Venue: Kinnick Stadium</description>
+      <pubDate>Sat, 19 Sep 2026 16:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401858471</guid>
     </item>
     <item>
       <title>09/19/2026 • 4:00 PM ET — College Football — Duke Blue Devils vs Stanford Cardinal</title>
@@ -203,6 +197,12 @@
       <description>Date: 09/19/2026 | Time: 4:00 PM ET | Status: Final | Sport: College Football | Event: Ball State Cardinals at Liberty Flames | Venue: Williams Stadium (VA)</description>
       <pubDate>Sat, 19 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401866422</guid>
+    </item>
+    <item>
+      <title>09/19/2026 • 4:00 PM ET — College Football — Baylor Bears vs Louisiana Tech Bulldogs</title>
+      <description>Date: 09/19/2026 | Time: 4:00 PM ET | Status: Final | Sport: College Football | Event: Louisiana Tech Bulldogs at Baylor Bears | Venue: McLane Stadium</description>
+      <pubDate>Sat, 19 Sep 2026 16:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401867804</guid>
     </item>
     <item>
       <title>09/19/2026 • 4:05 PM ET — MLB — Baltimore Orioles vs Milwaukee Brewers</title>
@@ -242,7 +242,7 @@
     </item>
     <item>
       <title>09/19/2026 • 6:00 PM ET — College Football — Old Dominion Monarchs vs East Carolina Pirates</title>
-      <description>Date: 09/19/2026 | Time: 6:00 PM ET | Status: In Progress | Sport: College Football | Event: East Carolina Pirates at Old Dominion Monarchs | Venue: S.B. Ballard Stadium</description>
+      <description>Date: 09/19/2026 | Time: 6:00 PM ET | Status: Halftime | Sport: College Football | Event: East Carolina Pirates at Old Dominion Monarchs | Venue: S.B. Ballard Stadium</description>
       <pubDate>Sat, 19 Sep 2026 18:00:00 -0400</pubDate>
       <guid isPermaLink="false">401862710</guid>
     </item>
@@ -254,7 +254,7 @@
     </item>
     <item>
       <title>09/19/2026 • 6:00 PM ET — College Football — App State Mountaineers vs Charlotte 49ers</title>
-      <description>Date: 09/19/2026 | Time: 6:00 PM ET | Status: Delayed | Sport: College Football | Event: Charlotte 49ers at App State Mountaineers | Venue: Kidd Brewer Stadium</description>
+      <description>Date: 09/19/2026 | Time: 6:00 PM ET | Status: Scheduled | Sport: College Football | Event: Charlotte 49ers at App State Mountaineers | Venue: Kidd Brewer Stadium</description>
       <pubDate>Sat, 19 Sep 2026 18:00:00 -0400</pubDate>
       <guid isPermaLink="false">401864574</guid>
     </item>
@@ -302,7 +302,7 @@
     </item>
     <item>
       <title>09/19/2026 • 7:00 PM ET — College Football — Oklahoma State Cowboys vs Murray State Racers</title>
-      <description>Date: 09/19/2026 | Time: 7:00 PM ET | Status: End of Period | Sport: College Football | Event: Murray State Racers at Oklahoma State Cowboys | Venue: Boone Pickens Stadium</description>
+      <description>Date: 09/19/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Murray State Racers at Oklahoma State Cowboys | Venue: Boone Pickens Stadium</description>
       <pubDate>Sat, 19 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856803</guid>
     </item>
@@ -362,19 +362,19 @@
     </item>
     <item>
       <title>09/19/2026 • 7:00 PM ET — NHL — Toronto Maple Leafs vs Montreal Canadiens</title>
-      <description>Date: 09/19/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: NHL | Event: Montreal Canadiens at Toronto Maple Leafs | Venue: Scotiabank Arena</description>
+      <description>Date: 09/19/2026 | Time: 7:00 PM ET | Status: End of Period | Sport: NHL | Event: Montreal Canadiens at Toronto Maple Leafs | Venue: Scotiabank Arena</description>
       <pubDate>Sat, 19 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401881922</guid>
     </item>
     <item>
       <title>09/19/2026 • 7:00 PM ET — NHL — Montreal Canadiens vs Toronto Maple Leafs</title>
-      <description>Date: 09/19/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: NHL | Event: Toronto Maple Leafs at Montreal Canadiens | Venue: Bell Centre</description>
+      <description>Date: 09/19/2026 | Time: 7:00 PM ET | Status: End of Period | Sport: NHL | Event: Toronto Maple Leafs at Montreal Canadiens | Venue: Bell Centre</description>
       <pubDate>Sat, 19 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401881923</guid>
     </item>
     <item>
       <title>09/19/2026 • 7:00 PM ET — NHL — St. Louis Blues vs Dallas Stars</title>
-      <description>Date: 09/19/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: NHL | Event: Dallas Stars at St. Louis Blues | Venue: Enterprise Center</description>
+      <description>Date: 09/19/2026 | Time: 7:00 PM ET | Status: End of Period | Sport: NHL | Event: Dallas Stars at St. Louis Blues | Venue: Enterprise Center</description>
       <pubDate>Sat, 19 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401886427</guid>
     </item>
@@ -415,18 +415,6 @@
       <guid isPermaLink="false">401858453</guid>
     </item>
     <item>
-      <title>09/19/2026 • 7:30 PM ET — College Football — Ole Miss Rebels vs LSU Tigers</title>
-      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: LSU Tigers at Ole Miss Rebels | Venue: Vaught-Hemingway Stadium</description>
-      <pubDate>Sat, 19 Sep 2026 19:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401856688</guid>
-    </item>
-    <item>
-      <title>09/19/2026 • 7:30 PM ET — College Football — Colorado State Rams vs BYU Cougars</title>
-      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: BYU Cougars at Colorado State Rams | Venue: Canvas Stadium</description>
-      <pubDate>Sat, 19 Sep 2026 19:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401856795</guid>
-    </item>
-    <item>
       <title>09/19/2026 • 7:30 PM ET — College Football — Oklahoma Sooners vs New Mexico Lobos</title>
       <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: In Progress | Sport: College Football | Event: New Mexico Lobos at Oklahoma Sooners | Venue: Memorial Stadium (Norman, OK)</description>
       <pubDate>Sat, 19 Sep 2026 19:30:00 -0400</pubDate>
@@ -445,32 +433,44 @@
       <guid isPermaLink="false">401856796</guid>
     </item>
     <item>
+      <title>09/19/2026 • 7:30 PM ET — College Football — Ole Miss Rebels vs LSU Tigers</title>
+      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: LSU Tigers at Ole Miss Rebels | Venue: Vaught-Hemingway Stadium</description>
+      <pubDate>Sat, 19 Sep 2026 19:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401856688</guid>
+    </item>
+    <item>
+      <title>09/19/2026 • 7:30 PM ET — College Football — Colorado State Rams vs BYU Cougars</title>
+      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: Delayed | Sport: College Football | Event: BYU Cougars at Colorado State Rams | Venue: Canvas Stadium</description>
+      <pubDate>Sat, 19 Sep 2026 19:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401856795</guid>
+    </item>
+    <item>
       <title>09/19/2026 • 7:30 PM ET — College Football — Maryland Terrapins vs Virginia Tech Hokies</title>
-      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Virginia Tech Hokies at Maryland Terrapins | Venue: SECU Stadium</description>
+      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: In Progress | Sport: College Football | Event: Virginia Tech Hokies at Maryland Terrapins | Venue: SECU Stadium</description>
       <pubDate>Sat, 19 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858232</guid>
     </item>
     <item>
       <title>09/19/2026 • 7:30 PM ET — MLS — CF Montréal vs Columbus Crew</title>
-      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: MLS | Event: Columbus Crew at CF Montréal | Venue: Stade Saputo</description>
+      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: First Half | Sport: MLS | Event: Columbus Crew at CF Montréal | Venue: Stade Saputo</description>
       <pubDate>Sat, 19 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">761818</guid>
     </item>
     <item>
       <title>09/19/2026 • 7:30 PM ET — MLS — D.C. United vs Charlotte FC</title>
-      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: MLS | Event: Charlotte FC at D.C. United | Venue: Audi Field</description>
+      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: First Half | Sport: MLS | Event: Charlotte FC at D.C. United | Venue: Audi Field</description>
       <pubDate>Sat, 19 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">761819</guid>
     </item>
     <item>
       <title>09/19/2026 • 7:30 PM ET — MLS — New England Revolution vs Orlando City SC</title>
-      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: MLS | Event: Orlando City SC at New England Revolution | Venue: Gillette Stadium</description>
+      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: First Half | Sport: MLS | Event: Orlando City SC at New England Revolution | Venue: Gillette Stadium</description>
       <pubDate>Sat, 19 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">761816</guid>
     </item>
     <item>
       <title>09/19/2026 • 7:30 PM ET — MLS — San Jose Earthquakes vs LAFC</title>
-      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: MLS | Event: LAFC at San Jose Earthquakes | Venue: Levi's Stadium</description>
+      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: First Half | Sport: MLS | Event: LAFC at San Jose Earthquakes | Venue: Levi's Stadium</description>
       <pubDate>Sat, 19 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">761817</guid>
     </item>
