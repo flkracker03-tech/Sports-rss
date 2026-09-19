@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 19 Sep 2026 19:23:27 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 19:37:43 -0400</lastBuildDate>
     
     <item>
       <title>09/19/2026 • 11:30 AM ET — College Football — Delaware Blue Hens vs Coastal Carolina Chanticleers</title>
@@ -122,7 +122,7 @@
     </item>
     <item>
       <title>09/19/2026 • 3:30 PM ET — College Football — Rutgers Scarlet Knights vs USC Trojans</title>
-      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: USC Trojans at Rutgers Scarlet Knights | Venue: SHI Stadium</description>
+      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: USC Trojans at Rutgers Scarlet Knights | Venue: SHI Stadium</description>
       <pubDate>Sat, 19 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858457</guid>
     </item>
@@ -176,13 +176,13 @@
     </item>
     <item>
       <title>09/19/2026 • 4:00 PM ET — College Football — Iowa Hawkeyes vs Northern Iowa Panthers</title>
-      <description>Date: 09/19/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: Northern Iowa Panthers at Iowa Hawkeyes | Venue: Kinnick Stadium</description>
+      <description>Date: 09/19/2026 | Time: 4:00 PM ET | Status: Final | Sport: College Football | Event: Northern Iowa Panthers at Iowa Hawkeyes | Venue: Kinnick Stadium</description>
       <pubDate>Sat, 19 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858471</guid>
     </item>
     <item>
       <title>09/19/2026 • 4:00 PM ET — College Football — Baylor Bears vs Louisiana Tech Bulldogs</title>
-      <description>Date: 09/19/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: Louisiana Tech Bulldogs at Baylor Bears | Venue: McLane Stadium</description>
+      <description>Date: 09/19/2026 | Time: 4:00 PM ET | Status: Final | Sport: College Football | Event: Louisiana Tech Bulldogs at Baylor Bears | Venue: McLane Stadium</description>
       <pubDate>Sat, 19 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401867804</guid>
     </item>
@@ -218,7 +218,7 @@
     </item>
     <item>
       <title>09/19/2026 • 4:10 PM ET — MLB — New York Mets vs Philadelphia Phillies</title>
-      <description>Date: 09/19/2026 | Time: 4:10 PM ET | Status: In Progress | Sport: MLB | Event: Philadelphia Phillies at New York Mets | Venue: Citi Field</description>
+      <description>Date: 09/19/2026 | Time: 4:10 PM ET | Status: Final | Sport: MLB | Event: Philadelphia Phillies at New York Mets | Venue: Citi Field</description>
       <pubDate>Sat, 19 Sep 2026 16:10:00 -0400</pubDate>
       <guid isPermaLink="false">401817002</guid>
     </item>
@@ -236,7 +236,7 @@
     </item>
     <item>
       <title>09/19/2026 • 5:35 PM ET — College Football — South Carolina Gamecocks vs Mississippi State Bulldogs</title>
-      <description>Date: 09/19/2026 | Time: 5:35 PM ET | Status: Halftime | Sport: College Football | Event: Mississippi State Bulldogs at South Carolina Gamecocks | Venue: Williams-Brice Stadium</description>
+      <description>Date: 09/19/2026 | Time: 5:35 PM ET | Status: In Progress | Sport: College Football | Event: Mississippi State Bulldogs at South Carolina Gamecocks | Venue: Williams-Brice Stadium</description>
       <pubDate>Sat, 19 Sep 2026 17:35:00 -0400</pubDate>
       <guid isPermaLink="false">401856691</guid>
     </item>
@@ -248,7 +248,7 @@
     </item>
     <item>
       <title>09/19/2026 • 6:00 PM ET — College Football — Florida Atlantic Owls vs Florida International Panthers</title>
-      <description>Date: 09/19/2026 | Time: 6:00 PM ET | Status: In Progress | Sport: College Football | Event: Florida International Panthers at Florida Atlantic Owls | Venue: Flagler Credit Union Stadium</description>
+      <description>Date: 09/19/2026 | Time: 6:00 PM ET | Status: Halftime | Sport: College Football | Event: Florida International Panthers at Florida Atlantic Owls | Venue: Flagler Credit Union Stadium</description>
       <pubDate>Sat, 19 Sep 2026 18:00:00 -0400</pubDate>
       <guid isPermaLink="false">401862771</guid>
     </item>
@@ -302,7 +302,7 @@
     </item>
     <item>
       <title>09/19/2026 • 7:00 PM ET — College Football — Oklahoma State Cowboys vs Murray State Racers</title>
-      <description>Date: 09/19/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Murray State Racers at Oklahoma State Cowboys | Venue: Boone Pickens Stadium</description>
+      <description>Date: 09/19/2026 | Time: 7:00 PM ET | Status: End of Period | Sport: College Football | Event: Murray State Racers at Oklahoma State Cowboys | Venue: Boone Pickens Stadium</description>
       <pubDate>Sat, 19 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856803</guid>
     </item>
@@ -326,7 +326,7 @@
     </item>
     <item>
       <title>09/19/2026 • 7:00 PM ET — College Football — South Florida Bulls vs Delaware State Hornets</title>
-      <description>Date: 09/19/2026 | Time: 7:00 PM ET | Status: Delayed | Sport: College Football | Event: Delaware State Hornets at South Florida Bulls | Venue: Raymond James Stadium</description>
+      <description>Date: 09/19/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Delaware State Hornets at South Florida Bulls | Venue: Raymond James Stadium</description>
       <pubDate>Sat, 19 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401862777</guid>
     </item>
@@ -410,7 +410,7 @@
     </item>
     <item>
       <title>09/19/2026 • 7:30 PM ET — College Football — Notre Dame Fighting Irish vs Michigan State Spartans</title>
-      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Michigan State Spartans at Notre Dame Fighting Irish | Venue: Notre Dame Stadium</description>
+      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: In Progress | Sport: College Football | Event: Michigan State Spartans at Notre Dame Fighting Irish | Venue: Notre Dame Stadium</description>
       <pubDate>Sat, 19 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858453</guid>
     </item>
@@ -428,19 +428,19 @@
     </item>
     <item>
       <title>09/19/2026 • 7:30 PM ET — College Football — Oklahoma Sooners vs New Mexico Lobos</title>
-      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: New Mexico Lobos at Oklahoma Sooners | Venue: Memorial Stadium (Norman, OK)</description>
+      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: In Progress | Sport: College Football | Event: New Mexico Lobos at Oklahoma Sooners | Venue: Memorial Stadium (Norman, OK)</description>
       <pubDate>Sat, 19 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856690</guid>
     </item>
     <item>
       <title>09/19/2026 • 7:30 PM ET — College Football — Virginia Cavaliers vs West Virginia Mountaineers</title>
-      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: West Virginia Mountaineers at Virginia Cavaliers | Venue: Bank of America Stadium</description>
+      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: In Progress | Sport: College Football | Event: West Virginia Mountaineers at Virginia Cavaliers | Venue: Bank of America Stadium</description>
       <pubDate>Sat, 19 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856802</guid>
     </item>
     <item>
       <title>09/19/2026 • 7:30 PM ET — College Football — Northwestern Wildcats vs Colorado Buffaloes</title>
-      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Colorado Buffaloes at Northwestern Wildcats | Venue: Northwestern Medicine Field at Martin Stadium</description>
+      <description>Date: 09/19/2026 | Time: 7:30 PM ET | Status: In Progress | Sport: College Football | Event: Colorado Buffaloes at Northwestern Wildcats | Venue: Northwestern Medicine Field at Martin Stadium</description>
       <pubDate>Sat, 19 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856796</guid>
     </item>
