@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 19 Sep 2026 17:10:28 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 17:24:51 -0400</lastBuildDate>
     
     <item>
       <title>09/19/2026 • 11:30 AM ET — College Football — Delaware Blue Hens vs Coastal Carolina Chanticleers</title>
@@ -97,16 +97,16 @@
       <guid isPermaLink="false">401857198</guid>
     </item>
     <item>
-      <title>09/19/2026 • 2:00 PM ET — College Football — Boston College Eagles vs Maine Black Bears</title>
-      <description>Date: 09/19/2026 | Time: 2:00 PM ET | Status: In Progress | Sport: College Football | Event: Maine Black Bears at Boston College Eagles | Venue: Alumni Stadium (Chestnut Hill, MA)</description>
-      <pubDate>Sat, 19 Sep 2026 14:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858227</guid>
-    </item>
-    <item>
       <title>09/19/2026 • 2:00 PM ET — College Football — Illinois Fighting Illini vs Southern Illinois Salukis</title>
-      <description>Date: 09/19/2026 | Time: 2:00 PM ET | Status: In Progress | Sport: College Football | Event: Southern Illinois Salukis at Illinois Fighting Illini | Venue: Gies Memorial Stadium</description>
+      <description>Date: 09/19/2026 | Time: 2:00 PM ET | Status: Final | Sport: College Football | Event: Southern Illinois Salukis at Illinois Fighting Illini | Venue: Gies Memorial Stadium</description>
       <pubDate>Sat, 19 Sep 2026 14:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858448</guid>
+    </item>
+    <item>
+      <title>09/19/2026 • 2:00 PM ET — College Football — Boston College Eagles vs Maine Black Bears</title>
+      <description>Date: 09/19/2026 | Time: 2:00 PM ET | Status: Final | Sport: College Football | Event: Maine Black Bears at Boston College Eagles | Venue: Alumni Stadium (Chestnut Hill, MA)</description>
+      <pubDate>Sat, 19 Sep 2026 14:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401858227</guid>
     </item>
     <item>
       <title>09/19/2026 • 2:10 PM ET — MLB — Chicago White Sox vs Detroit Tigers</title>
@@ -122,19 +122,19 @@
     </item>
     <item>
       <title>09/19/2026 • 3:30 PM ET — College Football — Rutgers Scarlet Knights vs USC Trojans</title>
-      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: USC Trojans at Rutgers Scarlet Knights | Venue: SHI Stadium</description>
+      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: Halftime | Sport: College Football | Event: USC Trojans at Rutgers Scarlet Knights | Venue: SHI Stadium</description>
       <pubDate>Sat, 19 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858457</guid>
     </item>
     <item>
       <title>09/19/2026 • 3:30 PM ET — College Football — Louisville Cardinals vs SMU Mustangs</title>
-      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: SMU Mustangs at Louisville Cardinals | Venue: L&amp;N Federal Credit Union Stadium</description>
+      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: Halftime | Sport: College Football | Event: SMU Mustangs at Louisville Cardinals | Venue: L&amp;N Federal Credit Union Stadium</description>
       <pubDate>Sat, 19 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858230</guid>
     </item>
     <item>
       <title>09/19/2026 • 3:30 PM ET — College Football — Utah Utes vs Utah State Aggies</title>
-      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Utah State Aggies at Utah Utes | Venue: Rice-Eccles Stadium</description>
+      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: Halftime | Sport: College Football | Event: Utah State Aggies at Utah Utes | Venue: Rice-Eccles Stadium</description>
       <pubDate>Sat, 19 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856801</guid>
     </item>
@@ -146,19 +146,19 @@
     </item>
     <item>
       <title>09/19/2026 • 3:30 PM ET — College Football — Cincinnati Bearcats vs Miami (OH) RedHawks</title>
-      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: Halftime | Sport: College Football | Event: Miami (OH) RedHawks at Cincinnati Bearcats | Venue: TQL Stadium</description>
+      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Miami (OH) RedHawks at Cincinnati Bearcats | Venue: TQL Stadium</description>
       <pubDate>Sat, 19 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856797</guid>
     </item>
     <item>
       <title>09/19/2026 • 3:30 PM ET — College Football — California Golden Bears vs Wagner Seahawks</title>
-      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Wagner Seahawks at California Golden Bears | Venue: California Memorial Stadium</description>
+      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: Halftime | Sport: College Football | Event: Wagner Seahawks at California Golden Bears | Venue: California Memorial Stadium</description>
       <pubDate>Sat, 19 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858233</guid>
     </item>
     <item>
       <title>09/19/2026 • 3:30 PM ET — College Football — Washington State Cougars vs Duquesne Dukes</title>
-      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Duquesne Dukes at Washington State Cougars | Venue: Martin Stadium</description>
+      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: Halftime | Sport: College Football | Event: Duquesne Dukes at Washington State Cougars | Venue: Martin Stadium</description>
       <pubDate>Sat, 19 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401860890</guid>
     </item>
@@ -230,7 +230,7 @@
     </item>
     <item>
       <title>09/19/2026 • 5:15 PM ET — College Football — Alabama Crimson Tide vs Florida State Seminoles</title>
-      <description>Date: 09/19/2026 | Time: 5:15 PM ET | Status: Scheduled | Sport: College Football | Event: Florida State Seminoles at Alabama Crimson Tide | Venue: Bryant-Denny Stadium</description>
+      <description>Date: 09/19/2026 | Time: 5:15 PM ET | Status: In Progress | Sport: College Football | Event: Florida State Seminoles at Alabama Crimson Tide | Venue: Bryant-Denny Stadium</description>
       <pubDate>Sat, 19 Sep 2026 17:15:00 -0400</pubDate>
       <guid isPermaLink="false">401856685</guid>
     </item>
