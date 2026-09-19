@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 19 Sep 2026 16:50:39 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 17:10:28 -0400</lastBuildDate>
     
     <item>
       <title>09/19/2026 • 11:30 AM ET — College Football — Delaware Blue Hens vs Coastal Carolina Chanticleers</title>
@@ -110,13 +110,13 @@
     </item>
     <item>
       <title>09/19/2026 • 2:10 PM ET — MLB — Chicago White Sox vs Detroit Tigers</title>
-      <description>Date: 09/19/2026 | Time: 2:10 PM ET | Status: In Progress | Sport: MLB | Event: Detroit Tigers at Chicago White Sox | Venue: Rate Field</description>
+      <description>Date: 09/19/2026 | Time: 2:10 PM ET | Status: Final | Sport: MLB | Event: Detroit Tigers at Chicago White Sox | Venue: Rate Field</description>
       <pubDate>Sat, 19 Sep 2026 14:10:00 -0400</pubDate>
       <guid isPermaLink="false">401817004</guid>
     </item>
     <item>
       <title>09/19/2026 • 3:00 PM ET — College Football — Toledo Rockets vs Temple Owls</title>
-      <description>Date: 09/19/2026 | Time: 3:00 PM ET | Status: Halftime | Sport: College Football | Event: Temple Owls at Toledo Rockets | Venue: Glass Bowl</description>
+      <description>Date: 09/19/2026 | Time: 3:00 PM ET | Status: In Progress | Sport: College Football | Event: Temple Owls at Toledo Rockets | Venue: Glass Bowl</description>
       <pubDate>Sat, 19 Sep 2026 15:00:00 -0400</pubDate>
       <guid isPermaLink="false">401862774</guid>
     </item>
@@ -140,13 +140,13 @@
     </item>
     <item>
       <title>09/19/2026 • 3:30 PM ET — College Football — Michigan Wolverines vs UTEP Miners</title>
-      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: UTEP Miners at Michigan Wolverines | Venue: Michigan Stadium</description>
+      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: Halftime | Sport: College Football | Event: UTEP Miners at Michigan Wolverines | Venue: Michigan Stadium</description>
       <pubDate>Sat, 19 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858450</guid>
     </item>
     <item>
       <title>09/19/2026 • 3:30 PM ET — College Football — Cincinnati Bearcats vs Miami (OH) RedHawks</title>
-      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Miami (OH) RedHawks at Cincinnati Bearcats | Venue: TQL Stadium</description>
+      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: Halftime | Sport: College Football | Event: Miami (OH) RedHawks at Cincinnati Bearcats | Venue: TQL Stadium</description>
       <pubDate>Sat, 19 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856797</guid>
     </item>
@@ -164,13 +164,13 @@
     </item>
     <item>
       <title>09/19/2026 • 3:30 PM ET — College Football — Massachusetts Minutemen vs Stonehill Skyhawks</title>
-      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Stonehill Skyhawks at Massachusetts Minutemen | Venue: Warren McGuirk Alumni Stadium</description>
+      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: Halftime | Sport: College Football | Event: Stonehill Skyhawks at Massachusetts Minutemen | Venue: Warren McGuirk Alumni Stadium</description>
       <pubDate>Sat, 19 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401866424</guid>
     </item>
     <item>
       <title>09/19/2026 • 3:40 PM ET — College Football — Texas A&amp;M Aggies vs Kentucky Wildcats</title>
-      <description>Date: 09/19/2026 | Time: 3:40 PM ET | Status: In Progress | Sport: College Football | Event: Kentucky Wildcats at Texas A&amp;M Aggies | Venue: Kyle Field</description>
+      <description>Date: 09/19/2026 | Time: 3:40 PM ET | Status: Halftime | Sport: College Football | Event: Kentucky Wildcats at Texas A&amp;M Aggies | Venue: Kyle Field</description>
       <pubDate>Sat, 19 Sep 2026 15:40:00 -0400</pubDate>
       <guid isPermaLink="false">401856694</guid>
     </item>
@@ -223,12 +223,6 @@
       <guid isPermaLink="false">401817002</guid>
     </item>
     <item>
-      <title>09/19/2026 • 4:15 PM ET — College Football — South Carolina Gamecocks vs Mississippi State Bulldogs</title>
-      <description>Date: 09/19/2026 | Time: 4:15 PM ET | Status: Delayed | Sport: College Football | Event: Mississippi State Bulldogs at South Carolina Gamecocks | Venue: Williams-Brice Stadium</description>
-      <pubDate>Sat, 19 Sep 2026 16:15:00 -0400</pubDate>
-      <guid isPermaLink="false">401856691</guid>
-    </item>
-    <item>
       <title>09/19/2026 • 4:30 PM ET — College Football — UL Monroe Warhawks vs SE Louisiana Lions</title>
       <description>Date: 09/19/2026 | Time: 4:30 PM ET | Status: In Progress | Sport: College Football | Event: SE Louisiana Lions at UL Monroe Warhawks | Venue: Malone Stadium</description>
       <pubDate>Sat, 19 Sep 2026 16:30:00 -0400</pubDate>
@@ -239,6 +233,12 @@
       <description>Date: 09/19/2026 | Time: 5:15 PM ET | Status: Scheduled | Sport: College Football | Event: Florida State Seminoles at Alabama Crimson Tide | Venue: Bryant-Denny Stadium</description>
       <pubDate>Sat, 19 Sep 2026 17:15:00 -0400</pubDate>
       <guid isPermaLink="false">401856685</guid>
+    </item>
+    <item>
+      <title>09/19/2026 • 5:35 PM ET — College Football — South Carolina Gamecocks vs Mississippi State Bulldogs</title>
+      <description>Date: 09/19/2026 | Time: 5:35 PM ET | Status: Scheduled | Sport: College Football | Event: Mississippi State Bulldogs at South Carolina Gamecocks | Venue: Williams-Brice Stadium</description>
+      <pubDate>Sat, 19 Sep 2026 17:35:00 -0400</pubDate>
+      <guid isPermaLink="false">401856691</guid>
     </item>
     <item>
       <title>09/19/2026 • 6:00 PM ET — College Football — Old Dominion Monarchs vs East Carolina Pirates</title>
