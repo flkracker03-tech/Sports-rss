@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 19 Sep 2026 18:37:59 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 18:50:38 -0400</lastBuildDate>
     
     <item>
       <title>09/19/2026 • 11:30 AM ET — College Football — Delaware Blue Hens vs Coastal Carolina Chanticleers</title>
@@ -116,7 +116,7 @@
     </item>
     <item>
       <title>09/19/2026 • 3:00 PM ET — College Football — Toledo Rockets vs Temple Owls</title>
-      <description>Date: 09/19/2026 | Time: 3:00 PM ET | Status: In Progress | Sport: College Football | Event: Temple Owls at Toledo Rockets | Venue: Glass Bowl</description>
+      <description>Date: 09/19/2026 | Time: 3:00 PM ET | Status: Final | Sport: College Football | Event: Temple Owls at Toledo Rockets | Venue: Glass Bowl</description>
       <pubDate>Sat, 19 Sep 2026 15:00:00 -0400</pubDate>
       <guid isPermaLink="false">401862774</guid>
     </item>
@@ -212,7 +212,7 @@
     </item>
     <item>
       <title>09/19/2026 • 4:10 PM ET — MLB — Tampa Bay Rays vs Boston Red Sox</title>
-      <description>Date: 09/19/2026 | Time: 4:10 PM ET | Status: In Progress | Sport: MLB | Event: Boston Red Sox at Tampa Bay Rays | Venue: Tropicana Field</description>
+      <description>Date: 09/19/2026 | Time: 4:10 PM ET | Status: Final | Sport: MLB | Event: Boston Red Sox at Tampa Bay Rays | Venue: Tropicana Field</description>
       <pubDate>Sat, 19 Sep 2026 16:10:00 -0400</pubDate>
       <guid isPermaLink="false">401816998</guid>
     </item>
@@ -272,13 +272,13 @@
     </item>
     <item>
       <title>09/19/2026 • 6:40 PM ET — MLB — Cincinnati Reds vs Chicago Cubs</title>
-      <description>Date: 09/19/2026 | Time: 6:40 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago Cubs at Cincinnati Reds | Venue: Great American Ball Park</description>
+      <description>Date: 09/19/2026 | Time: 6:40 PM ET | Status: In Progress | Sport: MLB | Event: Chicago Cubs at Cincinnati Reds | Venue: Great American Ball Park</description>
       <pubDate>Sat, 19 Sep 2026 18:40:00 -0400</pubDate>
       <guid isPermaLink="false">401816999</guid>
     </item>
     <item>
       <title>09/19/2026 • 6:40 PM ET — MLB — Pittsburgh Pirates vs Kansas City Royals</title>
-      <description>Date: 09/19/2026 | Time: 6:40 PM ET | Status: Scheduled | Sport: MLB | Event: Kansas City Royals at Pittsburgh Pirates | Venue: PNC Park</description>
+      <description>Date: 09/19/2026 | Time: 6:40 PM ET | Status: In Progress | Sport: MLB | Event: Kansas City Royals at Pittsburgh Pirates | Venue: PNC Park</description>
       <pubDate>Sat, 19 Sep 2026 18:40:00 -0400</pubDate>
       <guid isPermaLink="false">401817000</guid>
     </item>
