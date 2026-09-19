@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 19 Sep 2026 15:22:34 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 15:36:56 -0400</lastBuildDate>
     
     <item>
       <title>09/19/2026 • 11:30 AM ET — College Football — Delaware Blue Hens vs Coastal Carolina Chanticleers</title>
@@ -13,22 +13,10 @@
       <guid isPermaLink="false">401869940</guid>
     </item>
     <item>
-      <title>09/19/2026 • 12:00 PM ET — College Football — Arkansas Razorbacks vs Georgia Bulldogs</title>
-      <description>Date: 09/19/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Georgia Bulldogs at Arkansas Razorbacks | Venue: Donald W. Reynolds Razorback Stadium</description>
-      <pubDate>Sat, 19 Sep 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401856686</guid>
-    </item>
-    <item>
       <title>09/19/2026 • 12:00 PM ET — College Football — Ohio State Buckeyes vs Kent State Golden Flashes</title>
       <description>Date: 09/19/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Kent State Golden Flashes at Ohio State Buckeyes | Venue: Ohio Stadium</description>
       <pubDate>Sat, 19 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858454</guid>
-    </item>
-    <item>
-      <title>09/19/2026 • 12:00 PM ET — College Football — Iowa State Cyclones vs Bowling Green Falcons</title>
-      <description>Date: 09/19/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Bowling Green Falcons at Iowa State Cyclones | Venue: Jack Trice Stadium</description>
-      <pubDate>Sat, 19 Sep 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401856798</guid>
     </item>
     <item>
       <title>09/19/2026 • 12:00 PM ET — College Football — Kansas Jayhawks vs Arizona State Sun Devils</title>
@@ -43,16 +31,16 @@
       <guid isPermaLink="false">401858229</guid>
     </item>
     <item>
-      <title>09/19/2026 • 12:00 PM ET — College Football — Minnesota Golden Gophers vs Akron Zips</title>
-      <description>Date: 09/19/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Akron Zips at Minnesota Golden Gophers | Venue: Huntington Bank Stadium</description>
-      <pubDate>Sat, 19 Sep 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858451</guid>
-    </item>
-    <item>
       <title>09/19/2026 • 12:00 PM ET — College Football — Texas State Bobcats vs North Texas Mean Green</title>
       <description>Date: 09/19/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: North Texas Mean Green at Texas State Bobcats | Venue: UFCU Stadium</description>
       <pubDate>Sat, 19 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401860889</guid>
+    </item>
+    <item>
+      <title>09/19/2026 • 12:00 PM ET — College Football — Arkansas Razorbacks vs Georgia Bulldogs</title>
+      <description>Date: 09/19/2026 | Time: 12:00 PM ET | Status: Final | Sport: College Football | Event: Georgia Bulldogs at Arkansas Razorbacks | Venue: Donald W. Reynolds Razorback Stadium</description>
+      <pubDate>Sat, 19 Sep 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401856686</guid>
     </item>
     <item>
       <title>09/19/2026 • 12:00 PM ET — College Football — Penn State Nittany Lions vs Buffalo Bulls</title>
@@ -67,10 +55,22 @@
       <guid isPermaLink="false">401856792</guid>
     </item>
     <item>
+      <title>09/19/2026 • 12:00 PM ET — College Football — Iowa State Cyclones vs Bowling Green Falcons</title>
+      <description>Date: 09/19/2026 | Time: 12:00 PM ET | Status: Final | Sport: College Football | Event: Bowling Green Falcons at Iowa State Cyclones | Venue: Jack Trice Stadium</description>
+      <pubDate>Sat, 19 Sep 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401856798</guid>
+    </item>
+    <item>
       <title>09/19/2026 • 12:00 PM ET — College Football — Georgia Tech Yellow Jackets vs Mercer Bears</title>
       <description>Date: 09/19/2026 | Time: 12:00 PM ET | Status: Final | Sport: College Football | Event: Mercer Bears at Georgia Tech Yellow Jackets | Venue: Bobby Dodd Stadium</description>
       <pubDate>Sat, 19 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858228</guid>
+    </item>
+    <item>
+      <title>09/19/2026 • 12:00 PM ET — College Football — Minnesota Golden Gophers vs Akron Zips</title>
+      <description>Date: 09/19/2026 | Time: 12:00 PM ET | Status: Final | Sport: College Football | Event: Akron Zips at Minnesota Golden Gophers | Venue: Huntington Bank Stadium</description>
+      <pubDate>Sat, 19 Sep 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401858451</guid>
     </item>
     <item>
       <title>09/19/2026 • 12:30 PM ET — College Football — Wisconsin Badgers vs Eastern Michigan Eagles</title>
@@ -122,7 +122,7 @@
     </item>
     <item>
       <title>09/19/2026 • 3:30 PM ET — College Football — Alabama Crimson Tide vs Florida State Seminoles</title>
-      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Florida State Seminoles at Alabama Crimson Tide | Venue: Bryant-Denny Stadium</description>
+      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: Delayed | Sport: College Football | Event: Florida State Seminoles at Alabama Crimson Tide | Venue: Bryant-Denny Stadium</description>
       <pubDate>Sat, 19 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856685</guid>
     </item>
@@ -134,7 +134,7 @@
     </item>
     <item>
       <title>09/19/2026 • 3:30 PM ET — College Football — Louisville Cardinals vs SMU Mustangs</title>
-      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: SMU Mustangs at Louisville Cardinals | Venue: L&amp;N Federal Credit Union Stadium</description>
+      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: SMU Mustangs at Louisville Cardinals | Venue: L&amp;N Federal Credit Union Stadium</description>
       <pubDate>Sat, 19 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858230</guid>
     </item>
@@ -152,7 +152,7 @@
     </item>
     <item>
       <title>09/19/2026 • 3:30 PM ET — College Football — Cincinnati Bearcats vs Miami (OH) RedHawks</title>
-      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Miami (OH) RedHawks at Cincinnati Bearcats | Venue: TQL Stadium</description>
+      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Miami (OH) RedHawks at Cincinnati Bearcats | Venue: TQL Stadium</description>
       <pubDate>Sat, 19 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856797</guid>
     </item>
@@ -170,7 +170,7 @@
     </item>
     <item>
       <title>09/19/2026 • 3:30 PM ET — College Football — Massachusetts Minutemen vs Stonehill Skyhawks</title>
-      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Stonehill Skyhawks at Massachusetts Minutemen | Venue: Warren McGuirk Alumni Stadium</description>
+      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Stonehill Skyhawks at Massachusetts Minutemen | Venue: Warren McGuirk Alumni Stadium</description>
       <pubDate>Sat, 19 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401866424</guid>
     </item>
