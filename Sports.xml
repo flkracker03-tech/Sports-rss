@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 19 Sep 2026 19:09:50 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 19:23:27 -0400</lastBuildDate>
     
     <item>
       <title>09/19/2026 • 11:30 AM ET — College Football — Delaware Blue Hens vs Coastal Carolina Chanticleers</title>
@@ -128,7 +128,7 @@
     </item>
     <item>
       <title>09/19/2026 • 3:30 PM ET — College Football — Louisville Cardinals vs SMU Mustangs</title>
-      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: SMU Mustangs at Louisville Cardinals | Venue: L&amp;N Federal Credit Union Stadium</description>
+      <description>Date: 09/19/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: SMU Mustangs at Louisville Cardinals | Venue: L&amp;N Federal Credit Union Stadium</description>
       <pubDate>Sat, 19 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858230</guid>
     </item>
@@ -175,34 +175,34 @@
       <guid isPermaLink="false">401856694</guid>
     </item>
     <item>
-      <title>09/19/2026 • 4:00 PM ET — College Football — Indiana Hoosiers vs Western Kentucky Hilltoppers</title>
-      <description>Date: 09/19/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: Western Kentucky Hilltoppers at Indiana Hoosiers | Venue: Memorial Stadium (Bloomington, IN)</description>
-      <pubDate>Sat, 19 Sep 2026 16:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858449</guid>
-    </item>
-    <item>
       <title>09/19/2026 • 4:00 PM ET — College Football — Iowa Hawkeyes vs Northern Iowa Panthers</title>
       <description>Date: 09/19/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: Northern Iowa Panthers at Iowa Hawkeyes | Venue: Kinnick Stadium</description>
       <pubDate>Sat, 19 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858471</guid>
     </item>
     <item>
+      <title>09/19/2026 • 4:00 PM ET — College Football — Baylor Bears vs Louisiana Tech Bulldogs</title>
+      <description>Date: 09/19/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: Louisiana Tech Bulldogs at Baylor Bears | Venue: McLane Stadium</description>
+      <pubDate>Sat, 19 Sep 2026 16:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401867804</guid>
+    </item>
+    <item>
+      <title>09/19/2026 • 4:00 PM ET — College Football — Indiana Hoosiers vs Western Kentucky Hilltoppers</title>
+      <description>Date: 09/19/2026 | Time: 4:00 PM ET | Status: Final | Sport: College Football | Event: Western Kentucky Hilltoppers at Indiana Hoosiers | Venue: Memorial Stadium (Bloomington, IN)</description>
+      <pubDate>Sat, 19 Sep 2026 16:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401858449</guid>
+    </item>
+    <item>
       <title>09/19/2026 • 4:00 PM ET — College Football — Duke Blue Devils vs Stanford Cardinal</title>
-      <description>Date: 09/19/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: Stanford Cardinal at Duke Blue Devils | Venue: Wallace Wade Stadium</description>
+      <description>Date: 09/19/2026 | Time: 4:00 PM ET | Status: Final | Sport: College Football | Event: Stanford Cardinal at Duke Blue Devils | Venue: Wallace Wade Stadium</description>
       <pubDate>Sat, 19 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858231</guid>
     </item>
     <item>
       <title>09/19/2026 • 4:00 PM ET — College Football — Liberty Flames vs Ball State Cardinals</title>
-      <description>Date: 09/19/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: Ball State Cardinals at Liberty Flames | Venue: Williams Stadium (VA)</description>
+      <description>Date: 09/19/2026 | Time: 4:00 PM ET | Status: Final | Sport: College Football | Event: Ball State Cardinals at Liberty Flames | Venue: Williams Stadium (VA)</description>
       <pubDate>Sat, 19 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401866422</guid>
-    </item>
-    <item>
-      <title>09/19/2026 • 4:00 PM ET — College Football — Baylor Bears vs Louisiana Tech Bulldogs</title>
-      <description>Date: 09/19/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: Louisiana Tech Bulldogs at Baylor Bears | Venue: McLane Stadium</description>
-      <pubDate>Sat, 19 Sep 2026 16:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401867804</guid>
     </item>
     <item>
       <title>09/19/2026 • 4:05 PM ET — MLB — Baltimore Orioles vs Milwaukee Brewers</title>
@@ -236,7 +236,7 @@
     </item>
     <item>
       <title>09/19/2026 • 5:35 PM ET — College Football — South Carolina Gamecocks vs Mississippi State Bulldogs</title>
-      <description>Date: 09/19/2026 | Time: 5:35 PM ET | Status: In Progress | Sport: College Football | Event: Mississippi State Bulldogs at South Carolina Gamecocks | Venue: Williams-Brice Stadium</description>
+      <description>Date: 09/19/2026 | Time: 5:35 PM ET | Status: Halftime | Sport: College Football | Event: Mississippi State Bulldogs at South Carolina Gamecocks | Venue: Williams-Brice Stadium</description>
       <pubDate>Sat, 19 Sep 2026 17:35:00 -0400</pubDate>
       <guid isPermaLink="false">401856691</guid>
     </item>
@@ -325,6 +325,12 @@
       <guid isPermaLink="false">401862773</guid>
     </item>
     <item>
+      <title>09/19/2026 • 7:00 PM ET — College Football — South Florida Bulls vs Delaware State Hornets</title>
+      <description>Date: 09/19/2026 | Time: 7:00 PM ET | Status: Delayed | Sport: College Football | Event: Delaware State Hornets at South Florida Bulls | Venue: Raymond James Stadium</description>
+      <pubDate>Sat, 19 Sep 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401862777</guid>
+    </item>
+    <item>
       <title>09/19/2026 • 7:00 PM ET — College Football — Middle Tennessee Blue Raiders vs Nevada Wolf Pack</title>
       <description>Date: 09/19/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Nevada Wolf Pack at Middle Tennessee Blue Raiders | Venue: Johnny "Red" Floyd Stadium</description>
       <pubDate>Sat, 19 Sep 2026 19:00:00 -0400</pubDate>
@@ -347,12 +353,6 @@
       <description>Date: 09/19/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Nicholls Colonels at Sam Houston Bearkats | Venue: Elliott T. Bowers Stadium</description>
       <pubDate>Sat, 19 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401870764</guid>
-    </item>
-    <item>
-      <title>09/19/2026 • 7:00 PM ET — College Football — South Florida Bulls vs Delaware State Hornets</title>
-      <description>Date: 09/19/2026 | Time: 7:00 PM ET | Status: Delayed | Sport: College Football | Event: Delaware State Hornets at South Florida Bulls | Venue: Raymond James Stadium</description>
-      <pubDate>Sat, 19 Sep 2026 19:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401862777</guid>
     </item>
     <item>
       <title>09/19/2026 • 7:00 PM ET — WNBA — Atlanta Dream vs Chicago Sky</title>
@@ -386,25 +386,25 @@
     </item>
     <item>
       <title>09/19/2026 • 7:10 PM ET — MLB — Houston Astros vs Atlanta Braves</title>
-      <description>Date: 09/19/2026 | Time: 7:10 PM ET | Status: Scheduled | Sport: MLB | Event: Atlanta Braves at Houston Astros | Venue: Daikin Park</description>
+      <description>Date: 09/19/2026 | Time: 7:10 PM ET | Status: In Progress | Sport: MLB | Event: Atlanta Braves at Houston Astros | Venue: Daikin Park</description>
       <pubDate>Sat, 19 Sep 2026 19:10:00 -0400</pubDate>
       <guid isPermaLink="false">401817003</guid>
     </item>
     <item>
       <title>09/19/2026 • 7:15 PM ET — College Football — Nebraska Cornhuskers vs North Dakota Fighting Hawks</title>
-      <description>Date: 09/19/2026 | Time: 7:15 PM ET | Status: Scheduled | Sport: College Football | Event: North Dakota Fighting Hawks at Nebraska Cornhuskers | Venue: Memorial Stadium (Lincoln, NE)</description>
+      <description>Date: 09/19/2026 | Time: 7:15 PM ET | Status: In Progress | Sport: College Football | Event: North Dakota Fighting Hawks at Nebraska Cornhuskers | Venue: Memorial Stadium (Lincoln, NE)</description>
       <pubDate>Sat, 19 Sep 2026 19:15:00 -0400</pubDate>
       <guid isPermaLink="false">401858452</guid>
     </item>
     <item>
       <title>09/19/2026 • 7:15 PM ET — College Football — Washington Huskies vs Eastern Washington Eagles</title>
-      <description>Date: 09/19/2026 | Time: 7:15 PM ET | Status: Scheduled | Sport: College Football | Event: Eastern Washington Eagles at Washington Huskies | Venue: Husky Stadium</description>
+      <description>Date: 09/19/2026 | Time: 7:15 PM ET | Status: In Progress | Sport: College Football | Event: Eastern Washington Eagles at Washington Huskies | Venue: Husky Stadium</description>
       <pubDate>Sat, 19 Sep 2026 19:15:00 -0400</pubDate>
       <guid isPermaLink="false">401858459</guid>
     </item>
     <item>
       <title>09/19/2026 • 7:15 PM ET — MLB — St. Louis Cardinals vs Washington Nationals</title>
-      <description>Date: 09/19/2026 | Time: 7:15 PM ET | Status: Scheduled | Sport: MLB | Event: Washington Nationals at St. Louis Cardinals | Venue: Busch Stadium</description>
+      <description>Date: 09/19/2026 | Time: 7:15 PM ET | Status: In Progress | Sport: MLB | Event: Washington Nationals at St. Louis Cardinals | Venue: Busch Stadium</description>
       <pubDate>Sat, 19 Sep 2026 19:15:00 -0400</pubDate>
       <guid isPermaLink="false">401817006</guid>
     </item>
