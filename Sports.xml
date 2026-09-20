@@ -4,31 +4,13 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 20 Sep 2026 15:50:38 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 16:10:52 -0400</lastBuildDate>
     
     <item>
       <title>09/20/2026 • 1:00 PM ET — NFL — Atlanta Falcons vs Carolina Panthers</title>
-      <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Carolina Panthers at Atlanta Falcons | Venue: Mercedes-Benz Stadium</description>
+      <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Carolina Panthers at Atlanta Falcons | Venue: Mercedes-Benz Stadium</description>
       <pubDate>Sun, 20 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872933</guid>
-    </item>
-    <item>
-      <title>09/20/2026 • 1:00 PM ET — NFL — Chicago Bears vs Minnesota Vikings</title>
-      <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Minnesota Vikings at Chicago Bears | Venue: Soldier Field</description>
-      <pubDate>Sun, 20 Sep 2026 13:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401872937</guid>
-    </item>
-    <item>
-      <title>09/20/2026 • 1:00 PM ET — NFL — Tennessee Titans vs Philadelphia Eagles</title>
-      <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Philadelphia Eagles at Tennessee Titans | Venue: Nissan Stadium</description>
-      <pubDate>Sun, 20 Sep 2026 13:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401872939</guid>
-    </item>
-    <item>
-      <title>09/20/2026 • 1:00 PM ET — NFL — New England Patriots vs Pittsburgh Steelers</title>
-      <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Pittsburgh Steelers at New England Patriots | Venue: Gillette Stadium</description>
-      <pubDate>Sun, 20 Sep 2026 13:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401872946</guid>
     </item>
     <item>
       <title>09/20/2026 • 1:00 PM ET — NFL — New York Jets vs Green Bay Packers</title>
@@ -38,21 +20,39 @@
     </item>
     <item>
       <title>09/20/2026 • 1:00 PM ET — NFL — Tampa Bay Buccaneers vs Cleveland Browns</title>
-      <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Cleveland Browns at Tampa Bay Buccaneers | Venue: Raymond James Stadium</description>
+      <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: Delayed | Sport: NFL | Event: Cleveland Browns at Tampa Bay Buccaneers | Venue: Raymond James Stadium</description>
       <pubDate>Sun, 20 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872935</guid>
-    </item>
-    <item>
-      <title>09/20/2026 • 1:00 PM ET — NFL — Baltimore Ravens vs New Orleans Saints</title>
-      <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: New Orleans Saints at Baltimore Ravens | Venue: M&amp;T Bank Stadium</description>
-      <pubDate>Sun, 20 Sep 2026 13:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401872938</guid>
     </item>
     <item>
       <title>09/20/2026 • 1:00 PM ET — NFL — Houston Texans vs Cincinnati Bengals</title>
       <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Cincinnati Bengals at Houston Texans | Venue: Reliant Stadium</description>
       <pubDate>Sun, 20 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872934</guid>
+    </item>
+    <item>
+      <title>09/20/2026 • 1:00 PM ET — NFL — Chicago Bears vs Minnesota Vikings</title>
+      <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Minnesota Vikings at Chicago Bears | Venue: Soldier Field</description>
+      <pubDate>Sun, 20 Sep 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401872937</guid>
+    </item>
+    <item>
+      <title>09/20/2026 • 1:00 PM ET — NFL — Tennessee Titans vs Philadelphia Eagles</title>
+      <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Philadelphia Eagles at Tennessee Titans | Venue: Nissan Stadium</description>
+      <pubDate>Sun, 20 Sep 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401872939</guid>
+    </item>
+    <item>
+      <title>09/20/2026 • 1:00 PM ET — NFL — New England Patriots vs Pittsburgh Steelers</title>
+      <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Pittsburgh Steelers at New England Patriots | Venue: Gillette Stadium</description>
+      <pubDate>Sun, 20 Sep 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401872946</guid>
+    </item>
+    <item>
+      <title>09/20/2026 • 1:00 PM ET — NFL — Baltimore Ravens vs New Orleans Saints</title>
+      <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: New Orleans Saints at Baltimore Ravens | Venue: M&amp;T Bank Stadium</description>
+      <pubDate>Sun, 20 Sep 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401872938</guid>
     </item>
     <item>
       <title>09/20/2026 • 1:00 PM ET — WNBA — Connecticut Sun vs Minnesota Lynx</title>
@@ -86,7 +86,7 @@
     </item>
     <item>
       <title>09/20/2026 • 1:40 PM ET — MLB — Tampa Bay Rays vs Boston Red Sox</title>
-      <description>Date: 09/20/2026 | Time: 1:40 PM ET | Status: In Progress | Sport: MLB | Event: Boston Red Sox at Tampa Bay Rays | Venue: Tropicana Field</description>
+      <description>Date: 09/20/2026 | Time: 1:40 PM ET | Status: Final | Sport: MLB | Event: Boston Red Sox at Tampa Bay Rays | Venue: Tropicana Field</description>
       <pubDate>Sun, 20 Sep 2026 13:40:00 -0400</pubDate>
       <guid isPermaLink="false">401817013</guid>
     </item>
@@ -122,7 +122,7 @@
     </item>
     <item>
       <title>09/20/2026 • 3:00 PM ET — WNBA — Toronto Tempo vs New York Liberty</title>
-      <description>Date: 09/20/2026 | Time: 3:00 PM ET | Status: In Progress | Sport: WNBA | Event: New York Liberty at Toronto Tempo | Venue: Coca-Cola Coliseum</description>
+      <description>Date: 09/20/2026 | Time: 3:00 PM ET | Status: Halftime | Sport: WNBA | Event: New York Liberty at Toronto Tempo | Venue: Coca-Cola Coliseum</description>
       <pubDate>Sun, 20 Sep 2026 15:00:00 -0400</pubDate>
       <guid isPermaLink="false">401857202</guid>
     </item>
@@ -134,43 +134,43 @@
     </item>
     <item>
       <title>09/20/2026 • 4:00 PM ET — WNBA — Indiana Fever vs Washington Mystics</title>
-      <description>Date: 09/20/2026 | Time: 4:00 PM ET | Status: Scheduled | Sport: WNBA | Event: Washington Mystics at Indiana Fever | Venue: Gainbridge Fieldhouse</description>
+      <description>Date: 09/20/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: WNBA | Event: Washington Mystics at Indiana Fever | Venue: Gainbridge Fieldhouse</description>
       <pubDate>Sun, 20 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401857203</guid>
     </item>
     <item>
       <title>09/20/2026 • 4:00 PM ET — NHL — Anaheim Ducks vs San Jose Sharks</title>
-      <description>Date: 09/20/2026 | Time: 4:00 PM ET | Status: Scheduled | Sport: NHL | Event: San Jose Sharks at Anaheim Ducks | Venue: Honda Center</description>
+      <description>Date: 09/20/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: NHL | Event: San Jose Sharks at Anaheim Ducks | Venue: Honda Center</description>
       <pubDate>Sun, 20 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401879368</guid>
     </item>
     <item>
       <title>09/20/2026 • 4:05 PM ET — NFL — Denver Broncos vs Jacksonville Jaguars</title>
-      <description>Date: 09/20/2026 | Time: 4:05 PM ET | Status: Scheduled | Sport: NFL | Event: Jacksonville Jaguars at Denver Broncos | Venue: Empower Field at Mile High</description>
+      <description>Date: 09/20/2026 | Time: 4:05 PM ET | Status: In Progress | Sport: NFL | Event: Jacksonville Jaguars at Denver Broncos | Venue: Empower Field at Mile High</description>
       <pubDate>Sun, 20 Sep 2026 16:05:00 -0400</pubDate>
       <guid isPermaLink="false">401872940</guid>
     </item>
     <item>
       <title>09/20/2026 • 4:05 PM ET — NFL — Los Angeles Chargers vs Las Vegas Raiders</title>
-      <description>Date: 09/20/2026 | Time: 4:05 PM ET | Status: Scheduled | Sport: NFL | Event: Las Vegas Raiders at Los Angeles Chargers | Venue: SoFi Stadium</description>
+      <description>Date: 09/20/2026 | Time: 4:05 PM ET | Status: In Progress | Sport: NFL | Event: Las Vegas Raiders at Los Angeles Chargers | Venue: SoFi Stadium</description>
       <pubDate>Sun, 20 Sep 2026 16:05:00 -0400</pubDate>
       <guid isPermaLink="false">401872941</guid>
     </item>
     <item>
       <title>09/20/2026 • 4:07 PM ET — MLB — Los Angeles Angels vs Minnesota Twins</title>
-      <description>Date: 09/20/2026 | Time: 4:07 PM ET | Status: Scheduled | Sport: MLB | Event: Minnesota Twins at Los Angeles Angels | Venue: Angel Stadium</description>
+      <description>Date: 09/20/2026 | Time: 4:07 PM ET | Status: In Progress | Sport: MLB | Event: Minnesota Twins at Los Angeles Angels | Venue: Angel Stadium</description>
       <pubDate>Sun, 20 Sep 2026 16:07:00 -0400</pubDate>
       <guid isPermaLink="false">401817024</guid>
     </item>
     <item>
       <title>09/20/2026 • 4:10 PM ET — MLB — San Diego Padres vs Miami Marlins</title>
-      <description>Date: 09/20/2026 | Time: 4:10 PM ET | Status: Scheduled | Sport: MLB | Event: Miami Marlins at San Diego Padres | Venue: Petco Park</description>
+      <description>Date: 09/20/2026 | Time: 4:10 PM ET | Status: In Progress | Sport: MLB | Event: Miami Marlins at San Diego Padres | Venue: Petco Park</description>
       <pubDate>Sun, 20 Sep 2026 16:10:00 -0400</pubDate>
       <guid isPermaLink="false">401817023</guid>
     </item>
     <item>
       <title>09/20/2026 • 4:10 PM ET — MLB — Arizona Diamondbacks vs New York Yankees</title>
-      <description>Date: 09/20/2026 | Time: 4:10 PM ET | Status: Scheduled | Sport: MLB | Event: New York Yankees at Arizona Diamondbacks | Venue: Chase Field</description>
+      <description>Date: 09/20/2026 | Time: 4:10 PM ET | Status: In Progress | Sport: MLB | Event: New York Yankees at Arizona Diamondbacks | Venue: Chase Field</description>
       <pubDate>Sun, 20 Sep 2026 16:10:00 -0400</pubDate>
       <guid isPermaLink="false">401817025</guid>
     </item>
