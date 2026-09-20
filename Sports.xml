@@ -4,11 +4,11 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 20 Sep 2026 16:25:32 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 16:40:26 -0400</lastBuildDate>
     
     <item>
       <title>09/20/2026 • 1:00 PM ET — NFL — New York Jets vs Green Bay Packers</title>
-      <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Green Bay Packers at New York Jets | Venue: MetLife Stadium</description>
+      <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Green Bay Packers at New York Jets | Venue: MetLife Stadium</description>
       <pubDate>Sun, 20 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872936</guid>
     </item>
@@ -68,7 +68,7 @@
     </item>
     <item>
       <title>09/20/2026 • 1:10 PM ET — MLB — New York Mets vs Philadelphia Phillies</title>
-      <description>Date: 09/20/2026 | Time: 1:10 PM ET | Status: In Progress | Sport: MLB | Event: Philadelphia Phillies at New York Mets | Venue: Citi Field</description>
+      <description>Date: 09/20/2026 | Time: 1:10 PM ET | Status: Final | Sport: MLB | Event: Philadelphia Phillies at New York Mets | Venue: Citi Field</description>
       <pubDate>Sun, 20 Sep 2026 13:10:00 -0400</pubDate>
       <guid isPermaLink="false">401817017</guid>
     </item>
@@ -134,7 +134,7 @@
     </item>
     <item>
       <title>09/20/2026 • 4:00 PM ET — WNBA — Indiana Fever vs Washington Mystics</title>
-      <description>Date: 09/20/2026 | Time: 4:00 PM ET | Status: End of Period | Sport: WNBA | Event: Washington Mystics at Indiana Fever | Venue: Gainbridge Fieldhouse</description>
+      <description>Date: 09/20/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: WNBA | Event: Washington Mystics at Indiana Fever | Venue: Gainbridge Fieldhouse</description>
       <pubDate>Sun, 20 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401857203</guid>
     </item>
@@ -182,19 +182,19 @@
     </item>
     <item>
       <title>09/20/2026 • 4:25 PM ET — NFL — Dallas Cowboys vs Washington Commanders</title>
-      <description>Date: 09/20/2026 | Time: 4:25 PM ET | Status: Scheduled | Sport: NFL | Event: Washington Commanders at Dallas Cowboys | Venue: AT&amp;T Stadium</description>
+      <description>Date: 09/20/2026 | Time: 4:25 PM ET | Status: In Progress | Sport: NFL | Event: Washington Commanders at Dallas Cowboys | Venue: AT&amp;T Stadium</description>
       <pubDate>Sun, 20 Sep 2026 16:25:00 -0400</pubDate>
       <guid isPermaLink="false">401872944</guid>
     </item>
     <item>
       <title>09/20/2026 • 4:25 PM ET — NFL — Arizona Cardinals vs Seattle Seahawks</title>
-      <description>Date: 09/20/2026 | Time: 4:25 PM ET | Status: Scheduled | Sport: NFL | Event: Seattle Seahawks at Arizona Cardinals | Venue: State Farm Stadium</description>
+      <description>Date: 09/20/2026 | Time: 4:25 PM ET | Status: In Progress | Sport: NFL | Event: Seattle Seahawks at Arizona Cardinals | Venue: State Farm Stadium</description>
       <pubDate>Sun, 20 Sep 2026 16:25:00 -0400</pubDate>
       <guid isPermaLink="false">401872943</guid>
     </item>
     <item>
       <title>09/20/2026 • 4:25 PM ET — NFL — San Francisco 49ers vs Miami Dolphins</title>
-      <description>Date: 09/20/2026 | Time: 4:25 PM ET | Status: Scheduled | Sport: NFL | Event: Miami Dolphins at San Francisco 49ers | Venue: Levi's Stadium</description>
+      <description>Date: 09/20/2026 | Time: 4:25 PM ET | Status: In Progress | Sport: NFL | Event: Miami Dolphins at San Francisco 49ers | Venue: Levi's Stadium</description>
       <pubDate>Sun, 20 Sep 2026 16:25:00 -0400</pubDate>
       <guid isPermaLink="false">401872942</guid>
     </item>
