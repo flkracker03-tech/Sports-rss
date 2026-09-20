@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 20 Sep 2026 16:40:26 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 16:51:08 -0400</lastBuildDate>
     
     <item>
       <title>09/20/2026 • 1:00 PM ET — NFL — New York Jets vs Green Bay Packers</title>
@@ -74,7 +74,7 @@
     </item>
     <item>
       <title>09/20/2026 • 1:35 PM ET — MLB — Pittsburgh Pirates vs Kansas City Royals</title>
-      <description>Date: 09/20/2026 | Time: 1:35 PM ET | Status: In Progress | Sport: MLB | Event: Kansas City Royals at Pittsburgh Pirates | Venue: PNC Park</description>
+      <description>Date: 09/20/2026 | Time: 1:35 PM ET | Status: Final | Sport: MLB | Event: Kansas City Royals at Pittsburgh Pirates | Venue: PNC Park</description>
       <pubDate>Sun, 20 Sep 2026 13:35:00 -0400</pubDate>
       <guid isPermaLink="false">401817015</guid>
     </item>
@@ -110,7 +110,7 @@
     </item>
     <item>
       <title>09/20/2026 • 2:15 PM ET — MLB — St. Louis Cardinals vs Washington Nationals</title>
-      <description>Date: 09/20/2026 | Time: 2:15 PM ET | Status: In Progress | Sport: MLB | Event: Washington Nationals at St. Louis Cardinals | Venue: Busch Stadium</description>
+      <description>Date: 09/20/2026 | Time: 2:15 PM ET | Status: Final | Sport: MLB | Event: Washington Nationals at St. Louis Cardinals | Venue: Busch Stadium</description>
       <pubDate>Sun, 20 Sep 2026 14:15:00 -0400</pubDate>
       <guid isPermaLink="false">401817021</guid>
     </item>
@@ -140,7 +140,7 @@
     </item>
     <item>
       <title>09/20/2026 • 4:00 PM ET — NHL — Anaheim Ducks vs San Jose Sharks</title>
-      <description>Date: 09/20/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: NHL | Event: San Jose Sharks at Anaheim Ducks | Venue: Honda Center</description>
+      <description>Date: 09/20/2026 | Time: 4:00 PM ET | Status: End of Period | Sport: NHL | Event: San Jose Sharks at Anaheim Ducks | Venue: Honda Center</description>
       <pubDate>Sun, 20 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401879368</guid>
     </item>
@@ -194,7 +194,7 @@
     </item>
     <item>
       <title>09/20/2026 • 4:25 PM ET — NFL — San Francisco 49ers vs Miami Dolphins</title>
-      <description>Date: 09/20/2026 | Time: 4:25 PM ET | Status: In Progress | Sport: NFL | Event: Miami Dolphins at San Francisco 49ers | Venue: Levi's Stadium</description>
+      <description>Date: 09/20/2026 | Time: 4:25 PM ET | Status: End of Period | Sport: NFL | Event: Miami Dolphins at San Francisco 49ers | Venue: Levi's Stadium</description>
       <pubDate>Sun, 20 Sep 2026 16:25:00 -0400</pubDate>
       <guid isPermaLink="false">401872942</guid>
     </item>
