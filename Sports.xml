@@ -4,14 +4,8 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 20 Sep 2026 16:10:52 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 16:25:32 -0400</lastBuildDate>
     
-    <item>
-      <title>09/20/2026 • 1:00 PM ET — NFL — Atlanta Falcons vs Carolina Panthers</title>
-      <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Carolina Panthers at Atlanta Falcons | Venue: Mercedes-Benz Stadium</description>
-      <pubDate>Sun, 20 Sep 2026 13:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401872933</guid>
-    </item>
     <item>
       <title>09/20/2026 • 1:00 PM ET — NFL — New York Jets vs Green Bay Packers</title>
       <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Green Bay Packers at New York Jets | Venue: MetLife Stadium</description>
@@ -25,10 +19,10 @@
       <guid isPermaLink="false">401872935</guid>
     </item>
     <item>
-      <title>09/20/2026 • 1:00 PM ET — NFL — Houston Texans vs Cincinnati Bengals</title>
-      <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Cincinnati Bengals at Houston Texans | Venue: Reliant Stadium</description>
+      <title>09/20/2026 • 1:00 PM ET — NFL — Atlanta Falcons vs Carolina Panthers</title>
+      <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Carolina Panthers at Atlanta Falcons | Venue: Mercedes-Benz Stadium</description>
       <pubDate>Sun, 20 Sep 2026 13:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401872934</guid>
+      <guid isPermaLink="false">401872933</guid>
     </item>
     <item>
       <title>09/20/2026 • 1:00 PM ET — NFL — Chicago Bears vs Minnesota Vikings</title>
@@ -53,6 +47,12 @@
       <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: New Orleans Saints at Baltimore Ravens | Venue: M&amp;T Bank Stadium</description>
       <pubDate>Sun, 20 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872938</guid>
+    </item>
+    <item>
+      <title>09/20/2026 • 1:00 PM ET — NFL — Houston Texans vs Cincinnati Bengals</title>
+      <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Cincinnati Bengals at Houston Texans | Venue: Reliant Stadium</description>
+      <pubDate>Sun, 20 Sep 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401872934</guid>
     </item>
     <item>
       <title>09/20/2026 • 1:00 PM ET — WNBA — Connecticut Sun vs Minnesota Lynx</title>
@@ -92,7 +92,7 @@
     </item>
     <item>
       <title>09/20/2026 • 1:40 PM ET — MLB — Cincinnati Reds vs Chicago Cubs</title>
-      <description>Date: 09/20/2026 | Time: 1:40 PM ET | Status: In Progress | Sport: MLB | Event: Chicago Cubs at Cincinnati Reds | Venue: Great American Ball Park</description>
+      <description>Date: 09/20/2026 | Time: 1:40 PM ET | Status: Final | Sport: MLB | Event: Chicago Cubs at Cincinnati Reds | Venue: Great American Ball Park</description>
       <pubDate>Sun, 20 Sep 2026 13:40:00 -0400</pubDate>
       <guid isPermaLink="false">401817014</guid>
     </item>
@@ -122,7 +122,7 @@
     </item>
     <item>
       <title>09/20/2026 • 3:00 PM ET — WNBA — Toronto Tempo vs New York Liberty</title>
-      <description>Date: 09/20/2026 | Time: 3:00 PM ET | Status: Halftime | Sport: WNBA | Event: New York Liberty at Toronto Tempo | Venue: Coca-Cola Coliseum</description>
+      <description>Date: 09/20/2026 | Time: 3:00 PM ET | Status: In Progress | Sport: WNBA | Event: New York Liberty at Toronto Tempo | Venue: Coca-Cola Coliseum</description>
       <pubDate>Sun, 20 Sep 2026 15:00:00 -0400</pubDate>
       <guid isPermaLink="false">401857202</guid>
     </item>
@@ -134,7 +134,7 @@
     </item>
     <item>
       <title>09/20/2026 • 4:00 PM ET — WNBA — Indiana Fever vs Washington Mystics</title>
-      <description>Date: 09/20/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: WNBA | Event: Washington Mystics at Indiana Fever | Venue: Gainbridge Fieldhouse</description>
+      <description>Date: 09/20/2026 | Time: 4:00 PM ET | Status: End of Period | Sport: WNBA | Event: Washington Mystics at Indiana Fever | Venue: Gainbridge Fieldhouse</description>
       <pubDate>Sun, 20 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401857203</guid>
     </item>
@@ -176,7 +176,7 @@
     </item>
     <item>
       <title>09/20/2026 • 4:10 PM ET — MLB — Los Angeles Dodgers vs San Francisco Giants</title>
-      <description>Date: 09/20/2026 | Time: 4:10 PM ET | Status: Scheduled | Sport: MLB | Event: San Francisco Giants at Los Angeles Dodgers | Venue: Dodger Stadium</description>
+      <description>Date: 09/20/2026 | Time: 4:10 PM ET | Status: In Progress | Sport: MLB | Event: San Francisco Giants at Los Angeles Dodgers | Venue: Dodger Stadium</description>
       <pubDate>Sun, 20 Sep 2026 16:10:00 -0400</pubDate>
       <guid isPermaLink="false">401817026</guid>
     </item>
