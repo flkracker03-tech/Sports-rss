@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 20 Sep 2026 01:51:46 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 02:14:08 -0400</lastBuildDate>
     
     <item>
       <title>09/20/2026 • 1:00 PM ET — NFL — Atlanta Falcons vs Carolina Panthers</title>
@@ -985,18 +985,6 @@
       <guid isPermaLink="false">401858234</guid>
     </item>
     <item>
-      <title>09/26/2026 • 12:00 AM ET — College Football — Georgia Southern Eagles vs Houston Cougars</title>
-      <description>Date: 09/26/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Houston Cougars at Georgia Southern Eagles | Venue: Allen E. Paulson Stadium</description>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401856806</guid>
-    </item>
-    <item>
-      <title>09/26/2026 • 12:00 AM ET — College Football — Western Michigan Broncos vs Boise State Broncos</title>
-      <description>Date: 09/26/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Boise State Broncos at Western Michigan Broncos | Venue: Waldo Stadium</description>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401860897</guid>
-    </item>
-    <item>
       <title>09/26/2026 • 12:00 PM ET — College Football — Tennessee Volunteers vs Texas Longhorns</title>
       <description>Date: 09/26/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Texas Longhorns at Tennessee Volunteers | Venue: Neyland Stadium</description>
       <pubDate>Sat, 26 Sep 2026 12:00:00 -0400</pubDate>
@@ -1153,6 +1141,12 @@
       <guid isPermaLink="false">401858463</guid>
     </item>
     <item>
+      <title>09/26/2026 • 3:30 PM ET — College Football — Western Michigan Broncos vs Boise State Broncos</title>
+      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Boise State Broncos at Western Michigan Broncos | Venue: Waldo Stadium</description>
+      <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401860897</guid>
+    </item>
+    <item>
       <title>09/26/2026 • 3:30 PM ET — College Football — UCF Knights vs TCU Horned Frogs</title>
       <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: TCU Horned Frogs at UCF Knights | Venue: Acrisure Bounce House</description>
       <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
@@ -1193,6 +1187,12 @@
       <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Gardner-Webb Runnin' Bulldogs at Marshall Thundering Herd | Venue: Joan C. Edwards Stadium</description>
       <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401868188</guid>
+    </item>
+    <item>
+      <title>09/26/2026 • 4:00 PM ET — College Football — Georgia Southern Eagles vs Houston Cougars</title>
+      <description>Date: 09/26/2026 | Time: 4:00 PM ET | Status: Scheduled | Sport: College Football | Event: Houston Cougars at Georgia Southern Eagles | Venue: Allen E. Paulson Stadium</description>
+      <pubDate>Sat, 26 Sep 2026 16:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401856806</guid>
     </item>
     <item>
       <title>09/26/2026 • 4:00 PM ET — College Football — East Carolina Pirates vs North Carolina Central Eagles</title>
