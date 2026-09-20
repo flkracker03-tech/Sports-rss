@@ -4,14 +4,8 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 20 Sep 2026 18:25:13 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 18:38:34 -0400</lastBuildDate>
     
-    <item>
-      <title>09/20/2026 • 1:00 PM ET — NFL — Tampa Bay Buccaneers vs Cleveland Browns</title>
-      <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Cleveland Browns at Tampa Bay Buccaneers | Venue: Raymond James Stadium</description>
-      <pubDate>Sun, 20 Sep 2026 13:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401872935</guid>
-    </item>
     <item>
       <title>09/20/2026 • 1:00 PM ET — NFL — Atlanta Falcons vs Carolina Panthers</title>
       <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Carolina Panthers at Atlanta Falcons | Venue: Mercedes-Benz Stadium</description>
@@ -41,6 +35,12 @@
       <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Green Bay Packers at New York Jets | Venue: MetLife Stadium</description>
       <pubDate>Sun, 20 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872936</guid>
+    </item>
+    <item>
+      <title>09/20/2026 • 1:00 PM ET — NFL — Tampa Bay Buccaneers vs Cleveland Browns</title>
+      <description>Date: 09/20/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Cleveland Browns at Tampa Bay Buccaneers | Venue: Raymond James Stadium</description>
+      <pubDate>Sun, 20 Sep 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401872935</guid>
     </item>
     <item>
       <title>09/20/2026 • 1:00 PM ET — NFL — Baltimore Ravens vs New Orleans Saints</title>
@@ -140,7 +140,7 @@
     </item>
     <item>
       <title>09/20/2026 • 4:00 PM ET — NHL — Anaheim Ducks vs San Jose Sharks</title>
-      <description>Date: 09/20/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: NHL | Event: San Jose Sharks at Anaheim Ducks | Venue: Honda Center</description>
+      <description>Date: 09/20/2026 | Time: 4:00 PM ET | Status: End of Period | Sport: NHL | Event: San Jose Sharks at Anaheim Ducks | Venue: Honda Center</description>
       <pubDate>Sun, 20 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401879368</guid>
     </item>
@@ -164,7 +164,7 @@
     </item>
     <item>
       <title>09/20/2026 • 4:10 PM ET — MLB — San Diego Padres vs Miami Marlins</title>
-      <description>Date: 09/20/2026 | Time: 4:10 PM ET | Status: In Progress | Sport: MLB | Event: Miami Marlins at San Diego Padres | Venue: Petco Park</description>
+      <description>Date: 09/20/2026 | Time: 4:10 PM ET | Status: Final | Sport: MLB | Event: Miami Marlins at San Diego Padres | Venue: Petco Park</description>
       <pubDate>Sun, 20 Sep 2026 16:10:00 -0400</pubDate>
       <guid isPermaLink="false">401817023</guid>
     </item>
@@ -200,13 +200,13 @@
     </item>
     <item>
       <title>09/20/2026 • 5:00 PM ET — NHL — Boston Bruins vs Washington Capitals</title>
-      <description>Date: 09/20/2026 | Time: 5:00 PM ET | Status: In Progress | Sport: NHL | Event: Washington Capitals at Boston Bruins | Venue: TD Garden</description>
+      <description>Date: 09/20/2026 | Time: 5:00 PM ET | Status: End of Period | Sport: NHL | Event: Washington Capitals at Boston Bruins | Venue: TD Garden</description>
       <pubDate>Sun, 20 Sep 2026 17:00:00 -0400</pubDate>
       <guid isPermaLink="false">401879358</guid>
     </item>
     <item>
       <title>09/20/2026 • 5:00 PM ET — NHL — Tampa Bay Lightning vs Nashville Predators</title>
-      <description>Date: 09/20/2026 | Time: 5:00 PM ET | Status: In Progress | Sport: NHL | Event: Nashville Predators at Tampa Bay Lightning | Venue: Benchmark International Arena</description>
+      <description>Date: 09/20/2026 | Time: 5:00 PM ET | Status: End of Period | Sport: NHL | Event: Nashville Predators at Tampa Bay Lightning | Venue: Benchmark International Arena</description>
       <pubDate>Sun, 20 Sep 2026 17:00:00 -0400</pubDate>
       <guid isPermaLink="false">401881131</guid>
     </item>
