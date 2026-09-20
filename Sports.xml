@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 20 Sep 2026 17:51:06 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 18:10:27 -0400</lastBuildDate>
     
     <item>
       <title>09/20/2026 • 1:00 PM ET — NFL — Tampa Bay Buccaneers vs Cleveland Browns</title>
@@ -80,7 +80,7 @@
     </item>
     <item>
       <title>09/20/2026 • 1:40 PM ET — MLB — Cleveland Guardians vs Athletics</title>
-      <description>Date: 09/20/2026 | Time: 1:40 PM ET | Status: In Progress | Sport: MLB | Event: Athletics Athletics at Cleveland Guardians | Venue: Progressive Field</description>
+      <description>Date: 09/20/2026 | Time: 1:40 PM ET | Status: Final | Sport: MLB | Event: Athletics Athletics at Cleveland Guardians | Venue: Progressive Field</description>
       <pubDate>Sun, 20 Sep 2026 13:40:00 -0400</pubDate>
       <guid isPermaLink="false">401817012</guid>
     </item>
@@ -104,7 +104,7 @@
     </item>
     <item>
       <title>09/20/2026 • 2:10 PM ET — MLB — Chicago White Sox vs Detroit Tigers</title>
-      <description>Date: 09/20/2026 | Time: 2:10 PM ET | Status: Rain Delay | Sport: MLB | Event: Detroit Tigers at Chicago White Sox | Venue: Rate Field</description>
+      <description>Date: 09/20/2026 | Time: 2:10 PM ET | Status: In Progress | Sport: MLB | Event: Detroit Tigers at Chicago White Sox | Venue: Rate Field</description>
       <pubDate>Sun, 20 Sep 2026 14:10:00 -0400</pubDate>
       <guid isPermaLink="false">401817019</guid>
     </item>
@@ -128,19 +128,19 @@
     </item>
     <item>
       <title>09/20/2026 • 3:10 PM ET — MLB — Colorado Rockies vs Seattle Mariners</title>
-      <description>Date: 09/20/2026 | Time: 3:10 PM ET | Status: In Progress | Sport: MLB | Event: Seattle Mariners at Colorado Rockies | Venue: Coors Field</description>
+      <description>Date: 09/20/2026 | Time: 3:10 PM ET | Status: Final | Sport: MLB | Event: Seattle Mariners at Colorado Rockies | Venue: Coors Field</description>
       <pubDate>Sun, 20 Sep 2026 15:10:00 -0400</pubDate>
       <guid isPermaLink="false">401817022</guid>
     </item>
     <item>
       <title>09/20/2026 • 4:00 PM ET — WNBA — Indiana Fever vs Washington Mystics</title>
-      <description>Date: 09/20/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: WNBA | Event: Washington Mystics at Indiana Fever | Venue: Gainbridge Fieldhouse</description>
+      <description>Date: 09/20/2026 | Time: 4:00 PM ET | Status: Final | Sport: WNBA | Event: Washington Mystics at Indiana Fever | Venue: Gainbridge Fieldhouse</description>
       <pubDate>Sun, 20 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401857203</guid>
     </item>
     <item>
       <title>09/20/2026 • 4:00 PM ET — NHL — Anaheim Ducks vs San Jose Sharks</title>
-      <description>Date: 09/20/2026 | Time: 4:00 PM ET | Status: End of Period | Sport: NHL | Event: San Jose Sharks at Anaheim Ducks | Venue: Honda Center</description>
+      <description>Date: 09/20/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: NHL | Event: San Jose Sharks at Anaheim Ducks | Venue: Honda Center</description>
       <pubDate>Sun, 20 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401879368</guid>
     </item>
@@ -182,7 +182,7 @@
     </item>
     <item>
       <title>09/20/2026 • 4:25 PM ET — NFL — Dallas Cowboys vs Washington Commanders</title>
-      <description>Date: 09/20/2026 | Time: 4:25 PM ET | Status: In Progress | Sport: NFL | Event: Washington Commanders at Dallas Cowboys | Venue: AT&amp;T Stadium</description>
+      <description>Date: 09/20/2026 | Time: 4:25 PM ET | Status: Halftime | Sport: NFL | Event: Washington Commanders at Dallas Cowboys | Venue: AT&amp;T Stadium</description>
       <pubDate>Sun, 20 Sep 2026 16:25:00 -0400</pubDate>
       <guid isPermaLink="false">401872944</guid>
     </item>
@@ -200,13 +200,13 @@
     </item>
     <item>
       <title>09/20/2026 • 5:00 PM ET — NHL — Boston Bruins vs Washington Capitals</title>
-      <description>Date: 09/20/2026 | Time: 5:00 PM ET | Status: End of Period | Sport: NHL | Event: Washington Capitals at Boston Bruins | Venue: TD Garden</description>
+      <description>Date: 09/20/2026 | Time: 5:00 PM ET | Status: In Progress | Sport: NHL | Event: Washington Capitals at Boston Bruins | Venue: TD Garden</description>
       <pubDate>Sun, 20 Sep 2026 17:00:00 -0400</pubDate>
       <guid isPermaLink="false">401879358</guid>
     </item>
     <item>
       <title>09/20/2026 • 5:00 PM ET — NHL — Tampa Bay Lightning vs Nashville Predators</title>
-      <description>Date: 09/20/2026 | Time: 5:00 PM ET | Status: End of Period | Sport: NHL | Event: Nashville Predators at Tampa Bay Lightning | Venue: Benchmark International Arena</description>
+      <description>Date: 09/20/2026 | Time: 5:00 PM ET | Status: In Progress | Sport: NHL | Event: Nashville Predators at Tampa Bay Lightning | Venue: Benchmark International Arena</description>
       <pubDate>Sun, 20 Sep 2026 17:00:00 -0400</pubDate>
       <guid isPermaLink="false">401881131</guid>
     </item>
