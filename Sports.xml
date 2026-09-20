@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 20 Sep 2026 19:38:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 19:51:02 -0400</lastBuildDate>
     
     <item>
       <title>09/20/2026 • 1:00 PM ET — NFL — Atlanta Falcons vs Carolina Panthers</title>
@@ -200,7 +200,7 @@
     </item>
     <item>
       <title>09/20/2026 • 5:00 PM ET — NHL — Boston Bruins vs Washington Capitals</title>
-      <description>Date: 09/20/2026 | Time: 5:00 PM ET | Status: In Progress | Sport: NHL | Event: Washington Capitals at Boston Bruins | Venue: TD Garden</description>
+      <description>Date: 09/20/2026 | Time: 5:00 PM ET | Status: Final | Sport: NHL | Event: Washington Capitals at Boston Bruins | Venue: TD Garden</description>
       <pubDate>Sun, 20 Sep 2026 17:00:00 -0400</pubDate>
       <guid isPermaLink="false">401879358</guid>
     </item>
@@ -212,13 +212,13 @@
     </item>
     <item>
       <title>09/20/2026 • 7:00 PM ET — WNBA — Los Angeles Sparks vs Portland Fire</title>
-      <description>Date: 09/20/2026 | Time: 7:00 PM ET | Status: End of Period | Sport: WNBA | Event: Portland Fire at Los Angeles Sparks | Venue: crypto.com Arena</description>
+      <description>Date: 09/20/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: WNBA | Event: Portland Fire at Los Angeles Sparks | Venue: crypto.com Arena</description>
       <pubDate>Sun, 20 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401857204</guid>
     </item>
     <item>
       <title>09/20/2026 • 7:00 PM ET — NHL — Colorado Avalanche vs Utah Mammoth</title>
-      <description>Date: 09/20/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: NHL | Event: Utah Mammoth at Colorado Avalanche | Venue: Ball Arena</description>
+      <description>Date: 09/20/2026 | Time: 7:00 PM ET | Status: End of Period | Sport: NHL | Event: Utah Mammoth at Colorado Avalanche | Venue: Ball Arena</description>
       <pubDate>Sun, 20 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401879364</guid>
     </item>
