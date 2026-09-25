@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Fri, 25 Sep 2026 17:44:13 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 17:55:56 -0400</lastBuildDate>
     
     <item>
       <title>09/25/2026 • 1:05 PM ET — MLB — Boston Red Sox vs Chicago Cubs</title>
@@ -14,7 +14,7 @@
     </item>
     <item>
       <title>09/25/2026 • 4:00 PM ET — College Football — Temple Owls vs Army Black Knights</title>
-      <description>Date: 09/25/2026 | Time: 4:00 PM ET | Status: Halftime | Sport: College Football | Event: Army Black Knights at Temple Owls | Venue: Lincoln Financial Field</description>
+      <description>Date: 09/25/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: Army Black Knights at Temple Owls | Venue: Lincoln Financial Field</description>
       <pubDate>Fri, 25 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401862779</guid>
     </item>
@@ -577,12 +577,6 @@
       <guid isPermaLink="false">401817096</guid>
     </item>
     <item>
-      <title>09/26/2026 • 7:15 PM ET — MLB — Boston Red Sox vs Chicago Cubs</title>
-      <description>Date: 09/26/2026 | Time: 7:15 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago Cubs at Boston Red Sox | Venue: Fenway Park</description>
-      <pubDate>Sat, 26 Sep 2026 19:15:00 -0400</pubDate>
-      <guid isPermaLink="false">401817089</guid>
-    </item>
-    <item>
       <title>09/26/2026 • 7:15 PM ET — MLB — Philadelphia Phillies vs Tampa Bay Rays</title>
       <description>Date: 09/26/2026 | Time: 7:15 PM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at Philadelphia Phillies | Venue: Citizens Bank Park</description>
       <pubDate>Sat, 26 Sep 2026 19:15:00 -0400</pubDate>
@@ -863,6 +857,12 @@
       <description>Date: 09/27/2026 | Time: 2:00 PM ET | Status: Scheduled | Sport: WNBA | Event: New York Liberty at Minnesota Lynx | Venue: Target Center</description>
       <pubDate>Sun, 27 Sep 2026 14:00:00 -0400</pubDate>
       <guid isPermaLink="false">401918014</guid>
+    </item>
+    <item>
+      <title>09/27/2026 • 3:05 PM ET — MLB — Boston Red Sox vs Chicago Cubs</title>
+      <description>Date: 09/27/2026 | Time: 3:05 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago Cubs at Boston Red Sox | Venue: Tropicana Field</description>
+      <pubDate>Sun, 27 Sep 2026 15:05:00 -0400</pubDate>
+      <guid isPermaLink="false">401817089</guid>
     </item>
     <item>
       <title>09/27/2026 • 3:05 PM ET — MLB — Washington Nationals vs New York Mets</title>
