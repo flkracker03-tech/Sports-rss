@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Fri, 25 Sep 2026 18:54:52 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 19:10:32 -0400</lastBuildDate>
     
     <item>
       <title>09/25/2026 • 1:05 PM ET — MLB — Boston Red Sox vs Chicago Cubs</title>
@@ -20,7 +20,7 @@
     </item>
     <item>
       <title>09/25/2026 • 4:05 PM ET — MLB — New York Yankees vs Baltimore Orioles</title>
-      <description>Date: 09/25/2026 | Time: 4:05 PM ET | Status: In Progress | Sport: MLB | Event: Baltimore Orioles at New York Yankees | Venue: Yankee Stadium</description>
+      <description>Date: 09/25/2026 | Time: 4:05 PM ET | Status: Final | Sport: MLB | Event: Baltimore Orioles at New York Yankees | Venue: Yankee Stadium</description>
       <pubDate>Fri, 25 Sep 2026 16:05:00 -0400</pubDate>
       <guid isPermaLink="false">401817088</guid>
     </item>
@@ -32,7 +32,7 @@
     </item>
     <item>
       <title>09/25/2026 • 6:40 PM ET — MLB — Detroit Tigers vs Pittsburgh Pirates</title>
-      <description>Date: 09/25/2026 | Time: 6:40 PM ET | Status: Scheduled | Sport: MLB | Event: Pittsburgh Pirates at Detroit Tigers | Venue: Comerica Park</description>
+      <description>Date: 09/25/2026 | Time: 6:40 PM ET | Status: In Progress | Sport: MLB | Event: Pittsburgh Pirates at Detroit Tigers | Venue: Comerica Park</description>
       <pubDate>Fri, 25 Sep 2026 18:40:00 -0400</pubDate>
       <guid isPermaLink="false">401817077</guid>
     </item>
@@ -50,31 +50,25 @@
     </item>
     <item>
       <title>09/25/2026 • 7:00 PM ET — College Football — Rutgers Scarlet Knights vs Howard Bison</title>
-      <description>Date: 09/25/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Howard Bison at Rutgers Scarlet Knights | Venue: SHI Stadium</description>
+      <description>Date: 09/25/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Howard Bison at Rutgers Scarlet Knights | Venue: SHI Stadium</description>
       <pubDate>Fri, 25 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858468</guid>
     </item>
     <item>
       <title>09/25/2026 • 7:00 PM ET — College Football — UAB Blazers vs Navy Midshipmen</title>
-      <description>Date: 09/25/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Navy Midshipmen at UAB Blazers | Venue: Protective Stadium</description>
+      <description>Date: 09/25/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Navy Midshipmen at UAB Blazers | Venue: Protective Stadium</description>
       <pubDate>Fri, 25 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401862778</guid>
     </item>
     <item>
       <title>09/25/2026 • 7:00 PM ET — NHL — Washington Capitals vs Boston Bruins</title>
-      <description>Date: 09/25/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NHL | Event: Boston Bruins at Washington Capitals | Venue: Capital One Arena</description>
+      <description>Date: 09/25/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: NHL | Event: Boston Bruins at Washington Capitals | Venue: Capital One Arena</description>
       <pubDate>Fri, 25 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401879360</guid>
     </item>
     <item>
-      <title>09/25/2026 • 7:05 PM ET — MLB — New York Yankees vs Baltimore Orioles</title>
-      <description>Date: 09/25/2026 | Time: 7:05 PM ET | Status: Scheduled | Sport: MLB | Event: Baltimore Orioles at New York Yankees | Venue: Yankee Stadium</description>
-      <pubDate>Fri, 25 Sep 2026 19:05:00 -0400</pubDate>
-      <guid isPermaLink="false">401817073</guid>
-    </item>
-    <item>
       <title>09/25/2026 • 7:07 PM ET — MLB — Toronto Blue Jays vs Cincinnati Reds</title>
-      <description>Date: 09/25/2026 | Time: 7:07 PM ET | Status: Scheduled | Sport: MLB | Event: Cincinnati Reds at Toronto Blue Jays | Venue: Rogers Centre</description>
+      <description>Date: 09/25/2026 | Time: 7:07 PM ET | Status: In Progress | Sport: MLB | Event: Cincinnati Reds at Toronto Blue Jays | Venue: Rogers Centre</description>
       <pubDate>Fri, 25 Sep 2026 19:07:00 -0400</pubDate>
       <guid isPermaLink="false">401817075</guid>
     </item>
@@ -83,6 +77,12 @@
       <description>Date: 09/25/2026 | Time: 7:10 PM ET | Status: Scheduled | Sport: MLB | Event: Atlanta Braves at Miami Marlins | Venue: loanDepot park</description>
       <pubDate>Fri, 25 Sep 2026 19:10:00 -0400</pubDate>
       <guid isPermaLink="false">401817072</guid>
+    </item>
+    <item>
+      <title>09/25/2026 • 7:30 PM ET — MLB — New York Yankees vs Baltimore Orioles</title>
+      <description>Date: 09/25/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: MLB | Event: Baltimore Orioles at New York Yankees | Venue: Yankee Stadium</description>
+      <pubDate>Fri, 25 Sep 2026 19:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401817073</guid>
     </item>
     <item>
       <title>09/25/2026 • 7:30 PM ET — NHL — New York Islanders vs New York Rangers</title>
