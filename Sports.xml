@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 26 Sep 2026 19:25:31 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 19:39:07 -0400</lastBuildDate>
     
     <item>
       <title>09/26/2026 • 12:00 PM ET — College Football — Tennessee Volunteers vs Texas Longhorns</title>
@@ -145,16 +145,16 @@
       <guid isPermaLink="false">401817090</guid>
     </item>
     <item>
-      <title>09/26/2026 • 3:30 PM ET — College Football — Florida Gators vs Ole Miss Rebels</title>
-      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Ole Miss Rebels at Florida Gators | Venue: Ben Hill Griffin Stadium</description>
-      <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401856699</guid>
-    </item>
-    <item>
       <title>09/26/2026 • 3:30 PM ET — College Football — Georgia Bulldogs vs Oklahoma Sooners</title>
       <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Oklahoma Sooners at Georgia Bulldogs | Venue: Sanford Stadium</description>
       <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856700</guid>
+    </item>
+    <item>
+      <title>09/26/2026 • 3:30 PM ET — College Football — Florida Gators vs Ole Miss Rebels</title>
+      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Ole Miss Rebels at Florida Gators | Venue: Ben Hill Griffin Stadium</description>
+      <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401856699</guid>
     </item>
     <item>
       <title>09/26/2026 • 3:30 PM ET — College Football — Iowa State Cyclones vs Utah Utes</title>
@@ -218,13 +218,13 @@
     </item>
     <item>
       <title>09/26/2026 • 4:00 PM ET — College Football — Georgia Southern Eagles vs Houston Cougars</title>
-      <description>Date: 09/26/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: Houston Cougars at Georgia Southern Eagles | Venue: Allen E. Paulson Stadium</description>
+      <description>Date: 09/26/2026 | Time: 4:00 PM ET | Status: Final | Sport: College Football | Event: Houston Cougars at Georgia Southern Eagles | Venue: Allen E. Paulson Stadium</description>
       <pubDate>Sat, 26 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856806</guid>
     </item>
     <item>
       <title>09/26/2026 • 4:00 PM ET — College Football — East Carolina Pirates vs North Carolina Central Eagles</title>
-      <description>Date: 09/26/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: College Football | Event: North Carolina Central Eagles at East Carolina Pirates | Venue: Dowdy-Ficklen Stadium</description>
+      <description>Date: 09/26/2026 | Time: 4:00 PM ET | Status: Final | Sport: College Football | Event: North Carolina Central Eagles at East Carolina Pirates | Venue: Dowdy-Ficklen Stadium</description>
       <pubDate>Sat, 26 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401862781</guid>
     </item>
@@ -254,7 +254,7 @@
     </item>
     <item>
       <title>09/26/2026 • 4:15 PM ET — College Football — Auburn Tigers vs Vanderbilt Commodores</title>
-      <description>Date: 09/26/2026 | Time: 4:15 PM ET | Status: In Progress | Sport: College Football | Event: Vanderbilt Commodores at Auburn Tigers | Venue: Jordan-Hare Stadium</description>
+      <description>Date: 09/26/2026 | Time: 4:15 PM ET | Status: Final | Sport: College Football | Event: Vanderbilt Commodores at Auburn Tigers | Venue: Jordan-Hare Stadium</description>
       <pubDate>Sat, 26 Sep 2026 16:15:00 -0400</pubDate>
       <guid isPermaLink="false">401856698</guid>
     </item>
@@ -278,7 +278,7 @@
     </item>
     <item>
       <title>09/26/2026 • 5:00 PM ET — NHL — Philadelphia Flyers vs Washington Capitals</title>
-      <description>Date: 09/26/2026 | Time: 5:00 PM ET | Status: In Progress | Sport: NHL | Event: Washington Capitals at Philadelphia Flyers | Venue: Xfinity Mobile Arena</description>
+      <description>Date: 09/26/2026 | Time: 5:00 PM ET | Status: Final | Sport: NHL | Event: Washington Capitals at Philadelphia Flyers | Venue: Xfinity Mobile Arena</description>
       <pubDate>Sat, 26 Sep 2026 17:00:00 -0400</pubDate>
       <guid isPermaLink="false">401879361</guid>
     </item>
@@ -362,7 +362,7 @@
     </item>
     <item>
       <title>09/26/2026 • 7:00 PM ET — College Football — Jacksonville State Gamecocks vs Middle Tennessee Blue Raiders</title>
-      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Middle Tennessee Blue Raiders at Jacksonville State Gamecocks | Venue: AmFirst Stadium</description>
+      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: End of Period | Sport: College Football | Event: Middle Tennessee Blue Raiders at Jacksonville State Gamecocks | Venue: AmFirst Stadium</description>
       <pubDate>Sat, 26 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401871048</guid>
     </item>
@@ -427,16 +427,34 @@
       <guid isPermaLink="false">401817093</guid>
     </item>
     <item>
+      <title>09/26/2026 • 7:30 PM ET — College Football — USC Trojans vs Oregon Ducks</title>
+      <description>Date: 09/26/2026 | Time: 7:30 PM ET | Status: In Progress | Sport: College Football | Event: Oregon Ducks at USC Trojans | Venue: Los Angeles Memorial Coliseum</description>
+      <pubDate>Sat, 26 Sep 2026 19:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401858469</guid>
+    </item>
+    <item>
+      <title>09/26/2026 • 7:30 PM ET — College Football — Utah State Aggies vs Troy Trojans</title>
+      <description>Date: 09/26/2026 | Time: 7:30 PM ET | Status: In Progress | Sport: College Football | Event: Troy Trojans at Utah State Aggies | Venue: Maverik Stadium</description>
+      <pubDate>Sat, 26 Sep 2026 19:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401860894</guid>
+    </item>
+    <item>
+      <title>09/26/2026 • 7:30 PM ET — College Football — North Texas Mean Green vs Houston Christian Huskies</title>
+      <description>Date: 09/26/2026 | Time: 7:30 PM ET | Status: In Progress | Sport: College Football | Event: Houston Christian Huskies at North Texas Mean Green | Venue: DATCU Stadium</description>
+      <pubDate>Sat, 26 Sep 2026 19:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401862783</guid>
+    </item>
+    <item>
+      <title>09/26/2026 • 7:30 PM ET — College Football — NC State Wolfpack vs App State Mountaineers</title>
+      <description>Date: 09/26/2026 | Time: 7:30 PM ET | Status: In Progress | Sport: College Football | Event: App State Mountaineers at NC State Wolfpack | Venue: Carter-Finley Stadium</description>
+      <pubDate>Sat, 26 Sep 2026 19:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401864572</guid>
+    </item>
+    <item>
       <title>09/26/2026 • 7:30 PM ET — College Football — LSU Tigers vs Texas A&amp;M Aggies</title>
       <description>Date: 09/26/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Texas A&amp;M Aggies at LSU Tigers | Venue: Tiger Stadium (LA)</description>
       <pubDate>Sat, 26 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856702</guid>
-    </item>
-    <item>
-      <title>09/26/2026 • 7:30 PM ET — College Football — USC Trojans vs Oregon Ducks</title>
-      <description>Date: 09/26/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Oregon Ducks at USC Trojans | Venue: Los Angeles Memorial Coliseum</description>
-      <pubDate>Sat, 26 Sep 2026 19:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401858469</guid>
     </item>
     <item>
       <title>09/26/2026 • 7:30 PM ET — College Football — Washington State Cougars vs Arizona Wildcats</title>
@@ -445,26 +463,8 @@
       <guid isPermaLink="false">401856804</guid>
     </item>
     <item>
-      <title>09/26/2026 • 7:30 PM ET — College Football — Utah State Aggies vs Troy Trojans</title>
-      <description>Date: 09/26/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Troy Trojans at Utah State Aggies | Venue: Maverik Stadium</description>
-      <pubDate>Sat, 26 Sep 2026 19:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401860894</guid>
-    </item>
-    <item>
-      <title>09/26/2026 • 7:30 PM ET — College Football — North Texas Mean Green vs Houston Christian Huskies</title>
-      <description>Date: 09/26/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Houston Christian Huskies at North Texas Mean Green | Venue: DATCU Stadium</description>
-      <pubDate>Sat, 26 Sep 2026 19:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401862783</guid>
-    </item>
-    <item>
-      <title>09/26/2026 • 7:30 PM ET — College Football — NC State Wolfpack vs App State Mountaineers</title>
-      <description>Date: 09/26/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: App State Mountaineers at NC State Wolfpack | Venue: Carter-Finley Stadium</description>
-      <pubDate>Sat, 26 Sep 2026 19:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401864572</guid>
-    </item>
-    <item>
       <title>09/26/2026 • 7:30 PM ET — NHL — New York Islanders vs New Jersey Devils</title>
-      <description>Date: 09/26/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: NHL | Event: New Jersey Devils at New York Islanders | Venue: UBS Arena</description>
+      <description>Date: 09/26/2026 | Time: 7:30 PM ET | Status: In Progress | Sport: NHL | Event: New Jersey Devils at New York Islanders | Venue: UBS Arena</description>
       <pubDate>Sat, 26 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401879647</guid>
     </item>
