@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 26 Sep 2026 15:10:03 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 15:24:25 -0400</lastBuildDate>
     
     <item>
       <title>09/26/2026 • 12:00 PM ET — College Football — Tennessee Volunteers vs Texas Longhorns</title>
@@ -44,15 +44,9 @@
     </item>
     <item>
       <title>09/26/2026 • 12:00 PM ET — College Football — Boston College Eagles vs Virginia Tech Hokies</title>
-      <description>Date: 09/26/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Virginia Tech Hokies at Boston College Eagles | Venue: Alumni Stadium (Chestnut Hill, MA)</description>
+      <description>Date: 09/26/2026 | Time: 12:00 PM ET | Status: End of Period | Sport: College Football | Event: Virginia Tech Hokies at Boston College Eagles | Venue: Alumni Stadium (Chestnut Hill, MA)</description>
       <pubDate>Sat, 26 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858242</guid>
-    </item>
-    <item>
-      <title>09/26/2026 • 12:00 PM ET — College Football — Toledo Rockets vs San Diego State Aztecs</title>
-      <description>Date: 09/26/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: San Diego State Aztecs at Toledo Rockets | Venue: Glass Bowl</description>
-      <pubDate>Sat, 26 Sep 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401860893</guid>
     </item>
     <item>
       <title>09/26/2026 • 12:00 PM ET — College Football — UTSA Roadrunners vs Colorado State Rams</title>
@@ -61,10 +55,10 @@
       <guid isPermaLink="false">401860896</guid>
     </item>
     <item>
-      <title>09/26/2026 • 12:00 PM ET — College Football — Kent State Golden Flashes vs Ball State Cardinals</title>
-      <description>Date: 09/26/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Ball State Cardinals at Kent State Golden Flashes | Venue: Zoeller Field at Dix Stadium</description>
+      <title>09/26/2026 • 12:00 PM ET — College Football — Toledo Rockets vs San Diego State Aztecs</title>
+      <description>Date: 09/26/2026 | Time: 12:00 PM ET | Status: Final | Sport: College Football | Event: San Diego State Aztecs at Toledo Rockets | Venue: Glass Bowl</description>
       <pubDate>Sat, 26 Sep 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401866425</guid>
+      <guid isPermaLink="false">401860893</guid>
     </item>
     <item>
       <title>09/26/2026 • 12:00 PM ET — College Football — Akron Zips vs UNLV Rebels</title>
@@ -73,8 +67,14 @@
       <guid isPermaLink="false">401864512</guid>
     </item>
     <item>
+      <title>09/26/2026 • 12:00 PM ET — College Football — Kent State Golden Flashes vs Ball State Cardinals</title>
+      <description>Date: 09/26/2026 | Time: 12:00 PM ET | Status: Final | Sport: College Football | Event: Ball State Cardinals at Kent State Golden Flashes | Venue: Zoeller Field at Dix Stadium</description>
+      <pubDate>Sat, 26 Sep 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401866425</guid>
+    </item>
+    <item>
       <title>09/26/2026 • 12:35 PM ET — MLB — Washington Nationals vs New York Mets</title>
-      <description>Date: 09/26/2026 | Time: 12:35 PM ET | Status: In Progress | Sport: MLB | Event: New York Mets at Washington Nationals | Venue: Nationals Park</description>
+      <description>Date: 09/26/2026 | Time: 12:35 PM ET | Status: Final | Sport: MLB | Event: New York Mets at Washington Nationals | Venue: Nationals Park</description>
       <pubDate>Sat, 26 Sep 2026 12:35:00 -0400</pubDate>
       <guid isPermaLink="false">401817091</guid>
     </item>
@@ -122,7 +122,7 @@
     </item>
     <item>
       <title>09/26/2026 • 3:00 PM ET — College Football — Wyoming Cowboys vs Hawai'i Rainbow Warriors</title>
-      <description>Date: 09/26/2026 | Time: 3:00 PM ET | Status: Scheduled | Sport: College Football | Event: Hawai'i Rainbow Warriors at Wyoming Cowboys | Venue: War Memorial Stadium</description>
+      <description>Date: 09/26/2026 | Time: 3:00 PM ET | Status: In Progress | Sport: College Football | Event: Hawai'i Rainbow Warriors at Wyoming Cowboys | Venue: War Memorial Stadium</description>
       <pubDate>Sat, 26 Sep 2026 15:00:00 -0400</pubDate>
       <guid isPermaLink="false">401864510</guid>
     </item>
