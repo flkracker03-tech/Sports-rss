@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 26 Sep 2026 18:52:29 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 19:10:36 -0400</lastBuildDate>
     
     <item>
       <title>09/26/2026 • 12:00 PM ET — College Football — Tennessee Volunteers vs Texas Longhorns</title>
@@ -145,12 +145,6 @@
       <guid isPermaLink="false">401817090</guid>
     </item>
     <item>
-      <title>09/26/2026 • 3:30 PM ET — College Football — Georgia Bulldogs vs Oklahoma Sooners</title>
-      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Oklahoma Sooners at Georgia Bulldogs | Venue: Sanford Stadium</description>
-      <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401856700</guid>
-    </item>
-    <item>
       <title>09/26/2026 • 3:30 PM ET — College Football — Florida Gators vs Ole Miss Rebels</title>
       <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Ole Miss Rebels at Florida Gators | Venue: Ben Hill Griffin Stadium</description>
       <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
@@ -158,33 +152,27 @@
     </item>
     <item>
       <title>09/26/2026 • 3:30 PM ET — College Football — Iowa State Cyclones vs Utah Utes</title>
-      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Utah Utes at Iowa State Cyclones | Venue: Jack Trice Stadium</description>
+      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Utah Utes at Iowa State Cyclones | Venue: Jack Trice Stadium</description>
       <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856816</guid>
-    </item>
-    <item>
-      <title>09/26/2026 • 3:30 PM ET — College Football — Michigan Wolverines vs Iowa Hawkeyes</title>
-      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Iowa Hawkeyes at Michigan Wolverines | Venue: Michigan Stadium</description>
-      <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401858463</guid>
-    </item>
-    <item>
-      <title>09/26/2026 • 3:30 PM ET — College Football — New Mexico State Aggies vs New Mexico Lobos</title>
-      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: New Mexico Lobos at New Mexico State Aggies | Venue: Aggie Memorial Stadium</description>
-      <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401864579</guid>
-    </item>
-    <item>
-      <title>09/26/2026 • 3:30 PM ET — College Football — Buffalo Bulls vs Robert Morris Colonials</title>
-      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Robert Morris Colonials at Buffalo Bulls | Venue: Broadview Stadium</description>
-      <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401866426</guid>
     </item>
     <item>
       <title>09/26/2026 • 3:30 PM ET — College Football — Marshall Thundering Herd vs Gardner-Webb Runnin' Bulldogs</title>
       <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Gardner-Webb Runnin' Bulldogs at Marshall Thundering Herd | Venue: Joan C. Edwards Stadium</description>
       <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401868188</guid>
+    </item>
+    <item>
+      <title>09/26/2026 • 3:30 PM ET — College Football — Georgia Bulldogs vs Oklahoma Sooners</title>
+      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Oklahoma Sooners at Georgia Bulldogs | Venue: Sanford Stadium</description>
+      <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401856700</guid>
+    </item>
+    <item>
+      <title>09/26/2026 • 3:30 PM ET — College Football — Michigan Wolverines vs Iowa Hawkeyes</title>
+      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Iowa Hawkeyes at Michigan Wolverines | Venue: Michigan Stadium</description>
+      <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401858463</guid>
     </item>
     <item>
       <title>09/26/2026 • 3:30 PM ET — College Football — UCF Knights vs TCU Horned Frogs</title>
@@ -209,6 +197,18 @@
       <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: UConn Huskies at Miami (OH) RedHawks | Venue: Yager Stadium</description>
       <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401861970</guid>
+    </item>
+    <item>
+      <title>09/26/2026 • 3:30 PM ET — College Football — New Mexico State Aggies vs New Mexico Lobos</title>
+      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: New Mexico Lobos at New Mexico State Aggies | Venue: Aggie Memorial Stadium</description>
+      <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401864579</guid>
+    </item>
+    <item>
+      <title>09/26/2026 • 3:30 PM ET — College Football — Buffalo Bulls vs Robert Morris Colonials</title>
+      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Robert Morris Colonials at Buffalo Bulls | Venue: Broadview Stadium</description>
+      <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401866426</guid>
     </item>
     <item>
       <title>09/26/2026 • 3:30 PM ET — College Football — Ohio Bobcats vs Stonehill Skyhawks</title>
@@ -236,7 +236,7 @@
     </item>
     <item>
       <title>09/26/2026 • 4:05 PM ET — MLB — San Francisco Giants vs Los Angeles Dodgers</title>
-      <description>Date: 09/26/2026 | Time: 4:05 PM ET | Status: In Progress | Sport: MLB | Event: Los Angeles Dodgers at San Francisco Giants | Venue: Oracle Park</description>
+      <description>Date: 09/26/2026 | Time: 4:05 PM ET | Status: Final | Sport: MLB | Event: Los Angeles Dodgers at San Francisco Giants | Venue: Oracle Park</description>
       <pubDate>Sat, 26 Sep 2026 16:05:00 -0400</pubDate>
       <guid isPermaLink="false">401817101</guid>
     </item>
@@ -266,7 +266,7 @@
     </item>
     <item>
       <title>09/26/2026 • 5:00 PM ET — College Football — Michigan State Spartans vs Nebraska Cornhuskers</title>
-      <description>Date: 09/26/2026 | Time: 5:00 PM ET | Status: Halftime | Sport: College Football | Event: Nebraska Cornhuskers at Michigan State Spartans | Venue: Spartan Stadium</description>
+      <description>Date: 09/26/2026 | Time: 5:00 PM ET | Status: In Progress | Sport: College Football | Event: Nebraska Cornhuskers at Michigan State Spartans | Venue: Spartan Stadium</description>
       <pubDate>Sat, 26 Sep 2026 17:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858464</guid>
     </item>
@@ -278,13 +278,13 @@
     </item>
     <item>
       <title>09/26/2026 • 5:00 PM ET — NHL — Philadelphia Flyers vs Washington Capitals</title>
-      <description>Date: 09/26/2026 | Time: 5:00 PM ET | Status: End of Period | Sport: NHL | Event: Washington Capitals at Philadelphia Flyers | Venue: Xfinity Mobile Arena</description>
+      <description>Date: 09/26/2026 | Time: 5:00 PM ET | Status: In Progress | Sport: NHL | Event: Washington Capitals at Philadelphia Flyers | Venue: Xfinity Mobile Arena</description>
       <pubDate>Sat, 26 Sep 2026 17:00:00 -0400</pubDate>
       <guid isPermaLink="false">401879361</guid>
     </item>
     <item>
       <title>09/26/2026 • 5:00 PM ET — NHL — Utah Mammoth vs Colorado Avalanche</title>
-      <description>Date: 09/26/2026 | Time: 5:00 PM ET | Status: End of Period | Sport: NHL | Event: Colorado Avalanche at Utah Mammoth | Venue: Delta Center</description>
+      <description>Date: 09/26/2026 | Time: 5:00 PM ET | Status: In Progress | Sport: NHL | Event: Colorado Avalanche at Utah Mammoth | Venue: Delta Center</description>
       <pubDate>Sat, 26 Sep 2026 17:00:00 -0400</pubDate>
       <guid isPermaLink="false">401879365</guid>
     </item>
@@ -314,7 +314,7 @@
     </item>
     <item>
       <title>09/26/2026 • 6:00 PM ET — NHL — Florida Panthers vs Tampa Bay Lightning</title>
-      <description>Date: 09/26/2026 | Time: 6:00 PM ET | Status: End of Period | Sport: NHL | Event: Tampa Bay Lightning at Florida Panthers | Venue: Amerant Bank Arena</description>
+      <description>Date: 09/26/2026 | Time: 6:00 PM ET | Status: In Progress | Sport: NHL | Event: Tampa Bay Lightning at Florida Panthers | Venue: Amerant Bank Arena</description>
       <pubDate>Sat, 26 Sep 2026 18:00:00 -0400</pubDate>
       <guid isPermaLink="false">401881134</guid>
     </item>
@@ -332,49 +332,49 @@
     </item>
     <item>
       <title>09/26/2026 • 7:00 PM ET — College Football — Cincinnati Bearcats vs Kansas State Wildcats</title>
-      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Kansas State Wildcats at Cincinnati Bearcats | Venue: Nippert Stadium</description>
+      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Kansas State Wildcats at Cincinnati Bearcats | Venue: Nippert Stadium</description>
       <pubDate>Sat, 26 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856814</guid>
     </item>
     <item>
-      <title>09/26/2026 • 7:00 PM ET — College Football — West Virginia Mountaineers vs Oklahoma State Cowboys</title>
-      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Oklahoma State Cowboys at West Virginia Mountaineers | Venue: Milan Puskar Stadium</description>
-      <pubDate>Sat, 26 Sep 2026 19:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401856881</guid>
-    </item>
-    <item>
       <title>09/26/2026 • 7:00 PM ET — College Football — Tulane Green Wave vs Southern Miss Golden Eagles</title>
-      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Southern Miss Golden Eagles at Tulane Green Wave | Venue: Yulman Stadium</description>
+      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Southern Miss Golden Eagles at Tulane Green Wave | Venue: Yulman Stadium</description>
       <pubDate>Sat, 26 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401862784</guid>
     </item>
     <item>
       <title>09/26/2026 • 7:00 PM ET — College Football — Arkansas State Red Wolves vs Kennesaw State Owls</title>
-      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Kennesaw State Owls at Arkansas State Red Wolves | Venue: Centennial Bank Stadium</description>
+      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Kennesaw State Owls at Arkansas State Red Wolves | Venue: Centennial Bank Stadium</description>
       <pubDate>Sat, 26 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401869931</guid>
     </item>
     <item>
       <title>09/26/2026 • 7:00 PM ET — College Football — Western Kentucky Hilltoppers vs Mercyhurst Lakers</title>
-      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Mercyhurst Lakers at Western Kentucky Hilltoppers | Venue: Houchens Industries-L.T. Smith Stadium</description>
+      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Mercyhurst Lakers at Western Kentucky Hilltoppers | Venue: Houchens Industries-L.T. Smith Stadium</description>
       <pubDate>Sat, 26 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401870745</guid>
     </item>
     <item>
       <title>09/26/2026 • 7:00 PM ET — College Football — Jacksonville State Gamecocks vs Middle Tennessee Blue Raiders</title>
-      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Middle Tennessee Blue Raiders at Jacksonville State Gamecocks | Venue: AmFirst Stadium</description>
+      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Middle Tennessee Blue Raiders at Jacksonville State Gamecocks | Venue: AmFirst Stadium</description>
       <pubDate>Sat, 26 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401871048</guid>
     </item>
     <item>
+      <title>09/26/2026 • 7:00 PM ET — College Football — West Virginia Mountaineers vs Oklahoma State Cowboys</title>
+      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Oklahoma State Cowboys at West Virginia Mountaineers | Venue: Milan Puskar Stadium</description>
+      <pubDate>Sat, 26 Sep 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401856881</guid>
+    </item>
+    <item>
       <title>09/26/2026 • 7:00 PM ET — NHL — Detroit Red Wings vs Columbus Blue Jackets</title>
-      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NHL | Event: Columbus Blue Jackets at Detroit Red Wings | Venue: Little Caesars Arena</description>
+      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: NHL | Event: Columbus Blue Jackets at Detroit Red Wings | Venue: Little Caesars Arena</description>
       <pubDate>Sat, 26 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401879453</guid>
     </item>
     <item>
       <title>09/26/2026 • 7:00 PM ET — NHL — Ottawa Senators vs Montreal Canadiens</title>
-      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NHL | Event: Montreal Canadiens at Ottawa Senators | Venue: Canadian Tire Centre</description>
+      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: NHL | Event: Montreal Canadiens at Ottawa Senators | Venue: Canadian Tire Centre</description>
       <pubDate>Sat, 26 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401879651</guid>
     </item>
@@ -386,13 +386,13 @@
     </item>
     <item>
       <title>09/26/2026 • 7:00 PM ET — NHL — Montreal Canadiens vs Ottawa Senators</title>
-      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NHL | Event: Ottawa Senators at Montreal Canadiens | Venue: Bell Centre</description>
+      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: NHL | Event: Ottawa Senators at Montreal Canadiens | Venue: Bell Centre</description>
       <pubDate>Sat, 26 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401881724</guid>
     </item>
     <item>
       <title>09/26/2026 • 7:00 PM ET — NHL — Chicago Blackhawks vs St. Louis Blues</title>
-      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NHL | Event: St. Louis Blues at Chicago Blackhawks | Venue: United Center</description>
+      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: NHL | Event: St. Louis Blues at Chicago Blackhawks | Venue: United Center</description>
       <pubDate>Sat, 26 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401886261</guid>
     </item>
@@ -404,19 +404,19 @@
     </item>
     <item>
       <title>09/26/2026 • 7:10 PM ET — MLB — Kansas City Royals vs Cleveland Guardians</title>
-      <description>Date: 09/26/2026 | Time: 7:10 PM ET | Status: Scheduled | Sport: MLB | Event: Cleveland Guardians at Kansas City Royals | Venue: Kauffman Stadium</description>
+      <description>Date: 09/26/2026 | Time: 7:10 PM ET | Status: In Progress | Sport: MLB | Event: Cleveland Guardians at Kansas City Royals | Venue: Kauffman Stadium</description>
       <pubDate>Sat, 26 Sep 2026 19:10:00 -0400</pubDate>
       <guid isPermaLink="false">401817094</guid>
     </item>
     <item>
       <title>09/26/2026 • 7:10 PM ET — MLB — Chicago White Sox vs Colorado Rockies</title>
-      <description>Date: 09/26/2026 | Time: 7:10 PM ET | Status: Scheduled | Sport: MLB | Event: Colorado Rockies at Chicago White Sox | Venue: Rate Field</description>
+      <description>Date: 09/26/2026 | Time: 7:10 PM ET | Status: In Progress | Sport: MLB | Event: Colorado Rockies at Chicago White Sox | Venue: Rate Field</description>
       <pubDate>Sat, 26 Sep 2026 19:10:00 -0400</pubDate>
       <guid isPermaLink="false">401817095</guid>
     </item>
     <item>
       <title>09/26/2026 • 7:10 PM ET — MLB — Milwaukee Brewers vs St. Louis Cardinals</title>
-      <description>Date: 09/26/2026 | Time: 7:10 PM ET | Status: Scheduled | Sport: MLB | Event: St. Louis Cardinals at Milwaukee Brewers | Venue: American Family Field</description>
+      <description>Date: 09/26/2026 | Time: 7:10 PM ET | Status: In Progress | Sport: MLB | Event: St. Louis Cardinals at Milwaukee Brewers | Venue: American Family Field</description>
       <pubDate>Sat, 26 Sep 2026 19:10:00 -0400</pubDate>
       <guid isPermaLink="false">401817096</guid>
     </item>
