@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 26 Sep 2026 19:10:36 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 19:25:31 -0400</lastBuildDate>
     
     <item>
       <title>09/26/2026 • 12:00 PM ET — College Football — Tennessee Volunteers vs Texas Longhorns</title>
@@ -146,27 +146,21 @@
     </item>
     <item>
       <title>09/26/2026 • 3:30 PM ET — College Football — Florida Gators vs Ole Miss Rebels</title>
-      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Ole Miss Rebels at Florida Gators | Venue: Ben Hill Griffin Stadium</description>
+      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Ole Miss Rebels at Florida Gators | Venue: Ben Hill Griffin Stadium</description>
       <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856699</guid>
-    </item>
-    <item>
-      <title>09/26/2026 • 3:30 PM ET — College Football — Iowa State Cyclones vs Utah Utes</title>
-      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Utah Utes at Iowa State Cyclones | Venue: Jack Trice Stadium</description>
-      <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401856816</guid>
-    </item>
-    <item>
-      <title>09/26/2026 • 3:30 PM ET — College Football — Marshall Thundering Herd vs Gardner-Webb Runnin' Bulldogs</title>
-      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Gardner-Webb Runnin' Bulldogs at Marshall Thundering Herd | Venue: Joan C. Edwards Stadium</description>
-      <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401868188</guid>
     </item>
     <item>
       <title>09/26/2026 • 3:30 PM ET — College Football — Georgia Bulldogs vs Oklahoma Sooners</title>
       <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Oklahoma Sooners at Georgia Bulldogs | Venue: Sanford Stadium</description>
       <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856700</guid>
+    </item>
+    <item>
+      <title>09/26/2026 • 3:30 PM ET — College Football — Iowa State Cyclones vs Utah Utes</title>
+      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Utah Utes at Iowa State Cyclones | Venue: Jack Trice Stadium</description>
+      <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401856816</guid>
     </item>
     <item>
       <title>09/26/2026 • 3:30 PM ET — College Football — Michigan Wolverines vs Iowa Hawkeyes</title>
@@ -215,6 +209,12 @@
       <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Stonehill Skyhawks at Ohio Bobcats | Venue: Peden Stadium</description>
       <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401866428</guid>
+    </item>
+    <item>
+      <title>09/26/2026 • 3:30 PM ET — College Football — Marshall Thundering Herd vs Gardner-Webb Runnin' Bulldogs</title>
+      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Gardner-Webb Runnin' Bulldogs at Marshall Thundering Herd | Venue: Joan C. Edwards Stadium</description>
+      <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401868188</guid>
     </item>
     <item>
       <title>09/26/2026 • 4:00 PM ET — College Football — Georgia Southern Eagles vs Houston Cougars</title>
@@ -302,7 +302,7 @@
     </item>
     <item>
       <title>09/26/2026 • 6:00 PM ET — College Football — Florida International Panthers vs Long Island University Sharks</title>
-      <description>Date: 09/26/2026 | Time: 6:00 PM ET | Status: In Progress | Sport: College Football | Event: Long Island University Sharks at Florida International Panthers | Venue: Pitbull Stadium</description>
+      <description>Date: 09/26/2026 | Time: 6:00 PM ET | Status: Halftime | Sport: College Football | Event: Long Island University Sharks at Florida International Panthers | Venue: Pitbull Stadium</description>
       <pubDate>Sat, 26 Sep 2026 18:00:00 -0400</pubDate>
       <guid isPermaLink="false">401867909</guid>
     </item>
@@ -337,6 +337,12 @@
       <guid isPermaLink="false">401856814</guid>
     </item>
     <item>
+      <title>09/26/2026 • 7:00 PM ET — College Football — West Virginia Mountaineers vs Oklahoma State Cowboys</title>
+      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Oklahoma State Cowboys at West Virginia Mountaineers | Venue: Milan Puskar Stadium</description>
+      <pubDate>Sat, 26 Sep 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401856881</guid>
+    </item>
+    <item>
       <title>09/26/2026 • 7:00 PM ET — College Football — Tulane Green Wave vs Southern Miss Golden Eagles</title>
       <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Southern Miss Golden Eagles at Tulane Green Wave | Venue: Yulman Stadium</description>
       <pubDate>Sat, 26 Sep 2026 19:00:00 -0400</pubDate>
@@ -361,12 +367,6 @@
       <guid isPermaLink="false">401871048</guid>
     </item>
     <item>
-      <title>09/26/2026 • 7:00 PM ET — College Football — West Virginia Mountaineers vs Oklahoma State Cowboys</title>
-      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: College Football | Event: Oklahoma State Cowboys at West Virginia Mountaineers | Venue: Milan Puskar Stadium</description>
-      <pubDate>Sat, 26 Sep 2026 19:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401856881</guid>
-    </item>
-    <item>
       <title>09/26/2026 • 7:00 PM ET — NHL — Detroit Red Wings vs Columbus Blue Jackets</title>
       <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: NHL | Event: Columbus Blue Jackets at Detroit Red Wings | Venue: Little Caesars Arena</description>
       <pubDate>Sat, 26 Sep 2026 19:00:00 -0400</pubDate>
@@ -380,7 +380,7 @@
     </item>
     <item>
       <title>09/26/2026 • 7:00 PM ET — NHL — Vancouver Canucks vs Seattle Kraken</title>
-      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NHL | Event: Seattle Kraken at Vancouver Canucks | Venue: Rogers Arena</description>
+      <description>Date: 09/26/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: NHL | Event: Seattle Kraken at Vancouver Canucks | Venue: Rogers Arena</description>
       <pubDate>Sat, 26 Sep 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401879653</guid>
     </item>
@@ -398,7 +398,7 @@
     </item>
     <item>
       <title>09/26/2026 • 7:10 PM ET — College Football — Alabama Crimson Tide vs South Carolina Gamecocks</title>
-      <description>Date: 09/26/2026 | Time: 7:10 PM ET | Status: Scheduled | Sport: College Football | Event: South Carolina Gamecocks at Alabama Crimson Tide | Venue: Bryant-Denny Stadium</description>
+      <description>Date: 09/26/2026 | Time: 7:10 PM ET | Status: In Progress | Sport: College Football | Event: South Carolina Gamecocks at Alabama Crimson Tide | Venue: Bryant-Denny Stadium</description>
       <pubDate>Sat, 26 Sep 2026 19:10:00 -0400</pubDate>
       <guid isPermaLink="false">401856696</guid>
     </item>
