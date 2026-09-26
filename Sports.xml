@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 26 Sep 2026 18:26:12 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 18:40:19 -0400</lastBuildDate>
     
     <item>
       <title>09/26/2026 • 12:00 PM ET — College Football — Tennessee Volunteers vs Texas Longhorns</title>
@@ -115,16 +115,16 @@
       <guid isPermaLink="false">401864511</guid>
     </item>
     <item>
-      <title>09/26/2026 • 3:00 PM ET — College Football — Wyoming Cowboys vs Hawai'i Rainbow Warriors</title>
-      <description>Date: 09/26/2026 | Time: 3:00 PM ET | Status: In Progress | Sport: College Football | Event: Hawai'i Rainbow Warriors at Wyoming Cowboys | Venue: War Memorial Stadium</description>
-      <pubDate>Sat, 26 Sep 2026 15:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401864510</guid>
-    </item>
-    <item>
       <title>09/26/2026 • 3:00 PM ET — College Football — Florida State Seminoles vs Central Arkansas Bears</title>
       <description>Date: 09/26/2026 | Time: 3:00 PM ET | Status: Final | Sport: College Football | Event: Central Arkansas Bears at Florida State Seminoles | Venue: Doak Campbell Stadium</description>
       <pubDate>Sat, 26 Sep 2026 15:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858237</guid>
+    </item>
+    <item>
+      <title>09/26/2026 • 3:00 PM ET — College Football — Wyoming Cowboys vs Hawai'i Rainbow Warriors</title>
+      <description>Date: 09/26/2026 | Time: 3:00 PM ET | Status: Final | Sport: College Football | Event: Hawai'i Rainbow Warriors at Wyoming Cowboys | Venue: War Memorial Stadium</description>
+      <pubDate>Sat, 26 Sep 2026 15:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401864510</guid>
     </item>
     <item>
       <title>09/26/2026 • 3:00 PM ET — NHL — Buffalo Sabres vs Pittsburgh Penguins</title>
@@ -205,16 +205,16 @@
       <guid isPermaLink="false">401866426</guid>
     </item>
     <item>
-      <title>09/26/2026 • 3:30 PM ET — College Football — Ohio Bobcats vs Stonehill Skyhawks</title>
-      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Stonehill Skyhawks at Ohio Bobcats | Venue: Peden Stadium</description>
-      <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401866428</guid>
-    </item>
-    <item>
       <title>09/26/2026 • 3:30 PM ET — College Football — Marshall Thundering Herd vs Gardner-Webb Runnin' Bulldogs</title>
       <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Gardner-Webb Runnin' Bulldogs at Marshall Thundering Herd | Venue: Joan C. Edwards Stadium</description>
       <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401868188</guid>
+    </item>
+    <item>
+      <title>09/26/2026 • 3:30 PM ET — College Football — Ohio Bobcats vs Stonehill Skyhawks</title>
+      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: Final | Sport: College Football | Event: Stonehill Skyhawks at Ohio Bobcats | Venue: Peden Stadium</description>
+      <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401866428</guid>
     </item>
     <item>
       <title>09/26/2026 • 4:00 PM ET — College Football — Georgia Southern Eagles vs Houston Cougars</title>
@@ -260,7 +260,7 @@
     </item>
     <item>
       <title>09/26/2026 • 5:00 PM ET — College Football — Penn State Nittany Lions vs Wisconsin Badgers</title>
-      <description>Date: 09/26/2026 | Time: 5:00 PM ET | Status: In Progress | Sport: College Football | Event: Wisconsin Badgers at Penn State Nittany Lions | Venue: Beaver Stadium</description>
+      <description>Date: 09/26/2026 | Time: 5:00 PM ET | Status: Halftime | Sport: College Football | Event: Wisconsin Badgers at Penn State Nittany Lions | Venue: Beaver Stadium</description>
       <pubDate>Sat, 26 Sep 2026 17:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858466</guid>
     </item>
@@ -272,7 +272,7 @@
     </item>
     <item>
       <title>09/26/2026 • 5:00 PM ET — College Football — Bowling Green Falcons vs South Florida Bulls</title>
-      <description>Date: 09/26/2026 | Time: 5:00 PM ET | Status: In Progress | Sport: College Football | Event: South Florida Bulls at Bowling Green Falcons | Venue: Doyt L. Perry Stadium</description>
+      <description>Date: 09/26/2026 | Time: 5:00 PM ET | Status: Halftime | Sport: College Football | Event: South Florida Bulls at Bowling Green Falcons | Venue: Doyt L. Perry Stadium</description>
       <pubDate>Sat, 26 Sep 2026 17:00:00 -0400</pubDate>
       <guid isPermaLink="false">401862785</guid>
     </item>
@@ -319,16 +319,16 @@
       <guid isPermaLink="false">401881134</guid>
     </item>
     <item>
+      <title>09/26/2026 • 6:30 PM ET — College Football — Charlotte 49ers vs Louisiana Ragin' Cajuns</title>
+      <description>Date: 09/26/2026 | Time: 6:30 PM ET | Status: In Progress | Sport: College Football | Event: Louisiana Ragin' Cajuns at Charlotte 49ers | Venue: Jerry Richardson Stadium</description>
+      <pubDate>Sat, 26 Sep 2026 18:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401862780</guid>
+    </item>
+    <item>
       <title>09/26/2026 • 6:30 PM ET — College Football — Miami Hurricanes vs Central Michigan Chippewas</title>
       <description>Date: 09/26/2026 | Time: 6:30 PM ET | Status: Scheduled | Sport: College Football | Event: Central Michigan Chippewas at Miami Hurricanes | Venue: Hard Rock Stadium</description>
       <pubDate>Sat, 26 Sep 2026 18:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858238</guid>
-    </item>
-    <item>
-      <title>09/26/2026 • 6:30 PM ET — College Football — Charlotte 49ers vs Louisiana Ragin' Cajuns</title>
-      <description>Date: 09/26/2026 | Time: 6:30 PM ET | Status: Scheduled | Sport: College Football | Event: Louisiana Ragin' Cajuns at Charlotte 49ers | Venue: Jerry Richardson Stadium</description>
-      <pubDate>Sat, 26 Sep 2026 18:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401862780</guid>
     </item>
     <item>
       <title>09/26/2026 • 7:00 PM ET — College Football — Cincinnati Bearcats vs Kansas State Wildcats</title>
