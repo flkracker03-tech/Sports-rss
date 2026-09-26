@@ -4,11 +4,11 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 26 Sep 2026 13:52:26 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 14:12:51 -0400</lastBuildDate>
     
     <item>
       <title>09/26/2026 • 12:00 PM ET — College Football — Tennessee Volunteers vs Texas Longhorns</title>
-      <description>Date: 09/26/2026 | Time: 12:00 PM ET | Status: Halftime | Sport: College Football | Event: Texas Longhorns at Tennessee Volunteers | Venue: Neyland Stadium</description>
+      <description>Date: 09/26/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Texas Longhorns at Tennessee Volunteers | Venue: Neyland Stadium</description>
       <pubDate>Sat, 26 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856704</guid>
     </item>
@@ -20,7 +20,7 @@
     </item>
     <item>
       <title>09/26/2026 • 12:00 PM ET — College Football — Texas Tech Red Raiders vs Sam Houston Bearkats</title>
-      <description>Date: 09/26/2026 | Time: 12:00 PM ET | Status: Halftime | Sport: College Football | Event: Sam Houston Bearkats at Texas Tech Red Raiders | Venue: Galaxy Stadium</description>
+      <description>Date: 09/26/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Sam Houston Bearkats at Texas Tech Red Raiders | Venue: Galaxy Stadium</description>
       <pubDate>Sat, 26 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856805</guid>
     </item>
@@ -32,13 +32,13 @@
     </item>
     <item>
       <title>09/26/2026 • 12:00 PM ET — College Football — Baylor Bears vs Colorado Buffaloes</title>
-      <description>Date: 09/26/2026 | Time: 12:00 PM ET | Status: Halftime | Sport: College Football | Event: Colorado Buffaloes at Baylor Bears | Venue: McLane Stadium</description>
+      <description>Date: 09/26/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Colorado Buffaloes at Baylor Bears | Venue: McLane Stadium</description>
       <pubDate>Sat, 26 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856813</guid>
     </item>
     <item>
       <title>09/26/2026 • 12:00 PM ET — College Football — Pittsburgh Panthers vs Bucknell Bison</title>
-      <description>Date: 09/26/2026 | Time: 12:00 PM ET | Status: Halftime | Sport: College Football | Event: Bucknell Bison at Pittsburgh Panthers | Venue: Acrisure Stadium</description>
+      <description>Date: 09/26/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Bucknell Bison at Pittsburgh Panthers | Venue: Acrisure Stadium</description>
       <pubDate>Sat, 26 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858236</guid>
     </item>
@@ -103,16 +103,16 @@
       <guid isPermaLink="false">401858462</guid>
     </item>
     <item>
-      <title>09/26/2026 • 2:00 PM ET — College Football — Purdue Boilermakers vs Notre Dame Fighting Irish</title>
-      <description>Date: 09/26/2026 | Time: 2:00 PM ET | Status: Scheduled | Sport: College Football | Event: Notre Dame Fighting Irish at Purdue Boilermakers | Venue: Ross-Ade Stadium</description>
-      <pubDate>Sat, 26 Sep 2026 14:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858467</guid>
-    </item>
-    <item>
       <title>09/26/2026 • 2:00 PM ET — College Football — Georgia State Panthers vs Northern Illinois Huskies</title>
-      <description>Date: 09/26/2026 | Time: 2:00 PM ET | Status: Scheduled | Sport: College Football | Event: Northern Illinois Huskies at Georgia State Panthers | Venue: Center Parc Stadium</description>
+      <description>Date: 09/26/2026 | Time: 2:00 PM ET | Status: In Progress | Sport: College Football | Event: Northern Illinois Huskies at Georgia State Panthers | Venue: Center Parc Stadium</description>
       <pubDate>Sat, 26 Sep 2026 14:00:00 -0400</pubDate>
       <guid isPermaLink="false">401864511</guid>
+    </item>
+    <item>
+      <title>09/26/2026 • 2:00 PM ET — College Football — Purdue Boilermakers vs Notre Dame Fighting Irish</title>
+      <description>Date: 09/26/2026 | Time: 2:00 PM ET | Status: In Progress | Sport: College Football | Event: Notre Dame Fighting Irish at Purdue Boilermakers | Venue: Ross-Ade Stadium</description>
+      <pubDate>Sat, 26 Sep 2026 14:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401858467</guid>
     </item>
     <item>
       <title>09/26/2026 • 3:00 PM ET — College Football — Florida State Seminoles vs Central Arkansas Bears</title>
