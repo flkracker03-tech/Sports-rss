@@ -4,29 +4,29 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 26 Sep 2026 15:37:47 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 15:50:48 -0400</lastBuildDate>
     
     <item>
       <title>09/26/2026 • 12:00 PM ET — College Football — Tennessee Volunteers vs Texas Longhorns</title>
-      <description>Date: 09/26/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Texas Longhorns at Tennessee Volunteers | Venue: Neyland Stadium</description>
+      <description>Date: 09/26/2026 | Time: 12:00 PM ET | Status: Final | Sport: College Football | Event: Texas Longhorns at Tennessee Volunteers | Venue: Neyland Stadium</description>
       <pubDate>Sat, 26 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856704</guid>
     </item>
     <item>
       <title>09/26/2026 • 12:00 PM ET — College Football — Louisville Cardinals vs Wake Forest Demon Deacons</title>
-      <description>Date: 09/26/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Wake Forest Demon Deacons at Louisville Cardinals | Venue: L&amp;N Federal Credit Union Stadium</description>
+      <description>Date: 09/26/2026 | Time: 12:00 PM ET | Status: Final | Sport: College Football | Event: Wake Forest Demon Deacons at Louisville Cardinals | Venue: L&amp;N Federal Credit Union Stadium</description>
       <pubDate>Sat, 26 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858243</guid>
     </item>
     <item>
       <title>09/26/2026 • 12:00 PM ET — College Football — Baylor Bears vs Colorado Buffaloes</title>
-      <description>Date: 09/26/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Colorado Buffaloes at Baylor Bears | Venue: McLane Stadium</description>
+      <description>Date: 09/26/2026 | Time: 12:00 PM ET | Status: Final | Sport: College Football | Event: Colorado Buffaloes at Baylor Bears | Venue: McLane Stadium</description>
       <pubDate>Sat, 26 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856813</guid>
     </item>
     <item>
       <title>09/26/2026 • 12:00 PM ET — College Football — UTSA Roadrunners vs Colorado State Rams</title>
-      <description>Date: 09/26/2026 | Time: 12:00 PM ET | Status: In Progress | Sport: College Football | Event: Colorado State Rams at UTSA Roadrunners | Venue: Alamodome</description>
+      <description>Date: 09/26/2026 | Time: 12:00 PM ET | Status: Final | Sport: College Football | Event: Colorado State Rams at UTSA Roadrunners | Venue: Alamodome</description>
       <pubDate>Sat, 26 Sep 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401860896</guid>
     </item>
@@ -86,7 +86,7 @@
     </item>
     <item>
       <title>09/26/2026 • 1:00 PM ET — College Football — Eastern Michigan Eagles vs Lindenwood Lions</title>
-      <description>Date: 09/26/2026 | Time: 1:00 PM ET | Status: End of Period | Sport: College Football | Event: Lindenwood Lions at Eastern Michigan Eagles | Venue: Rynearson Stadium</description>
+      <description>Date: 09/26/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: College Football | Event: Lindenwood Lions at Eastern Michigan Eagles | Venue: Rynearson Stadium</description>
       <pubDate>Sat, 26 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401866427</guid>
     </item>
@@ -110,7 +110,7 @@
     </item>
     <item>
       <title>09/26/2026 • 2:00 PM ET — College Football — Georgia State Panthers vs Northern Illinois Huskies</title>
-      <description>Date: 09/26/2026 | Time: 2:00 PM ET | Status: Halftime | Sport: College Football | Event: Northern Illinois Huskies at Georgia State Panthers | Venue: Center Parc Stadium</description>
+      <description>Date: 09/26/2026 | Time: 2:00 PM ET | Status: In Progress | Sport: College Football | Event: Northern Illinois Huskies at Georgia State Panthers | Venue: Center Parc Stadium</description>
       <pubDate>Sat, 26 Sep 2026 14:00:00 -0400</pubDate>
       <guid isPermaLink="false">401864511</guid>
     </item>
@@ -128,13 +128,13 @@
     </item>
     <item>
       <title>09/26/2026 • 3:00 PM ET — NHL — Buffalo Sabres vs Pittsburgh Penguins</title>
-      <description>Date: 09/26/2026 | Time: 3:00 PM ET | Status: In Progress | Sport: NHL | Event: Pittsburgh Penguins at Buffalo Sabres | Venue: KeyBank Center</description>
+      <description>Date: 09/26/2026 | Time: 3:00 PM ET | Status: End of Period | Sport: NHL | Event: Pittsburgh Penguins at Buffalo Sabres | Venue: KeyBank Center</description>
       <pubDate>Sat, 26 Sep 2026 15:00:00 -0400</pubDate>
       <guid isPermaLink="false">401879457</guid>
     </item>
     <item>
       <title>09/26/2026 • 3:00 PM ET — NHL — Nashville Predators vs Carolina Hurricanes</title>
-      <description>Date: 09/26/2026 | Time: 3:00 PM ET | Status: In Progress | Sport: NHL | Event: Carolina Hurricanes at Nashville Predators | Venue: Bridgestone Arena</description>
+      <description>Date: 09/26/2026 | Time: 3:00 PM ET | Status: End of Period | Sport: NHL | Event: Carolina Hurricanes at Nashville Predators | Venue: Bridgestone Arena</description>
       <pubDate>Sat, 26 Sep 2026 15:00:00 -0400</pubDate>
       <guid isPermaLink="false">401879935</guid>
     </item>
@@ -194,7 +194,7 @@
     </item>
     <item>
       <title>09/26/2026 • 3:30 PM ET — College Football — Georgia Bulldogs vs Oklahoma Sooners</title>
-      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Oklahoma Sooners at Georgia Bulldogs | Venue: Sanford Stadium</description>
+      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Oklahoma Sooners at Georgia Bulldogs | Venue: Sanford Stadium</description>
       <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856700</guid>
     </item>
@@ -206,13 +206,13 @@
     </item>
     <item>
       <title>09/26/2026 • 3:30 PM ET — College Football — Michigan Wolverines vs Iowa Hawkeyes</title>
-      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Iowa Hawkeyes at Michigan Wolverines | Venue: Michigan Stadium</description>
+      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: Iowa Hawkeyes at Michigan Wolverines | Venue: Michigan Stadium</description>
       <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858463</guid>
     </item>
     <item>
       <title>09/26/2026 • 3:30 PM ET — College Football — New Mexico State Aggies vs New Mexico Lobos</title>
-      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: New Mexico Lobos at New Mexico State Aggies | Venue: Aggie Memorial Stadium</description>
+      <description>Date: 09/26/2026 | Time: 3:30 PM ET | Status: In Progress | Sport: College Football | Event: New Mexico Lobos at New Mexico State Aggies | Venue: Aggie Memorial Stadium</description>
       <pubDate>Sat, 26 Sep 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401864579</guid>
     </item>
@@ -248,7 +248,7 @@
     </item>
     <item>
       <title>09/26/2026 • 4:10 PM ET — MLB — Minnesota Twins vs Texas Rangers</title>
-      <description>Date: 09/26/2026 | Time: 4:10 PM ET | Status: Scheduled | Sport: MLB | Event: Texas Rangers at Minnesota Twins | Venue: Target Field</description>
+      <description>Date: 09/26/2026 | Time: 4:10 PM ET | Status: Rain Delay | Sport: MLB | Event: Texas Rangers at Minnesota Twins | Venue: Target Field</description>
       <pubDate>Sat, 26 Sep 2026 16:10:00 -0400</pubDate>
       <guid isPermaLink="false">401817097</guid>
     </item>
