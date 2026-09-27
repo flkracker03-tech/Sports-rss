@@ -4,31 +4,13 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 27 Sep 2026 16:11:01 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 16:26:57 -0400</lastBuildDate>
     
-    <item>
-      <title>09/27/2026 • 1:00 PM ET — NFL — Buffalo Bills vs Los Angeles Chargers</title>
-      <description>Date: 09/27/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Los Angeles Chargers at Buffalo Bills | Venue: Highmark Stadium</description>
-      <pubDate>Sun, 27 Sep 2026 13:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401872953</guid>
-    </item>
     <item>
       <title>09/27/2026 • 1:00 PM ET — NFL — Cleveland Browns vs Carolina Panthers</title>
       <description>Date: 09/27/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Carolina Panthers at Cleveland Browns | Venue: Huntington Bank Field</description>
       <pubDate>Sun, 27 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872949</guid>
-    </item>
-    <item>
-      <title>09/27/2026 • 1:00 PM ET — NFL — Indianapolis Colts vs Houston Texans</title>
-      <description>Date: 09/27/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Houston Texans at Indianapolis Colts | Venue: Lucas Oil Stadium</description>
-      <pubDate>Sun, 27 Sep 2026 13:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401872951</guid>
-    </item>
-    <item>
-      <title>09/27/2026 • 1:00 PM ET — NFL — Pittsburgh Steelers vs Cincinnati Bengals</title>
-      <description>Date: 09/27/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Cincinnati Bengals at Pittsburgh Steelers | Venue: Acrisure Stadium</description>
-      <pubDate>Sun, 27 Sep 2026 13:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401872950</guid>
     </item>
     <item>
       <title>09/27/2026 • 1:00 PM ET — NFL — Washington Commanders vs Seattle Seahawks</title>
@@ -37,10 +19,22 @@
       <guid isPermaLink="false">401872955</guid>
     </item>
     <item>
+      <title>09/27/2026 • 1:00 PM ET — NFL — Buffalo Bills vs Los Angeles Chargers</title>
+      <description>Date: 09/27/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Los Angeles Chargers at Buffalo Bills | Venue: Highmark Stadium</description>
+      <pubDate>Sun, 27 Sep 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401872953</guid>
+    </item>
+    <item>
       <title>09/27/2026 • 1:00 PM ET — NFL — Detroit Lions vs New York Jets</title>
       <description>Date: 09/27/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: New York Jets at Detroit Lions | Venue: Ford Field</description>
       <pubDate>Sun, 27 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872954</guid>
+    </item>
+    <item>
+      <title>09/27/2026 • 1:00 PM ET — NFL — Indianapolis Colts vs Houston Texans</title>
+      <description>Date: 09/27/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Houston Texans at Indianapolis Colts | Venue: Lucas Oil Stadium</description>
+      <pubDate>Sun, 27 Sep 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401872951</guid>
     </item>
     <item>
       <title>09/27/2026 • 1:00 PM ET — NFL — Miami Dolphins vs Kansas City Chiefs</title>
@@ -53,6 +47,12 @@
       <description>Date: 09/27/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Tennessee Titans at New York Giants | Venue: MetLife Stadium</description>
       <pubDate>Sun, 27 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872956</guid>
+    </item>
+    <item>
+      <title>09/27/2026 • 1:00 PM ET — NFL — Pittsburgh Steelers vs Cincinnati Bengals</title>
+      <description>Date: 09/27/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: Cincinnati Bengals at Pittsburgh Steelers | Venue: Acrisure Stadium</description>
+      <pubDate>Sun, 27 Sep 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401872950</guid>
     </item>
     <item>
       <title>09/27/2026 • 1:00 PM ET — NFL — Jacksonville Jaguars vs New England Patriots</title>
@@ -158,7 +158,7 @@
     </item>
     <item>
       <title>09/27/2026 • 4:00 PM ET — WNBA — Las Vegas Aces vs Indiana Fever</title>
-      <description>Date: 09/27/2026 | Time: 4:00 PM ET | Status: Scheduled | Sport: WNBA | Event: Indiana Fever at Las Vegas Aces | Venue: Michelob ULTRA Arena</description>
+      <description>Date: 09/27/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: WNBA | Event: Indiana Fever at Las Vegas Aces | Venue: Michelob ULTRA Arena</description>
       <pubDate>Sun, 27 Sep 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401918015</guid>
     </item>
@@ -176,13 +176,13 @@
     </item>
     <item>
       <title>09/27/2026 • 4:25 PM ET — NFL — Dallas Cowboys vs Baltimore Ravens</title>
-      <description>Date: 09/27/2026 | Time: 4:25 PM ET | Status: Scheduled | Sport: NFL | Event: Baltimore Ravens at Dallas Cowboys | Venue: Maracanã Stadium</description>
+      <description>Date: 09/27/2026 | Time: 4:25 PM ET | Status: In Progress | Sport: NFL | Event: Baltimore Ravens at Dallas Cowboys | Venue: Maracanã Stadium</description>
       <pubDate>Sun, 27 Sep 2026 16:25:00 -0400</pubDate>
       <guid isPermaLink="false">401872960</guid>
     </item>
     <item>
       <title>09/27/2026 • 4:25 PM ET — NFL — New Orleans Saints vs Las Vegas Raiders</title>
-      <description>Date: 09/27/2026 | Time: 4:25 PM ET | Status: Scheduled | Sport: NFL | Event: Las Vegas Raiders at New Orleans Saints | Venue: Caesars Superdome</description>
+      <description>Date: 09/27/2026 | Time: 4:25 PM ET | Status: In Progress | Sport: NFL | Event: Las Vegas Raiders at New Orleans Saints | Venue: Caesars Superdome</description>
       <pubDate>Sun, 27 Sep 2026 16:25:00 -0400</pubDate>
       <guid isPermaLink="false">401872961</guid>
     </item>
