@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 27 Sep 2026 17:27:01 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 17:42:20 -0400</lastBuildDate>
     
     <item>
       <title>09/27/2026 • 1:00 PM ET — NFL — Buffalo Bills vs Los Angeles Chargers</title>
@@ -104,19 +104,19 @@
     </item>
     <item>
       <title>09/27/2026 • 3:07 PM ET — MLB — Toronto Blue Jays vs Cincinnati Reds</title>
-      <description>Date: 09/27/2026 | Time: 3:07 PM ET | Status: In Progress | Sport: MLB | Event: Cincinnati Reds at Toronto Blue Jays | Venue: Rogers Centre</description>
+      <description>Date: 09/27/2026 | Time: 3:07 PM ET | Status: Final | Sport: MLB | Event: Cincinnati Reds at Toronto Blue Jays | Venue: Rogers Centre</description>
       <pubDate>Sun, 27 Sep 2026 15:07:00 -0400</pubDate>
       <guid isPermaLink="false">401817105</guid>
     </item>
     <item>
       <title>09/27/2026 • 3:10 PM ET — MLB — Miami Marlins vs Atlanta Braves</title>
-      <description>Date: 09/27/2026 | Time: 3:10 PM ET | Status: In Progress | Sport: MLB | Event: Atlanta Braves at Miami Marlins | Venue: loanDepot park</description>
+      <description>Date: 09/27/2026 | Time: 3:10 PM ET | Status: Final | Sport: MLB | Event: Atlanta Braves at Miami Marlins | Venue: loanDepot park</description>
       <pubDate>Sun, 27 Sep 2026 15:10:00 -0400</pubDate>
       <guid isPermaLink="false">401817102</guid>
     </item>
     <item>
       <title>09/27/2026 • 3:10 PM ET — MLB — Detroit Tigers vs Pittsburgh Pirates</title>
-      <description>Date: 09/27/2026 | Time: 3:10 PM ET | Status: In Progress | Sport: MLB | Event: Pittsburgh Pirates at Detroit Tigers | Venue: Comerica Park</description>
+      <description>Date: 09/27/2026 | Time: 3:10 PM ET | Status: Final | Sport: MLB | Event: Pittsburgh Pirates at Detroit Tigers | Venue: Comerica Park</description>
       <pubDate>Sun, 27 Sep 2026 15:10:00 -0400</pubDate>
       <guid isPermaLink="false">401817107</guid>
     </item>
@@ -128,19 +128,19 @@
     </item>
     <item>
       <title>09/27/2026 • 3:10 PM ET — MLB — Chicago White Sox vs Colorado Rockies</title>
-      <description>Date: 09/27/2026 | Time: 3:10 PM ET | Status: In Progress | Sport: MLB | Event: Colorado Rockies at Chicago White Sox | Venue: Rate Field</description>
+      <description>Date: 09/27/2026 | Time: 3:10 PM ET | Status: Final | Sport: MLB | Event: Colorado Rockies at Chicago White Sox | Venue: Rate Field</description>
       <pubDate>Sun, 27 Sep 2026 15:10:00 -0400</pubDate>
       <guid isPermaLink="false">401817110</guid>
     </item>
     <item>
       <title>09/27/2026 • 3:10 PM ET — MLB — Milwaukee Brewers vs St. Louis Cardinals</title>
-      <description>Date: 09/27/2026 | Time: 3:10 PM ET | Status: In Progress | Sport: MLB | Event: St. Louis Cardinals at Milwaukee Brewers | Venue: American Family Field</description>
+      <description>Date: 09/27/2026 | Time: 3:10 PM ET | Status: Final | Sport: MLB | Event: St. Louis Cardinals at Milwaukee Brewers | Venue: American Family Field</description>
       <pubDate>Sun, 27 Sep 2026 15:10:00 -0400</pubDate>
       <guid isPermaLink="false">401817111</guid>
     </item>
     <item>
       <title>09/27/2026 • 3:10 PM ET — MLB — Minnesota Twins vs Texas Rangers</title>
-      <description>Date: 09/27/2026 | Time: 3:10 PM ET | Status: In Progress | Sport: MLB | Event: Texas Rangers at Minnesota Twins | Venue: Target Field</description>
+      <description>Date: 09/27/2026 | Time: 3:10 PM ET | Status: Final | Sport: MLB | Event: Texas Rangers at Minnesota Twins | Venue: Target Field</description>
       <pubDate>Sun, 27 Sep 2026 15:10:00 -0400</pubDate>
       <guid isPermaLink="false">401817112</guid>
     </item>
@@ -164,13 +164,13 @@
     </item>
     <item>
       <title>09/27/2026 • 4:05 PM ET — NFL — San Francisco 49ers vs Arizona Cardinals</title>
-      <description>Date: 09/27/2026 | Time: 4:05 PM ET | Status: In Progress | Sport: NFL | Event: Arizona Cardinals at San Francisco 49ers | Venue: Levi's Stadium</description>
+      <description>Date: 09/27/2026 | Time: 4:05 PM ET | Status: Halftime | Sport: NFL | Event: Arizona Cardinals at San Francisco 49ers | Venue: Levi's Stadium</description>
       <pubDate>Sun, 27 Sep 2026 16:05:00 -0400</pubDate>
       <guid isPermaLink="false">401872958</guid>
     </item>
     <item>
       <title>09/27/2026 • 4:05 PM ET — NFL — Tampa Bay Buccaneers vs Minnesota Vikings</title>
-      <description>Date: 09/27/2026 | Time: 4:05 PM ET | Status: In Progress | Sport: NFL | Event: Minnesota Vikings at Tampa Bay Buccaneers | Venue: Raymond James Stadium</description>
+      <description>Date: 09/27/2026 | Time: 4:05 PM ET | Status: Halftime | Sport: NFL | Event: Minnesota Vikings at Tampa Bay Buccaneers | Venue: Raymond James Stadium</description>
       <pubDate>Sun, 27 Sep 2026 16:05:00 -0400</pubDate>
       <guid isPermaLink="false">401872959</guid>
     </item>
@@ -289,8 +289,8 @@
       <guid isPermaLink="false">401907972</guid>
     </item>
     <item>
-      <title>09/30/2026 • 5:00 PM ET — MLB — Rangers/Astros vs Chicago White Sox</title>
-      <description>Date: 09/30/2026 | Time: 5:00 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago White Sox at Rangers/Astros</description>
+      <title>09/30/2026 • 5:00 PM ET — MLB — Houston Astros vs Chicago White Sox</title>
+      <description>Date: 09/30/2026 | Time: 5:00 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago White Sox at Houston Astros | Venue: Daikin Park</description>
       <pubDate>Wed, 30 Sep 2026 17:00:00 -0400</pubDate>
       <guid isPermaLink="false">401907897</guid>
     </item>
@@ -529,8 +529,8 @@
       <guid isPermaLink="false">401908002</guid>
     </item>
     <item>
-      <title>10/03/2026 • 12:00 AM ET — MLB — Los Angeles Dodgers vs TBD</title>
-      <description>Date: 10/03/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: TBD at Los Angeles Dodgers | Venue: Dodger Stadium</description>
+      <title>10/03/2026 • 12:00 AM ET — MLB — Los Angeles Dodgers vs Phillies/Braves</title>
+      <description>Date: 10/03/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Phillies/Braves at Los Angeles Dodgers | Venue: Dodger Stadium</description>
       <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401908007</guid>
     </item>
@@ -955,8 +955,8 @@
       <guid isPermaLink="false">401908003</guid>
     </item>
     <item>
-      <title>10/04/2026 • 12:00 AM ET — MLB — Los Angeles Dodgers vs TBD</title>
-      <description>Date: 10/04/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: TBD at Los Angeles Dodgers | Venue: Dodger Stadium</description>
+      <title>10/04/2026 • 12:00 AM ET — MLB — Los Angeles Dodgers vs Phillies/Braves</title>
+      <description>Date: 10/04/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Phillies/Braves at Los Angeles Dodgers | Venue: Dodger Stadium</description>
       <pubDate>Sun, 04 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401908014</guid>
     </item>
