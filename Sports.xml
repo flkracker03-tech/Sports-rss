@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 27 Sep 2026 00:28:27 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 00:44:22 -0400</lastBuildDate>
     
     <item>
       <title>09/27/2026 • 1:00 PM ET — NFL — Buffalo Bills vs Los Angeles Chargers</title>
@@ -517,12 +517,6 @@
       <guid isPermaLink="false">401858250</guid>
     </item>
     <item>
-      <title>10/03/2026 • 12:00 AM ET — College Football — Mississippi State Bulldogs vs Alabama Crimson Tide</title>
-      <description>Date: 10/03/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Alabama Crimson Tide at Mississippi State Bulldogs | Venue: Davis Wade Stadium</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401856707</guid>
-    </item>
-    <item>
       <title>10/03/2026 • 12:00 AM ET — MLB — Tampa Bay Rays vs TBD</title>
       <description>Date: 10/03/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: TBD at Tampa Bay Rays | Venue: Charlotte Sports Park</description>
       <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
@@ -545,6 +539,12 @@
       <description>Date: 10/03/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: TBD at Los Angeles Dodgers | Venue: Dodger Stadium</description>
       <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401908007</guid>
+    </item>
+    <item>
+      <title>10/03/2026 • 12:00 PM ET — College Football — Mississippi State Bulldogs vs Alabama Crimson Tide</title>
+      <description>Date: 10/03/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Alabama Crimson Tide at Mississippi State Bulldogs | Venue: Davis Wade Stadium</description>
+      <pubDate>Sat, 03 Oct 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401856707</guid>
     </item>
     <item>
       <title>10/03/2026 • 12:00 PM ET — College Football — Minnesota Golden Gophers vs Michigan Wolverines</title>
