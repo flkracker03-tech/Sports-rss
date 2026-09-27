@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 26 Sep 2026 23:55:02 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 00:11:10 -0400</lastBuildDate>
     
     <item>
       <title>09/27/2026 • 1:00 PM ET — NFL — Buffalo Bills vs Los Angeles Chargers</title>
@@ -301,8 +301,8 @@
       <guid isPermaLink="false">401907972</guid>
     </item>
     <item>
-      <title>09/30/2026 • 12:00 AM ET — MLB — TBD vs TBD</title>
-      <description>Date: 09/30/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: TBD at TBD</description>
+      <title>09/30/2026 • 12:00 AM ET — MLB — San Diego Padres vs Chicago Cubs</title>
+      <description>Date: 09/30/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Chicago Cubs at San Diego Padres | Venue: Petco Park</description>
       <pubDate>Wed, 30 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401907975</guid>
     </item>
@@ -367,8 +367,8 @@
       <guid isPermaLink="false">401907973</guid>
     </item>
     <item>
-      <title>10/01/2026 • 12:00 AM ET — MLB — TBD vs TBD</title>
-      <description>Date: 10/01/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: TBD at TBD</description>
+      <title>10/01/2026 • 12:00 AM ET — MLB — San Diego Padres vs Chicago Cubs</title>
+      <description>Date: 10/01/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Chicago Cubs at San Diego Padres | Venue: Petco Park</description>
       <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401907976</guid>
     </item>
@@ -515,12 +515,6 @@
       <description>Date: 10/03/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Notre Dame Fighting Irish at North Carolina Tar Heels | Venue: Kenan Stadium</description>
       <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858250</guid>
-    </item>
-    <item>
-      <title>10/03/2026 • 12:00 AM ET — College Football — Clemson Tigers vs Miami Hurricanes</title>
-      <description>Date: 10/03/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Miami Hurricanes at Clemson Tigers | Venue: Memorial Stadium (Clemson, SC)</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858249</guid>
     </item>
     <item>
       <title>10/03/2026 • 12:00 AM ET — College Football — Mississippi State Bulldogs vs Alabama Crimson Tide</title>
@@ -821,6 +815,12 @@
       <description>Date: 10/03/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NHL | Event: Seattle Kraken at Edmonton Oilers | Venue: Rogers Place</description>
       <pubDate>Sat, 03 Oct 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401892437</guid>
+    </item>
+    <item>
+      <title>10/03/2026 • 7:30 PM ET — College Football — Clemson Tigers vs Miami Hurricanes</title>
+      <description>Date: 10/03/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Miami Hurricanes at Clemson Tigers | Venue: Memorial Stadium (Clemson, SC)</description>
+      <pubDate>Sat, 03 Oct 2026 19:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401858249</guid>
     </item>
     <item>
       <title>10/03/2026 • 7:30 PM ET — College Football — Colorado Buffaloes vs Texas Tech Red Raiders</title>
