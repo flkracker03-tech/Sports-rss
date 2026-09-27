@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 27 Sep 2026 12:11:37 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 12:28:42 -0400</lastBuildDate>
     
     <item>
       <title>09/27/2026 • 1:00 PM ET — NFL — Buffalo Bills vs Los Angeles Chargers</title>
@@ -68,7 +68,7 @@
     </item>
     <item>
       <title>09/27/2026 • 1:05 PM ET — MLB — Washington Nationals vs New York Mets</title>
-      <description>Date: 09/27/2026 | Time: 1:05 PM ET | Status: Scheduled | Sport: MLB | Event: New York Mets at Washington Nationals | Venue: Nationals Park</description>
+      <description>Date: 09/27/2026 | Time: 1:05 PM ET | Status: Delayed | Sport: MLB | Event: New York Mets at Washington Nationals | Venue: Nationals Park</description>
       <pubDate>Sun, 27 Sep 2026 13:05:00 -0400</pubDate>
       <guid isPermaLink="false">401817106</guid>
     </item>
@@ -217,28 +217,16 @@
       <guid isPermaLink="false">401872963</guid>
     </item>
     <item>
-      <title>09/29/2026 • 12:00 AM ET — MLB — TBD vs Chicago White Sox</title>
-      <description>Date: 09/29/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Chicago White Sox at TBD</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401907896</guid>
-    </item>
-    <item>
-      <title>09/29/2026 • 12:00 AM ET — MLB — New York Yankees vs Boston Red Sox</title>
-      <description>Date: 09/29/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Boston Red Sox at New York Yankees | Venue: Yankee Stadium</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401907924</guid>
-    </item>
-    <item>
-      <title>09/29/2026 • 12:00 AM ET — MLB — Atlanta Braves vs TBD</title>
-      <description>Date: 09/29/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: TBD at Atlanta Braves | Venue: Truist Park</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 -0400</pubDate>
+      <title>09/29/2026 • 2:00 PM ET — MLB — Atlanta Braves vs TBD</title>
+      <description>Date: 09/29/2026 | Time: 2:00 PM ET | Status: Scheduled | Sport: MLB | Event: TBD at Atlanta Braves | Venue: Truist Park</description>
+      <pubDate>Tue, 29 Sep 2026 14:00:00 -0400</pubDate>
       <guid isPermaLink="false">401907965</guid>
     </item>
     <item>
-      <title>09/29/2026 • 12:00 AM ET — MLB — San Diego Padres vs Chicago Cubs</title>
-      <description>Date: 09/29/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Chicago Cubs at San Diego Padres | Venue: Petco Park</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401907974</guid>
+      <title>09/29/2026 • 5:00 PM ET — MLB — TBD vs Chicago White Sox</title>
+      <description>Date: 09/29/2026 | Time: 5:00 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago White Sox at TBD</description>
+      <pubDate>Tue, 29 Sep 2026 17:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401907896</guid>
     </item>
     <item>
       <title>09/29/2026 • 5:00 PM ET — NHL — Carolina Hurricanes vs Florida Panthers</title>
@@ -259,6 +247,12 @@
       <guid isPermaLink="false">401891827</guid>
     </item>
     <item>
+      <title>09/29/2026 • 8:00 PM ET — MLB — New York Yankees vs Boston Red Sox</title>
+      <description>Date: 09/29/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Boston Red Sox at New York Yankees | Venue: Yankee Stadium</description>
+      <pubDate>Tue, 29 Sep 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401907924</guid>
+    </item>
+    <item>
       <title>09/29/2026 • 8:00 PM ET — NHL — Boston Bruins vs New York Rangers</title>
       <description>Date: 09/29/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NHL | Event: New York Rangers at Boston Bruins | Venue: TD Garden</description>
       <pubDate>Tue, 29 Sep 2026 20:00:00 -0400</pubDate>
@@ -269,6 +263,12 @@
       <description>Date: 09/29/2026 | Time: 8:30 PM ET | Status: Scheduled | Sport: WNBA | Event: Minnesota Lynx at New York Liberty | Venue: Barclays Center</description>
       <pubDate>Tue, 29 Sep 2026 20:30:00 -0400</pubDate>
       <guid isPermaLink="false">401918017</guid>
+    </item>
+    <item>
+      <title>09/29/2026 • 10:00 PM ET — MLB — San Diego Padres vs Chicago Cubs</title>
+      <description>Date: 09/29/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago Cubs at San Diego Padres | Venue: Petco Park</description>
+      <pubDate>Tue, 29 Sep 2026 22:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401907974</guid>
     </item>
     <item>
       <title>09/29/2026 • 10:00 PM ET — NHL — Edmonton Oilers vs Vancouver Canucks</title>
@@ -295,16 +295,10 @@
       <guid isPermaLink="false">401907963</guid>
     </item>
     <item>
-      <title>09/30/2026 • 12:00 AM ET — MLB — Atlanta Braves vs TBD</title>
-      <description>Date: 09/30/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: TBD at Atlanta Braves | Venue: Truist Park</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 -0400</pubDate>
+      <title>09/30/2026 • 2:00 PM ET — MLB — Atlanta Braves vs TBD</title>
+      <description>Date: 09/30/2026 | Time: 2:00 PM ET | Status: Scheduled | Sport: MLB | Event: TBD at Atlanta Braves | Venue: Truist Park</description>
+      <pubDate>Wed, 30 Sep 2026 14:00:00 -0400</pubDate>
       <guid isPermaLink="false">401907972</guid>
-    </item>
-    <item>
-      <title>09/30/2026 • 12:00 AM ET — MLB — San Diego Padres vs Chicago Cubs</title>
-      <description>Date: 09/30/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Chicago Cubs at San Diego Padres | Venue: Petco Park</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401907975</guid>
     </item>
     <item>
       <title>09/30/2026 • 7:00 PM ET — WNBA — Washington Mystics vs Atlanta Dream</title>
@@ -337,6 +331,12 @@
       <guid isPermaLink="false">401918020</guid>
     </item>
     <item>
+      <title>09/30/2026 • 10:00 PM ET — MLB — San Diego Padres vs Chicago Cubs</title>
+      <description>Date: 09/30/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago Cubs at San Diego Padres | Venue: Petco Park</description>
+      <pubDate>Wed, 30 Sep 2026 22:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401907975</guid>
+    </item>
+    <item>
       <title>09/30/2026 • 10:00 PM ET — NHL — Colorado Avalanche vs Los Angeles Kings</title>
       <description>Date: 09/30/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NHL | Event: Los Angeles Kings at Colorado Avalanche | Venue: Ball Arena</description>
       <pubDate>Wed, 30 Sep 2026 22:00:00 -0400</pubDate>
@@ -355,28 +355,28 @@
       <guid isPermaLink="false">401918022</guid>
     </item>
     <item>
-      <title>10/01/2026 • 12:00 AM ET — MLB — TBD vs Chicago White Sox</title>
-      <description>Date: 10/01/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Chicago White Sox at TBD</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401907898</guid>
-    </item>
-    <item>
       <title>10/01/2026 • 12:00 AM ET — MLB — New York Yankees vs Boston Red Sox</title>
       <description>Date: 10/01/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Boston Red Sox at New York Yankees | Venue: Yankee Stadium</description>
       <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401907964</guid>
     </item>
     <item>
-      <title>10/01/2026 • 12:00 AM ET — MLB — Atlanta Braves vs TBD</title>
-      <description>Date: 10/01/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: TBD at Atlanta Braves | Venue: Truist Park</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401907973</guid>
-    </item>
-    <item>
       <title>10/01/2026 • 12:00 AM ET — MLB — San Diego Padres vs Chicago Cubs</title>
       <description>Date: 10/01/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Chicago Cubs at San Diego Padres | Venue: Petco Park</description>
       <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401907976</guid>
+    </item>
+    <item>
+      <title>10/01/2026 • 12:00 AM ET — MLB — TBD vs Chicago White Sox</title>
+      <description>Date: 10/01/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Chicago White Sox at TBD</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401907898</guid>
+    </item>
+    <item>
+      <title>10/01/2026 • 2:00 PM ET — MLB — Atlanta Braves vs TBD</title>
+      <description>Date: 10/01/2026 | Time: 2:00 PM ET | Status: Scheduled | Sport: MLB | Event: TBD at Atlanta Braves | Venue: Truist Park</description>
+      <pubDate>Thu, 01 Oct 2026 14:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401907973</guid>
     </item>
     <item>
       <title>10/01/2026 • 7:00 PM ET — NHL — Columbus Blue Jackets vs Buffalo Sabres</title>
