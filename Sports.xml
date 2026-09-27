@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 27 Sep 2026 17:42:20 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 17:53:04 -0400</lastBuildDate>
     
     <item>
       <title>09/27/2026 • 1:00 PM ET — NFL — Buffalo Bills vs Los Angeles Chargers</title>
@@ -86,7 +86,7 @@
     </item>
     <item>
       <title>09/27/2026 • 3:05 PM ET — MLB — Boston Red Sox vs Chicago Cubs</title>
-      <description>Date: 09/27/2026 | Time: 3:05 PM ET | Status: In Progress | Sport: MLB | Event: Chicago Cubs at Boston Red Sox | Venue: Tropicana Field</description>
+      <description>Date: 09/27/2026 | Time: 3:05 PM ET | Status: Final | Sport: MLB | Event: Chicago Cubs at Boston Red Sox | Venue: Tropicana Field</description>
       <pubDate>Sun, 27 Sep 2026 15:05:00 -0400</pubDate>
       <guid isPermaLink="false">401817089</guid>
     </item>
@@ -164,19 +164,19 @@
     </item>
     <item>
       <title>09/27/2026 • 4:05 PM ET — NFL — San Francisco 49ers vs Arizona Cardinals</title>
-      <description>Date: 09/27/2026 | Time: 4:05 PM ET | Status: Halftime | Sport: NFL | Event: Arizona Cardinals at San Francisco 49ers | Venue: Levi's Stadium</description>
+      <description>Date: 09/27/2026 | Time: 4:05 PM ET | Status: In Progress | Sport: NFL | Event: Arizona Cardinals at San Francisco 49ers | Venue: Levi's Stadium</description>
       <pubDate>Sun, 27 Sep 2026 16:05:00 -0400</pubDate>
       <guid isPermaLink="false">401872958</guid>
     </item>
     <item>
       <title>09/27/2026 • 4:05 PM ET — NFL — Tampa Bay Buccaneers vs Minnesota Vikings</title>
-      <description>Date: 09/27/2026 | Time: 4:05 PM ET | Status: Halftime | Sport: NFL | Event: Minnesota Vikings at Tampa Bay Buccaneers | Venue: Raymond James Stadium</description>
+      <description>Date: 09/27/2026 | Time: 4:05 PM ET | Status: In Progress | Sport: NFL | Event: Minnesota Vikings at Tampa Bay Buccaneers | Venue: Raymond James Stadium</description>
       <pubDate>Sun, 27 Sep 2026 16:05:00 -0400</pubDate>
       <guid isPermaLink="false">401872959</guid>
     </item>
     <item>
       <title>09/27/2026 • 4:25 PM ET — NFL — Dallas Cowboys vs Baltimore Ravens</title>
-      <description>Date: 09/27/2026 | Time: 4:25 PM ET | Status: In Progress | Sport: NFL | Event: Baltimore Ravens at Dallas Cowboys | Venue: Maracanã Stadium</description>
+      <description>Date: 09/27/2026 | Time: 4:25 PM ET | Status: Halftime | Sport: NFL | Event: Baltimore Ravens at Dallas Cowboys | Venue: Maracanã Stadium</description>
       <pubDate>Sun, 27 Sep 2026 16:25:00 -0400</pubDate>
       <guid isPermaLink="false">401872960</guid>
     </item>
@@ -223,8 +223,8 @@
       <guid isPermaLink="false">401907965</guid>
     </item>
     <item>
-      <title>09/29/2026 • 5:00 PM ET — MLB — Rangers/Astros vs Chicago White Sox</title>
-      <description>Date: 09/29/2026 | Time: 5:00 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago White Sox at Rangers/Astros</description>
+      <title>09/29/2026 • 5:00 PM ET — MLB — Houston Astros vs Chicago White Sox</title>
+      <description>Date: 09/29/2026 | Time: 5:00 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago White Sox at Houston Astros | Venue: Daikin Park</description>
       <pubDate>Tue, 29 Sep 2026 17:00:00 -0400</pubDate>
       <guid isPermaLink="false">401907896</guid>
     </item>
@@ -361,8 +361,8 @@
       <guid isPermaLink="false">401907973</guid>
     </item>
     <item>
-      <title>10/01/2026 • 5:00 PM ET — MLB — Rangers/Astros vs Chicago White Sox</title>
-      <description>Date: 10/01/2026 | Time: 5:00 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago White Sox at Rangers/Astros</description>
+      <title>10/01/2026 • 5:00 PM ET — MLB — Houston Astros vs Chicago White Sox</title>
+      <description>Date: 10/01/2026 | Time: 5:00 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago White Sox at Houston Astros | Venue: Daikin Park</description>
       <pubDate>Thu, 01 Oct 2026 17:00:00 -0400</pubDate>
       <guid isPermaLink="false">401907898</guid>
     </item>
@@ -517,8 +517,8 @@
       <guid isPermaLink="false">401907985</guid>
     </item>
     <item>
-      <title>10/03/2026 • 12:00 AM ET — MLB — Cleveland Guardians vs TBD</title>
-      <description>Date: 10/03/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: TBD at Cleveland Guardians | Venue: Progressive Field</description>
+      <title>10/03/2026 • 12:00 AM ET — MLB — Cleveland Guardians vs White Sox/Astros</title>
+      <description>Date: 10/03/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: White Sox/Astros at Cleveland Guardians | Venue: Progressive Field</description>
       <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401907990</guid>
     </item>
