@@ -4,11 +4,11 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 27 Sep 2026 14:32:32 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 14:54:43 -0400</lastBuildDate>
     
     <item>
       <title>09/27/2026 • 1:00 PM ET — NFL — Buffalo Bills vs Los Angeles Chargers</title>
-      <description>Date: 09/27/2026 | Time: 1:00 PM ET | Status: Halftime | Sport: NFL | Event: Los Angeles Chargers at Buffalo Bills | Venue: Highmark Stadium</description>
+      <description>Date: 09/27/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Los Angeles Chargers at Buffalo Bills | Venue: Highmark Stadium</description>
       <pubDate>Sun, 27 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872953</guid>
     </item>
@@ -26,19 +26,19 @@
     </item>
     <item>
       <title>09/27/2026 • 1:00 PM ET — NFL — Indianapolis Colts vs Houston Texans</title>
-      <description>Date: 09/27/2026 | Time: 1:00 PM ET | Status: Halftime | Sport: NFL | Event: Houston Texans at Indianapolis Colts | Venue: Lucas Oil Stadium</description>
+      <description>Date: 09/27/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Houston Texans at Indianapolis Colts | Venue: Lucas Oil Stadium</description>
       <pubDate>Sun, 27 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872951</guid>
     </item>
     <item>
       <title>09/27/2026 • 1:00 PM ET — NFL — Miami Dolphins vs Kansas City Chiefs</title>
-      <description>Date: 09/27/2026 | Time: 1:00 PM ET | Status: Halftime | Sport: NFL | Event: Kansas City Chiefs at Miami Dolphins | Venue: Hard Rock Stadium</description>
+      <description>Date: 09/27/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Kansas City Chiefs at Miami Dolphins | Venue: Hard Rock Stadium</description>
       <pubDate>Sun, 27 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872952</guid>
     </item>
     <item>
       <title>09/27/2026 • 1:00 PM ET — NFL — New York Giants vs Tennessee Titans</title>
-      <description>Date: 09/27/2026 | Time: 1:00 PM ET | Status: Halftime | Sport: NFL | Event: Tennessee Titans at New York Giants | Venue: MetLife Stadium</description>
+      <description>Date: 09/27/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Tennessee Titans at New York Giants | Venue: MetLife Stadium</description>
       <pubDate>Sun, 27 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872956</guid>
     </item>
@@ -50,7 +50,7 @@
     </item>
     <item>
       <title>09/27/2026 • 1:00 PM ET — NFL — Washington Commanders vs Seattle Seahawks</title>
-      <description>Date: 09/27/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Seattle Seahawks at Washington Commanders | Venue: Northwest Stadium</description>
+      <description>Date: 09/27/2026 | Time: 1:00 PM ET | Status: Halftime | Sport: NFL | Event: Seattle Seahawks at Washington Commanders | Venue: Northwest Stadium</description>
       <pubDate>Sun, 27 Sep 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872955</guid>
     </item>
@@ -62,7 +62,7 @@
     </item>
     <item>
       <title>09/27/2026 • 1:05 PM ET — MLB — New York Yankees vs Baltimore Orioles</title>
-      <description>Date: 09/27/2026 | Time: 1:05 PM ET | Status: Delayed | Sport: MLB | Event: Baltimore Orioles at New York Yankees | Venue: Yankee Stadium</description>
+      <description>Date: 09/27/2026 | Time: 1:05 PM ET | Status: Rain Delay | Sport: MLB | Event: Baltimore Orioles at New York Yankees | Venue: Yankee Stadium</description>
       <pubDate>Sun, 27 Sep 2026 13:05:00 -0400</pubDate>
       <guid isPermaLink="false">401817103</guid>
     </item>
@@ -74,7 +74,7 @@
     </item>
     <item>
       <title>09/27/2026 • 2:00 PM ET — WNBA — Minnesota Lynx vs New York Liberty</title>
-      <description>Date: 09/27/2026 | Time: 2:00 PM ET | Status: In Progress | Sport: WNBA | Event: New York Liberty at Minnesota Lynx | Venue: Target Center</description>
+      <description>Date: 09/27/2026 | Time: 2:00 PM ET | Status: Halftime | Sport: WNBA | Event: New York Liberty at Minnesota Lynx | Venue: Target Center</description>
       <pubDate>Sun, 27 Sep 2026 14:00:00 -0400</pubDate>
       <guid isPermaLink="false">401918014</guid>
     </item>
@@ -547,22 +547,16 @@
       <guid isPermaLink="false">401856707</guid>
     </item>
     <item>
-      <title>10/03/2026 • 12:00 PM ET — College Football — Minnesota Golden Gophers vs Michigan Wolverines</title>
-      <description>Date: 10/03/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Michigan Wolverines at Minnesota Golden Gophers | Venue: Huntington Bank Stadium</description>
+      <title>10/03/2026 • 12:00 PM ET — College Football — Houston Cougars vs UCF Knights</title>
+      <description>Date: 10/03/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: UCF Knights at Houston Cougars | Venue: TDECU Stadium</description>
       <pubDate>Sat, 03 Oct 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858474</guid>
+      <guid isPermaLink="false">401856819</guid>
     </item>
     <item>
       <title>10/03/2026 • 12:00 PM ET — College Football — SMU Mustangs vs Boston College Eagles</title>
       <description>Date: 10/03/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Boston College Eagles at SMU Mustangs | Venue: Gerald J. Ford Stadium</description>
       <pubDate>Sat, 03 Oct 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858246</guid>
-    </item>
-    <item>
-      <title>10/03/2026 • 12:00 PM ET — College Football — Houston Cougars vs UCF Knights</title>
-      <description>Date: 10/03/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: UCF Knights at Houston Cougars | Venue: TDECU Stadium</description>
-      <pubDate>Sat, 03 Oct 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401856819</guid>
     </item>
     <item>
       <title>10/03/2026 • 12:00 PM ET — College Football — Kansas Jayhawks vs Middle Tennessee Blue Raiders</title>
@@ -587,6 +581,12 @@
       <description>Date: 10/03/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Syracuse Orange at UConn Huskies | Venue: Pratt &amp; Whitney Stadium</description>
       <pubDate>Sat, 03 Oct 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858252</guid>
+    </item>
+    <item>
+      <title>10/03/2026 • 12:00 PM ET — College Football — Minnesota Golden Gophers vs Michigan Wolverines</title>
+      <description>Date: 10/03/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Michigan Wolverines at Minnesota Golden Gophers | Venue: Huntington Bank Stadium</description>
+      <pubDate>Sat, 03 Oct 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401858474</guid>
     </item>
     <item>
       <title>10/03/2026 • 12:00 PM ET — College Football — Air Force Falcons vs Navy Midshipmen</title>
@@ -625,28 +625,28 @@
       <guid isPermaLink="false">401858473</guid>
     </item>
     <item>
-      <title>10/03/2026 • 3:30 PM ET — College Football — Tennessee Volunteers vs Auburn Tigers</title>
-      <description>Date: 10/03/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Auburn Tigers at Tennessee Volunteers | Venue: Neyland Stadium</description>
-      <pubDate>Sat, 03 Oct 2026 15:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401856710</guid>
-    </item>
-    <item>
-      <title>10/03/2026 • 3:30 PM ET — College Football — NC State Wolfpack vs Louisville Cardinals</title>
-      <description>Date: 10/03/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Louisville Cardinals at NC State Wolfpack | Venue: Carter-Finley Stadium</description>
-      <pubDate>Sat, 03 Oct 2026 15:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401858248</guid>
-    </item>
-    <item>
       <title>10/03/2026 • 3:30 PM ET — College Football — Missouri Tigers vs Florida Gators</title>
       <description>Date: 10/03/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Florida Gators at Missouri Tigers | Venue: Memorial Stadium</description>
       <pubDate>Sat, 03 Oct 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856708</guid>
     </item>
     <item>
+      <title>10/03/2026 • 3:30 PM ET — College Football — Tennessee Volunteers vs Auburn Tigers</title>
+      <description>Date: 10/03/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Auburn Tigers at Tennessee Volunteers | Venue: Neyland Stadium</description>
+      <pubDate>Sat, 03 Oct 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401856710</guid>
+    </item>
+    <item>
       <title>10/03/2026 • 3:30 PM ET — College Football — UNLV Rebels vs California Golden Bears</title>
       <description>Date: 10/03/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: California Golden Bears at UNLV Rebels | Venue: Allegiant Stadium</description>
       <pubDate>Sat, 03 Oct 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858247</guid>
+    </item>
+    <item>
+      <title>10/03/2026 • 3:30 PM ET — College Football — NC State Wolfpack vs Louisville Cardinals</title>
+      <description>Date: 10/03/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Louisville Cardinals at NC State Wolfpack | Venue: Carter-Finley Stadium</description>
+      <pubDate>Sat, 03 Oct 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401858248</guid>
     </item>
     <item>
       <title>10/03/2026 • 3:30 PM ET — College Football — Florida State Seminoles vs Virginia Cavaliers</title>
