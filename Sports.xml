@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 27 Sep 2026 00:44:22 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 00:56:56 -0400</lastBuildDate>
     
     <item>
       <title>09/27/2026 • 1:00 PM ET — NFL — Buffalo Bills vs Los Angeles Chargers</title>
@@ -505,18 +505,6 @@
       <guid isPermaLink="false">401892433</guid>
     </item>
     <item>
-      <title>10/03/2026 • 12:00 AM ET — College Football — Georgia Bulldogs vs Vanderbilt Commodores</title>
-      <description>Date: 10/03/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Vanderbilt Commodores at Georgia Bulldogs | Venue: Sanford Stadium</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401856705</guid>
-    </item>
-    <item>
-      <title>10/03/2026 • 12:00 AM ET — College Football — North Carolina Tar Heels vs Notre Dame Fighting Irish</title>
-      <description>Date: 10/03/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Notre Dame Fighting Irish at North Carolina Tar Heels | Venue: Kenan Stadium</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858250</guid>
-    </item>
-    <item>
       <title>10/03/2026 • 12:00 AM ET — MLB — Tampa Bay Rays vs TBD</title>
       <description>Date: 10/03/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: TBD at Tampa Bay Rays | Venue: Charlotte Sports Park</description>
       <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
@@ -539,6 +527,12 @@
       <description>Date: 10/03/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: TBD at Los Angeles Dodgers | Venue: Dodger Stadium</description>
       <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401908007</guid>
+    </item>
+    <item>
+      <title>10/03/2026 • 12:00 PM ET — College Football — North Carolina Tar Heels vs Notre Dame Fighting Irish</title>
+      <description>Date: 10/03/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Notre Dame Fighting Irish at North Carolina Tar Heels | Venue: Kenan Stadium</description>
+      <pubDate>Sat, 03 Oct 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401858250</guid>
     </item>
     <item>
       <title>10/03/2026 • 12:00 PM ET — College Football — Mississippi State Bulldogs vs Alabama Crimson Tide</title>
@@ -599,6 +593,12 @@
       <description>Date: 10/03/2026 | Time: 12:30 PM ET | Status: Scheduled | Sport: College Football | Event: Michigan State Spartans at Wisconsin Badgers | Venue: Camp Randall Stadium</description>
       <pubDate>Sat, 03 Oct 2026 12:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858479</guid>
+    </item>
+    <item>
+      <title>10/03/2026 • 12:45 PM ET — College Football — Georgia Bulldogs vs Vanderbilt Commodores</title>
+      <description>Date: 10/03/2026 | Time: 12:45 PM ET | Status: Scheduled | Sport: College Football | Event: Vanderbilt Commodores at Georgia Bulldogs | Venue: Sanford Stadium</description>
+      <pubDate>Sat, 03 Oct 2026 12:45:00 -0400</pubDate>
+      <guid isPermaLink="false">401856705</guid>
     </item>
     <item>
       <title>10/03/2026 • 1:00 PM ET — College Football — Buffalo Bulls vs Western Michigan Broncos</title>
