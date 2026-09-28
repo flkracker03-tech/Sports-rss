@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Mon, 28 Sep 2026 19:27:34 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 19:43:25 -0400</lastBuildDate>
     
     <item>
       <title>09/28/2026 • 8:15 PM ET — NFL — Chicago Bears vs Philadelphia Eagles</title>
@@ -139,18 +139,6 @@
       <guid isPermaLink="false">401891780</guid>
     </item>
     <item>
-      <title>10/01/2026 • 12:00 AM ET — WNBA — Minnesota Lynx vs New York Liberty</title>
-      <description>Date: 10/01/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: WNBA | Event: New York Liberty at Minnesota Lynx | Venue: Target Center</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401918021</guid>
-    </item>
-    <item>
-      <title>10/01/2026 • 12:00 AM ET — WNBA — Las Vegas Aces vs Indiana Fever</title>
-      <description>Date: 10/01/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: WNBA | Event: Indiana Fever at Las Vegas Aces | Venue: Michelob ULTRA Arena</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401918022</guid>
-    </item>
-    <item>
       <title>10/01/2026 • 2:00 PM ET — MLB — Atlanta Braves vs Philadelphia Phillies</title>
       <description>Date: 10/01/2026 | Time: 2:00 PM ET | Status: Scheduled | Sport: MLB | Event: Philadelphia Phillies at Atlanta Braves | Venue: Truist Park</description>
       <pubDate>Thu, 01 Oct 2026 14:00:00 -0400</pubDate>
@@ -161,6 +149,12 @@
       <description>Date: 10/01/2026 | Time: 5:00 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago White Sox at Houston Astros | Venue: Daikin Park</description>
       <pubDate>Thu, 01 Oct 2026 17:00:00 -0400</pubDate>
       <guid isPermaLink="false">401907898</guid>
+    </item>
+    <item>
+      <title>10/01/2026 • 7:00 PM ET — WNBA — Minnesota Lynx vs New York Liberty</title>
+      <description>Date: 10/01/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: WNBA | Event: New York Liberty at Minnesota Lynx | Venue: Target Center</description>
+      <pubDate>Thu, 01 Oct 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401918021</guid>
     </item>
     <item>
       <title>10/01/2026 • 7:00 PM ET — NHL — Columbus Blue Jackets vs Buffalo Sabres</title>
@@ -209,6 +203,12 @@
       <description>Date: 10/01/2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: College Football | Event: North Texas Mean Green at Tulsa Golden Hurricane | Venue: H. A. Chapman Stadium</description>
       <pubDate>Thu, 01 Oct 2026 21:00:00 -0400</pubDate>
       <guid isPermaLink="false">401862786</guid>
+    </item>
+    <item>
+      <title>10/01/2026 • 9:00 PM ET — WNBA — Las Vegas Aces vs Indiana Fever</title>
+      <description>Date: 10/01/2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: WNBA | Event: Indiana Fever at Las Vegas Aces | Venue: Michelob ULTRA Arena</description>
+      <pubDate>Thu, 01 Oct 2026 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401918022</guid>
     </item>
     <item>
       <title>10/01/2026 • 9:00 PM ET — NHL — Calgary Flames vs Seattle Kraken</title>
