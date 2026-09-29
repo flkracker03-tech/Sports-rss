@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Tue, 29 Sep 2026 19:43:20 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 19:55:07 -0400</lastBuildDate>
     
     <item>
       <title>09/29/2026 • 2:00 PM ET — MLB — Atlanta Braves vs Philadelphia Phillies</title>
@@ -301,18 +301,6 @@
       <guid isPermaLink="false">401892433</guid>
     </item>
     <item>
-      <title>10/03/2026 • 12:00 AM ET — MLB — Tampa Bay Rays vs Yankees/Red Sox</title>
-      <description>Date: 10/03/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Yankees/Red Sox at Tampa Bay Rays | Venue: Charlotte Sports Park</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401907985</guid>
-    </item>
-    <item>
-      <title>10/03/2026 • 12:00 AM ET — MLB — Cleveland Guardians vs White Sox/Astros</title>
-      <description>Date: 10/03/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: White Sox/Astros at Cleveland Guardians | Venue: Progressive Field</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401907990</guid>
-    </item>
-    <item>
       <title>10/03/2026 • 12:00 AM ET — MLB — Milwaukee Brewers vs Padres/Cubs</title>
       <description>Date: 10/03/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Padres/Cubs at Milwaukee Brewers | Venue: American Family Field</description>
       <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
@@ -401,6 +389,12 @@
       <description>Date: 10/03/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: College Football | Event: Western Michigan Broncos at Buffalo Bulls | Venue: Broadview Stadium</description>
       <pubDate>Sat, 03 Oct 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401866432</guid>
+    </item>
+    <item>
+      <title>10/03/2026 • 1:00 PM ET — MLB — Cleveland Guardians vs White Sox/Astros</title>
+      <description>Date: 10/03/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: MLB | Event: White Sox/Astros at Cleveland Guardians | Venue: Progressive Field</description>
+      <pubDate>Sat, 03 Oct 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401907990</guid>
     </item>
     <item>
       <title>10/03/2026 • 2:00 PM ET — College Football — Ball State Cardinals vs Toledo Rockets</title>
@@ -533,6 +527,12 @@
       <description>Date: 10/03/2026 | Time: 6:00 PM ET | Status: Scheduled | Sport: College Football | Event: Texas Southern Tigers at Florida Atlantic Owls | Venue: Flagler Credit Union Stadium</description>
       <pubDate>Sat, 03 Oct 2026 18:00:00 -0400</pubDate>
       <guid isPermaLink="false">401862790</guid>
+    </item>
+    <item>
+      <title>10/03/2026 • 6:30 PM ET — MLB — Tampa Bay Rays vs Yankees/Red Sox</title>
+      <description>Date: 10/03/2026 | Time: 6:30 PM ET | Status: Scheduled | Sport: MLB | Event: Yankees/Red Sox at Tampa Bay Rays | Venue: Charlotte Sports Park</description>
+      <pubDate>Sat, 03 Oct 2026 18:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401907985</guid>
     </item>
     <item>
       <title>10/03/2026 • 7:00 PM ET — College Football — TCU Horned Frogs vs BYU Cougars</title>
@@ -739,12 +739,6 @@
       <guid isPermaLink="false">401918296</guid>
     </item>
     <item>
-      <title>10/04/2026 • 12:00 AM ET — MLB — Los Angeles Dodgers vs Phillies/Braves</title>
-      <description>Date: 10/04/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Phillies/Braves at Los Angeles Dodgers | Venue: Dodger Stadium</description>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401908014</guid>
-    </item>
-    <item>
       <title>10/04/2026 • 9:30 AM ET — NFL — Washington Commanders vs Indianapolis Colts</title>
       <description>Date: 10/04/2026 | Time: 9:30 AM ET | Status: Scheduled | Sport: NFL | Event: Indianapolis Colts at Washington Commanders | Venue: Tottenham Hotspur Stadium</description>
       <pubDate>Sun, 04 Oct 2026 09:30:00 -0400</pubDate>
@@ -859,6 +853,12 @@
       <guid isPermaLink="false">401918010</guid>
     </item>
     <item>
+      <title>10/04/2026 • 8:00 PM ET — MLB — Los Angeles Dodgers vs Phillies/Braves</title>
+      <description>Date: 10/04/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Phillies/Braves at Los Angeles Dodgers | Venue: Dodger Stadium</description>
+      <pubDate>Sun, 04 Oct 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401908014</guid>
+    </item>
+    <item>
       <title>10/04/2026 • 8:00 PM ET — NHL — Anaheim Ducks vs Florida Panthers</title>
       <description>Date: 10/04/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NHL | Event: Florida Panthers at Anaheim Ducks | Venue: Honda Center</description>
       <pubDate>Sun, 04 Oct 2026 20:00:00 -0400</pubDate>
@@ -883,9 +883,9 @@
       <guid isPermaLink="false">401892444</guid>
     </item>
     <item>
-      <title>10/05/2026 • 12:00 AM ET — MLB — Cleveland Guardians vs White Sox/Astros</title>
-      <description>Date: 10/05/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: White Sox/Astros at Cleveland Guardians | Venue: Progressive Field</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
+      <title>10/05/2026 • 5:00 PM ET — MLB — Cleveland Guardians vs White Sox/Astros</title>
+      <description>Date: 10/05/2026 | Time: 5:00 PM ET | Status: Scheduled | Sport: MLB | Event: White Sox/Astros at Cleveland Guardians | Venue: Progressive Field</description>
+      <pubDate>Mon, 05 Oct 2026 17:00:00 -0400</pubDate>
       <guid isPermaLink="false">401907991</guid>
     </item>
     <item>
