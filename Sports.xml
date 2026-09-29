@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Tue, 29 Sep 2026 19:28:31 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 19:43:20 -0400</lastBuildDate>
     
     <item>
       <title>09/29/2026 • 2:00 PM ET — MLB — Atlanta Braves vs Philadelphia Phillies</title>
@@ -26,7 +26,7 @@
     </item>
     <item>
       <title>09/29/2026 • 6:30 PM ET — WNBA — Indiana Fever vs Las Vegas Aces</title>
-      <description>Date: 09/29/2026 | Time: 6:30 PM ET | Status: Halftime | Sport: WNBA | Event: Las Vegas Aces at Indiana Fever | Venue: Gainbridge Fieldhouse</description>
+      <description>Date: 09/29/2026 | Time: 6:30 PM ET | Status: In Progress | Sport: WNBA | Event: Las Vegas Aces at Indiana Fever | Venue: Gainbridge Fieldhouse</description>
       <pubDate>Tue, 29 Sep 2026 18:30:00 -0400</pubDate>
       <guid isPermaLink="false">401918018</guid>
     </item>
@@ -104,7 +104,7 @@
     </item>
     <item>
       <title>09/30/2026 • 7:30 PM ET — MLS — Red Bull New York vs St. Louis CITY SC</title>
-      <description>Date: 09/30/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: MLS | Event: St. Louis CITY SC at Red Bull New York | Venue: Red Bull Arena</description>
+      <description>Date: 09/30/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: MLS | Event: St. Louis CITY SC at Red Bull New York | Venue: Sports Illustrated Stadium</description>
       <pubDate>Wed, 30 Sep 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">761833</guid>
     </item>
@@ -185,6 +185,12 @@
       <description>Date: 10/01/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NHL | Event: Minnesota Wild at Nashville Predators | Venue: Bridgestone Arena</description>
       <pubDate>Thu, 01 Oct 2026 20:00:00 -0400</pubDate>
       <guid isPermaLink="false">401891816</guid>
+    </item>
+    <item>
+      <title>10/01/2026 • 8:15 PM ET — NFL — Cleveland Browns vs Pittsburgh Steelers</title>
+      <description>Date: 10/01/2026 | Time: 8:15 PM ET | Status: Scheduled | Sport: NFL | Event: Pittsburgh Steelers at Cleveland Browns | Venue: Huntington Bank Field</description>
+      <pubDate>Thu, 01 Oct 2026 20:15:00 -0400</pubDate>
+      <guid isPermaLink="false">401872964</guid>
     </item>
     <item>
       <title>10/01/2026 • 9:00 PM ET — College Football — Tulsa Golden Hurricane vs North Texas Mean Green</title>
@@ -733,12 +739,6 @@
       <guid isPermaLink="false">401918296</guid>
     </item>
     <item>
-      <title>10/04/2026 • 12:00 AM ET — MLB — Milwaukee Brewers vs Padres/Cubs</title>
-      <description>Date: 10/04/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Padres/Cubs at Milwaukee Brewers | Venue: American Family Field</description>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401908003</guid>
-    </item>
-    <item>
       <title>10/04/2026 • 12:00 AM ET — MLB — Los Angeles Dodgers vs Phillies/Braves</title>
       <description>Date: 10/04/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Phillies/Braves at Los Angeles Dodgers | Venue: Dodger Stadium</description>
       <pubDate>Sun, 04 Oct 2026 00:00:00 -0400</pubDate>
@@ -811,6 +811,12 @@
       <guid isPermaLink="false">401918295</guid>
     </item>
     <item>
+      <title>10/04/2026 • 4:00 PM ET — MLB — Milwaukee Brewers vs Padres/Cubs</title>
+      <description>Date: 10/04/2026 | Time: 4:00 PM ET | Status: Scheduled | Sport: MLB | Event: Padres/Cubs at Milwaukee Brewers | Venue: American Family Field</description>
+      <pubDate>Sun, 04 Oct 2026 16:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401908003</guid>
+    </item>
+    <item>
       <title>10/04/2026 • 4:05 PM ET — NFL — Minnesota Vikings vs Miami Dolphins</title>
       <description>Date: 10/04/2026 | Time: 4:05 PM ET | Status: Scheduled | Sport: NFL | Event: Miami Dolphins at Minnesota Vikings | Venue: U.S. Bank Stadium</description>
       <pubDate>Sun, 04 Oct 2026 16:05:00 -0400</pubDate>
@@ -877,12 +883,6 @@
       <guid isPermaLink="false">401892444</guid>
     </item>
     <item>
-      <title>10/05/2026 • 12:00 AM ET — MLB — Tampa Bay Rays vs Yankees/Red Sox</title>
-      <description>Date: 10/05/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Yankees/Red Sox at Tampa Bay Rays | Venue: Charlotte Sports Park</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401907986</guid>
-    </item>
-    <item>
       <title>10/05/2026 • 12:00 AM ET — MLB — Cleveland Guardians vs White Sox/Astros</title>
       <description>Date: 10/05/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: White Sox/Astros at Cleveland Guardians | Venue: Progressive Field</description>
       <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
@@ -929,6 +929,12 @@
       <description>Date: 10/05/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NBA | Event: Minnesota Timberwolves at Milwaukee Bucks | Venue: Fiserv Forum</description>
       <pubDate>Mon, 05 Oct 2026 20:00:00 -0400</pubDate>
       <guid isPermaLink="false">401914102</guid>
+    </item>
+    <item>
+      <title>10/05/2026 • 8:00 PM ET — MLB — Tampa Bay Rays vs Yankees/Red Sox</title>
+      <description>Date: 10/05/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Yankees/Red Sox at Tampa Bay Rays | Venue: Charlotte Sports Park</description>
+      <pubDate>Mon, 05 Oct 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401907986</guid>
     </item>
     <item>
       <title>10/05/2026 • 8:00 PM ET — NHL — Dallas Stars vs San Jose Sharks</title>
