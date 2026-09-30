@@ -4,74 +4,8 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Tue, 29 Sep 2026 19:55:07 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 20:17:26 -0400</lastBuildDate>
     
-    <item>
-      <title>09/29/2026 • 2:00 PM ET — MLB — Atlanta Braves vs Philadelphia Phillies</title>
-      <description>Date: 09/29/2026 | Time: 2:00 PM ET | Status: Final | Sport: MLB | Event: Philadelphia Phillies at Atlanta Braves | Venue: Truist Park</description>
-      <pubDate>Tue, 29 Sep 2026 14:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401907965</guid>
-    </item>
-    <item>
-      <title>09/29/2026 • 5:00 PM ET — MLB — Houston Astros vs Chicago White Sox</title>
-      <description>Date: 09/29/2026 | Time: 5:00 PM ET | Status: In Progress | Sport: MLB | Event: Chicago White Sox at Houston Astros | Venue: Daikin Park</description>
-      <pubDate>Tue, 29 Sep 2026 17:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401907896</guid>
-    </item>
-    <item>
-      <title>09/29/2026 • 5:00 PM ET — NHL — Carolina Hurricanes vs Florida Panthers</title>
-      <description>Date: 09/29/2026 | Time: 5:00 PM ET | Status: In Progress | Sport: NHL | Event: Florida Panthers at Carolina Hurricanes | Venue: Lenovo Center</description>
-      <pubDate>Tue, 29 Sep 2026 17:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401891773</guid>
-    </item>
-    <item>
-      <title>09/29/2026 • 6:30 PM ET — WNBA — Indiana Fever vs Las Vegas Aces</title>
-      <description>Date: 09/29/2026 | Time: 6:30 PM ET | Status: In Progress | Sport: WNBA | Event: Las Vegas Aces at Indiana Fever | Venue: Gainbridge Fieldhouse</description>
-      <pubDate>Tue, 29 Sep 2026 18:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401918018</guid>
-    </item>
-    <item>
-      <title>09/29/2026 • 7:00 PM ET — NHL — Toronto Maple Leafs vs Montreal Canadiens</title>
-      <description>Date: 09/29/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: NHL | Event: Montreal Canadiens at Toronto Maple Leafs | Venue: Scotiabank Arena</description>
-      <pubDate>Tue, 29 Sep 2026 19:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401891827</guid>
-    </item>
-    <item>
-      <title>09/29/2026 • 8:00 PM ET — MLB — New York Yankees vs Boston Red Sox</title>
-      <description>Date: 09/29/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Boston Red Sox at New York Yankees | Venue: Yankee Stadium</description>
-      <pubDate>Tue, 29 Sep 2026 20:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401907924</guid>
-    </item>
-    <item>
-      <title>09/29/2026 • 8:00 PM ET — NHL — Boston Bruins vs New York Rangers</title>
-      <description>Date: 09/29/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NHL | Event: New York Rangers at Boston Bruins | Venue: TD Garden</description>
-      <pubDate>Tue, 29 Sep 2026 20:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401891774</guid>
-    </item>
-    <item>
-      <title>09/29/2026 • 8:30 PM ET — WNBA — New York Liberty vs Minnesota Lynx</title>
-      <description>Date: 09/29/2026 | Time: 8:30 PM ET | Status: Scheduled | Sport: WNBA | Event: Minnesota Lynx at New York Liberty | Venue: Barclays Center</description>
-      <pubDate>Tue, 29 Sep 2026 20:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401918017</guid>
-    </item>
-    <item>
-      <title>09/29/2026 • 10:00 PM ET — MLB — San Diego Padres vs Chicago Cubs</title>
-      <description>Date: 09/29/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago Cubs at San Diego Padres | Venue: Petco Park</description>
-      <pubDate>Tue, 29 Sep 2026 22:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401907974</guid>
-    </item>
-    <item>
-      <title>09/29/2026 • 10:00 PM ET — NHL — Edmonton Oilers vs Vancouver Canucks</title>
-      <description>Date: 09/29/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NHL | Event: Vancouver Canucks at Edmonton Oilers | Venue: Rogers Place</description>
-      <pubDate>Tue, 29 Sep 2026 22:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401891804</guid>
-    </item>
-    <item>
-      <title>09/29/2026 • 10:30 PM ET — NHL — Vegas Golden Knights vs Chicago Blackhawks</title>
-      <description>Date: 09/29/2026 | Time: 10:30 PM ET | Status: Scheduled | Sport: NHL | Event: Chicago Blackhawks at Vegas Golden Knights | Venue: T-Mobile Arena</description>
-      <pubDate>Tue, 29 Sep 2026 22:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401891775</guid>
-    </item>
     <item>
       <title>09/30/2026 • 2:00 PM ET — MLB — Atlanta Braves vs Philadelphia Phillies</title>
       <description>Date: 09/30/2026 | Time: 2:00 PM ET | Status: Scheduled | Sport: MLB | Event: Philadelphia Phillies at Atlanta Braves | Venue: Truist Park</description>
@@ -530,7 +464,7 @@
     </item>
     <item>
       <title>10/03/2026 • 6:30 PM ET — MLB — Tampa Bay Rays vs Yankees/Red Sox</title>
-      <description>Date: 10/03/2026 | Time: 6:30 PM ET | Status: Scheduled | Sport: MLB | Event: Yankees/Red Sox at Tampa Bay Rays | Venue: Charlotte Sports Park</description>
+      <description>Date: 10/03/2026 | Time: 6:30 PM ET | Status: Scheduled | Sport: MLB | Event: Yankees/Red Sox at Tampa Bay Rays | Venue: Tropicana Field</description>
       <pubDate>Sat, 03 Oct 2026 18:30:00 -0400</pubDate>
       <guid isPermaLink="false">401907985</guid>
     </item>
@@ -932,7 +866,7 @@
     </item>
     <item>
       <title>10/05/2026 • 8:00 PM ET — MLB — Tampa Bay Rays vs Yankees/Red Sox</title>
-      <description>Date: 10/05/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Yankees/Red Sox at Tampa Bay Rays | Venue: Charlotte Sports Park</description>
+      <description>Date: 10/05/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Yankees/Red Sox at Tampa Bay Rays | Venue: Tropicana Field</description>
       <pubDate>Mon, 05 Oct 2026 20:00:00 -0400</pubDate>
       <guid isPermaLink="false">401907986</guid>
     </item>
@@ -1055,6 +989,102 @@
       <description>Date: 10/06/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NHL | Event: Florida Panthers at Los Angeles Kings | Venue: crypto.com Arena</description>
       <pubDate>Tue, 06 Oct 2026 22:00:00 -0400</pubDate>
       <guid isPermaLink="false">401891806</guid>
+    </item>
+    <item>
+      <title>10/07/2026 • 12:00 AM ET — WNBA — TBD vs TBD</title>
+      <description>Date: 10/07/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: WNBA | Event: TBD at TBD</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401918297</guid>
+    </item>
+    <item>
+      <title>10/07/2026 • 12:00 AM ET — WNBA — TBD vs TBD</title>
+      <description>Date: 10/07/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: WNBA | Event: TBD at TBD</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401918298</guid>
+    </item>
+    <item>
+      <title>10/07/2026 • 12:00 AM ET — MLB — Yankees/Red Sox vs Tampa Bay Rays</title>
+      <description>Date: 10/07/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at Yankees/Red Sox</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401907987</guid>
+    </item>
+    <item>
+      <title>10/07/2026 • 12:00 AM ET — MLB — White Sox/Astros vs Cleveland Guardians</title>
+      <description>Date: 10/07/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Cleveland Guardians at White Sox/Astros</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401907992</guid>
+    </item>
+    <item>
+      <title>10/07/2026 • 12:00 AM ET — MLB — Padres/Cubs vs Milwaukee Brewers</title>
+      <description>Date: 10/07/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Milwaukee Brewers at Padres/Cubs</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401908005</guid>
+    </item>
+    <item>
+      <title>10/07/2026 • 12:00 AM ET — MLB — Phillies/Braves vs Los Angeles Dodgers</title>
+      <description>Date: 10/07/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Los Angeles Dodgers at Phillies/Braves</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401908016</guid>
+    </item>
+    <item>
+      <title>10/07/2026 • 7:00 PM ET — College Football — Kennesaw State Owls vs Jacksonville State Gamecocks</title>
+      <description>Date: 10/07/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Jacksonville State Gamecocks at Kennesaw State Owls | Venue: Walens Family Field at Fifth Third Stadium</description>
+      <pubDate>Wed, 07 Oct 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401871051</guid>
+    </item>
+    <item>
+      <title>10/07/2026 • 7:00 PM ET — NBA — Indiana Pacers vs Minnesota Timberwolves</title>
+      <description>Date: 10/07/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NBA | Event: Minnesota Timberwolves at Indiana Pacers | Venue: Hilton Coliseum</description>
+      <pubDate>Wed, 07 Oct 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401914123</guid>
+    </item>
+    <item>
+      <title>10/07/2026 • 7:30 PM ET — College Football — Florida International Panthers vs New Mexico State Aggies</title>
+      <description>Date: 10/07/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: New Mexico State Aggies at Florida International Panthers | Venue: Pitbull Stadium</description>
+      <pubDate>Wed, 07 Oct 2026 19:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401871066</guid>
+    </item>
+    <item>
+      <title>10/07/2026 • 7:30 PM ET — NHL — Washington Capitals vs Pittsburgh Penguins</title>
+      <description>Date: 10/07/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: NHL | Event: Pittsburgh Penguins at Washington Capitals | Venue: Capital One Arena</description>
+      <pubDate>Wed, 07 Oct 2026 19:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401891830</guid>
+    </item>
+    <item>
+      <title>10/07/2026 • 7:30 PM ET — NHL — Winnipeg Jets vs Colorado Avalanche</title>
+      <description>Date: 10/07/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: NHL | Event: Colorado Avalanche at Winnipeg Jets | Venue: Canada Life Centre</description>
+      <pubDate>Wed, 07 Oct 2026 19:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401892455</guid>
+    </item>
+    <item>
+      <title>10/07/2026 • 8:00 PM ET — NBA — Memphis Grizzlies vs Orlando Magic</title>
+      <description>Date: 10/07/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NBA | Event: Orlando Magic at Memphis Grizzlies | Venue: FedExForum</description>
+      <pubDate>Wed, 07 Oct 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401898391</guid>
+    </item>
+    <item>
+      <title>10/07/2026 • 8:00 PM ET — NBA — Oklahoma City Thunder vs Milwaukee Bucks</title>
+      <description>Date: 10/07/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NBA | Event: Milwaukee Bucks at Oklahoma City Thunder | Venue: Paycom Center</description>
+      <pubDate>Wed, 07 Oct 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401908620</guid>
+    </item>
+    <item>
+      <title>10/07/2026 • 8:00 PM ET — NBA — Chicago Bulls vs Phoenix Suns</title>
+      <description>Date: 10/07/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NBA | Event: Phoenix Suns at Chicago Bulls | Venue: United Center</description>
+      <pubDate>Wed, 07 Oct 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401908939</guid>
+    </item>
+    <item>
+      <title>10/07/2026 • 10:00 PM ET — NBA — Portland Trail Blazers vs Golden State Warriors</title>
+      <description>Date: 10/07/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NBA | Event: Golden State Warriors at Portland Trail Blazers | Venue: Moda Center</description>
+      <pubDate>Wed, 07 Oct 2026 22:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401914129</guid>
+    </item>
+    <item>
+      <title>10/07/2026 • 10:00 PM ET — NHL — Anaheim Ducks vs Edmonton Oilers</title>
+      <description>Date: 10/07/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NHL | Event: Edmonton Oilers at Anaheim Ducks | Venue: Honda Center</description>
+      <pubDate>Wed, 07 Oct 2026 22:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401892456</guid>
     </item>
   </channel>
 </rss>
