@@ -4,14 +4,8 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Thu, 01 Oct 2026 00:45:11 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 01:12:11 -0400</lastBuildDate>
     
-    <item>
-      <title>10/01/2026 • 2:00 PM ET — MLB — Atlanta Braves vs Philadelphia Phillies</title>
-      <description>Date: 10/01/2026 | Time: 2:00 PM ET | Status: Scheduled | Sport: MLB | Event: Philadelphia Phillies at Atlanta Braves | Venue: Truist Park</description>
-      <pubDate>Thu, 01 Oct 2026 14:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401907973</guid>
-    </item>
     <item>
       <title>10/01/2026 • 7:00 PM ET — NHL — Columbus Blue Jackets vs Buffalo Sabres</title>
       <description>Date: 10/01/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NHL | Event: Buffalo Sabres at Columbus Blue Jackets | Venue: Nationwide Arena</description>
@@ -35,6 +29,12 @@
       <description>Date: 10/01/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: College Football | Event: Western Kentucky Hilltoppers at New Mexico State Aggies | Venue: Aggie Memorial Stadium</description>
       <pubDate>Thu, 01 Oct 2026 20:00:00 -0400</pubDate>
       <guid isPermaLink="false">401871049</guid>
+    </item>
+    <item>
+      <title>10/01/2026 • 8:00 PM ET — MLB — Atlanta Braves vs Philadelphia Phillies</title>
+      <description>Date: 10/01/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Philadelphia Phillies at Atlanta Braves | Venue: Truist Park</description>
+      <pubDate>Thu, 01 Oct 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401907973</guid>
     </item>
     <item>
       <title>10/01/2026 • 8:00 PM ET — MLB — San Diego Padres vs Chicago Cubs</title>
@@ -151,16 +151,10 @@
       <guid isPermaLink="false">401892433</guid>
     </item>
     <item>
-      <title>10/03/2026 • 12:00 AM ET — MLB — Milwaukee Brewers vs Padres/Cubs</title>
-      <description>Date: 10/03/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Padres/Cubs at Milwaukee Brewers | Venue: American Family Field</description>
+      <title>10/03/2026 • 12:00 AM ET — MLB — Milwaukee Brewers vs San Diego Padres</title>
+      <description>Date: 10/03/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: San Diego Padres at Milwaukee Brewers | Venue: American Family Field</description>
       <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401908002</guid>
-    </item>
-    <item>
-      <title>10/03/2026 • 12:00 AM ET — MLB — Los Angeles Dodgers vs Phillies/Braves</title>
-      <description>Date: 10/03/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Phillies/Braves at Los Angeles Dodgers | Venue: Dodger Stadium</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401908007</guid>
     </item>
     <item>
       <title>10/03/2026 • 12:00 PM ET — College Football — North Carolina Tar Heels vs Notre Dame Fighting Irish</title>
@@ -353,6 +347,12 @@
       <description>Date: 10/03/2026 | Time: 4:00 PM ET | Status: Scheduled | Sport: College Football | Event: UTEP Miners at New Mexico Lobos | Venue: University Stadium (NM)</description>
       <pubDate>Sat, 03 Oct 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401864514</guid>
+    </item>
+    <item>
+      <title>10/03/2026 • 4:00 PM ET — MLB — Los Angeles Dodgers vs Phillies/Braves</title>
+      <description>Date: 10/03/2026 | Time: 4:00 PM ET | Status: Scheduled | Sport: MLB | Event: Phillies/Braves at Los Angeles Dodgers | Venue: Dodger Stadium</description>
+      <pubDate>Sat, 03 Oct 2026 16:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401908007</guid>
     </item>
     <item>
       <title>10/03/2026 • 4:15 PM ET — College Football — South Carolina Gamecocks vs Kentucky Wildcats</title>
@@ -655,8 +655,8 @@
       <guid isPermaLink="false">401892442</guid>
     </item>
     <item>
-      <title>10/04/2026 • 4:00 PM ET — MLB — Milwaukee Brewers vs Padres/Cubs</title>
-      <description>Date: 10/04/2026 | Time: 4:00 PM ET | Status: Scheduled | Sport: MLB | Event: Padres/Cubs at Milwaukee Brewers | Venue: American Family Field</description>
+      <title>10/04/2026 • 4:00 PM ET — MLB — Milwaukee Brewers vs San Diego Padres</title>
+      <description>Date: 10/04/2026 | Time: 4:00 PM ET | Status: Scheduled | Sport: MLB | Event: San Diego Padres at Milwaukee Brewers | Venue: American Family Field</description>
       <pubDate>Sun, 04 Oct 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401908003</guid>
     </item>
@@ -805,8 +805,8 @@
       <guid isPermaLink="false">401898716</guid>
     </item>
     <item>
-      <title>10/06/2026 • 12:00 AM ET — MLB — Padres/Cubs vs Milwaukee Brewers</title>
-      <description>Date: 10/06/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Milwaukee Brewers at Padres/Cubs</description>
+      <title>10/06/2026 • 12:00 AM ET — MLB — San Diego Padres vs Milwaukee Brewers</title>
+      <description>Date: 10/06/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Milwaukee Brewers at San Diego Padres | Venue: Petco Park</description>
       <pubDate>Tue, 06 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401908004</guid>
     </item>
@@ -931,8 +931,8 @@
       <guid isPermaLink="false">401907992</guid>
     </item>
     <item>
-      <title>10/07/2026 • 12:00 AM ET — MLB — Padres/Cubs vs Milwaukee Brewers</title>
-      <description>Date: 10/07/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Milwaukee Brewers at Padres/Cubs</description>
+      <title>10/07/2026 • 12:00 AM ET — MLB — San Diego Padres vs Milwaukee Brewers</title>
+      <description>Date: 10/07/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Milwaukee Brewers at San Diego Padres | Venue: Petco Park</description>
       <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401908005</guid>
     </item>
