@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Wed, 30 Sep 2026 23:57:09 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 00:17:47 -0400</lastBuildDate>
     
     <item>
       <title>10/01/2026 • 2:00 PM ET — MLB — Atlanta Braves vs Philadelphia Phillies</title>
@@ -97,12 +97,6 @@
       <guid isPermaLink="false">401891829</guid>
     </item>
     <item>
-      <title>10/02/2026 • 12:00 AM ET — WNBA — Golden State Valkyries vs Dallas Wings</title>
-      <description>Date: 10/02/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: WNBA | Event: Dallas Wings at Golden State Valkyries | Venue: Chase Center</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401918294</guid>
-    </item>
-    <item>
       <title>10/02/2026 • 6:30 PM ET — NHL — Detroit Red Wings vs New York Rangers</title>
       <description>Date: 10/02/2026 | Time: 6:30 PM ET | Status: Scheduled | Sport: NHL | Event: New York Rangers at Detroit Red Wings | Venue: Little Caesars Arena</description>
       <pubDate>Fri, 02 Oct 2026 18:30:00 -0400</pubDate>
@@ -137,6 +131,12 @@
       <description>Date: 10/02/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NHL | Event: Boston Bruins at Winnipeg Jets | Venue: Canada Life Centre</description>
       <pubDate>Fri, 02 Oct 2026 20:00:00 -0400</pubDate>
       <guid isPermaLink="false">401891831</guid>
+    </item>
+    <item>
+      <title>10/02/2026 • 9:00 PM ET — WNBA — Golden State Valkyries vs Dallas Wings</title>
+      <description>Date: 10/02/2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: WNBA | Event: Dallas Wings at Golden State Valkyries | Venue: Chase Center</description>
+      <pubDate>Fri, 02 Oct 2026 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401918294</guid>
     </item>
     <item>
       <title>10/02/2026 • 9:00 PM ET — NHL — Dallas Stars vs St. Louis Blues</title>
