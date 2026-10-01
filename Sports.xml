@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Wed, 30 Sep 2026 23:13:52 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 23:34:27 -0400</lastBuildDate>
     
     <item>
       <title>10/01/2026 • 2:00 PM ET — MLB — Atlanta Braves vs Philadelphia Phillies</title>
@@ -37,10 +37,10 @@
       <guid isPermaLink="false">401871049</guid>
     </item>
     <item>
-      <title>10/01/2026 • 8:00 PM ET — MLB — New York Yankees vs Boston Red Sox</title>
-      <description>Date: 10/01/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Boston Red Sox at New York Yankees | Venue: Yankee Stadium</description>
+      <title>10/01/2026 • 8:00 PM ET — MLB — San Diego Padres vs Chicago Cubs</title>
+      <description>Date: 10/01/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago Cubs at San Diego Padres | Venue: Petco Park</description>
       <pubDate>Thu, 01 Oct 2026 20:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401907964</guid>
+      <guid isPermaLink="false">401907976</guid>
     </item>
     <item>
       <title>10/01/2026 • 8:00 PM ET — NHL — Nashville Predators vs Minnesota Wild</title>
@@ -83,12 +83,6 @@
       <description>Date: 10/01/2026 | Time: 9:30 PM ET | Status: Scheduled | Sport: MLS | Event: Sporting Kansas City at Seattle Sounders FC | Venue: Lumen Field</description>
       <pubDate>Thu, 01 Oct 2026 21:30:00 -0400</pubDate>
       <guid isPermaLink="false">761798</guid>
-    </item>
-    <item>
-      <title>10/01/2026 • 10:00 PM ET — MLB — San Diego Padres vs Chicago Cubs</title>
-      <description>Date: 10/01/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago Cubs at San Diego Padres | Venue: Petco Park</description>
-      <pubDate>Thu, 01 Oct 2026 22:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401907976</guid>
     </item>
     <item>
       <title>10/01/2026 • 10:00 PM ET — NHL — San Jose Sharks vs Florida Panthers</title>
@@ -385,8 +379,8 @@
       <guid isPermaLink="false">401862790</guid>
     </item>
     <item>
-      <title>10/03/2026 • 6:30 PM ET — MLB — Tampa Bay Rays vs Yankees/Red Sox</title>
-      <description>Date: 10/03/2026 | Time: 6:30 PM ET | Status: Scheduled | Sport: MLB | Event: Yankees/Red Sox at Tampa Bay Rays | Venue: Tropicana Field</description>
+      <title>10/03/2026 • 6:30 PM ET — MLB — Tampa Bay Rays vs New York Yankees</title>
+      <description>Date: 10/03/2026 | Time: 6:30 PM ET | Status: Scheduled | Sport: MLB | Event: New York Yankees at Tampa Bay Rays | Venue: Tropicana Field</description>
       <pubDate>Sat, 03 Oct 2026 18:30:00 -0400</pubDate>
       <guid isPermaLink="false">401907985</guid>
     </item>
@@ -787,8 +781,8 @@
       <guid isPermaLink="false">401914102</guid>
     </item>
     <item>
-      <title>10/05/2026 • 8:00 PM ET — MLB — Tampa Bay Rays vs Yankees/Red Sox</title>
-      <description>Date: 10/05/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Yankees/Red Sox at Tampa Bay Rays | Venue: Tropicana Field</description>
+      <title>10/05/2026 • 8:00 PM ET — MLB — Tampa Bay Rays vs New York Yankees</title>
+      <description>Date: 10/05/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: New York Yankees at Tampa Bay Rays | Venue: Tropicana Field</description>
       <pubDate>Mon, 05 Oct 2026 20:00:00 -0400</pubDate>
       <guid isPermaLink="false">401907986</guid>
     </item>
@@ -925,8 +919,8 @@
       <guid isPermaLink="false">401918298</guid>
     </item>
     <item>
-      <title>10/07/2026 • 12:00 AM ET — MLB — Yankees/Red Sox vs Tampa Bay Rays</title>
-      <description>Date: 10/07/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at Yankees/Red Sox</description>
+      <title>10/07/2026 • 12:00 AM ET — MLB — New York Yankees vs Tampa Bay Rays</title>
+      <description>Date: 10/07/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at New York Yankees | Venue: Yankee Stadium</description>
       <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401907987</guid>
     </item>
@@ -1009,8 +1003,8 @@
       <guid isPermaLink="false">401892456</guid>
     </item>
     <item>
-      <title>10/08/2026 • 12:00 AM ET — MLB — Yankees/Red Sox vs Tampa Bay Rays</title>
-      <description>Date: 10/08/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at Yankees/Red Sox</description>
+      <title>10/08/2026 • 12:00 AM ET — MLB — New York Yankees vs Tampa Bay Rays</title>
+      <description>Date: 10/08/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at New York Yankees | Venue: Yankee Stadium</description>
       <pubDate>Thu, 08 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401907988</guid>
     </item>
