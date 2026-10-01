@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Thu, 01 Oct 2026 14:23:55 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 14:47:11 -0400</lastBuildDate>
     
     <item>
       <title>10/01/2026 • 7:00 PM ET — NHL — Columbus Blue Jackets vs Buffalo Sabres</title>
@@ -151,6 +151,12 @@
       <guid isPermaLink="false">401908002</guid>
     </item>
     <item>
+      <title>10/03/2026 • 11:00 AM ET — College Football — Charlotte 49ers vs Memphis Tigers</title>
+      <description>Date: 10/03/2026 | Time: 11:00 AM ET | Status: Scheduled | Sport: College Football | Event: Memphis Tigers at Charlotte 49ers | Venue: Jerry Richardson Stadium</description>
+      <pubDate>Sat, 03 Oct 2026 11:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401862787</guid>
+    </item>
+    <item>
       <title>10/03/2026 • 12:00 PM ET — College Football — North Carolina Tar Heels vs Notre Dame Fighting Irish</title>
       <description>Date: 10/03/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Notre Dame Fighting Irish at North Carolina Tar Heels | Venue: Kenan Stadium</description>
       <pubDate>Sat, 03 Oct 2026 12:00:00 -0400</pubDate>
@@ -275,12 +281,6 @@
       <description>Date: 10/03/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Virginia Cavaliers at Florida State Seminoles | Venue: Doak Campbell Stadium</description>
       <pubDate>Sat, 03 Oct 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858253</guid>
-    </item>
-    <item>
-      <title>10/03/2026 • 3:30 PM ET — College Football — Charlotte 49ers vs Memphis Tigers</title>
-      <description>Date: 10/03/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Memphis Tigers at Charlotte 49ers | Venue: Jerry Richardson Stadium</description>
-      <pubDate>Sat, 03 Oct 2026 15:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401862787</guid>
     </item>
     <item>
       <title>10/03/2026 • 3:30 PM ET — College Football — UAB Blazers vs Samford Bulldogs</title>
