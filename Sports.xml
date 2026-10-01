@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Thu, 01 Oct 2026 19:42:04 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 19:55:03 -0400</lastBuildDate>
     
     <item>
       <title>10/01/2026 • 7:00 PM ET — NHL — Columbus Blue Jackets vs Buffalo Sabres</title>
@@ -14,7 +14,7 @@
     </item>
     <item>
       <title>10/01/2026 • 7:00 PM ET — NHL — New Jersey Devils vs Philadelphia Flyers</title>
-      <description>Date: 10/01/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: NHL | Event: Philadelphia Flyers at New Jersey Devils | Venue: Prudential Center</description>
+      <description>Date: 10/01/2026 | Time: 7:00 PM ET | Status: End of Period | Sport: NHL | Event: Philadelphia Flyers at New Jersey Devils | Venue: Prudential Center</description>
       <pubDate>Thu, 01 Oct 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401891817</guid>
     </item>
@@ -143,12 +143,6 @@
       <description>Date: 10/02/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NHL | Event: Anaheim Ducks at Vegas Golden Knights | Venue: T-Mobile Arena</description>
       <pubDate>Fri, 02 Oct 2026 22:00:00 -0400</pubDate>
       <guid isPermaLink="false">401892433</guid>
-    </item>
-    <item>
-      <title>10/03/2026 • 12:00 AM ET — MLB — Milwaukee Brewers vs San Diego Padres</title>
-      <description>Date: 10/03/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: San Diego Padres at Milwaukee Brewers | Venue: American Family Field</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401908002</guid>
     </item>
     <item>
       <title>10/03/2026 • 11:00 AM ET — College Football — Charlotte 49ers vs Memphis Tigers</title>
@@ -529,6 +523,12 @@
       <guid isPermaLink="false">401892438</guid>
     </item>
     <item>
+      <title>10/03/2026 • 8:30 PM ET — MLB — Milwaukee Brewers vs San Diego Padres</title>
+      <description>Date: 10/03/2026 | Time: 8:30 PM ET | Status: Scheduled | Sport: MLB | Event: San Diego Padres at Milwaukee Brewers | Venue: American Family Field</description>
+      <pubDate>Sat, 03 Oct 2026 20:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401908002</guid>
+    </item>
+    <item>
       <title>10/03/2026 • 9:00 PM ET — NHL — Colorado Avalanche vs St. Louis Blues</title>
       <description>Date: 10/03/2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: NHL | Event: St. Louis Blues at Colorado Avalanche | Venue: Ball Arena</description>
       <pubDate>Sat, 03 Oct 2026 21:00:00 -0400</pubDate>
@@ -799,15 +799,9 @@
       <guid isPermaLink="false">401898716</guid>
     </item>
     <item>
-      <title>10/06/2026 • 12:00 AM ET — MLB — San Diego Padres vs Milwaukee Brewers</title>
-      <description>Date: 10/06/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Milwaukee Brewers at San Diego Padres | Venue: Petco Park</description>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401908004</guid>
-    </item>
-    <item>
-      <title>10/06/2026 • 12:00 AM ET — MLB — Phillies/Braves vs Los Angeles Dodgers</title>
-      <description>Date: 10/06/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Los Angeles Dodgers at Phillies/Braves</description>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 -0400</pubDate>
+      <title>10/06/2026 • 6:00 PM ET — MLB — Phillies/Braves vs Los Angeles Dodgers</title>
+      <description>Date: 10/06/2026 | Time: 6:00 PM ET | Status: Scheduled | Sport: MLB | Event: Los Angeles Dodgers at Phillies/Braves</description>
+      <pubDate>Tue, 06 Oct 2026 18:00:00 -0400</pubDate>
       <guid isPermaLink="false">401908015</guid>
     </item>
     <item>
@@ -889,6 +883,12 @@
       <guid isPermaLink="false">401892454</guid>
     </item>
     <item>
+      <title>10/06/2026 • 9:30 PM ET — MLB — San Diego Padres vs Milwaukee Brewers</title>
+      <description>Date: 10/06/2026 | Time: 9:30 PM ET | Status: Scheduled | Sport: MLB | Event: Milwaukee Brewers at San Diego Padres | Venue: Petco Park</description>
+      <pubDate>Tue, 06 Oct 2026 21:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401908004</guid>
+    </item>
+    <item>
       <title>10/06/2026 • 10:00 PM ET — NBA — Golden State Warriors vs Los Angeles Lakers</title>
       <description>Date: 10/06/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NBA | Event: Los Angeles Lakers at Golden State Warriors | Venue: Chase Center</description>
       <pubDate>Tue, 06 Oct 2026 22:00:00 -0400</pubDate>
@@ -913,22 +913,10 @@
       <guid isPermaLink="false">401918298</guid>
     </item>
     <item>
-      <title>10/07/2026 • 12:00 AM ET — MLB — New York Yankees vs Tampa Bay Rays</title>
-      <description>Date: 10/07/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at New York Yankees | Venue: Yankee Stadium</description>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401907987</guid>
-    </item>
-    <item>
       <title>10/07/2026 • 12:00 AM ET — MLB — Chicago White Sox vs Cleveland Guardians</title>
       <description>Date: 10/07/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Cleveland Guardians at Chicago White Sox | Venue: Rate Field</description>
       <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401907992</guid>
-    </item>
-    <item>
-      <title>10/07/2026 • 12:00 AM ET — MLB — San Diego Padres vs Milwaukee Brewers</title>
-      <description>Date: 10/07/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Milwaukee Brewers at San Diego Padres | Venue: Petco Park</description>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401908005</guid>
     </item>
     <item>
       <title>10/07/2026 • 12:00 AM ET — MLB — Phillies/Braves vs Los Angeles Dodgers</title>
@@ -985,10 +973,22 @@
       <guid isPermaLink="false">401908939</guid>
     </item>
     <item>
+      <title>10/07/2026 • 8:00 PM ET — MLB — New York Yankees vs Tampa Bay Rays</title>
+      <description>Date: 10/07/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at New York Yankees | Venue: Yankee Stadium</description>
+      <pubDate>Wed, 07 Oct 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401907987</guid>
+    </item>
+    <item>
       <title>10/07/2026 • 10:00 PM ET — NBA — Portland Trail Blazers vs Golden State Warriors</title>
       <description>Date: 10/07/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NBA | Event: Golden State Warriors at Portland Trail Blazers | Venue: Moda Center</description>
       <pubDate>Wed, 07 Oct 2026 22:00:00 -0400</pubDate>
       <guid isPermaLink="false">401914129</guid>
+    </item>
+    <item>
+      <title>10/07/2026 • 10:00 PM ET — MLB — San Diego Padres vs Milwaukee Brewers</title>
+      <description>Date: 10/07/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: MLB | Event: Milwaukee Brewers at San Diego Padres | Venue: Petco Park</description>
+      <pubDate>Wed, 07 Oct 2026 22:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401908005</guid>
     </item>
     <item>
       <title>10/07/2026 • 10:00 PM ET — NHL — Anaheim Ducks vs Edmonton Oilers</title>
@@ -997,15 +997,9 @@
       <guid isPermaLink="false">401892456</guid>
     </item>
     <item>
-      <title>10/08/2026 • 12:00 AM ET — MLB — New York Yankees vs Tampa Bay Rays</title>
-      <description>Date: 10/08/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at New York Yankees | Venue: Yankee Stadium</description>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401907988</guid>
-    </item>
-    <item>
-      <title>10/08/2026 • 12:00 AM ET — MLB — Chicago White Sox vs Cleveland Guardians</title>
-      <description>Date: 10/08/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Cleveland Guardians at Chicago White Sox | Venue: Rate Field</description>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 -0400</pubDate>
+      <title>10/08/2026 • 5:00 PM ET — MLB — Chicago White Sox vs Cleveland Guardians</title>
+      <description>Date: 10/08/2026 | Time: 5:00 PM ET | Status: Scheduled | Sport: MLB | Event: Cleveland Guardians at Chicago White Sox | Venue: Rate Field</description>
+      <pubDate>Thu, 08 Oct 2026 17:00:00 -0400</pubDate>
       <guid isPermaLink="false">401907993</guid>
     </item>
     <item>
@@ -1103,6 +1097,12 @@
       <description>Date: 10/08/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NBA | Event: Atlanta Hawks at San Antonio Spurs | Venue: Frost Bank Center</description>
       <pubDate>Thu, 08 Oct 2026 20:00:00 -0400</pubDate>
       <guid isPermaLink="false">401898394</guid>
+    </item>
+    <item>
+      <title>10/08/2026 • 8:00 PM ET — MLB — New York Yankees vs Tampa Bay Rays</title>
+      <description>Date: 10/08/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at New York Yankees | Venue: Yankee Stadium</description>
+      <pubDate>Thu, 08 Oct 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401907988</guid>
     </item>
     <item>
       <title>10/08/2026 • 8:00 PM ET — NHL — St. Louis Blues vs San Jose Sharks</title>
