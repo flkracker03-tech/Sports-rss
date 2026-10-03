@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Fri, 02 Oct 2026 23:35:47 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 00:03:25 -0400</lastBuildDate>
     
     <item>
       <title>10/03/2026 • 11:00 AM ET — College Football — Charlotte 49ers vs Memphis Tigers</title>
@@ -997,12 +997,6 @@
       <guid isPermaLink="false">401898717</guid>
     </item>
     <item>
-      <title>10/09/2026 • 12:00 AM ET — WNBA — Las Vegas Aces vs Golden State Valkyries</title>
-      <description>Date: 10/09/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: WNBA | Event: Golden State Valkyries at Las Vegas Aces | Venue: Michelob ULTRA Arena</description>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401918300</guid>
-    </item>
-    <item>
       <title>10/09/2026 • 8:00 AM ET — NBA — Dallas Mavericks vs Houston Rockets</title>
       <description>Date: 10/09/2026 | Time: 8:00 AM ET | Status: Scheduled | Sport: NBA | Event: Houston Rockets at Dallas Mavericks | Venue: Venetian Arena</description>
       <pubDate>Fri, 09 Oct 2026 08:00:00 -0400</pubDate>
@@ -1079,6 +1073,12 @@
       <description>Date: 10/09/2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: College Football | Event: Wyoming Cowboys at San José State Spartans | Venue: CEFCU Stadium</description>
       <pubDate>Fri, 09 Oct 2026 21:00:00 -0400</pubDate>
       <guid isPermaLink="false">401864519</guid>
+    </item>
+    <item>
+      <title>10/09/2026 • 9:30 PM ET — WNBA — Las Vegas Aces vs Golden State Valkyries</title>
+      <description>Date: 10/09/2026 | Time: 9:30 PM ET | Status: Scheduled | Sport: WNBA | Event: Golden State Valkyries at Las Vegas Aces | Venue: Michelob ULTRA Arena</description>
+      <pubDate>Fri, 09 Oct 2026 21:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401918300</guid>
     </item>
     <item>
       <title>10/09/2026 • 10:15 PM ET — College Football — BYU Cougars vs Iowa State Cyclones</title>
