@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Fri, 02 Oct 2026 23:04:30 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 23:35:47 -0400</lastBuildDate>
     
     <item>
       <title>10/03/2026 • 11:00 AM ET — College Football — Charlotte 49ers vs Memphis Tigers</title>
@@ -439,18 +439,6 @@
       <guid isPermaLink="false">401864513</guid>
     </item>
     <item>
-      <title>10/04/2026 • 12:00 AM ET — WNBA — Atlanta Dream vs New York Liberty</title>
-      <description>Date: 10/04/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: WNBA | Event: New York Liberty at Atlanta Dream | Venue: State Farm Arena</description>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401918295</guid>
-    </item>
-    <item>
-      <title>10/04/2026 • 12:00 AM ET — WNBA — TBD vs TBD</title>
-      <description>Date: 10/04/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: WNBA | Event: TBD at TBD</description>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401918296</guid>
-    </item>
-    <item>
       <title>10/04/2026 • 9:30 AM ET — NFL — Washington Commanders vs Indianapolis Colts</title>
       <description>Date: 10/04/2026 | Time: 9:30 AM ET | Status: Scheduled | Sport: NFL | Event: Indianapolis Colts at Washington Commanders | Venue: Tottenham Hotspur Stadium</description>
       <pubDate>Sun, 04 Oct 2026 09:30:00 -0400</pubDate>
@@ -509,6 +497,18 @@
       <description>Date: 10/04/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NHL | Event: Winnipeg Jets at Detroit Red Wings | Venue: Little Caesars Arena</description>
       <pubDate>Sun, 04 Oct 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401892442</guid>
+    </item>
+    <item>
+      <title>10/04/2026 • 2:00 PM ET — WNBA — Atlanta Dream vs New York Liberty</title>
+      <description>Date: 10/04/2026 | Time: 2:00 PM ET | Status: Scheduled | Sport: WNBA | Event: New York Liberty at Atlanta Dream | Venue: State Farm Arena</description>
+      <pubDate>Sun, 04 Oct 2026 14:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401918295</guid>
+    </item>
+    <item>
+      <title>10/04/2026 • 4:00 PM ET — WNBA — Golden State Valkyries vs Las Vegas Aces</title>
+      <description>Date: 10/04/2026 | Time: 4:00 PM ET | Status: Scheduled | Sport: WNBA | Event: Las Vegas Aces at Golden State Valkyries | Venue: Chase Center</description>
+      <pubDate>Sun, 04 Oct 2026 16:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401918296</guid>
     </item>
     <item>
       <title>10/04/2026 • 4:00 PM ET — MLB — Milwaukee Brewers vs San Diego Padres</title>
@@ -763,18 +763,6 @@
       <guid isPermaLink="false">401891806</guid>
     </item>
     <item>
-      <title>10/07/2026 • 12:00 AM ET — WNBA — Atlanta Dream vs New York Liberty</title>
-      <description>Date: 10/07/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: WNBA | Event: New York Liberty at Atlanta Dream | Venue: State Farm Arena</description>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401918297</guid>
-    </item>
-    <item>
-      <title>10/07/2026 • 12:00 AM ET — WNBA — TBD vs TBD</title>
-      <description>Date: 10/07/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: WNBA | Event: TBD at TBD</description>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401918298</guid>
-    </item>
-    <item>
       <title>10/07/2026 • 4:00 PM ET — MLB — Chicago White Sox vs Cleveland Guardians</title>
       <description>Date: 10/07/2026 | Time: 4:00 PM ET | Status: Scheduled | Sport: MLB | Event: Cleveland Guardians at Chicago White Sox | Venue: Rate Field</description>
       <pubDate>Wed, 07 Oct 2026 16:00:00 -0400</pubDate>
@@ -803,6 +791,12 @@
       <description>Date: 10/07/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: New Mexico State Aggies at Florida International Panthers | Venue: Pitbull Stadium</description>
       <pubDate>Wed, 07 Oct 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401871066</guid>
+    </item>
+    <item>
+      <title>10/07/2026 • 7:30 PM ET — WNBA — Atlanta Dream vs New York Liberty</title>
+      <description>Date: 10/07/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: WNBA | Event: New York Liberty at Atlanta Dream | Venue: State Farm Arena</description>
+      <pubDate>Wed, 07 Oct 2026 19:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401918297</guid>
     </item>
     <item>
       <title>10/07/2026 • 7:30 PM ET — NHL — Washington Capitals vs Pittsburgh Penguins</title>
@@ -839,6 +833,12 @@
       <description>Date: 10/07/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at New York Yankees | Venue: Yankee Stadium</description>
       <pubDate>Wed, 07 Oct 2026 20:00:00 -0400</pubDate>
       <guid isPermaLink="false">401907987</guid>
+    </item>
+    <item>
+      <title>10/07/2026 • 9:30 PM ET — WNBA — Golden State Valkyries vs Las Vegas Aces</title>
+      <description>Date: 10/07/2026 | Time: 9:30 PM ET | Status: Scheduled | Sport: WNBA | Event: Las Vegas Aces at Golden State Valkyries | Venue: Chase Center</description>
+      <pubDate>Wed, 07 Oct 2026 21:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401918298</guid>
     </item>
     <item>
       <title>10/07/2026 • 10:00 PM ET — NBA — Portland Trail Blazers vs Golden State Warriors</title>
@@ -997,14 +997,8 @@
       <guid isPermaLink="false">401898717</guid>
     </item>
     <item>
-      <title>10/09/2026 • 12:00 AM ET — WNBA — New York Liberty vs Atlanta Dream</title>
-      <description>Date: 10/09/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: WNBA | Event: Atlanta Dream at New York Liberty | Venue: Barclays Center</description>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401918299</guid>
-    </item>
-    <item>
-      <title>10/09/2026 • 12:00 AM ET — WNBA — TBD vs TBD</title>
-      <description>Date: 10/09/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: WNBA | Event: TBD at TBD</description>
+      <title>10/09/2026 • 12:00 AM ET — WNBA — Las Vegas Aces vs Golden State Valkyries</title>
+      <description>Date: 10/09/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: WNBA | Event: Golden State Valkyries at Las Vegas Aces | Venue: Michelob ULTRA Arena</description>
       <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401918300</guid>
     </item>
@@ -1043,6 +1037,12 @@
       <description>Date: 10/09/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NHL | Event: Pittsburgh Penguins at Columbus Blue Jackets | Venue: Nationwide Arena</description>
       <pubDate>Fri, 09 Oct 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401892467</guid>
+    </item>
+    <item>
+      <title>10/09/2026 • 7:30 PM ET — WNBA — New York Liberty vs Atlanta Dream</title>
+      <description>Date: 10/09/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: WNBA | Event: Atlanta Dream at New York Liberty | Venue: Barclays Center</description>
+      <pubDate>Fri, 09 Oct 2026 19:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401918299</guid>
     </item>
     <item>
       <title>10/09/2026 • 8:00 PM ET — NBA — Chicago Bulls vs Memphis Grizzlies</title>
