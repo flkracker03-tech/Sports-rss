@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 04 Oct 2026 00:19:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 06:49:47 -0400</lastBuildDate>
     
     <item>
       <title>10/04/2026 • 9:30 AM ET — NFL — Washington Commanders vs Indianapolis Colts</title>
@@ -985,12 +985,6 @@
       <guid isPermaLink="false">401858485</guid>
     </item>
     <item>
-      <title>10/10/2026 • 7:30 PM ET — College Football — Georgia Southern Eagles vs James Madison Dukes</title>
-      <description>Date: 10/10/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: James Madison Dukes at Georgia Southern Eagles | Venue: Allen E. Paulson Stadium</description>
-      <pubDate>Sat, 10 Oct 2026 19:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401869949</guid>
-    </item>
-    <item>
       <title>10/10/2026 • 7:30 PM ET — College Football — Virginia Cavaliers vs Syracuse Orange</title>
       <description>Date: 10/10/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Syracuse Orange at Virginia Cavaliers | Venue: Scott Stadium</description>
       <pubDate>Sat, 10 Oct 2026 19:30:00 -0400</pubDate>
@@ -1001,6 +995,12 @@
       <description>Date: 10/10/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Air Force Falcons at Northern Illinois Huskies | Venue: Huskie Stadium</description>
       <pubDate>Sat, 10 Oct 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401864516</guid>
+    </item>
+    <item>
+      <title>10/10/2026 • 7:30 PM ET — College Football — Georgia Southern Eagles vs James Madison Dukes</title>
+      <description>Date: 10/10/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: James Madison Dukes at Georgia Southern Eagles | Venue: Allen E. Paulson Stadium</description>
+      <pubDate>Sat, 10 Oct 2026 19:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401869949</guid>
     </item>
     <item>
       <title>10/10/2026 • 7:30 PM ET — College Football — Louisiana Tech Bulldogs vs Louisiana Ragin' Cajuns</title>
