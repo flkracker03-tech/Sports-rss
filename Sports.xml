@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 03 Oct 2026 22:17:28 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 00:19:00 -0400</lastBuildDate>
     
     <item>
       <title>10/04/2026 • 9:30 AM ET — NFL — Washington Commanders vs Indianapolis Colts</title>
@@ -655,30 +655,6 @@
       <guid isPermaLink="false">401856826</guid>
     </item>
     <item>
-      <title>10/10/2026 • 12:00 AM ET — College Football — Florida Gators vs South Carolina Gamecocks</title>
-      <description>Date: 10/10/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: South Carolina Gamecocks at Florida Gators | Venue: Ben Hill Griffin Stadium</description>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401856714</guid>
-    </item>
-    <item>
-      <title>10/10/2026 • 12:00 AM ET — College Football — Missouri Tigers vs Texas A&amp;M Aggies</title>
-      <description>Date: 10/10/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Texas A&amp;M Aggies at Missouri Tigers | Venue: Memorial Stadium</description>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401856716</guid>
-    </item>
-    <item>
-      <title>10/10/2026 • 12:00 AM ET — College Football — Memphis Tigers vs UAB Blazers</title>
-      <description>Date: 10/10/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: UAB Blazers at Memphis Tigers | Venue: Simmons Bank Liberty Stadium</description>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401862798</guid>
-    </item>
-    <item>
-      <title>10/10/2026 • 12:00 AM ET — College Football — Georgia Southern Eagles vs James Madison Dukes</title>
-      <description>Date: 10/10/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: James Madison Dukes at Georgia Southern Eagles | Venue: Allen E. Paulson Stadium</description>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401869949</guid>
-    </item>
-    <item>
       <title>10/10/2026 • 12:00 PM ET — College Football — Nebraska Cornhuskers vs Indiana Hoosiers</title>
       <description>Date: 10/10/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Indiana Hoosiers at Nebraska Cornhuskers | Venue: Memorial Stadium (Lincoln, NE)</description>
       <pubDate>Sat, 10 Oct 2026 12:00:00 -0400</pubDate>
@@ -689,6 +665,12 @@
       <description>Date: 10/10/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: UCF Knights at Oklahoma State Cowboys | Venue: Boone Pickens Stadium</description>
       <pubDate>Sat, 10 Oct 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856824</guid>
+    </item>
+    <item>
+      <title>10/10/2026 • 12:00 PM ET — College Football — Missouri Tigers vs Texas A&amp;M Aggies</title>
+      <description>Date: 10/10/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Texas A&amp;M Aggies at Missouri Tigers | Venue: Memorial Stadium</description>
+      <pubDate>Sat, 10 Oct 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401856716</guid>
     </item>
     <item>
       <title>10/10/2026 • 12:00 PM ET — College Football — West Virginia Mountaineers vs Arizona Wildcats</title>
@@ -725,6 +707,12 @@
       <description>Date: 10/10/2026 | Time: 12:30 PM ET | Status: Scheduled | Sport: College Football | Event: Ball State Cardinals at Northwestern Wildcats | Venue: Ryan Field</description>
       <pubDate>Sat, 10 Oct 2026 12:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858482</guid>
+    </item>
+    <item>
+      <title>10/10/2026 • 12:45 PM ET — College Football — Florida Gators vs South Carolina Gamecocks</title>
+      <description>Date: 10/10/2026 | Time: 12:45 PM ET | Status: Scheduled | Sport: College Football | Event: South Carolina Gamecocks at Florida Gators | Venue: Ben Hill Griffin Stadium</description>
+      <pubDate>Sat, 10 Oct 2026 12:45:00 -0400</pubDate>
+      <guid isPermaLink="false">401856714</guid>
     </item>
     <item>
       <title>10/10/2026 • 1:00 PM ET — College Football — App State Mountaineers vs Old Dominion Monarchs</title>
@@ -907,6 +895,12 @@
       <guid isPermaLink="false">401856715</guid>
     </item>
     <item>
+      <title>10/10/2026 • 7:00 PM ET — College Football — Memphis Tigers vs UAB Blazers</title>
+      <description>Date: 10/10/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: UAB Blazers at Memphis Tigers | Venue: Simmons Bank Liberty Stadium</description>
+      <pubDate>Sat, 10 Oct 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401862798</guid>
+    </item>
+    <item>
       <title>10/10/2026 • 7:00 PM ET — College Football — UTEP Miners vs Nevada Wolf Pack</title>
       <description>Date: 10/10/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Nevada Wolf Pack at UTEP Miners | Venue: Sun Bowl</description>
       <pubDate>Sat, 10 Oct 2026 19:00:00 -0400</pubDate>
@@ -989,6 +983,12 @@
       <description>Date: 10/10/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: USC Trojans at Penn State Nittany Lions | Venue: Beaver Stadium</description>
       <pubDate>Sat, 10 Oct 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858485</guid>
+    </item>
+    <item>
+      <title>10/10/2026 • 7:30 PM ET — College Football — Georgia Southern Eagles vs James Madison Dukes</title>
+      <description>Date: 10/10/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: James Madison Dukes at Georgia Southern Eagles | Venue: Allen E. Paulson Stadium</description>
+      <pubDate>Sat, 10 Oct 2026 19:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401869949</guid>
     </item>
     <item>
       <title>10/10/2026 • 7:30 PM ET — College Football — Virginia Cavaliers vs Syracuse Orange</title>
