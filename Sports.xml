@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Mon, 05 Oct 2026 13:31:03 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 13:57:14 -0400</lastBuildDate>
     
     <item>
       <title>10/05/2026 • 5:00 PM ET — MLB — Cleveland Guardians vs Chicago White Sox</title>
@@ -1003,12 +1003,6 @@
       <guid isPermaLink="false">761858</guid>
     </item>
     <item>
-      <title>10/11/2026 • 12:00 AM ET — WNBA — New York Liberty vs Atlanta Dream</title>
-      <description>Date: 10/11/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: WNBA | Event: Atlanta Dream at New York Liberty | Venue: Barclays Center</description>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401918301</guid>
-    </item>
-    <item>
       <title>10/11/2026 • 12:00 AM ET — WNBA — Las Vegas Aces vs Golden State Valkyries</title>
       <description>Date: 10/11/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: WNBA | Event: Golden State Valkyries at Las Vegas Aces | Venue: Michelob ULTRA Arena</description>
       <pubDate>Sun, 11 Oct 2026 00:00:00 -0400</pubDate>
@@ -1079,6 +1073,12 @@
       <description>Date: 10/11/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NFL | Event: New York Giants at Washington Commanders | Venue: Northwest Stadium</description>
       <pubDate>Sun, 11 Oct 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872988</guid>
+    </item>
+    <item>
+      <title>10/11/2026 • 2:00 PM ET — WNBA — New York Liberty vs Atlanta Dream</title>
+      <description>Date: 10/11/2026 | Time: 2:00 PM ET | Status: Scheduled | Sport: WNBA | Event: Atlanta Dream at New York Liberty | Venue: Barclays Center</description>
+      <pubDate>Sun, 11 Oct 2026 14:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401918301</guid>
     </item>
     <item>
       <title>10/11/2026 • 4:05 PM ET — NFL — Los Angeles Chargers vs Denver Broncos</title>
