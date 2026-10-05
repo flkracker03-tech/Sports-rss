@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Mon, 05 Oct 2026 19:26:32 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 19:41:20 -0400</lastBuildDate>
     
     <item>
       <title>10/05/2026 • 5:00 PM ET — MLB — Cleveland Guardians vs Chicago White Sox</title>
@@ -14,7 +14,7 @@
     </item>
     <item>
       <title>10/05/2026 • 7:00 PM ET — NBA — Atlanta Hawks vs Memphis Grizzlies</title>
-      <description>Date: 10/05/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: NBA | Event: Memphis Grizzlies at Atlanta Hawks | Venue: State Farm Arena</description>
+      <description>Date: 10/05/2026 | Time: 7:00 PM ET | Status: End of Period | Sport: NBA | Event: Memphis Grizzlies at Atlanta Hawks | Venue: State Farm Arena</description>
       <pubDate>Mon, 05 Oct 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401898388</guid>
     </item>
@@ -26,7 +26,7 @@
     </item>
     <item>
       <title>10/05/2026 • 7:00 PM ET — NBA — Philadelphia 76ers vs New York Knicks</title>
-      <description>Date: 10/05/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: NBA | Event: New York Knicks at Philadelphia 76ers | Venue: Xfinity Mobile Arena</description>
+      <description>Date: 10/05/2026 | Time: 7:00 PM ET | Status: End of Period | Sport: NBA | Event: New York Knicks at Philadelphia 76ers | Venue: Xfinity Mobile Arena</description>
       <pubDate>Mon, 05 Oct 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401914101</guid>
     </item>
@@ -38,13 +38,13 @@
     </item>
     <item>
       <title>10/05/2026 • 7:30 PM ET — NHL — Boston Bruins vs Ottawa Senators</title>
-      <description>Date: 10/05/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: NHL | Event: Ottawa Senators at Boston Bruins | Venue: TD Garden</description>
+      <description>Date: 10/05/2026 | Time: 7:30 PM ET | Status: In Progress | Sport: NHL | Event: Ottawa Senators at Boston Bruins | Venue: TD Garden</description>
       <pubDate>Mon, 05 Oct 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401892446</guid>
     </item>
     <item>
       <title>10/05/2026 • 7:30 PM ET — NHL — Pittsburgh Penguins vs Winnipeg Jets</title>
-      <description>Date: 10/05/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: NHL | Event: Winnipeg Jets at Pittsburgh Penguins | Venue: PPG Paints Arena</description>
+      <description>Date: 10/05/2026 | Time: 7:30 PM ET | Status: In Progress | Sport: NHL | Event: Winnipeg Jets at Pittsburgh Penguins | Venue: PPG Paints Arena</description>
       <pubDate>Mon, 05 Oct 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401892447</guid>
     </item>
