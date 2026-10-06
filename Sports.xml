@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Tue, 06 Oct 2026 13:11:20 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 13:29:24 -0400</lastBuildDate>
     
     <item>
       <title>10/06/2026 • 6:00 PM ET — MLB — Atlanta Braves vs Los Angeles Dodgers</title>
@@ -85,16 +85,16 @@
       <guid isPermaLink="false">401914128</guid>
     </item>
     <item>
-      <title>10/06/2026 • 9:00 PM ET — NHL — Seattle Kraken vs Vegas Golden Knights</title>
-      <description>Date: 10/06/2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: NHL | Event: Vegas Golden Knights at Seattle Kraken | Venue: Climate Pledge Arena</description>
-      <pubDate>Tue, 06 Oct 2026 21:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401892454</guid>
-    </item>
-    <item>
       <title>10/06/2026 • 9:30 PM ET — MLB — San Diego Padres vs Milwaukee Brewers</title>
       <description>Date: 10/06/2026 | Time: 9:30 PM ET | Status: Scheduled | Sport: MLB | Event: Milwaukee Brewers at San Diego Padres | Venue: Petco Park</description>
       <pubDate>Tue, 06 Oct 2026 21:30:00 -0400</pubDate>
       <guid isPermaLink="false">401908004</guid>
+    </item>
+    <item>
+      <title>10/06/2026 • 9:40 PM ET — NHL — Seattle Kraken vs Vegas Golden Knights</title>
+      <description>Date: 10/06/2026 | Time: 9:40 PM ET | Status: Scheduled | Sport: NHL | Event: Vegas Golden Knights at Seattle Kraken | Venue: Climate Pledge Arena</description>
+      <pubDate>Tue, 06 Oct 2026 21:40:00 -0400</pubDate>
+      <guid isPermaLink="false">401892454</guid>
     </item>
     <item>
       <title>10/06/2026 • 10:00 PM ET — NBA — Golden State Warriors vs Los Angeles Lakers</title>
