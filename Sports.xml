@@ -4,11 +4,11 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Wed, 07 Oct 2026 19:14:02 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 19:30:37 -0400</lastBuildDate>
     
     <item>
       <title>10/07/2026 • 4:00 PM ET — MLB — Chicago White Sox vs Cleveland Guardians</title>
-      <description>Date: 10/07/2026 | Time: 4:00 PM ET | Status: In Progress | Sport: MLB | Event: Cleveland Guardians at Chicago White Sox | Venue: Rate Field</description>
+      <description>Date: 10/07/2026 | Time: 4:00 PM ET | Status: Final | Sport: MLB | Event: Cleveland Guardians at Chicago White Sox | Venue: Rate Field</description>
       <pubDate>Wed, 07 Oct 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401907992</guid>
     </item>
@@ -29,12 +29,6 @@
       <description>Date: 10/07/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: NBA | Event: Minnesota Timberwolves at Indiana Pacers | Venue: Hilton Coliseum</description>
       <pubDate>Wed, 07 Oct 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401914123</guid>
-    </item>
-    <item>
-      <title>10/07/2026 • 7:30 PM ET — College Football — Florida International Panthers vs New Mexico State Aggies</title>
-      <description>Date: 10/07/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: New Mexico State Aggies at Florida International Panthers | Venue: Pitbull Stadium</description>
-      <pubDate>Wed, 07 Oct 2026 19:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401871066</guid>
     </item>
     <item>
       <title>10/07/2026 • 7:30 PM ET — WNBA — Atlanta Dream vs New York Liberty</title>
@@ -77,6 +71,12 @@
       <description>Date: 10/07/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at New York Yankees | Venue: Yankee Stadium</description>
       <pubDate>Wed, 07 Oct 2026 20:00:00 -0400</pubDate>
       <guid isPermaLink="false">401907987</guid>
+    </item>
+    <item>
+      <title>10/07/2026 • 8:04 PM ET — College Football — Florida International Panthers vs New Mexico State Aggies</title>
+      <description>Date: 10/07/2026 | Time: 8:04 PM ET | Status: Scheduled | Sport: College Football | Event: New Mexico State Aggies at Florida International Panthers | Venue: Pitbull Stadium</description>
+      <pubDate>Wed, 07 Oct 2026 20:04:00 -0400</pubDate>
+      <guid isPermaLink="false">401871066</guid>
     </item>
     <item>
       <title>10/07/2026 • 9:30 PM ET — WNBA — Golden State Valkyries vs Las Vegas Aces</title>
