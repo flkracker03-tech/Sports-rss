@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Thu, 08 Oct 2026 09:59:10 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 10:23:09 -0400</lastBuildDate>
     
     <item>
       <title>10/08/2026 • 7:00 PM ET — College Football — Liberty Flames vs Sam Houston Bearkats</title>
@@ -661,12 +661,6 @@
       <guid isPermaLink="false">761855</guid>
     </item>
     <item>
-      <title>10/10/2026 • 9:30 PM ET — College Football — Arizona State Sun Devils vs Hawai'i Rainbow Warriors</title>
-      <description>Date: 10/10/2026 | Time: 9:30 PM ET | Status: Scheduled | Sport: College Football | Event: Hawai'i Rainbow Warriors at Arizona State Sun Devils | Venue: Mountain America Stadium</description>
-      <pubDate>Sat, 10 Oct 2026 21:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401856808</guid>
-    </item>
-    <item>
       <title>10/10/2026 • 9:30 PM ET — MLS — Colorado Rapids vs San Jose Earthquakes</title>
       <description>Date: 10/10/2026 | Time: 9:30 PM ET | Status: Scheduled | Sport: MLS | Event: San Jose Earthquakes at Colorado Rapids | Venue: Dick's Sporting Goods Park</description>
       <pubDate>Sat, 10 Oct 2026 21:30:00 -0400</pubDate>
@@ -695,6 +689,12 @@
       <description>Date: 10/10/2026 | Time: 10:30 PM ET | Status: Scheduled | Sport: College Football | Event: Boise State Broncos at Fresno State Bulldogs | Venue: Valley Children's Stadium</description>
       <pubDate>Sat, 10 Oct 2026 22:30:00 -0400</pubDate>
       <guid isPermaLink="false">401860901</guid>
+    </item>
+    <item>
+      <title>10/10/2026 • 10:30 PM ET — College Football — Arizona State Sun Devils vs Hawai'i Rainbow Warriors</title>
+      <description>Date: 10/10/2026 | Time: 10:30 PM ET | Status: Scheduled | Sport: College Football | Event: Hawai'i Rainbow Warriors at Arizona State Sun Devils | Venue: Mountain America Stadium</description>
+      <pubDate>Sat, 10 Oct 2026 22:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401856808</guid>
     </item>
     <item>
       <title>10/10/2026 • 10:30 PM ET — NBA — Phoenix Suns vs San Antonio Spurs</title>
