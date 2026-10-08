@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Wed, 07 Oct 2026 22:58:34 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 23:20:15 -0400</lastBuildDate>
     
     <item>
       <title>10/08/2026 • 5:00 PM ET — MLB — Chicago White Sox vs Cleveland Guardians</title>
@@ -107,12 +107,6 @@
       <description>Date: 10/08/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NBA | Event: Atlanta Hawks at San Antonio Spurs | Venue: Frost Bank Center</description>
       <pubDate>Thu, 08 Oct 2026 20:00:00 -0400</pubDate>
       <guid isPermaLink="false">401898394</guid>
-    </item>
-    <item>
-      <title>10/08/2026 • 8:00 PM ET — MLB — New York Yankees vs Tampa Bay Rays</title>
-      <description>Date: 10/08/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at New York Yankees | Venue: Yankee Stadium</description>
-      <pubDate>Thu, 08 Oct 2026 20:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401907988</guid>
     </item>
     <item>
       <title>10/08/2026 • 8:00 PM ET — NHL — St. Louis Blues vs San Jose Sharks</title>
@@ -649,12 +643,6 @@
       <guid isPermaLink="false">401898398</guid>
     </item>
     <item>
-      <title>10/10/2026 • 8:00 PM ET — MLB — Tampa Bay Rays vs New York Yankees</title>
-      <description>Date: 10/10/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: New York Yankees at Tampa Bay Rays | Venue: Tropicana Field</description>
-      <pubDate>Sat, 10 Oct 2026 20:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401907989</guid>
-    </item>
-    <item>
       <title>10/10/2026 • 8:30 PM ET — NBA — Golden State Warriors vs Sacramento Kings</title>
       <description>Date: 10/10/2026 | Time: 8:30 PM ET | Status: Scheduled | Sport: NBA | Event: Sacramento Kings at Golden State Warriors | Venue: Chase Center</description>
       <pubDate>Sat, 10 Oct 2026 20:30:00 -0400</pubDate>
@@ -871,8 +859,8 @@
       <guid isPermaLink="false">401908941</guid>
     </item>
     <item>
-      <title>10/12/2026 • 12:00 AM ET — MLB — TBD vs TBD</title>
-      <description>Date: 10/12/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: TBD at TBD</description>
+      <title>10/12/2026 • 12:00 AM ET — MLB — Tampa Bay Rays vs TBD</title>
+      <description>Date: 10/12/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: TBD at Tampa Bay Rays | Venue: Tropicana Field</description>
       <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401908023</guid>
     </item>
