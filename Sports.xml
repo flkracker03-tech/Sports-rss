@@ -4,14 +4,8 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Wed, 07 Oct 2026 23:20:15 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 23:46:02 -0400</lastBuildDate>
     
-    <item>
-      <title>10/08/2026 • 5:00 PM ET — MLB — Chicago White Sox vs Cleveland Guardians</title>
-      <description>Date: 10/08/2026 | Time: 5:00 PM ET | Status: Scheduled | Sport: MLB | Event: Cleveland Guardians at Chicago White Sox | Venue: Rate Field</description>
-      <pubDate>Thu, 08 Oct 2026 17:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401907993</guid>
-    </item>
     <item>
       <title>10/08/2026 • 7:00 PM ET — College Football — Liberty Flames vs Sam Houston Bearkats</title>
       <description>Date: 10/08/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Sam Houston Bearkats at Liberty Flames | Venue: Williams Stadium (VA)</description>
@@ -107,6 +101,12 @@
       <description>Date: 10/08/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NBA | Event: Atlanta Hawks at San Antonio Spurs | Venue: Frost Bank Center</description>
       <pubDate>Thu, 08 Oct 2026 20:00:00 -0400</pubDate>
       <guid isPermaLink="false">401898394</guid>
+    </item>
+    <item>
+      <title>10/08/2026 • 8:00 PM ET — MLB — Chicago White Sox vs Cleveland Guardians</title>
+      <description>Date: 10/08/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Cleveland Guardians at Chicago White Sox | Venue: Rate Field</description>
+      <pubDate>Thu, 08 Oct 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401907993</guid>
     </item>
     <item>
       <title>10/08/2026 • 8:00 PM ET — NHL — St. Louis Blues vs San Jose Sharks</title>
@@ -433,12 +433,6 @@
       <guid isPermaLink="false">401856713</guid>
     </item>
     <item>
-      <title>10/10/2026 • 5:00 PM ET — MLB — Cleveland Guardians vs Chicago White Sox</title>
-      <description>Date: 10/10/2026 | Time: 5:00 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago White Sox at Cleveland Guardians | Venue: Progressive Field</description>
-      <pubDate>Sat, 10 Oct 2026 17:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401907994</guid>
-    </item>
-    <item>
       <title>10/10/2026 • 6:00 PM ET — College Football — Oregon State Beavers vs San Diego State Aztecs</title>
       <description>Date: 10/10/2026 | Time: 6:00 PM ET | Status: Scheduled | Sport: College Football | Event: San Diego State Aztecs at Oregon State Beavers | Venue: Reser Stadium</description>
       <pubDate>Sat, 10 Oct 2026 18:00:00 -0400</pubDate>
@@ -641,6 +635,12 @@
       <description>Date: 10/10/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NBA | Event: Philadelphia 76ers at Boston Celtics | Venue: TD Garden</description>
       <pubDate>Sat, 10 Oct 2026 20:00:00 -0400</pubDate>
       <guid isPermaLink="false">401898398</guid>
+    </item>
+    <item>
+      <title>10/10/2026 • 8:00 PM ET — MLB — Cleveland Guardians vs Chicago White Sox</title>
+      <description>Date: 10/10/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Chicago White Sox at Cleveland Guardians | Venue: Progressive Field</description>
+      <pubDate>Sat, 10 Oct 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401907994</guid>
     </item>
     <item>
       <title>10/10/2026 • 8:30 PM ET — NBA — Golden State Warriors vs Sacramento Kings</title>
@@ -859,8 +859,8 @@
       <guid isPermaLink="false">401908941</guid>
     </item>
     <item>
-      <title>10/12/2026 • 12:00 AM ET — MLB — Tampa Bay Rays vs TBD</title>
-      <description>Date: 10/12/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: TBD at Tampa Bay Rays | Venue: Tropicana Field</description>
+      <title>10/12/2026 • 12:00 AM ET — MLB — Tampa Bay Rays vs CLE/CHW</title>
+      <description>Date: 10/12/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: CLE/CHW at Tampa Bay Rays | Venue: Tropicana Field</description>
       <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401908023</guid>
     </item>
@@ -925,8 +925,8 @@
       <guid isPermaLink="false">401898721</guid>
     </item>
     <item>
-      <title>10/13/2026 • 12:00 AM ET — MLB — TBD vs TBD</title>
-      <description>Date: 10/13/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: TBD at TBD</description>
+      <title>10/13/2026 • 12:00 AM ET — MLB — Tampa Bay Rays vs CLE/CHW</title>
+      <description>Date: 10/13/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: CLE/CHW at Tampa Bay Rays | Venue: Tropicana Field</description>
       <pubDate>Tue, 13 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401908024</guid>
     </item>
@@ -1243,8 +1243,8 @@
       <guid isPermaLink="false">761872</guid>
     </item>
     <item>
-      <title>10/15/2026 • 12:00 AM ET — MLB — TBD vs TBD</title>
-      <description>Date: 10/15/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: TBD at TBD</description>
+      <title>10/15/2026 • 12:00 AM ET — MLB — CLE/CHW vs Tampa Bay Rays</title>
+      <description>Date: 10/15/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at CLE/CHW</description>
       <pubDate>Thu, 15 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401908025</guid>
     </item>
