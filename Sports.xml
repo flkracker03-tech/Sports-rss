@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Thu, 08 Oct 2026 18:44:09 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:59:37 -0400</lastBuildDate>
     
     <item>
       <title>10/08/2026 • 7:00 PM ET — College Football — Liberty Flames vs Sam Houston Bearkats</title>
@@ -715,12 +715,6 @@
       <guid isPermaLink="false">401918302</guid>
     </item>
     <item>
-      <title>10/11/2026 • 12:00 AM ET — MLB — Milwaukee Brewers vs Los Angeles Dodgers</title>
-      <description>Date: 10/11/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Los Angeles Dodgers at Milwaukee Brewers | Venue: American Family Field</description>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401908030</guid>
-    </item>
-    <item>
       <title>10/11/2026 • 6:00 AM ET — NBA — Houston Rockets vs Dallas Mavericks</title>
       <description>Date: 10/11/2026 | Time: 6:00 AM ET | Status: Scheduled | Sport: NBA | Event: Dallas Mavericks at Houston Rockets | Venue: Venetian Arena</description>
       <pubDate>Sun, 11 Oct 2026 06:00:00 -0400</pubDate>
@@ -841,6 +835,12 @@
       <guid isPermaLink="false">761859</guid>
     </item>
     <item>
+      <title>10/11/2026 • 8:00 PM ET — MLB — Milwaukee Brewers vs Los Angeles Dodgers</title>
+      <description>Date: 10/11/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Los Angeles Dodgers at Milwaukee Brewers | Venue: American Family Field</description>
+      <pubDate>Sun, 11 Oct 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401908030</guid>
+    </item>
+    <item>
       <title>10/11/2026 • 8:20 PM ET — NFL — Atlanta Falcons vs Baltimore Ravens</title>
       <description>Date: 10/11/2026 | Time: 8:20 PM ET | Status: Scheduled | Sport: NFL | Event: Baltimore Ravens at Atlanta Falcons | Venue: Mercedes-Benz Stadium</description>
       <pubDate>Sun, 11 Oct 2026 20:20:00 -0400</pubDate>
@@ -859,12 +859,6 @@
       <guid isPermaLink="false">401908023</guid>
     </item>
     <item>
-      <title>10/12/2026 • 12:00 AM ET — MLB — Milwaukee Brewers vs Los Angeles Dodgers</title>
-      <description>Date: 10/12/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Los Angeles Dodgers at Milwaukee Brewers | Venue: American Family Field</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401908031</guid>
-    </item>
-    <item>
       <title>10/12/2026 • 1:00 PM ET — NHL — Buffalo Sabres vs Florida Panthers</title>
       <description>Date: 10/12/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NHL | Event: Florida Panthers at Buffalo Sabres | Venue: KeyBank Center</description>
       <pubDate>Mon, 12 Oct 2026 13:00:00 -0400</pubDate>
@@ -875,6 +869,12 @@
       <description>Date: 10/12/2026 | Time: 4:00 PM ET | Status: Scheduled | Sport: NBA | Event: London Lions at Portland Trail Blazers | Venue: Moda Center</description>
       <pubDate>Mon, 12 Oct 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">401914130</guid>
+    </item>
+    <item>
+      <title>10/12/2026 • 5:00 PM ET — MLB — Milwaukee Brewers vs Los Angeles Dodgers</title>
+      <description>Date: 10/12/2026 | Time: 5:00 PM ET | Status: Scheduled | Sport: MLB | Event: Los Angeles Dodgers at Milwaukee Brewers | Venue: American Family Field</description>
+      <pubDate>Mon, 12 Oct 2026 17:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401908031</guid>
     </item>
     <item>
       <title>10/12/2026 • 7:00 PM ET — NBA — Atlanta Hawks vs Oklahoma City Thunder</title>
@@ -917,12 +917,6 @@
       <description>Date: 10/12/2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: NBA | Event: San Antonio Spurs at Utah Jazz | Venue: Delta Center</description>
       <pubDate>Mon, 12 Oct 2026 21:00:00 -0400</pubDate>
       <guid isPermaLink="false">401898721</guid>
-    </item>
-    <item>
-      <title>10/13/2026 • 12:00 AM ET — MLB — Tampa Bay Rays vs CLE/CHW</title>
-      <description>Date: 10/13/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: CLE/CHW at Tampa Bay Rays | Venue: Tropicana Field</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401908024</guid>
     </item>
     <item>
       <title>10/13/2026 • 6:00 PM ET — NHL — Detroit Red Wings vs New Jersey Devils</title>
@@ -1003,6 +997,12 @@
       <guid isPermaLink="false">401908621</guid>
     </item>
     <item>
+      <title>10/13/2026 • 8:00 PM ET — MLB — Tampa Bay Rays vs CLE/CHW</title>
+      <description>Date: 10/13/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: CLE/CHW at Tampa Bay Rays | Venue: Tropicana Field</description>
+      <pubDate>Tue, 13 Oct 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401908024</guid>
+    </item>
+    <item>
       <title>10/13/2026 • 8:00 PM ET — NHL — Chicago Blackhawks vs Pittsburgh Penguins</title>
       <description>Date: 10/13/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NHL | Event: Pittsburgh Penguins at Chicago Blackhawks | Venue: United Center</description>
       <pubDate>Tue, 13 Oct 2026 20:00:00 -0400</pubDate>
@@ -1073,12 +1073,6 @@
       <description>Date: 10/14/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: WNBA | Event: Las Vegas Aces at Golden State Valkyries | Venue: Chase Center</description>
       <pubDate>Wed, 14 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401918304</guid>
-    </item>
-    <item>
-      <title>10/14/2026 • 12:00 AM ET — MLB — Los Angeles Dodgers vs Milwaukee Brewers</title>
-      <description>Date: 10/14/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Milwaukee Brewers at Los Angeles Dodgers | Venue: Dodger Stadium</description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401908032</guid>
     </item>
     <item>
       <title>10/14/2026 • 7:30 PM ET — College Football — Missouri State Bears vs Kennesaw State Owls</title>
@@ -1171,6 +1165,12 @@
       <guid isPermaLink="false">401914125</guid>
     </item>
     <item>
+      <title>10/14/2026 • 8:00 PM ET — MLB — Los Angeles Dodgers vs Milwaukee Brewers</title>
+      <description>Date: 10/14/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Milwaukee Brewers at Los Angeles Dodgers | Venue: Dodger Stadium</description>
+      <pubDate>Wed, 14 Oct 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401908032</guid>
+    </item>
+    <item>
       <title>10/14/2026 • 8:30 PM ET — NHL — Colorado Avalanche vs Dallas Stars</title>
       <description>Date: 10/14/2026 | Time: 8:30 PM ET | Status: Scheduled | Sport: NHL | Event: Dallas Stars at Colorado Avalanche | Venue: Ball Arena</description>
       <pubDate>Wed, 14 Oct 2026 20:30:00 -0400</pubDate>
@@ -1237,16 +1237,16 @@
       <guid isPermaLink="false">761872</guid>
     </item>
     <item>
-      <title>10/15/2026 • 12:00 AM ET — MLB — CLE/CHW vs Tampa Bay Rays</title>
-      <description>Date: 10/15/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at CLE/CHW</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401908025</guid>
-    </item>
-    <item>
       <title>10/15/2026 • 12:00 AM ET — MLB — Los Angeles Dodgers vs Milwaukee Brewers</title>
       <description>Date: 10/15/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Milwaukee Brewers at Los Angeles Dodgers | Venue: Dodger Stadium</description>
       <pubDate>Thu, 15 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401908033</guid>
+    </item>
+    <item>
+      <title>10/15/2026 • 6:00 PM ET — MLB — CLE/CHW vs Tampa Bay Rays</title>
+      <description>Date: 10/15/2026 | Time: 6:00 PM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at CLE/CHW</description>
+      <pubDate>Thu, 15 Oct 2026 18:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401908025</guid>
     </item>
     <item>
       <title>10/15/2026 • 7:00 PM ET — NHL — Toronto Maple Leafs vs Buffalo Sabres</title>
