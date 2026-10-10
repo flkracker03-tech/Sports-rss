@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Fri, 09 Oct 2026 21:16:56 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 03:33:38 -0400</lastBuildDate>
     
     <item>
       <title>10/10/2026 • 12:00 PM ET — College Football — Nebraska Cornhuskers vs Indiana Hoosiers</title>
@@ -403,6 +403,12 @@
       <guid isPermaLink="false">761853</guid>
     </item>
     <item>
+      <title>10/10/2026 • 8:00 PM ET — College Football — Utah Utes vs Kansas Jayhawks</title>
+      <description>Date: 10/10/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: College Football | Event: Kansas Jayhawks at Utah Utes | Venue: Rice-Eccles Stadium</description>
+      <pubDate>Sat, 10 Oct 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401856827</guid>
+    </item>
+    <item>
       <title>10/10/2026 • 8:00 PM ET — College Football — Purdue Boilermakers vs Minnesota Golden Gophers</title>
       <description>Date: 10/10/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: College Football | Event: Minnesota Golden Gophers at Purdue Boilermakers | Venue: Ross-Ade Stadium</description>
       <pubDate>Sat, 10 Oct 2026 20:00:00 -0400</pubDate>
@@ -469,12 +475,6 @@
       <guid isPermaLink="false">401892481</guid>
     </item>
     <item>
-      <title>10/10/2026 • 10:15 PM ET — College Football — Utah Utes vs Kansas Jayhawks</title>
-      <description>Date: 10/10/2026 | Time: 10:15 PM ET | Status: Scheduled | Sport: College Football | Event: Kansas Jayhawks at Utah Utes | Venue: Rice-Eccles Stadium</description>
-      <pubDate>Sat, 10 Oct 2026 22:15:00 -0400</pubDate>
-      <guid isPermaLink="false">401856827</guid>
-    </item>
-    <item>
       <title>10/10/2026 • 10:30 PM ET — College Football — Fresno State Bulldogs vs Boise State Broncos</title>
       <description>Date: 10/10/2026 | Time: 10:30 PM ET | Status: Scheduled | Sport: College Football | Event: Boise State Broncos at Fresno State Bulldogs | Venue: Valley Children's Stadium</description>
       <pubDate>Sat, 10 Oct 2026 22:30:00 -0400</pubDate>
@@ -497,18 +497,6 @@
       <description>Date: 10/10/2026 | Time: 10:30 PM ET | Status: Scheduled | Sport: MLS | Event: Vancouver Whitecaps at LAFC | Venue: BMO Stadium</description>
       <pubDate>Sat, 10 Oct 2026 22:30:00 -0400</pubDate>
       <guid isPermaLink="false">761858</guid>
-    </item>
-    <item>
-      <title>10/11/2026 • 12:00 AM ET — WNBA — New York Liberty vs Atlanta Dream</title>
-      <description>Date: 10/11/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: WNBA | Event: Atlanta Dream at New York Liberty | Venue: Barclays Center</description>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401918301</guid>
-    </item>
-    <item>
-      <title>10/11/2026 • 12:00 AM ET — WNBA — Las Vegas Aces vs Golden State Valkyries</title>
-      <description>Date: 10/11/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: WNBA | Event: Golden State Valkyries at Las Vegas Aces | Venue: Michelob ULTRA Arena</description>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401918302</guid>
     </item>
     <item>
       <title>10/11/2026 • 6:00 AM ET — NBA — Houston Rockets vs Dallas Mavericks</title>
@@ -851,18 +839,6 @@
       <description>Date: 10/13/2026 | Time: 11:00 PM ET | Status: Scheduled | Sport: NHL | Event: Boston Bruins at San Jose Sharks | Venue: SAP Center at San Jose</description>
       <pubDate>Tue, 13 Oct 2026 23:00:00 -0400</pubDate>
       <guid isPermaLink="false">401892503</guid>
-    </item>
-    <item>
-      <title>10/14/2026 • 12:00 AM ET — WNBA — Atlanta Dream vs New York Liberty</title>
-      <description>Date: 10/14/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: WNBA | Event: New York Liberty at Atlanta Dream | Venue: State Farm Arena</description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401918303</guid>
-    </item>
-    <item>
-      <title>10/14/2026 • 12:00 AM ET — WNBA — Golden State Valkyries vs Las Vegas Aces</title>
-      <description>Date: 10/14/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: WNBA | Event: Las Vegas Aces at Golden State Valkyries | Venue: Chase Center</description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401918304</guid>
     </item>
     <item>
       <title>10/14/2026 • 7:30 PM ET — College Football — Missouri State Bears vs Kennesaw State Owls</title>
@@ -1459,8 +1435,8 @@
       <guid isPermaLink="false">401866478</guid>
     </item>
     <item>
-      <title>10/17/2026 • 3:30 PM ET — WNBA — TBD vs TBD</title>
-      <description>Date: 10/17/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: WNBA | Event: TBD at TBD</description>
+      <title>10/17/2026 • 3:30 PM ET — WNBA — Golden State Valkyries vs Atlanta Dream</title>
+      <description>Date: 10/17/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: WNBA | Event: Atlanta Dream at Golden State Valkyries | Venue: Chase Center</description>
       <pubDate>Sat, 17 Oct 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401918305</guid>
     </item>
