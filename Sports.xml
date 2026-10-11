@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 10 Oct 2026 20:43:05 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 02:30:35 -0400</lastBuildDate>
     
     <item>
       <title>10/11/2026 • 6:00 AM ET — NBA — Houston Rockets vs Dallas Mavericks</title>
@@ -181,8 +181,8 @@
       <guid isPermaLink="false">401914124</guid>
     </item>
     <item>
-      <title>10/12/2026 • 8:00 PM ET — MLB — Tampa Bay Rays vs CLE/CHW</title>
-      <description>Date: 10/12/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: CLE/CHW at Tampa Bay Rays | Venue: Tropicana Field</description>
+      <title>10/12/2026 • 8:00 PM ET — MLB — Tampa Bay Rays vs Cleveland Guardians</title>
+      <description>Date: 10/12/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Cleveland Guardians at Tampa Bay Rays | Venue: Tropicana Field</description>
       <pubDate>Mon, 12 Oct 2026 20:00:00 -0400</pubDate>
       <guid isPermaLink="false">401908023</guid>
     </item>
@@ -283,8 +283,8 @@
       <guid isPermaLink="false">401908621</guid>
     </item>
     <item>
-      <title>10/13/2026 • 8:00 PM ET — MLB — Tampa Bay Rays vs CLE/CHW</title>
-      <description>Date: 10/13/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: CLE/CHW at Tampa Bay Rays | Venue: Tropicana Field</description>
+      <title>10/13/2026 • 8:00 PM ET — MLB — Tampa Bay Rays vs Cleveland Guardians</title>
+      <description>Date: 10/13/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Cleveland Guardians at Tampa Bay Rays | Venue: Tropicana Field</description>
       <pubDate>Tue, 13 Oct 2026 20:00:00 -0400</pubDate>
       <guid isPermaLink="false">401908024</guid>
     </item>
@@ -511,8 +511,8 @@
       <guid isPermaLink="false">761872</guid>
     </item>
     <item>
-      <title>10/15/2026 • 6:00 PM ET — MLB — CLE/CHW vs Tampa Bay Rays</title>
-      <description>Date: 10/15/2026 | Time: 6:00 PM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at CLE/CHW</description>
+      <title>10/15/2026 • 6:00 PM ET — MLB — Cleveland Guardians vs Tampa Bay Rays</title>
+      <description>Date: 10/15/2026 | Time: 6:00 PM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at Cleveland Guardians | Venue: Progressive Field</description>
       <pubDate>Thu, 15 Oct 2026 18:00:00 -0400</pubDate>
       <guid isPermaLink="false">401908025</guid>
     </item>
@@ -625,8 +625,8 @@
       <guid isPermaLink="false">401892516</guid>
     </item>
     <item>
-      <title>10/16/2026 • 6:00 PM ET — MLB — CLE/CHW vs Tampa Bay Rays</title>
-      <description>Date: 10/16/2026 | Time: 6:00 PM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at CLE/CHW</description>
+      <title>10/16/2026 • 6:00 PM ET — MLB — Cleveland Guardians vs Tampa Bay Rays</title>
+      <description>Date: 10/16/2026 | Time: 6:00 PM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at Cleveland Guardians | Venue: Progressive Field</description>
       <pubDate>Fri, 16 Oct 2026 18:00:00 -0400</pubDate>
       <guid isPermaLink="false">401908026</guid>
     </item>
@@ -739,12 +739,6 @@
       <guid isPermaLink="false">401898719</guid>
     </item>
     <item>
-      <title>10/17/2026 • 12:00 AM ET — College Football — Colorado Buffaloes vs Utah Utes</title>
-      <description>Date: 10/17/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Utah Utes at Colorado Buffaloes | Venue: Folsom Field</description>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401856833</guid>
-    </item>
-    <item>
       <title>10/17/2026 • 12:00 AM ET — College Football — Oregon Ducks vs Nebraska Cornhuskers</title>
       <description>Date: 10/17/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Nebraska Cornhuskers at Oregon Ducks | Venue: Autzen Stadium</description>
       <pubDate>Sat, 17 Oct 2026 00:00:00 -0400</pubDate>
@@ -755,18 +749,6 @@
       <description>Date: 10/17/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Wisconsin Badgers at UCLA Bruins | Venue: Rose Bowl</description>
       <pubDate>Sat, 17 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401858494</guid>
-    </item>
-    <item>
-      <title>10/17/2026 • 12:00 AM ET — College Football — California Golden Bears vs Wake Forest Demon Deacons</title>
-      <description>Date: 10/17/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Wake Forest Demon Deacons at California Golden Bears | Venue: California Memorial Stadium</description>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858269</guid>
-    </item>
-    <item>
-      <title>10/17/2026 • 12:00 AM ET — College Football — Michigan Wolverines vs Penn State Nittany Lions</title>
-      <description>Date: 10/17/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Penn State Nittany Lions at Michigan Wolverines | Venue: Michigan Stadium</description>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858490</guid>
     </item>
     <item>
       <title>10/17/2026 • 12:00 PM ET — College Football — Texas Longhorns vs Florida Gators</title>
@@ -905,6 +887,12 @@
       <description>Date: 10/17/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Arizona State Sun Devils at Texas Tech Red Raiders | Venue: Galaxy Stadium</description>
       <pubDate>Sat, 17 Oct 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856828</guid>
+    </item>
+    <item>
+      <title>10/17/2026 • 3:30 PM ET — College Football — Michigan Wolverines vs Penn State Nittany Lions</title>
+      <description>Date: 10/17/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Penn State Nittany Lions at Michigan Wolverines | Venue: Michigan Stadium</description>
+      <pubDate>Sat, 17 Oct 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401858490</guid>
     </item>
     <item>
       <title>10/17/2026 • 3:30 PM ET — College Football — Virginia Tech Hokies vs Georgia Tech Yellow Jackets</title>
@@ -1135,8 +1123,8 @@
       <guid isPermaLink="false">401871091</guid>
     </item>
     <item>
-      <title>10/17/2026 • 8:00 PM ET — MLB — CLE/CHW vs Tampa Bay Rays</title>
-      <description>Date: 10/17/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at CLE/CHW</description>
+      <title>10/17/2026 • 8:00 PM ET — MLB — Cleveland Guardians vs Tampa Bay Rays</title>
+      <description>Date: 10/17/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at Cleveland Guardians | Venue: Progressive Field</description>
       <pubDate>Sat, 17 Oct 2026 20:00:00 -0400</pubDate>
       <guid isPermaLink="false">401908027</guid>
     </item>
@@ -1193,6 +1181,18 @@
       <description>Date: 10/17/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NHL | Event: Pittsburgh Penguins at Vegas Golden Knights | Venue: T-Mobile Arena</description>
       <pubDate>Sat, 17 Oct 2026 22:00:00 -0400</pubDate>
       <guid isPermaLink="false">401892532</guid>
+    </item>
+    <item>
+      <title>10/17/2026 • 10:15 PM ET — College Football — Colorado Buffaloes vs Utah Utes</title>
+      <description>Date: 10/17/2026 | Time: 10:15 PM ET | Status: Scheduled | Sport: College Football | Event: Utah Utes at Colorado Buffaloes | Venue: Folsom Field</description>
+      <pubDate>Sat, 17 Oct 2026 22:15:00 -0400</pubDate>
+      <guid isPermaLink="false">401856833</guid>
+    </item>
+    <item>
+      <title>10/17/2026 • 10:30 PM ET — College Football — California Golden Bears vs Wake Forest Demon Deacons</title>
+      <description>Date: 10/17/2026 | Time: 10:30 PM ET | Status: Scheduled | Sport: College Football | Event: Wake Forest Demon Deacons at California Golden Bears | Venue: California Memorial Stadium</description>
+      <pubDate>Sat, 17 Oct 2026 22:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401858269</guid>
     </item>
     <item>
       <title>10/17/2026 • 10:30 PM ET — College Football — San Diego State Aztecs vs Fresno State Bulldogs</title>
