@@ -4,17 +4,17 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 11 Oct 2026 02:30:35 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 09:32:50 -0400</lastBuildDate>
     
     <item>
       <title>10/11/2026 • 6:00 AM ET — NBA — Houston Rockets vs Dallas Mavericks</title>
-      <description>Date: 10/11/2026 | Time: 6:00 AM ET | Status: Scheduled | Sport: NBA | Event: Dallas Mavericks at Houston Rockets | Venue: Venetian Arena</description>
+      <description>Date: 10/11/2026 | Time: 6:00 AM ET | Status: Final | Sport: NBA | Event: Dallas Mavericks at Houston Rockets | Venue: Venetian Arena</description>
       <pubDate>Sun, 11 Oct 2026 06:00:00 -0400</pubDate>
       <guid isPermaLink="false">401898400</guid>
     </item>
     <item>
       <title>10/11/2026 • 9:30 AM ET — NFL — Jacksonville Jaguars vs Philadelphia Eagles</title>
-      <description>Date: 10/11/2026 | Time: 9:30 AM ET | Status: Scheduled | Sport: NFL | Event: Philadelphia Eagles at Jacksonville Jaguars | Venue: Tottenham Hotspur Stadium</description>
+      <description>Date: 10/11/2026 | Time: 9:30 AM ET | Status: In Progress | Sport: NFL | Event: Philadelphia Eagles at Jacksonville Jaguars | Venue: Tottenham Hotspur Stadium</description>
       <pubDate>Sun, 11 Oct 2026 09:30:00 -0400</pubDate>
       <guid isPermaLink="false">401872981</guid>
     </item>
@@ -889,12 +889,6 @@
       <guid isPermaLink="false">401856828</guid>
     </item>
     <item>
-      <title>10/17/2026 • 3:30 PM ET — College Football — Michigan Wolverines vs Penn State Nittany Lions</title>
-      <description>Date: 10/17/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Penn State Nittany Lions at Michigan Wolverines | Venue: Michigan Stadium</description>
-      <pubDate>Sat, 17 Oct 2026 15:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401858490</guid>
-    </item>
-    <item>
       <title>10/17/2026 • 3:30 PM ET — College Football — Virginia Tech Hokies vs Georgia Tech Yellow Jackets</title>
       <description>Date: 10/17/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Georgia Tech Yellow Jackets at Virginia Tech Hokies | Venue: Lane Stadium</description>
       <pubDate>Sat, 17 Oct 2026 15:30:00 -0400</pubDate>
@@ -905,6 +899,12 @@
       <description>Date: 10/17/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: North Carolina Tar Heels at Duke Blue Devils | Venue: Wallace Wade Stadium</description>
       <pubDate>Sat, 17 Oct 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858266</guid>
+    </item>
+    <item>
+      <title>10/17/2026 • 3:30 PM ET — College Football — Michigan Wolverines vs Penn State Nittany Lions</title>
+      <description>Date: 10/17/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Penn State Nittany Lions at Michigan Wolverines | Venue: Michigan Stadium</description>
+      <pubDate>Sat, 17 Oct 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401858490</guid>
     </item>
     <item>
       <title>10/17/2026 • 3:30 PM ET — College Football — Wyoming Cowboys vs Northern Illinois Huskies</title>
