@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 11 Oct 2026 09:32:50 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 14:28:10 -0400</lastBuildDate>
     
     <item>
       <title>10/11/2026 • 6:00 AM ET — NBA — Houston Rockets vs Dallas Mavericks</title>
@@ -14,55 +14,55 @@
     </item>
     <item>
       <title>10/11/2026 • 9:30 AM ET — NFL — Jacksonville Jaguars vs Philadelphia Eagles</title>
-      <description>Date: 10/11/2026 | Time: 9:30 AM ET | Status: In Progress | Sport: NFL | Event: Philadelphia Eagles at Jacksonville Jaguars | Venue: Tottenham Hotspur Stadium</description>
+      <description>Date: 10/11/2026 | Time: 9:30 AM ET | Status: Final | Sport: NFL | Event: Philadelphia Eagles at Jacksonville Jaguars | Venue: Tottenham Hotspur Stadium</description>
       <pubDate>Sun, 11 Oct 2026 09:30:00 -0400</pubDate>
       <guid isPermaLink="false">401872981</guid>
     </item>
     <item>
       <title>10/11/2026 • 1:00 PM ET — NFL — Green Bay Packers vs Chicago Bears</title>
-      <description>Date: 10/11/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NFL | Event: Chicago Bears at Green Bay Packers | Venue: Lambeau Field</description>
+      <description>Date: 10/11/2026 | Time: 1:00 PM ET | Status: Halftime | Sport: NFL | Event: Chicago Bears at Green Bay Packers | Venue: Lambeau Field</description>
       <pubDate>Sun, 11 Oct 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872990</guid>
     </item>
     <item>
       <title>10/11/2026 • 1:00 PM ET — NFL — Tennessee Titans vs Houston Texans</title>
-      <description>Date: 10/11/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NFL | Event: Houston Texans at Tennessee Titans | Venue: Nissan Stadium</description>
+      <description>Date: 10/11/2026 | Time: 1:00 PM ET | Status: Halftime | Sport: NFL | Event: Houston Texans at Tennessee Titans | Venue: Nissan Stadium</description>
       <pubDate>Sun, 11 Oct 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872984</guid>
     </item>
     <item>
       <title>10/11/2026 • 1:00 PM ET — NFL — Miami Dolphins vs Cincinnati Bengals</title>
-      <description>Date: 10/11/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NFL | Event: Cincinnati Bengals at Miami Dolphins | Venue: Hard Rock Stadium</description>
+      <description>Date: 10/11/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Cincinnati Bengals at Miami Dolphins | Venue: Hard Rock Stadium</description>
       <pubDate>Sun, 11 Oct 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872982</guid>
     </item>
     <item>
       <title>10/11/2026 • 1:00 PM ET — NFL — New England Patriots vs Las Vegas Raiders</title>
-      <description>Date: 10/11/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NFL | Event: Las Vegas Raiders at New England Patriots | Venue: Gillette Stadium</description>
+      <description>Date: 10/11/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Las Vegas Raiders at New England Patriots | Venue: Gillette Stadium</description>
       <pubDate>Sun, 11 Oct 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872986</guid>
     </item>
     <item>
       <title>10/11/2026 • 1:00 PM ET — NFL — New Orleans Saints vs Minnesota Vikings</title>
-      <description>Date: 10/11/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NFL | Event: Minnesota Vikings at New Orleans Saints | Venue: Caesars Superdome</description>
+      <description>Date: 10/11/2026 | Time: 1:00 PM ET | Status: Halftime | Sport: NFL | Event: Minnesota Vikings at New Orleans Saints | Venue: Caesars Superdome</description>
       <pubDate>Sun, 11 Oct 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872987</guid>
     </item>
     <item>
       <title>10/11/2026 • 1:00 PM ET — NFL — New York Jets vs Cleveland Browns</title>
-      <description>Date: 10/11/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NFL | Event: Cleveland Browns at New York Jets | Venue: MetLife Stadium</description>
+      <description>Date: 10/11/2026 | Time: 1:00 PM ET | Status: Halftime | Sport: NFL | Event: Cleveland Browns at New York Jets | Venue: MetLife Stadium</description>
       <pubDate>Sun, 11 Oct 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872983</guid>
     </item>
     <item>
       <title>10/11/2026 • 1:00 PM ET — NFL — Pittsburgh Steelers vs Indianapolis Colts</title>
-      <description>Date: 10/11/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NFL | Event: Indianapolis Colts at Pittsburgh Steelers | Venue: Acrisure Stadium</description>
+      <description>Date: 10/11/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: Indianapolis Colts at Pittsburgh Steelers | Venue: Acrisure Stadium</description>
       <pubDate>Sun, 11 Oct 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872985</guid>
     </item>
     <item>
       <title>10/11/2026 • 1:00 PM ET — NFL — Washington Commanders vs New York Giants</title>
-      <description>Date: 10/11/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NFL | Event: New York Giants at Washington Commanders | Venue: Northwest Stadium</description>
+      <description>Date: 10/11/2026 | Time: 1:00 PM ET | Status: In Progress | Sport: NFL | Event: New York Giants at Washington Commanders | Venue: Northwest Stadium</description>
       <pubDate>Sun, 11 Oct 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">401872988</guid>
     </item>
@@ -739,28 +739,16 @@
       <guid isPermaLink="false">401898719</guid>
     </item>
     <item>
-      <title>10/17/2026 • 12:00 AM ET — College Football — Oregon Ducks vs Nebraska Cornhuskers</title>
-      <description>Date: 10/17/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Nebraska Cornhuskers at Oregon Ducks | Venue: Autzen Stadium</description>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858492</guid>
-    </item>
-    <item>
-      <title>10/17/2026 • 12:00 AM ET — College Football — UCLA Bruins vs Wisconsin Badgers</title>
-      <description>Date: 10/17/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Wisconsin Badgers at UCLA Bruins | Venue: Rose Bowl</description>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858494</guid>
+      <title>10/17/2026 • 12:00 PM ET — College Football — Indiana Hoosiers vs Ohio State Buckeyes</title>
+      <description>Date: 10/17/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Ohio State Buckeyes at Indiana Hoosiers | Venue: Memorial Stadium (Bloomington, IN)</description>
+      <pubDate>Sat, 17 Oct 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401858488</guid>
     </item>
     <item>
       <title>10/17/2026 • 12:00 PM ET — College Football — Texas Longhorns vs Florida Gators</title>
       <description>Date: 10/17/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Florida Gators at Texas Longhorns | Venue: DKR-Texas Memorial Stadium</description>
       <pubDate>Sat, 17 Oct 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856724</guid>
-    </item>
-    <item>
-      <title>10/17/2026 • 12:00 PM ET — College Football — Indiana Hoosiers vs Ohio State Buckeyes</title>
-      <description>Date: 10/17/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Ohio State Buckeyes at Indiana Hoosiers | Venue: Memorial Stadium (Bloomington, IN)</description>
-      <pubDate>Sat, 17 Oct 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858488</guid>
     </item>
     <item>
       <title>10/17/2026 • 12:00 PM ET — College Football — LSU Tigers vs Mississippi State Bulldogs</title>
@@ -775,10 +763,10 @@
       <guid isPermaLink="false">401858268</guid>
     </item>
     <item>
-      <title>10/17/2026 • 12:00 PM ET — College Football — Boston College Eagles vs Pittsburgh Panthers</title>
-      <description>Date: 10/17/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Pittsburgh Panthers at Boston College Eagles | Venue: Alumni Stadium (Chestnut Hill, MA)</description>
+      <title>10/17/2026 • 12:00 PM ET — College Football — Michigan State Spartans vs Northwestern Wildcats</title>
+      <description>Date: 10/17/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Northwestern Wildcats at Michigan State Spartans | Venue: Spartan Stadium</description>
       <pubDate>Sat, 17 Oct 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858267</guid>
+      <guid isPermaLink="false">401858491</guid>
     </item>
     <item>
       <title>10/17/2026 • 12:00 PM ET — College Football — West Virginia Mountaineers vs Cincinnati Bearcats</title>
@@ -799,10 +787,10 @@
       <guid isPermaLink="false">401858261</guid>
     </item>
     <item>
-      <title>10/17/2026 • 12:00 PM ET — College Football — Michigan State Spartans vs Northwestern Wildcats</title>
-      <description>Date: 10/17/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Northwestern Wildcats at Michigan State Spartans | Venue: Spartan Stadium</description>
+      <title>10/17/2026 • 12:00 PM ET — College Football — Boston College Eagles vs Pittsburgh Panthers</title>
+      <description>Date: 10/17/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Pittsburgh Panthers at Boston College Eagles | Venue: Alumni Stadium (Chestnut Hill, MA)</description>
       <pubDate>Sat, 17 Oct 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858491</guid>
+      <guid isPermaLink="false">401858267</guid>
     </item>
     <item>
       <title>10/17/2026 • 12:00 PM ET — College Football — Army Black Knights vs Florida Atlantic Owls</title>
@@ -1057,16 +1045,22 @@
       <guid isPermaLink="false">401856809</guid>
     </item>
     <item>
-      <title>10/17/2026 • 7:30 PM ET — College Football — Houston Cougars vs Oklahoma State Cowboys</title>
-      <description>Date: 10/17/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Oklahoma State Cowboys at Houston Cougars | Venue: TDECU Stadium</description>
+      <title>10/17/2026 • 7:30 PM ET — College Football — UCLA Bruins vs Wisconsin Badgers</title>
+      <description>Date: 10/17/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Wisconsin Badgers at UCLA Bruins | Venue: Rose Bowl</description>
       <pubDate>Sat, 17 Oct 2026 19:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401856831</guid>
+      <guid isPermaLink="false">401858494</guid>
     </item>
     <item>
       <title>10/17/2026 • 7:30 PM ET — College Football — Oklahoma Sooners vs Kentucky Wildcats</title>
       <description>Date: 10/17/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Kentucky Wildcats at Oklahoma Sooners | Venue: Memorial Stadium (Norman, OK)</description>
       <pubDate>Sat, 17 Oct 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856722</guid>
+    </item>
+    <item>
+      <title>10/17/2026 • 7:30 PM ET — College Football — Houston Cougars vs Oklahoma State Cowboys</title>
+      <description>Date: 10/17/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Oklahoma State Cowboys at Houston Cougars | Venue: TDECU Stadium</description>
+      <pubDate>Sat, 17 Oct 2026 19:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401856831</guid>
     </item>
     <item>
       <title>10/17/2026 • 7:30 PM ET — College Football — Stanford Cardinal vs Elon Phoenix</title>
@@ -1229,6 +1223,12 @@
       <description>Date: 10/17/2026 | Time: 10:30 PM ET | Status: Scheduled | Sport: MLS | Event: CF Montréal at Seattle Sounders FC | Venue: Lumen Field</description>
       <pubDate>Sat, 17 Oct 2026 22:30:00 -0400</pubDate>
       <guid isPermaLink="false">761885</guid>
+    </item>
+    <item>
+      <title>10/17/2026 • 11:00 PM ET — College Football — Oregon Ducks vs Nebraska Cornhuskers</title>
+      <description>Date: 10/17/2026 | Time: 11:00 PM ET | Status: Scheduled | Sport: College Football | Event: Nebraska Cornhuskers at Oregon Ducks | Venue: Autzen Stadium</description>
+      <pubDate>Sat, 17 Oct 2026 23:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401858492</guid>
     </item>
     <item>
       <title>10/18/2026 • 9:30 AM ET — NFL — Jacksonville Jaguars vs Houston Texans</title>
