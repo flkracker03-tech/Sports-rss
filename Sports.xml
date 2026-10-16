@@ -4,35 +4,35 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Fri, 16 Oct 2026 17:32:05 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 19:53:32 -0400</lastBuildDate>
     
     <item>
       <title>10/16/2026 • 7:00 PM ET — NBA — Orlando Magic vs Miami Heat</title>
-      <description>Date: 10/16/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NBA | Event: Miami Heat at Orlando Magic | Venue: Kia Center</description>
+      <description>Date: 10/16/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: NBA | Event: Miami Heat at Orlando Magic | Venue: Kia Center</description>
       <pubDate>Fri, 16 Oct 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401898406</guid>
     </item>
     <item>
       <title>10/16/2026 • 7:00 PM ET — NBA — Philadelphia 76ers vs Boston Celtics</title>
-      <description>Date: 10/16/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NBA | Event: Boston Celtics at Philadelphia 76ers | Venue: Xfinity Mobile Arena</description>
+      <description>Date: 10/16/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: NBA | Event: Boston Celtics at Philadelphia 76ers | Venue: Xfinity Mobile Arena</description>
       <pubDate>Fri, 16 Oct 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401898407</guid>
     </item>
     <item>
       <title>10/16/2026 • 7:00 PM ET — NBA — Detroit Pistons vs Toronto Raptors</title>
-      <description>Date: 10/16/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NBA | Event: Toronto Raptors at Detroit Pistons | Venue: Little Caesars Arena</description>
+      <description>Date: 10/16/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: NBA | Event: Toronto Raptors at Detroit Pistons | Venue: Little Caesars Arena</description>
       <pubDate>Fri, 16 Oct 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401908946</guid>
     </item>
     <item>
       <title>10/16/2026 • 7:00 PM ET — NBA — Indiana Pacers vs Milwaukee Bucks</title>
-      <description>Date: 10/16/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NBA | Event: Milwaukee Bucks at Indiana Pacers | Venue: Gainbridge Fieldhouse</description>
+      <description>Date: 10/16/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: NBA | Event: Milwaukee Bucks at Indiana Pacers | Venue: Gainbridge Fieldhouse</description>
       <pubDate>Fri, 16 Oct 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">401914126</guid>
     </item>
     <item>
       <title>10/16/2026 • 7:30 PM ET — College Football — Tulane Green Wave vs Memphis Tigers</title>
-      <description>Date: 10/16/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Memphis Tigers at Tulane Green Wave | Venue: Yulman Stadium</description>
+      <description>Date: 10/16/2026 | Time: 7:30 PM ET | Status: In Progress | Sport: College Football | Event: Memphis Tigers at Tulane Green Wave | Venue: Yulman Stadium</description>
       <pubDate>Fri, 16 Oct 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401862801</guid>
     </item>
@@ -80,7 +80,7 @@
     </item>
     <item>
       <title>10/16/2026 • 8:00 PM ET — MLB — Cleveland Guardians vs Tampa Bay Rays</title>
-      <description>Date: 10/16/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at Cleveland Guardians | Venue: Progressive Field</description>
+      <description>Date: 10/16/2026 | Time: 8:00 PM ET | Status: Delayed | Sport: MLB | Event: Tampa Bay Rays at Cleveland Guardians | Venue: Progressive Field</description>
       <pubDate>Fri, 16 Oct 2026 20:00:00 -0400</pubDate>
       <guid isPermaLink="false">401908026</guid>
     </item>
@@ -1051,12 +1051,6 @@
       <guid isPermaLink="false">401892563</guid>
     </item>
     <item>
-      <title>10/23/2026 • 12:00 AM ET — MLB — Milwaukee Brewers vs Rays/Guardians</title>
-      <description>Date: 10/23/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Rays/Guardians at Milwaukee Brewers | Venue: American Family Field</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401908042</guid>
-    </item>
-    <item>
       <title>10/23/2026 • 4:00 PM ET — NBA — Milwaukee Bucks vs Chicago Bulls</title>
       <description>Date: 10/23/2026 | Time: 4:00 PM ET | Status: Scheduled | Sport: NBA | Event: Chicago Bulls at Milwaukee Bucks | Venue: Fiserv Forum</description>
       <pubDate>Fri, 23 Oct 2026 16:00:00 -0400</pubDate>
@@ -1109,6 +1103,12 @@
       <description>Date: 10/23/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NBA | Event: Detroit Pistons at Miami Heat | Venue: Kaseya Center</description>
       <pubDate>Fri, 23 Oct 2026 20:00:00 -0400</pubDate>
       <guid isPermaLink="false">401909847</guid>
+    </item>
+    <item>
+      <title>10/23/2026 • 8:00 PM ET — MLB — Milwaukee Brewers vs Rays/Guardians</title>
+      <description>Date: 10/23/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Rays/Guardians at Milwaukee Brewers | Venue: American Family Field</description>
+      <pubDate>Fri, 23 Oct 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401908042</guid>
     </item>
     <item>
       <title>10/23/2026 • 8:00 PM ET — NHL — Chicago Blackhawks vs Montreal Canadiens</title>
