@@ -4,122 +4,8 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Thu, 15 Oct 2026 18:18:31 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 20:35:15 -0400</lastBuildDate>
     
-    <item>
-      <title>10/15/2026 • 1:00 PM ET — MLB — Cleveland Guardians vs Tampa Bay Rays</title>
-      <description>Date: 10/15/2026 | Time: 1:00 PM ET | Status: Final | Sport: MLB | Event: Tampa Bay Rays at Cleveland Guardians | Venue: Progressive Field</description>
-      <pubDate>Thu, 15 Oct 2026 13:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401908025</guid>
-    </item>
-    <item>
-      <title>10/15/2026 • 7:00 PM ET — NHL — Toronto Maple Leafs vs Buffalo Sabres</title>
-      <description>Date: 10/15/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NHL | Event: Buffalo Sabres at Toronto Maple Leafs | Venue: Scotiabank Arena</description>
-      <pubDate>Thu, 15 Oct 2026 19:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401892506</guid>
-    </item>
-    <item>
-      <title>10/15/2026 • 7:00 PM ET — NHL — Ottawa Senators vs New York Islanders</title>
-      <description>Date: 10/15/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NHL | Event: New York Islanders at Ottawa Senators | Venue: Canadian Tire Centre</description>
-      <pubDate>Thu, 15 Oct 2026 19:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401892507</guid>
-    </item>
-    <item>
-      <title>10/15/2026 • 7:00 PM ET — NHL — Tampa Bay Lightning vs Seattle Kraken</title>
-      <description>Date: 10/15/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NHL | Event: Seattle Kraken at Tampa Bay Lightning | Venue: Benchmark International Arena</description>
-      <pubDate>Thu, 15 Oct 2026 19:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401892509</guid>
-    </item>
-    <item>
-      <title>10/15/2026 • 7:00 PM ET — NHL — Florida Panthers vs Vancouver Canucks</title>
-      <description>Date: 10/15/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NHL | Event: Vancouver Canucks at Florida Panthers | Venue: Amerant Bank Arena</description>
-      <pubDate>Thu, 15 Oct 2026 19:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401892510</guid>
-    </item>
-    <item>
-      <title>10/15/2026 • 7:00 PM ET — NHL — New Jersey Devils vs New York Rangers</title>
-      <description>Date: 10/15/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NHL | Event: New York Rangers at New Jersey Devils | Venue: Prudential Center</description>
-      <pubDate>Thu, 15 Oct 2026 19:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401892511</guid>
-    </item>
-    <item>
-      <title>10/15/2026 • 7:30 PM ET — College Football — UAB Blazers vs East Carolina Pirates</title>
-      <description>Date: 10/15/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: East Carolina Pirates at UAB Blazers | Venue: Protective Stadium</description>
-      <pubDate>Thu, 15 Oct 2026 19:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401862800</guid>
-    </item>
-    <item>
-      <title>10/15/2026 • 7:30 PM ET — College Football — Old Dominion Monarchs vs Georgia Southern Eagles</title>
-      <description>Date: 10/15/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Georgia Southern Eagles at Old Dominion Monarchs | Venue: S.B. Ballard Stadium</description>
-      <pubDate>Thu, 15 Oct 2026 19:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401869950</guid>
-    </item>
-    <item>
-      <title>10/15/2026 • 7:30 PM ET — NBA — New York Knicks vs Toronto Raptors</title>
-      <description>Date: 10/15/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: NBA | Event: Toronto Raptors at New York Knicks | Venue: Madison Square Garden</description>
-      <pubDate>Thu, 15 Oct 2026 19:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401908945</guid>
-    </item>
-    <item>
-      <title>10/15/2026 • 7:30 PM ET — NHL — Detroit Red Wings vs Philadelphia Flyers</title>
-      <description>Date: 10/15/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: NHL | Event: Philadelphia Flyers at Detroit Red Wings | Venue: Little Caesars Arena</description>
-      <pubDate>Thu, 15 Oct 2026 19:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401892508</guid>
-    </item>
-    <item>
-      <title>10/15/2026 • 8:00 PM ET — College Football — Texas State Bobcats vs Colorado State Rams</title>
-      <description>Date: 10/15/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: College Football | Event: Colorado State Rams at Texas State Bobcats | Venue: UFCU Stadium</description>
-      <pubDate>Thu, 15 Oct 2026 20:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401860923</guid>
-    </item>
-    <item>
-      <title>10/15/2026 • 8:00 PM ET — MLB — Los Angeles Dodgers vs Milwaukee Brewers</title>
-      <description>Date: 10/15/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Milwaukee Brewers at Los Angeles Dodgers | Venue: Dodger Stadium</description>
-      <pubDate>Thu, 15 Oct 2026 20:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401908033</guid>
-    </item>
-    <item>
-      <title>10/15/2026 • 8:00 PM ET — NHL — Chicago Blackhawks vs Winnipeg Jets</title>
-      <description>Date: 10/15/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NHL | Event: Winnipeg Jets at Chicago Blackhawks | Venue: United Center</description>
-      <pubDate>Thu, 15 Oct 2026 20:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401892512</guid>
-    </item>
-    <item>
-      <title>10/15/2026 • 8:00 PM ET — NHL — Nashville Predators vs San Jose Sharks</title>
-      <description>Date: 10/15/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NHL | Event: San Jose Sharks at Nashville Predators | Venue: Bridgestone Arena</description>
-      <pubDate>Thu, 15 Oct 2026 20:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401892513</guid>
-    </item>
-    <item>
-      <title>10/15/2026 • 8:00 PM ET — NHL — Minnesota Wild vs St. Louis Blues</title>
-      <description>Date: 10/15/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NHL | Event: St. Louis Blues at Minnesota Wild | Venue: Grand Casino Arena</description>
-      <pubDate>Thu, 15 Oct 2026 20:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401892514</guid>
-    </item>
-    <item>
-      <title>10/15/2026 • 8:15 PM ET — NFL — Denver Broncos vs Seattle Seahawks</title>
-      <description>Date: 10/15/2026 | Time: 8:15 PM ET | Status: Scheduled | Sport: NFL | Event: Seattle Seahawks at Denver Broncos | Venue: Empower Field at Mile High</description>
-      <pubDate>Thu, 15 Oct 2026 20:15:00 -0400</pubDate>
-      <guid isPermaLink="false">401872995</guid>
-    </item>
-    <item>
-      <title>10/15/2026 • 8:30 PM ET — NBA — Houston Rockets vs Oklahoma City Thunder</title>
-      <description>Date: 10/15/2026 | Time: 8:30 PM ET | Status: Scheduled | Sport: NBA | Event: Oklahoma City Thunder at Houston Rockets | Venue: Toyota Center (Houston)</description>
-      <pubDate>Thu, 15 Oct 2026 20:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401908622</guid>
-    </item>
-    <item>
-      <title>10/15/2026 • 9:00 PM ET — NHL — Edmonton Oilers vs Utah Mammoth</title>
-      <description>Date: 10/15/2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: NHL | Event: Utah Mammoth at Edmonton Oilers | Venue: Rogers Place</description>
-      <pubDate>Thu, 15 Oct 2026 21:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401892515</guid>
-    </item>
-    <item>
-      <title>10/15/2026 • 10:00 PM ET — NHL — Vegas Golden Knights vs Calgary Flames</title>
-      <description>Date: 10/15/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NHL | Event: Calgary Flames at Vegas Golden Knights | Venue: T-Mobile Arena</description>
-      <pubDate>Thu, 15 Oct 2026 22:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401892516</guid>
-    </item>
     <item>
       <title>10/16/2026 • 6:00 PM ET — MLB — Cleveland Guardians vs Tampa Bay Rays</title>
       <description>Date: 10/16/2026 | Time: 6:00 PM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at Cleveland Guardians | Venue: Progressive Field</description>
@@ -1181,6 +1067,126 @@
       <description>Date: 10/22/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NHL | Event: Detroit Red Wings at Vancouver Canucks | Venue: Rogers Arena</description>
       <pubDate>Thu, 22 Oct 2026 22:00:00 -0400</pubDate>
       <guid isPermaLink="false">401892563</guid>
+    </item>
+    <item>
+      <title>10/23/2026 • 12:00 AM ET — MLB — TBD vs TBD</title>
+      <description>Date: 10/23/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: TBD at TBD</description>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401908042</guid>
+    </item>
+    <item>
+      <title>10/23/2026 • 7:00 PM ET — College Football — Virginia Cavaliers vs Duke Blue Devils</title>
+      <description>Date: 10/23/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Duke Blue Devils at Virginia Cavaliers | Venue: Scott Stadium</description>
+      <pubDate>Fri, 23 Oct 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401858271</guid>
+    </item>
+    <item>
+      <title>10/23/2026 • 7:00 PM ET — College Football — UConn Huskies vs Massachusetts Minutemen</title>
+      <description>Date: 10/23/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Massachusetts Minutemen at UConn Huskies | Venue: Pratt &amp; Whitney Stadium</description>
+      <pubDate>Fri, 23 Oct 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401861965</guid>
+    </item>
+    <item>
+      <title>10/23/2026 • 7:00 PM ET — NBA — Boston Celtics vs New York Knicks</title>
+      <description>Date: 10/23/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NBA | Event: New York Knicks at Boston Celtics | Venue: TD Garden</description>
+      <pubDate>Fri, 23 Oct 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401909095</guid>
+    </item>
+    <item>
+      <title>10/23/2026 • 7:00 PM ET — NBA — Charlotte Hornets vs Atlanta Hawks</title>
+      <description>Date: 10/23/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NBA | Event: Atlanta Hawks at Charlotte Hornets | Venue: Spectrum Center</description>
+      <pubDate>Fri, 23 Oct 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401909843</guid>
+    </item>
+    <item>
+      <title>10/23/2026 • 7:00 PM ET — NBA — Indiana Pacers vs Dallas Mavericks</title>
+      <description>Date: 10/23/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NBA | Event: Dallas Mavericks at Indiana Pacers | Venue: Gainbridge Fieldhouse</description>
+      <pubDate>Fri, 23 Oct 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401909844</guid>
+    </item>
+    <item>
+      <title>10/23/2026 • 7:00 PM ET — NBA — Orlando Magic vs Minnesota Timberwolves</title>
+      <description>Date: 10/23/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NBA | Event: Minnesota Timberwolves at Orlando Magic | Venue: Kia Center</description>
+      <pubDate>Fri, 23 Oct 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401909845</guid>
+    </item>
+    <item>
+      <title>10/23/2026 • 7:00 PM ET — NBA — Washington Wizards vs Toronto Raptors</title>
+      <description>Date: 10/23/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NBA | Event: Toronto Raptors at Washington Wizards | Venue: Capital One Arena</description>
+      <pubDate>Fri, 23 Oct 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401909846</guid>
+    </item>
+    <item>
+      <title>10/23/2026 • 8:00 PM ET — NBA — Miami Heat vs Detroit Pistons</title>
+      <description>Date: 10/23/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NBA | Event: Detroit Pistons at Miami Heat | Venue: Kaseya Center</description>
+      <pubDate>Fri, 23 Oct 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401909847</guid>
+    </item>
+    <item>
+      <title>10/23/2026 • 8:00 PM ET — NBA — Milwaukee Bucks vs Chicago Bulls</title>
+      <description>Date: 10/23/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NBA | Event: Chicago Bulls at Milwaukee Bucks | Venue: Fiserv Forum</description>
+      <pubDate>Fri, 23 Oct 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401909848</guid>
+    </item>
+    <item>
+      <title>10/23/2026 • 8:00 PM ET — NHL — Chicago Blackhawks vs Montreal Canadiens</title>
+      <description>Date: 10/23/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NHL | Event: Montreal Canadiens at Chicago Blackhawks | Venue: United Center</description>
+      <pubDate>Fri, 23 Oct 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401892564</guid>
+    </item>
+    <item>
+      <title>10/23/2026 • 8:30 PM ET — College Football — Tulsa Golden Hurricane vs Army Black Knights</title>
+      <description>Date: 10/23/2026 | Time: 8:30 PM ET | Status: Scheduled | Sport: College Football | Event: Army Black Knights at Tulsa Golden Hurricane | Venue: H. A. Chapman Stadium</description>
+      <pubDate>Fri, 23 Oct 2026 20:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401862808</guid>
+    </item>
+    <item>
+      <title>10/23/2026 • 9:00 PM ET — College Football — Wyoming Cowboys vs Air Force Falcons</title>
+      <description>Date: 10/23/2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: College Football | Event: Air Force Falcons at Wyoming Cowboys | Venue: War Memorial Stadium</description>
+      <pubDate>Fri, 23 Oct 2026 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401864525</guid>
+    </item>
+    <item>
+      <title>10/23/2026 • 9:00 PM ET — NHL — Colorado Avalanche vs Tampa Bay Lightning</title>
+      <description>Date: 10/23/2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: NHL | Event: Tampa Bay Lightning at Colorado Avalanche | Venue: Ball Arena</description>
+      <pubDate>Fri, 23 Oct 2026 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401892565</guid>
+    </item>
+    <item>
+      <title>10/23/2026 • 9:30 PM ET — NBA — San Antonio Spurs vs Houston Rockets</title>
+      <description>Date: 10/23/2026 | Time: 9:30 PM ET | Status: Scheduled | Sport: NBA | Event: Houston Rockets at San Antonio Spurs | Venue: Moody Center</description>
+      <pubDate>Fri, 23 Oct 2026 21:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401909096</guid>
+    </item>
+    <item>
+      <title>10/23/2026 • 9:30 PM ET — NBA — Utah Jazz vs New Orleans Pelicans</title>
+      <description>Date: 10/23/2026 | Time: 9:30 PM ET | Status: Scheduled | Sport: NBA | Event: New Orleans Pelicans at Utah Jazz | Venue: Delta Center</description>
+      <pubDate>Fri, 23 Oct 2026 21:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401909849</guid>
+    </item>
+    <item>
+      <title>10/23/2026 • 10:00 PM ET — NBA — Golden State Warriors vs Memphis Grizzlies</title>
+      <description>Date: 10/23/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NBA | Event: Memphis Grizzlies at Golden State Warriors | Venue: Chase Center</description>
+      <pubDate>Fri, 23 Oct 2026 22:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401909850</guid>
+    </item>
+    <item>
+      <title>10/23/2026 • 10:00 PM ET — NBA — Los Angeles Lakers vs LA Clippers</title>
+      <description>Date: 10/23/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NBA | Event: LA Clippers at Los Angeles Lakers | Venue: crypto.com Arena</description>
+      <pubDate>Fri, 23 Oct 2026 22:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401909851</guid>
+    </item>
+    <item>
+      <title>10/23/2026 • 10:00 PM ET — NBA — Sacramento Kings vs Portland Trail Blazers</title>
+      <description>Date: 10/23/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NBA | Event: Portland Trail Blazers at Sacramento Kings | Venue: Golden 1 Center</description>
+      <pubDate>Fri, 23 Oct 2026 22:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401909852</guid>
+    </item>
+    <item>
+      <title>10/23/2026 • 10:30 PM ET — College Football — Stanford Cardinal vs NC State Wolfpack</title>
+      <description>Date: 10/23/2026 | Time: 10:30 PM ET | Status: Scheduled | Sport: College Football | Event: NC State Wolfpack at Stanford Cardinal | Venue: Stanford Stadium</description>
+      <pubDate>Fri, 23 Oct 2026 22:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401858272</guid>
     </item>
   </channel>
 </rss>
