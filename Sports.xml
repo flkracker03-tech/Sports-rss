@@ -4,14 +4,8 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Thu, 15 Oct 2026 20:35:15 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 01:03:01 -0400</lastBuildDate>
     
-    <item>
-      <title>10/16/2026 • 6:00 PM ET — MLB — Cleveland Guardians vs Tampa Bay Rays</title>
-      <description>Date: 10/16/2026 | Time: 6:00 PM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at Cleveland Guardians | Venue: Progressive Field</description>
-      <pubDate>Fri, 16 Oct 2026 18:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401908026</guid>
-    </item>
     <item>
       <title>10/16/2026 • 7:00 PM ET — NBA — Orlando Magic vs Miami Heat</title>
       <description>Date: 10/16/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NBA | Event: Miami Heat at Orlando Magic | Venue: Kia Center</description>
@@ -85,10 +79,10 @@
       <guid isPermaLink="false">401908943</guid>
     </item>
     <item>
-      <title>10/16/2026 • 9:00 PM ET — MLB — Los Angeles Dodgers vs Milwaukee Brewers</title>
-      <description>Date: 10/16/2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: MLB | Event: Milwaukee Brewers at Los Angeles Dodgers | Venue: Dodger Stadium</description>
-      <pubDate>Fri, 16 Oct 2026 21:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401908034</guid>
+      <title>10/16/2026 • 8:00 PM ET — MLB — Cleveland Guardians vs Tampa Bay Rays</title>
+      <description>Date: 10/16/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Tampa Bay Rays at Cleveland Guardians | Venue: Progressive Field</description>
+      <pubDate>Fri, 16 Oct 2026 20:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401908026</guid>
     </item>
     <item>
       <title>10/16/2026 • 9:00 PM ET — NHL — Colorado Avalanche vs Pittsburgh Penguins</title>
@@ -691,12 +685,6 @@
       <guid isPermaLink="false">401892533</guid>
     </item>
     <item>
-      <title>10/18/2026 • 8:00 PM ET — MLB — Milwaukee Brewers vs Los Angeles Dodgers</title>
-      <description>Date: 10/18/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Los Angeles Dodgers at Milwaukee Brewers | Venue: American Family Field</description>
-      <pubDate>Sun, 18 Oct 2026 20:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401908035</guid>
-    </item>
-    <item>
       <title>10/18/2026 • 8:00 PM ET — NHL — Calgary Flames vs Carolina Hurricanes</title>
       <description>Date: 10/18/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NHL | Event: Carolina Hurricanes at Calgary Flames | Venue: Scotiabank Saddledome</description>
       <pubDate>Sun, 18 Oct 2026 20:00:00 -0400</pubDate>
@@ -707,12 +695,6 @@
       <description>Date: 10/18/2026 | Time: 8:20 PM ET | Status: Scheduled | Sport: NFL | Event: Dallas Cowboys at Green Bay Packers | Venue: Lambeau Field</description>
       <pubDate>Sun, 18 Oct 2026 20:20:00 -0400</pubDate>
       <guid isPermaLink="false">401873007</guid>
-    </item>
-    <item>
-      <title>10/19/2026 • 5:00 PM ET — MLB — Tampa Bay Rays vs Cleveland Guardians</title>
-      <description>Date: 10/19/2026 | Time: 5:00 PM ET | Status: Scheduled | Sport: MLB | Event: Cleveland Guardians at Tampa Bay Rays | Venue: Tropicana Field</description>
-      <pubDate>Mon, 19 Oct 2026 17:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401908028</guid>
     </item>
     <item>
       <title>10/19/2026 • 7:00 PM ET — NHL — New York Rangers vs Anaheim Ducks</title>
@@ -739,10 +721,10 @@
       <guid isPermaLink="false">401918306</guid>
     </item>
     <item>
-      <title>10/19/2026 • 8:00 PM ET — MLB — Milwaukee Brewers vs Los Angeles Dodgers</title>
-      <description>Date: 10/19/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Los Angeles Dodgers at Milwaukee Brewers | Venue: American Family Field</description>
+      <title>10/19/2026 • 8:00 PM ET — MLB — Tampa Bay Rays vs Cleveland Guardians</title>
+      <description>Date: 10/19/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: MLB | Event: Cleveland Guardians at Tampa Bay Rays | Venue: Tropicana Field</description>
       <pubDate>Mon, 19 Oct 2026 20:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401908036</guid>
+      <guid isPermaLink="false">401908028</guid>
     </item>
     <item>
       <title>10/19/2026 • 8:15 PM ET — NFL — San Francisco 49ers vs Washington Commanders</title>
@@ -1069,8 +1051,8 @@
       <guid isPermaLink="false">401892563</guid>
     </item>
     <item>
-      <title>10/23/2026 • 12:00 AM ET — MLB — TBD vs TBD</title>
-      <description>Date: 10/23/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: TBD at TBD</description>
+      <title>10/23/2026 • 12:00 AM ET — MLB — Milwaukee Brewers vs Rays/Guardians</title>
+      <description>Date: 10/23/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: MLB | Event: Rays/Guardians at Milwaukee Brewers | Venue: American Family Field</description>
       <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401908042</guid>
     </item>
