@@ -4,11 +4,11 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 18 Oct 2026 09:26:13 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 12:44:16 -0400</lastBuildDate>
     
     <item>
       <title>10/18/2026 • 9:30 AM ET — NFL — Jacksonville Jaguars vs Houston Texans</title>
-      <description>Date: 10/18/2026 | Time: 9:30 AM ET | Status: Scheduled | Sport: NFL | Event: Houston Texans at Jacksonville Jaguars | Venue: Wembley Stadium</description>
+      <description>Date: 10/18/2026 | Time: 9:30 AM ET | Status: In Progress | Sport: NFL | Event: Houston Texans at Jacksonville Jaguars | Venue: Wembley Stadium</description>
       <pubDate>Sun, 18 Oct 2026 09:30:00 -0400</pubDate>
       <guid isPermaLink="false">401872996</guid>
     </item>
@@ -589,24 +589,6 @@
       <guid isPermaLink="false">401856840</guid>
     </item>
     <item>
-      <title>10/24/2026 • 12:00 AM ET — College Football — Utah Utes vs Houston Cougars</title>
-      <description>Date: 10/24/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Houston Cougars at Utah Utes | Venue: Rice-Eccles Stadium</description>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401856837</guid>
-    </item>
-    <item>
-      <title>10/24/2026 • 12:00 AM ET — College Football — UCLA Bruins vs Michigan State Spartans</title>
-      <description>Date: 10/24/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Michigan State Spartans at UCLA Bruins | Venue: Rose Bowl</description>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858499</guid>
-    </item>
-    <item>
-      <title>10/24/2026 • 12:00 AM ET — College Football — Minnesota Golden Gophers vs Iowa Hawkeyes</title>
-      <description>Date: 10/24/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Iowa Hawkeyes at Minnesota Golden Gophers | Venue: Huntington Bank Stadium</description>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858497</guid>
-    </item>
-    <item>
       <title>10/24/2026 • 12:00 AM ET — College Football — Oklahoma State Cowboys vs Colorado Buffaloes</title>
       <description>Date: 10/24/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Colorado Buffaloes at Oklahoma State Cowboys | Venue: Boone Pickens Stadium</description>
       <pubDate>Sat, 24 Oct 2026 00:00:00 -0400</pubDate>
@@ -617,30 +599,6 @@
       <description>Date: 10/24/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Baylor Bears at Kansas Jayhawks | Venue: David Booth Kansas Memorial Stadium</description>
       <pubDate>Sat, 24 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="false">401856834</guid>
-    </item>
-    <item>
-      <title>10/24/2026 • 12:00 AM ET — College Football — Arizona Wildcats vs Iowa State Cyclones</title>
-      <description>Date: 10/24/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Iowa State Cyclones at Arizona Wildcats | Venue: Casino Del Sol Stadium</description>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401856838</guid>
-    </item>
-    <item>
-      <title>10/24/2026 • 12:00 AM ET — College Football — Arizona State Sun Devils vs Kansas State Wildcats</title>
-      <description>Date: 10/24/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Kansas State Wildcats at Arizona State Sun Devils | Venue: Mountain America Stadium</description>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401856839</guid>
-    </item>
-    <item>
-      <title>10/24/2026 • 12:00 AM ET — College Football — Clemson Tigers vs Virginia Tech Hokies</title>
-      <description>Date: 10/24/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Virginia Tech Hokies at Clemson Tigers | Venue: Memorial Stadium (Clemson, SC)</description>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858276</guid>
-    </item>
-    <item>
-      <title>10/24/2026 • 12:00 AM ET — College Football — Illinois Fighting Illini vs Oregon Ducks</title>
-      <description>Date: 10/24/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Oregon Ducks at Illinois Fighting Illini | Venue: Gies Memorial Stadium</description>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858495</guid>
     </item>
     <item>
       <title>10/24/2026 • 12:00 PM ET — College Football — Miami Hurricanes vs Pittsburgh Panthers</title>
@@ -721,10 +679,22 @@
       <guid isPermaLink="false">761903</guid>
     </item>
     <item>
+      <title>10/24/2026 • 3:00 PM ET — College Football — Illinois Fighting Illini vs Oregon Ducks</title>
+      <description>Date: 10/24/2026 | Time: 3:00 PM ET | Status: Scheduled | Sport: College Football | Event: Oregon Ducks at Illinois Fighting Illini | Venue: Gies Memorial Stadium</description>
+      <pubDate>Sat, 24 Oct 2026 15:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401858495</guid>
+    </item>
+    <item>
       <title>10/24/2026 • 3:30 PM ET — College Football — Alabama Crimson Tide vs Texas A&amp;M Aggies</title>
       <description>Date: 10/24/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Texas A&amp;M Aggies at Alabama Crimson Tide | Venue: Bryant-Denny Stadium</description>
       <pubDate>Sat, 24 Oct 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856727</guid>
+    </item>
+    <item>
+      <title>10/24/2026 • 3:30 PM ET — College Football — UCLA Bruins vs Michigan State Spartans</title>
+      <description>Date: 10/24/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Michigan State Spartans at UCLA Bruins | Venue: Rose Bowl</description>
+      <pubDate>Sat, 24 Oct 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401858499</guid>
     </item>
     <item>
       <title>10/24/2026 • 3:30 PM ET — College Football — South Carolina Gamecocks vs Tennessee Volunteers</title>
@@ -737,6 +707,12 @@
       <description>Date: 10/24/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Oklahoma Sooners at Mississippi State Bulldogs | Venue: Davis Wade Stadium</description>
       <pubDate>Sat, 24 Oct 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">401856730</guid>
+    </item>
+    <item>
+      <title>10/24/2026 • 3:30 PM ET — College Football — Minnesota Golden Gophers vs Iowa Hawkeyes</title>
+      <description>Date: 10/24/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Iowa Hawkeyes at Minnesota Golden Gophers | Venue: Huntington Bank Stadium</description>
+      <pubDate>Sat, 24 Oct 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401858497</guid>
     </item>
     <item>
       <title>10/24/2026 • 3:30 PM ET — College Football — Georgia Tech Yellow Jackets vs Boston College Eagles</title>
@@ -779,6 +755,12 @@
       <description>Date: 10/24/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: MLS | Event: Toronto FC at Columbus Crew | Venue: ScottsMiracle-Gro Field</description>
       <pubDate>Sat, 24 Oct 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="false">761890</guid>
+    </item>
+    <item>
+      <title>10/24/2026 • 3:45 PM ET — College Football — Arizona State Sun Devils vs Kansas State Wildcats</title>
+      <description>Date: 10/24/2026 | Time: 3:45 PM ET | Status: Scheduled | Sport: College Football | Event: Kansas State Wildcats at Arizona State Sun Devils | Venue: Mountain America Stadium</description>
+      <pubDate>Sat, 24 Oct 2026 15:45:00 -0400</pubDate>
+      <guid isPermaLink="false">401856839</guid>
     </item>
     <item>
       <title>10/24/2026 • 4:00 PM ET — College Football — Ohio Bobcats vs Eastern Michigan Eagles</title>
@@ -833,6 +815,12 @@
       <description>Date: 10/24/2026 | Time: 6:30 PM ET | Status: Scheduled | Sport: College Football | Event: San Diego State Aztecs at Colorado State Rams | Venue: Canvas Stadium</description>
       <pubDate>Sat, 24 Oct 2026 18:30:00 -0400</pubDate>
       <guid isPermaLink="false">401860905</guid>
+    </item>
+    <item>
+      <title>10/24/2026 • 7:00 PM ET — College Football — Clemson Tigers vs Virginia Tech Hokies</title>
+      <description>Date: 10/24/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Virginia Tech Hokies at Clemson Tigers | Venue: Memorial Stadium (Clemson, SC)</description>
+      <pubDate>Sat, 24 Oct 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401858276</guid>
     </item>
     <item>
       <title>10/24/2026 • 7:00 PM ET — College Football — Arkansas State Red Wolves vs Georgia State Panthers</title>
@@ -899,6 +887,12 @@
       <description>Date: 10/24/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: USC Trojans at Wisconsin Badgers | Venue: Camp Randall Stadium</description>
       <pubDate>Sat, 24 Oct 2026 19:30:00 -0400</pubDate>
       <guid isPermaLink="false">401858500</guid>
+    </item>
+    <item>
+      <title>10/24/2026 • 7:30 PM ET — College Football — Arizona Wildcats vs Iowa State Cyclones</title>
+      <description>Date: 10/24/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Iowa State Cyclones at Arizona Wildcats | Venue: Casino Del Sol Stadium</description>
+      <pubDate>Sat, 24 Oct 2026 19:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401856838</guid>
     </item>
     <item>
       <title>10/24/2026 • 7:30 PM ET — College Football — North Carolina Tar Heels vs Syracuse Orange</title>
@@ -1043,6 +1037,12 @@
       <description>Date: 10/24/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NHL | Event: Minnesota Wild at Seattle Kraken | Venue: Climate Pledge Arena</description>
       <pubDate>Sat, 24 Oct 2026 22:00:00 -0400</pubDate>
       <guid isPermaLink="false">401892577</guid>
+    </item>
+    <item>
+      <title>10/24/2026 • 10:15 PM ET — College Football — Utah Utes vs Houston Cougars</title>
+      <description>Date: 10/24/2026 | Time: 10:15 PM ET | Status: Scheduled | Sport: College Football | Event: Houston Cougars at Utah Utes | Venue: Rice-Eccles Stadium</description>
+      <pubDate>Sat, 24 Oct 2026 22:15:00 -0400</pubDate>
+      <guid isPermaLink="false">401856837</guid>
     </item>
     <item>
       <title>10/24/2026 • 10:30 PM ET — MLS — Portland Timbers vs Charlotte FC</title>
