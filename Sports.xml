@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Thu, 22 Oct 2026 07:16:30 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:57:30 -0400</lastBuildDate>
     
     <item>
       <title>10/22/2026 • 7:00 PM ET — College Football — App State Mountaineers vs James Madison Dukes</title>
@@ -631,12 +631,6 @@
       <guid isPermaLink="false">401909856</guid>
     </item>
     <item>
-      <title>10/24/2026 • 8:30 PM ET — MLS — Colorado Rapids vs Vancouver Whitecaps</title>
-      <description>Date: 10/24/2026 | Time: 8:30 PM ET | Status: Scheduled | Sport: MLS | Event: Vancouver Whitecaps at Colorado Rapids | Venue: Dick's Sporting Goods Park</description>
-      <pubDate>Sat, 24 Oct 2026 20:30:00 -0400</pubDate>
-      <guid isPermaLink="false">761897</guid>
-    </item>
-    <item>
       <title>10/24/2026 • 8:30 PM ET — MLS — FC Dallas vs San Jose Earthquakes</title>
       <description>Date: 10/24/2026 | Time: 8:30 PM ET | Status: Scheduled | Sport: MLS | Event: San Jose Earthquakes at FC Dallas | Venue: Toyota Stadium</description>
       <pubDate>Sat, 24 Oct 2026 20:30:00 -0400</pubDate>
@@ -647,12 +641,6 @@
       <description>Date: 10/24/2026 | Time: 8:30 PM ET | Status: Scheduled | Sport: MLS | Event: Minnesota United FC at Houston Dynamo FC | Venue: Shell Energy Stadium</description>
       <pubDate>Sat, 24 Oct 2026 20:30:00 -0400</pubDate>
       <guid isPermaLink="false">761896</guid>
-    </item>
-    <item>
-      <title>10/24/2026 • 8:30 PM ET — MLS — Real Salt Lake vs St. Louis CITY SC</title>
-      <description>Date: 10/24/2026 | Time: 8:30 PM ET | Status: Scheduled | Sport: MLS | Event: St. Louis CITY SC at Real Salt Lake | Venue: America First Field</description>
-      <pubDate>Sat, 24 Oct 2026 20:30:00 -0400</pubDate>
-      <guid isPermaLink="false">761898</guid>
     </item>
     <item>
       <title>10/24/2026 • 8:30 PM ET — MLS — Sporting Kansas City vs Austin FC</title>
@@ -671,6 +659,18 @@
       <description>Date: 10/24/2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: NHL | Event: Tampa Bay Lightning at Utah Mammoth | Venue: Delta Center</description>
       <pubDate>Sat, 24 Oct 2026 21:00:00 -0400</pubDate>
       <guid isPermaLink="false">401892575</guid>
+    </item>
+    <item>
+      <title>10/24/2026 • 9:30 PM ET — MLS — Colorado Rapids vs Vancouver Whitecaps</title>
+      <description>Date: 10/24/2026 | Time: 9:30 PM ET | Status: Scheduled | Sport: MLS | Event: Vancouver Whitecaps at Colorado Rapids | Venue: Dick's Sporting Goods Park</description>
+      <pubDate>Sat, 24 Oct 2026 21:30:00 -0400</pubDate>
+      <guid isPermaLink="false">761897</guid>
+    </item>
+    <item>
+      <title>10/24/2026 • 9:30 PM ET — MLS — Real Salt Lake vs St. Louis CITY SC</title>
+      <description>Date: 10/24/2026 | Time: 9:30 PM ET | Status: Scheduled | Sport: MLS | Event: St. Louis CITY SC at Real Salt Lake | Venue: America First Field</description>
+      <pubDate>Sat, 24 Oct 2026 21:30:00 -0400</pubDate>
+      <guid isPermaLink="false">761898</guid>
     </item>
     <item>
       <title>10/24/2026 • 10:00 PM ET — College Football — New Mexico Lobos vs North Dakota State Bison</title>
