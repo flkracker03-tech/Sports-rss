@@ -4,19 +4,13 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 25 Oct 2026 16:27:48 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 18:45:50 -0400</lastBuildDate>
     
     <item>
       <title>10/25/2026 • 9:30 AM ET — NFL — New Orleans Saints vs Pittsburgh Steelers</title>
       <description>Date: 10/25/2026 | Time: 9:30 AM ET | Status: Final | Sport: NFL | Event: Pittsburgh Steelers at New Orleans Saints | Venue: Stade de France</description>
       <pubDate>Sun, 25 Oct 2026 09:30:00 -0400</pubDate>
       <guid isPermaLink="false">401873011</guid>
-    </item>
-    <item>
-      <title>10/25/2026 • 1:00 PM ET — NFL — Houston Texans vs New York Giants</title>
-      <description>Date: 10/25/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: New York Giants at Houston Texans | Venue: Reliant Stadium</description>
-      <pubDate>Sun, 25 Oct 2026 13:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401873016</guid>
     </item>
     <item>
       <title>10/25/2026 • 1:00 PM ET — NFL — Atlanta Falcons vs San Francisco 49ers</title>
@@ -55,8 +49,14 @@
       <guid isPermaLink="false">401873012</guid>
     </item>
     <item>
+      <title>10/25/2026 • 1:00 PM ET — NFL — Houston Texans vs New York Giants</title>
+      <description>Date: 10/25/2026 | Time: 1:00 PM ET | Status: Final | Sport: NFL | Event: New York Giants at Houston Texans | Venue: Reliant Stadium</description>
+      <pubDate>Sun, 25 Oct 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">401873016</guid>
+    </item>
+    <item>
       <title>10/25/2026 • 3:00 PM ET — NHL — Chicago Blackhawks vs Florida Panthers</title>
-      <description>Date: 10/25/2026 | Time: 3:00 PM ET | Status: In Progress | Sport: NHL | Event: Florida Panthers at Chicago Blackhawks | Venue: United Center</description>
+      <description>Date: 10/25/2026 | Time: 3:00 PM ET | Status: Final | Sport: NHL | Event: Florida Panthers at Chicago Blackhawks | Venue: United Center</description>
       <pubDate>Sun, 25 Oct 2026 15:00:00 -0400</pubDate>
       <guid isPermaLink="false">401892578</guid>
     </item>
@@ -80,19 +80,19 @@
     </item>
     <item>
       <title>10/25/2026 • 5:00 PM ET — NBA — Utah Jazz vs Los Angeles Lakers</title>
-      <description>Date: 10/25/2026 | Time: 5:00 PM ET | Status: Scheduled | Sport: NBA | Event: Los Angeles Lakers at Utah Jazz | Venue: Delta Center</description>
+      <description>Date: 10/25/2026 | Time: 5:00 PM ET | Status: In Progress | Sport: NBA | Event: Los Angeles Lakers at Utah Jazz | Venue: Delta Center</description>
       <pubDate>Sun, 25 Oct 2026 17:00:00 -0400</pubDate>
       <guid isPermaLink="false">401909861</guid>
     </item>
     <item>
       <title>10/25/2026 • 6:00 PM ET — NBA — Brooklyn Nets vs Indiana Pacers</title>
-      <description>Date: 10/25/2026 | Time: 6:00 PM ET | Status: Scheduled | Sport: NBA | Event: Indiana Pacers at Brooklyn Nets | Venue: Barclays Center</description>
+      <description>Date: 10/25/2026 | Time: 6:00 PM ET | Status: In Progress | Sport: NBA | Event: Indiana Pacers at Brooklyn Nets | Venue: Barclays Center</description>
       <pubDate>Sun, 25 Oct 2026 18:00:00 -0400</pubDate>
       <guid isPermaLink="false">401909862</guid>
     </item>
     <item>
       <title>10/25/2026 • 6:00 PM ET — NHL — Dallas Stars vs New York Islanders</title>
-      <description>Date: 10/25/2026 | Time: 6:00 PM ET | Status: Scheduled | Sport: NHL | Event: New York Islanders at Dallas Stars | Venue: American Airlines Center</description>
+      <description>Date: 10/25/2026 | Time: 6:00 PM ET | Status: In Progress | Sport: NHL | Event: New York Islanders at Dallas Stars | Venue: American Airlines Center</description>
       <pubDate>Sun, 25 Oct 2026 18:00:00 -0400</pubDate>
       <guid isPermaLink="false">401892579</guid>
     </item>
