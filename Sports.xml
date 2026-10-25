@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 24 Oct 2026 20:32:30 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 01:20:22 -0400</lastBuildDate>
     
     <item>
       <title>10/25/2026 • 9:30 AM ET — NFL — New Orleans Saints vs Pittsburgh Steelers</title>
@@ -763,18 +763,6 @@
       <guid isPermaLink="false">401866451</guid>
     </item>
     <item>
-      <title>10/31/2026 • 12:00 AM ET — College Football — Oregon Ducks vs Northwestern Wildcats</title>
-      <description>Date: 10/31/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Northwestern Wildcats at Oregon Ducks | Venue: Autzen Stadium</description>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858505</guid>
-    </item>
-    <item>
-      <title>10/31/2026 • 12:00 AM ET — College Football — Penn State Nittany Lions vs Purdue Boilermakers</title>
-      <description>Date: 10/31/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Purdue Boilermakers at Penn State Nittany Lions | Venue: Beaver Stadium</description>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401858506</guid>
-    </item>
-    <item>
       <title>10/31/2026 • 12:00 PM ET — College Football — Navy Midshipmen vs Notre Dame Fighting Irish</title>
       <description>Date: 10/31/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Notre Dame Fighting Irish at Navy Midshipmen | Venue: Gillette Stadium</description>
       <pubDate>Sat, 31 Oct 2026 12:00:00 -0400</pubDate>
@@ -967,6 +955,12 @@
       <guid isPermaLink="false">401858501</guid>
     </item>
     <item>
+      <title>10/31/2026 • 3:30 PM ET — College Football — Oregon Ducks vs Northwestern Wildcats</title>
+      <description>Date: 10/31/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Northwestern Wildcats at Oregon Ducks | Venue: Autzen Stadium</description>
+      <pubDate>Sat, 31 Oct 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="false">401858505</guid>
+    </item>
+    <item>
       <title>10/31/2026 • 3:30 PM ET — College Football — TCU Horned Frogs vs Kansas Jayhawks</title>
       <description>Date: 10/31/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Kansas Jayhawks at TCU Horned Frogs | Venue: Amon G. Carter Stadium</description>
       <pubDate>Sat, 31 Oct 2026 15:30:00 -0400</pubDate>
@@ -1031,6 +1025,12 @@
       <description>Date: 10/31/2026 | Time: 4:15 PM ET | Status: Scheduled | Sport: College Football | Event: Nevada Wolf Pack at UCLA Bruins | Venue: Rose Bowl</description>
       <pubDate>Sat, 31 Oct 2026 16:15:00 -0400</pubDate>
       <guid isPermaLink="false">401858508</guid>
+    </item>
+    <item>
+      <title>10/31/2026 • 4:15 PM ET — College Football — Penn State Nittany Lions vs Purdue Boilermakers</title>
+      <description>Date: 10/31/2026 | Time: 4:15 PM ET | Status: Scheduled | Sport: College Football | Event: Purdue Boilermakers at Penn State Nittany Lions | Venue: Beaver Stadium</description>
+      <pubDate>Sat, 31 Oct 2026 16:15:00 -0400</pubDate>
+      <guid isPermaLink="false">401858506</guid>
     </item>
     <item>
       <title>10/31/2026 • 4:15 PM ET — College Football — Oklahoma Sooners vs South Carolina Gamecocks</title>
