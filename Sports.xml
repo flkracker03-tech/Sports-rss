@@ -4,11 +4,11 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 25 Oct 2026 06:00:19 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 10:22:41 -0400</lastBuildDate>
     
     <item>
       <title>10/25/2026 • 9:30 AM ET — NFL — New Orleans Saints vs Pittsburgh Steelers</title>
-      <description>Date: 10/25/2026 | Time: 9:30 AM ET | Status: Scheduled | Sport: NFL | Event: Pittsburgh Steelers at New Orleans Saints | Venue: Stade de France</description>
+      <description>Date: 10/25/2026 | Time: 9:30 AM ET | Status: In Progress | Sport: NFL | Event: Pittsburgh Steelers at New Orleans Saints | Venue: Stade de France</description>
       <pubDate>Sun, 25 Oct 2026 09:30:00 -0400</pubDate>
       <guid isPermaLink="false">401873011</guid>
     </item>
@@ -1027,16 +1027,16 @@
       <guid isPermaLink="false">401858508</guid>
     </item>
     <item>
-      <title>10/31/2026 • 4:15 PM ET — College Football — Penn State Nittany Lions vs Purdue Boilermakers</title>
-      <description>Date: 10/31/2026 | Time: 4:15 PM ET | Status: Scheduled | Sport: College Football | Event: Purdue Boilermakers at Penn State Nittany Lions | Venue: Beaver Stadium</description>
-      <pubDate>Sat, 31 Oct 2026 16:15:00 -0400</pubDate>
-      <guid isPermaLink="false">401858506</guid>
-    </item>
-    <item>
       <title>10/31/2026 • 4:15 PM ET — College Football — Oklahoma Sooners vs South Carolina Gamecocks</title>
       <description>Date: 10/31/2026 | Time: 4:15 PM ET | Status: Scheduled | Sport: College Football | Event: South Carolina Gamecocks at Oklahoma Sooners | Venue: Memorial Stadium (Norman, OK)</description>
       <pubDate>Sat, 31 Oct 2026 16:15:00 -0400</pubDate>
       <guid isPermaLink="false">401856736</guid>
+    </item>
+    <item>
+      <title>10/31/2026 • 4:15 PM ET — College Football — Penn State Nittany Lions vs Purdue Boilermakers</title>
+      <description>Date: 10/31/2026 | Time: 4:15 PM ET | Status: Scheduled | Sport: College Football | Event: Purdue Boilermakers at Penn State Nittany Lions | Venue: Beaver Stadium</description>
+      <pubDate>Sat, 31 Oct 2026 16:15:00 -0400</pubDate>
+      <guid isPermaLink="false">401858506</guid>
     </item>
     <item>
       <title>10/31/2026 • 5:00 PM ET — MLS — LA Galaxy vs Austin FC</title>
