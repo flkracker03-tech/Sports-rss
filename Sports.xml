@@ -4,11 +4,11 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Thu, 29 Oct 2026 09:37:11 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:13:44 -0400</lastBuildDate>
     
     <item>
       <title>10/29/2026 • 12:30 PM ET — WNBA — Atlanta Dream vs Golden State Valkyries</title>
-      <description>Date: 10/29/2026 | Time: 12:30 PM ET | Status: Scheduled | Sport: WNBA | Event: Golden State Valkyries at Atlanta Dream | Venue: State Farm Arena</description>
+      <description>Date: 10/29/2026 | Time: 12:30 PM ET | Status: Final | Sport: WNBA | Event: Golden State Valkyries at Atlanta Dream | Venue: State Farm Arena</description>
       <pubDate>Thu, 29 Oct 2026 12:30:00 -0400</pubDate>
       <guid isPermaLink="false">401918310</guid>
     </item>
@@ -727,6 +727,12 @@
       <guid isPermaLink="false">401892625</guid>
     </item>
     <item>
+      <title>11/01/2026 • 3:30 PM ET — MLS — Vancouver Whitecaps vs Seattle Sounders FC</title>
+      <description>Date: 11/01/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: MLS | Event: Seattle Sounders FC at Vancouver Whitecaps | Venue: BC Place</description>
+      <pubDate>Sun, 01 Nov 2026 15:30:00 -0500</pubDate>
+      <guid isPermaLink="false">761927</guid>
+    </item>
+    <item>
       <title>11/01/2026 • 4:00 PM ET — NHL — Philadelphia Flyers vs Utah Mammoth</title>
       <description>Date: 11/01/2026 | Time: 4:00 PM ET | Status: Scheduled | Sport: NHL | Event: Utah Mammoth at Philadelphia Flyers | Venue: Xfinity Mobile Arena</description>
       <pubDate>Sun, 01 Nov 2026 16:00:00 -0500</pubDate>
@@ -761,12 +767,6 @@
       <description>Date: 11/01/2026 | Time: 4:30 PM ET | Status: Scheduled | Sport: MLS | Event: Red Bull New York at Nashville SC | Venue: GEODIS Park</description>
       <pubDate>Sun, 01 Nov 2026 16:30:00 -0500</pubDate>
       <guid isPermaLink="false">761920</guid>
-    </item>
-    <item>
-      <title>11/01/2026 • 4:30 PM ET — MLS — Vancouver Whitecaps vs Seattle Sounders FC</title>
-      <description>Date: 11/01/2026 | Time: 4:30 PM ET | Status: Scheduled | Sport: MLS | Event: Seattle Sounders FC at Vancouver Whitecaps | Venue: BC Place</description>
-      <pubDate>Sun, 01 Nov 2026 16:30:00 -0500</pubDate>
-      <guid isPermaLink="false">761927</guid>
     </item>
     <item>
       <title>11/01/2026 • 5:00 PM ET — NBA — Indiana Pacers vs Brooklyn Nets</title>
