@@ -4,116 +4,8 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Thu, 29 Oct 2026 19:20:06 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 22:47:40 -0400</lastBuildDate>
     
-    <item>
-      <title>10/29/2026 • 12:30 PM ET — WNBA — Atlanta Dream vs Golden State Valkyries</title>
-      <description>Date: 10/29/2026 | Time: 12:30 PM ET | Status: Final | Sport: WNBA | Event: Golden State Valkyries at Atlanta Dream | Venue: State Farm Arena</description>
-      <pubDate>Thu, 29 Oct 2026 12:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401918310</guid>
-    </item>
-    <item>
-      <title>10/29/2026 • 7:00 PM ET — NHL — Tampa Bay Lightning vs Winnipeg Jets</title>
-      <description>Date: 10/29/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: NHL | Event: Winnipeg Jets at Tampa Bay Lightning | Venue: Benchmark International Arena</description>
-      <pubDate>Thu, 29 Oct 2026 19:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401892601</guid>
-    </item>
-    <item>
-      <title>10/29/2026 • 7:00 PM ET — NHL — Pittsburgh Penguins vs Utah Mammoth</title>
-      <description>Date: 10/29/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: NHL | Event: Utah Mammoth at Pittsburgh Penguins | Venue: PPG Paints Arena</description>
-      <pubDate>Thu, 29 Oct 2026 19:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401892602</guid>
-    </item>
-    <item>
-      <title>10/29/2026 • 7:00 PM ET — NHL — Carolina Hurricanes vs Columbus Blue Jackets</title>
-      <description>Date: 10/29/2026 | Time: 7:00 PM ET | Status: In Progress | Sport: NHL | Event: Columbus Blue Jackets at Carolina Hurricanes | Venue: Lenovo Center</description>
-      <pubDate>Thu, 29 Oct 2026 19:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401892603</guid>
-    </item>
-    <item>
-      <title>10/29/2026 • 7:30 PM ET — College Football — North Texas Mean Green vs Florida Atlantic Owls</title>
-      <description>Date: 10/29/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Florida Atlantic Owls at North Texas Mean Green | Venue: DATCU Stadium</description>
-      <pubDate>Thu, 29 Oct 2026 19:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401862812</guid>
-    </item>
-    <item>
-      <title>10/29/2026 • 7:30 PM ET — College Football — James Madison Dukes vs Troy Trojans</title>
-      <description>Date: 10/29/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Troy Trojans at James Madison Dukes | Venue: Bridgeforth Stadium</description>
-      <pubDate>Thu, 29 Oct 2026 19:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401869963</guid>
-    </item>
-    <item>
-      <title>10/29/2026 • 7:30 PM ET — NHL — Detroit Red Wings vs Chicago Blackhawks</title>
-      <description>Date: 10/29/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: NHL | Event: Chicago Blackhawks at Detroit Red Wings | Venue: Little Caesars Arena</description>
-      <pubDate>Thu, 29 Oct 2026 19:30:00 -0400</pubDate>
-      <guid isPermaLink="false">401892600</guid>
-    </item>
-    <item>
-      <title>10/29/2026 • 8:00 PM ET — NBA — Atlanta Hawks vs Cleveland Cavaliers</title>
-      <description>Date: 10/29/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NBA | Event: Cleveland Cavaliers at Atlanta Hawks | Venue: State Farm Arena</description>
-      <pubDate>Thu, 29 Oct 2026 20:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401909893</guid>
-    </item>
-    <item>
-      <title>10/29/2026 • 8:00 PM ET — NBA — New Orleans Pelicans vs Sacramento Kings</title>
-      <description>Date: 10/29/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NBA | Event: Sacramento Kings at New Orleans Pelicans | Venue: Smoothie King Center</description>
-      <pubDate>Thu, 29 Oct 2026 20:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401909894</guid>
-    </item>
-    <item>
-      <title>10/29/2026 • 8:00 PM ET — NHL — St. Louis Blues vs Boston Bruins</title>
-      <description>Date: 10/29/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NHL | Event: Boston Bruins at St. Louis Blues | Venue: Enterprise Center</description>
-      <pubDate>Thu, 29 Oct 2026 20:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401892604</guid>
-    </item>
-    <item>
-      <title>10/29/2026 • 8:00 PM ET — NHL — Nashville Predators vs Washington Capitals</title>
-      <description>Date: 10/29/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NHL | Event: Washington Capitals at Nashville Predators | Venue: Bridgestone Arena</description>
-      <pubDate>Thu, 29 Oct 2026 20:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401892605</guid>
-    </item>
-    <item>
-      <title>10/29/2026 • 8:00 PM ET — NHL — Dallas Stars vs Montreal Canadiens</title>
-      <description>Date: 10/29/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NHL | Event: Montreal Canadiens at Dallas Stars | Venue: American Airlines Center</description>
-      <pubDate>Thu, 29 Oct 2026 20:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401892606</guid>
-    </item>
-    <item>
-      <title>10/29/2026 • 8:00 PM ET — NHL — Minnesota Wild vs New York Islanders</title>
-      <description>Date: 10/29/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NHL | Event: New York Islanders at Minnesota Wild | Venue: Grand Casino Arena</description>
-      <pubDate>Thu, 29 Oct 2026 20:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401892607</guid>
-    </item>
-    <item>
-      <title>10/29/2026 • 8:15 PM ET — NFL — Green Bay Packers vs Carolina Panthers</title>
-      <description>Date: 10/29/2026 | Time: 8:15 PM ET | Status: Scheduled | Sport: NFL | Event: Carolina Panthers at Green Bay Packers | Venue: Lambeau Field</description>
-      <pubDate>Thu, 29 Oct 2026 20:15:00 -0400</pubDate>
-      <guid isPermaLink="false">401873023</guid>
-    </item>
-    <item>
-      <title>10/29/2026 • 10:00 PM ET — NBA — Portland Trail Blazers vs Memphis Grizzlies</title>
-      <description>Date: 10/29/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NBA | Event: Memphis Grizzlies at Portland Trail Blazers | Venue: Moda Center</description>
-      <pubDate>Thu, 29 Oct 2026 22:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401909895</guid>
-    </item>
-    <item>
-      <title>10/29/2026 • 10:00 PM ET — NHL — Anaheim Ducks vs Buffalo Sabres</title>
-      <description>Date: 10/29/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NHL | Event: Buffalo Sabres at Anaheim Ducks | Venue: Honda Center</description>
-      <pubDate>Thu, 29 Oct 2026 22:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401892608</guid>
-    </item>
-    <item>
-      <title>10/29/2026 • 10:00 PM ET — NHL — Los Angeles Kings vs Ottawa Senators</title>
-      <description>Date: 10/29/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NHL | Event: Ottawa Senators at Los Angeles Kings | Venue: crypto.com Arena</description>
-      <pubDate>Thu, 29 Oct 2026 22:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401892609</guid>
-    </item>
-    <item>
-      <title>10/29/2026 • 10:00 PM ET — NHL — San Jose Sharks vs Vancouver Canucks</title>
-      <description>Date: 10/29/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NHL | Event: Vancouver Canucks at San Jose Sharks | Venue: SAP Center at San Jose</description>
-      <pubDate>Thu, 29 Oct 2026 22:00:00 -0400</pubDate>
-      <guid isPermaLink="false">401892610</guid>
-    </item>
     <item>
       <title>10/30/2026 • 6:00 PM ET — NHL — Vegas Golden Knights vs New Jersey Devils</title>
       <description>Date: 10/30/2026 | Time: 6:00 PM ET | Status: Scheduled | Sport: NHL | Event: New Jersey Devils at Vegas Golden Knights | Venue: T-Mobile Arena</description>
@@ -1589,6 +1481,162 @@
       <description>Date: 11/05/2026 | Time: 10:30 PM ET | Status: Scheduled | Sport: College Basketball | Event: Cal Poly Mustangs at Arizona Wildcats | Venue: McKale Center at ALKEME Arena</description>
       <pubDate>Thu, 05 Nov 2026 22:30:00 -0500</pubDate>
       <guid isPermaLink="false">401909739</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 5:00 PM ET — College Basketball — Virginia Cavaliers vs Northeastern Huskies</title>
+      <description>Date: 11/06/2026 | Time: 5:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: Northeastern Huskies at Virginia Cavaliers | Venue: John Paul Jones Arena</description>
+      <pubDate>Fri, 06 Nov 2026 17:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401920423</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 7:00 PM ET — College Football — SMU Mustangs vs Virginia Tech Hokies</title>
+      <description>Date: 11/06/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Virginia Tech Hokies at SMU Mustangs | Venue: Gerald J. Ford Stadium</description>
+      <pubDate>Fri, 06 Nov 2026 19:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401858288</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 7:00 PM ET — NBA — Atlanta Hawks vs Washington Wizards</title>
+      <description>Date: 11/06/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NBA | Event: Washington Wizards at Atlanta Hawks | Venue: State Farm Arena</description>
+      <pubDate>Fri, 06 Nov 2026 19:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401909287</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 7:00 PM ET — NBA — Charlotte Hornets vs Boston Celtics</title>
+      <description>Date: 11/06/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NBA | Event: Boston Celtics at Charlotte Hornets | Venue: Spectrum Center</description>
+      <pubDate>Fri, 06 Nov 2026 19:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401909288</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 7:00 PM ET — College Basketball — Kentucky Wildcats vs James Madison Dukes</title>
+      <description>Date: 11/06/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: James Madison Dukes at Kentucky Wildcats | Venue: Rupp Arena</description>
+      <pubDate>Fri, 06 Nov 2026 19:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401921802</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 7:00 PM ET — NHL — Buffalo Sabres vs Columbus Blue Jackets</title>
+      <description>Date: 11/06/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NHL | Event: Columbus Blue Jackets at Buffalo Sabres | Venue: KeyBank Center</description>
+      <pubDate>Fri, 06 Nov 2026 19:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401892659</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 7:30 PM ET — College Football — East Carolina Pirates vs South Florida Bulls</title>
+      <description>Date: 11/06/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: South Florida Bulls at East Carolina Pirates | Venue: Dowdy-Ficklen Stadium</description>
+      <pubDate>Fri, 06 Nov 2026 19:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401862818</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 7:30 PM ET — NBA — Cleveland Cavaliers vs Philadelphia 76ers</title>
+      <description>Date: 11/06/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: NBA | Event: Philadelphia 76ers at Cleveland Cavaliers | Venue: Rocket Arena</description>
+      <pubDate>Fri, 06 Nov 2026 19:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401909289</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 7:30 PM ET — College Basketball — Alabama Crimson Tide vs Arkansas State Red Wolves</title>
+      <description>Date: 11/06/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Basketball | Event: Arkansas State Red Wolves at Alabama Crimson Tide | Venue: Coleman Coliseum</description>
+      <pubDate>Fri, 06 Nov 2026 19:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401906758</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 8:00 PM ET — College Football — Illinois Fighting Illini vs Nebraska Cornhuskers</title>
+      <description>Date: 11/06/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: College Football | Event: Nebraska Cornhuskers at Illinois Fighting Illini | Venue: Gies Memorial Stadium</description>
+      <pubDate>Fri, 06 Nov 2026 20:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401858510</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 8:00 PM ET — NBA — Dallas Mavericks vs Utah Jazz</title>
+      <description>Date: 11/06/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NBA | Event: Utah Jazz at Dallas Mavericks | Venue: American Airlines Center</description>
+      <pubDate>Fri, 06 Nov 2026 20:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401909290</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 8:00 PM ET — NBA — Memphis Grizzlies vs Oklahoma City Thunder</title>
+      <description>Date: 11/06/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NBA | Event: Oklahoma City Thunder at Memphis Grizzlies | Venue: FedExForum</description>
+      <pubDate>Fri, 06 Nov 2026 20:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401909291</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 8:00 PM ET — NBA — Milwaukee Bucks vs Toronto Raptors</title>
+      <description>Date: 11/06/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NBA | Event: Toronto Raptors at Milwaukee Bucks | Venue: Fiserv Forum</description>
+      <pubDate>Fri, 06 Nov 2026 20:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401909292</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 8:00 PM ET — NBA — New Orleans Pelicans vs Minnesota Timberwolves</title>
+      <description>Date: 11/06/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NBA | Event: Minnesota Timberwolves at New Orleans Pelicans | Venue: Smoothie King Center</description>
+      <pubDate>Fri, 06 Nov 2026 20:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401909293</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 8:00 PM ET — College Basketball — Michigan Wolverines vs UConn Huskies</title>
+      <description>Date: 11/06/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: UConn Huskies at Michigan Wolverines | Venue: TD Garden</description>
+      <pubDate>Fri, 06 Nov 2026 20:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401920685</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 8:00 PM ET — College Basketball — Iowa State Cyclones vs Southern Miss Golden Eagles</title>
+      <description>Date: 11/06/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: Southern Miss Golden Eagles at Iowa State Cyclones | Venue: Hilton Coliseum</description>
+      <pubDate>Fri, 06 Nov 2026 20:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401909772</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 8:00 PM ET — NHL — Minnesota Wild vs San Jose Sharks</title>
+      <description>Date: 11/06/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NHL | Event: San Jose Sharks at Minnesota Wild | Venue: Grand Casino Arena</description>
+      <pubDate>Fri, 06 Nov 2026 20:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401892660</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 8:00 PM ET — NHL — Calgary Flames vs Anaheim Ducks</title>
+      <description>Date: 11/06/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NHL | Event: Anaheim Ducks at Calgary Flames | Venue: Scotiabank Saddledome</description>
+      <pubDate>Fri, 06 Nov 2026 20:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401892661</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 9:00 PM ET — College Football — Nevada Wolf Pack vs New Mexico Lobos</title>
+      <description>Date: 11/06/2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: College Football | Event: New Mexico Lobos at Nevada Wolf Pack | Venue: Mackay Stadium</description>
+      <pubDate>Fri, 06 Nov 2026 21:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401864533</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 9:00 PM ET — College Basketball — Miami Hurricanes vs Wagner Seahawks</title>
+      <description>Date: 11/06/2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: Wagner Seahawks at Miami Hurricanes | Venue: Watsco Center</description>
+      <pubDate>Fri, 06 Nov 2026 21:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401921719</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 9:00 PM ET — College Basketball — Kansas Jayhawks vs Middle Tennessee Blue Raiders</title>
+      <description>Date: 11/06/2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: Middle Tennessee Blue Raiders at Kansas Jayhawks | Venue: Allen Fieldhouse</description>
+      <pubDate>Fri, 06 Nov 2026 21:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401909785</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 9:00 PM ET — College Basketball — BYU Cougars vs Omaha Mavericks</title>
+      <description>Date: 11/06/2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: Omaha Mavericks at BYU Cougars | Venue: Marriott Center</description>
+      <pubDate>Fri, 06 Nov 2026 21:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401921739</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 10:00 PM ET — NBA — Los Angeles Lakers vs Portland Trail Blazers</title>
+      <description>Date: 11/06/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NBA | Event: Portland Trail Blazers at Los Angeles Lakers | Venue: crypto.com Arena</description>
+      <pubDate>Fri, 06 Nov 2026 22:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401909294</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 10:00 PM ET — NBA — Sacramento Kings vs San Antonio Spurs</title>
+      <description>Date: 11/06/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: NBA | Event: San Antonio Spurs at Sacramento Kings | Venue: Golden 1 Center</description>
+      <pubDate>Fri, 06 Nov 2026 22:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401909295</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 10:15 PM ET — College Football — Arizona Wildcats vs TCU Horned Frogs</title>
+      <description>Date: 11/06/2026 | Time: 10:15 PM ET | Status: Scheduled | Sport: College Football | Event: TCU Horned Frogs at Arizona Wildcats | Venue: Casino Del Sol Stadium</description>
+      <pubDate>Fri, 06 Nov 2026 22:15:00 -0500</pubDate>
+      <guid isPermaLink="false">401856855</guid>
+    </item>
+    <item>
+      <title>11/06/2026 • 10:30 PM ET — College Basketball — UCLA Bruins vs North Florida Ospreys</title>
+      <description>Date: 11/06/2026 | Time: 10:30 PM ET | Status: Scheduled | Sport: College Basketball | Event: North Florida Ospreys at UCLA Bruins | Venue: Pauley Pavilion</description>
+      <pubDate>Fri, 06 Nov 2026 22:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401922219</guid>
     </item>
   </channel>
 </rss>
