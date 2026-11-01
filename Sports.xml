@@ -4,11 +4,11 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 01 Nov 2026 06:31:23 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 12:14:44 -0500</lastBuildDate>
     
     <item>
       <title>11/01/2026 • 9:30 AM ET — College Basketball — Villanova Wildcats vs Notre Dame Fighting Irish</title>
-      <description>Date: 11/01/2026 | Time: 9:30 AM ET | Status: Scheduled | Sport: College Basketball | Event: Notre Dame Fighting Irish at Villanova Wildcats | Venue: Palazzo dello Sport</description>
+      <description>Date: 11/01/2026 | Time: 9:30 AM ET | Status: Final | Sport: College Basketball | Event: Notre Dame Fighting Irish at Villanova Wildcats | Venue: Palazzo dello Sport</description>
       <pubDate>Sun, 01 Nov 2026 09:30:00 -0500</pubDate>
       <guid isPermaLink="false">401920982</guid>
     </item>
@@ -1099,22 +1099,10 @@
       <guid isPermaLink="false">401922219</guid>
     </item>
     <item>
-      <title>11/07/2026 • 12:00 AM ET — College Football — Minnesota Golden Gophers vs UCLA Bruins</title>
-      <description>Date: 11/07/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: UCLA Bruins at Minnesota Golden Gophers | Venue: Huntington Bank Stadium</description>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="false">401858512</guid>
-    </item>
-    <item>
       <title>11/07/2026 • 12:00 AM ET — College Football — Houston Cougars vs Cincinnati Bearcats</title>
       <description>Date: 11/07/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Cincinnati Bearcats at Houston Cougars | Venue: TDECU Stadium</description>
       <pubDate>Sat, 07 Nov 2026 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">401856851</guid>
-    </item>
-    <item>
-      <title>11/07/2026 • 12:00 AM ET — College Football — Northwestern Wildcats vs Iowa Hawkeyes</title>
-      <description>Date: 11/07/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Iowa Hawkeyes at Northwestern Wildcats | Venue: Ryan Field</description>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="false">401858513</guid>
     </item>
     <item>
       <title>11/07/2026 • 12:00 AM ET — College Football — Baylor Bears vs Iowa State Cyclones</title>
@@ -1123,22 +1111,16 @@
       <guid isPermaLink="false">401856853</guid>
     </item>
     <item>
-      <title>11/07/2026 • 12:00 AM ET — College Football — Michigan Wolverines vs Michigan State Spartans</title>
-      <description>Date: 11/07/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Michigan State Spartans at Michigan Wolverines | Venue: Michigan Stadium</description>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="false">401858511</guid>
-    </item>
-    <item>
-      <title>11/07/2026 • 12:00 AM ET — College Football — Washington Huskies vs Penn State Nittany Lions</title>
-      <description>Date: 11/07/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Penn State Nittany Lions at Washington Huskies | Venue: Husky Stadium</description>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="false">401858516</guid>
-    </item>
-    <item>
       <title>11/07/2026 • 12:00 PM ET — College Football — Utah Utes vs BYU Cougars</title>
       <description>Date: 11/07/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: BYU Cougars at Utah Utes | Venue: Rice-Eccles Stadium</description>
       <pubDate>Sat, 07 Nov 2026 12:00:00 -0500</pubDate>
       <guid isPermaLink="false">401856849</guid>
+    </item>
+    <item>
+      <title>11/07/2026 • 12:00 PM ET — College Football — Minnesota Golden Gophers vs UCLA Bruins</title>
+      <description>Date: 11/07/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: UCLA Bruins at Minnesota Golden Gophers | Venue: Huntington Bank Stadium</description>
+      <pubDate>Sat, 07 Nov 2026 12:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401858512</guid>
     </item>
     <item>
       <title>11/07/2026 • 12:00 PM ET — College Football — Missouri Tigers vs Texas Longhorns</title>
@@ -1181,12 +1163,6 @@
       <description>Date: 11/07/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: Morehead State Eagles at Louisville Cardinals | Venue: KFC Yum! Center</description>
       <pubDate>Sat, 07 Nov 2026 12:00:00 -0500</pubDate>
       <guid isPermaLink="false">401918948</guid>
-    </item>
-    <item>
-      <title>11/07/2026 • 12:30 PM ET — College Football — Wisconsin Badgers vs Rutgers Scarlet Knights</title>
-      <description>Date: 11/07/2026 | Time: 12:30 PM ET | Status: Scheduled | Sport: College Football | Event: Rutgers Scarlet Knights at Wisconsin Badgers | Venue: Camp Randall Stadium</description>
-      <pubDate>Sat, 07 Nov 2026 12:30:00 -0500</pubDate>
-      <guid isPermaLink="false">401858517</guid>
     </item>
     <item>
       <title>11/07/2026 • 12:30 PM ET — College Football — NC State Wolfpack vs Duke Blue Devils</title>
@@ -1265,6 +1241,12 @@
       <description>Date: 11/07/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Merrimack Warriors at Wake Forest Demon Deacons | Venue: Allegacy Federal Credit Union Stadium</description>
       <pubDate>Sat, 07 Nov 2026 15:30:00 -0500</pubDate>
       <guid isPermaLink="false">401858290</guid>
+    </item>
+    <item>
+      <title>11/07/2026 • 3:30 PM ET — College Football — Washington Huskies vs Penn State Nittany Lions</title>
+      <description>Date: 11/07/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Penn State Nittany Lions at Washington Huskies | Venue: Husky Stadium</description>
+      <pubDate>Sat, 07 Nov 2026 15:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401858516</guid>
     </item>
     <item>
       <title>11/07/2026 • 3:30 PM ET — College Football — UAB Blazers vs Charlotte 49ers</title>
@@ -1367,6 +1349,12 @@
       <description>Date: 11/07/2026 | Time: 4:00 PM ET | Status: Scheduled | Sport: MLS | Event: Atlanta United FC at Red Bull New York | Venue: Sports Illustrated Stadium</description>
       <pubDate>Sat, 07 Nov 2026 16:00:00 -0500</pubDate>
       <guid isPermaLink="false">761939</guid>
+    </item>
+    <item>
+      <title>11/07/2026 • 4:15 PM ET — College Football — Wisconsin Badgers vs Rutgers Scarlet Knights</title>
+      <description>Date: 11/07/2026 | Time: 4:15 PM ET | Status: Scheduled | Sport: College Football | Event: Rutgers Scarlet Knights at Wisconsin Badgers | Venue: Camp Randall Stadium</description>
+      <pubDate>Sat, 07 Nov 2026 16:15:00 -0500</pubDate>
+      <guid isPermaLink="false">401858517</guid>
     </item>
     <item>
       <title>11/07/2026 • 4:15 PM ET — College Football — Mississippi State Bulldogs vs Vanderbilt Commodores</title>
@@ -1487,6 +1475,18 @@
       <description>Date: 11/07/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Georgia Bulldogs at Ole Miss Rebels | Venue: Vaught-Hemingway Stadium</description>
       <pubDate>Sat, 07 Nov 2026 19:30:00 -0500</pubDate>
       <guid isPermaLink="false">401856741</guid>
+    </item>
+    <item>
+      <title>11/07/2026 • 7:30 PM ET — College Football — Northwestern Wildcats vs Iowa Hawkeyes</title>
+      <description>Date: 11/07/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Iowa Hawkeyes at Northwestern Wildcats | Venue: Ryan Field</description>
+      <pubDate>Sat, 07 Nov 2026 19:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401858513</guid>
+    </item>
+    <item>
+      <title>11/07/2026 • 7:30 PM ET — College Football — Michigan Wolverines vs Michigan State Spartans</title>
+      <description>Date: 11/07/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Michigan State Spartans at Michigan Wolverines | Venue: Michigan Stadium</description>
+      <pubDate>Sat, 07 Nov 2026 19:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401858511</guid>
     </item>
     <item>
       <title>11/07/2026 • 7:30 PM ET — College Football — Arizona State Sun Devils vs Colorado Buffaloes</title>
