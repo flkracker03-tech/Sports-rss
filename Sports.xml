@@ -4,11 +4,11 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 08 Nov 2026 04:29:30 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 11:14:49 -0500</lastBuildDate>
     
     <item>
       <title>11/08/2026 • 9:30 AM ET — NFL — Atlanta Falcons vs Cincinnati Bengals</title>
-      <description>Date: 11/08/2026 | Time: 9:30 AM ET | Status: Scheduled | Sport: NFL | Event: Cincinnati Bengals at Atlanta Falcons | Venue: Santiago Bernabéu</description>
+      <description>Date: 11/08/2026 | Time: 9:30 AM ET | Status: Halftime | Sport: NFL | Event: Cincinnati Bengals at Atlanta Falcons | Venue: Santiago Bernabéu</description>
       <pubDate>Sun, 08 Nov 2026 09:30:00 -0500</pubDate>
       <guid isPermaLink="false">401873038</guid>
     </item>
@@ -481,12 +481,6 @@
       <guid isPermaLink="false">401892690</guid>
     </item>
     <item>
-      <title>11/11/2026 • 7:30 PM ET — College Football — Toledo Rockets vs Massachusetts Minutemen</title>
-      <description>Date: 11/11/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Massachusetts Minutemen at Toledo Rockets | Venue: Glass Bowl</description>
-      <pubDate>Wed, 11 Nov 2026 19:30:00 -0500</pubDate>
-      <guid isPermaLink="false">401866463</guid>
-    </item>
-    <item>
       <title>11/11/2026 • 7:30 PM ET — College Football — Ball State Cardinals vs Buffalo Bulls</title>
       <description>Date: 11/11/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Buffalo Bulls at Ball State Cardinals | Venue: Scheumann Stadium</description>
       <pubDate>Wed, 11 Nov 2026 19:30:00 -0500</pubDate>
@@ -497,6 +491,12 @@
       <description>Date: 11/11/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Sacramento State Hornets at Central Michigan Chippewas | Venue: Kelly/Shorts Stadium</description>
       <pubDate>Wed, 11 Nov 2026 19:30:00 -0500</pubDate>
       <guid isPermaLink="false">401866462</guid>
+    </item>
+    <item>
+      <title>11/11/2026 • 7:30 PM ET — College Football — Toledo Rockets vs Massachusetts Minutemen</title>
+      <description>Date: 11/11/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Massachusetts Minutemen at Toledo Rockets | Venue: Glass Bowl</description>
+      <pubDate>Wed, 11 Nov 2026 19:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401866463</guid>
     </item>
     <item>
       <title>11/11/2026 • 7:30 PM ET — NHL — Calgary Flames vs New York Rangers</title>
