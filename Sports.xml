@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 07 Nov 2026 21:39:23 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 04:29:30 -0500</lastBuildDate>
     
     <item>
       <title>11/08/2026 • 9:30 AM ET — NFL — Atlanta Falcons vs Cincinnati Bengals</title>
@@ -913,12 +913,6 @@
       <guid isPermaLink="false">401856863</guid>
     </item>
     <item>
-      <title>11/14/2026 • 12:00 AM ET — College Football — Iowa Hawkeyes vs Purdue Boilermakers</title>
-      <description>Date: 11/14/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Purdue Boilermakers at Iowa Hawkeyes | Venue: Kinnick Stadium</description>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="false">401858519</guid>
-    </item>
-    <item>
       <title>11/14/2026 • 12:00 AM ET — College Football — UCF Knights vs Arizona State Sun Devils</title>
       <description>Date: 11/14/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: Arizona State Sun Devils at UCF Knights | Venue: Acrisure Bounce House</description>
       <pubDate>Sat, 14 Nov 2026 00:00:00 -0500</pubDate>
@@ -1235,6 +1229,12 @@
       <description>Date: 11/14/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NHL | Event: Florida Panthers at St. Louis Blues | Venue: Enterprise Center</description>
       <pubDate>Sat, 14 Nov 2026 19:00:00 -0500</pubDate>
       <guid isPermaLink="false">401892716</guid>
+    </item>
+    <item>
+      <title>11/14/2026 • 7:30 PM ET — College Football — Iowa Hawkeyes vs Purdue Boilermakers</title>
+      <description>Date: 11/14/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Purdue Boilermakers at Iowa Hawkeyes | Venue: Kinnick Stadium</description>
+      <pubDate>Sat, 14 Nov 2026 19:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401858519</guid>
     </item>
     <item>
       <title>11/14/2026 • 7:30 PM ET — College Football — New Mexico Lobos vs UNLV Rebels</title>
