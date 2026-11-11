@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Tue, 10 Nov 2026 20:43:43 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 03:26:27 -0500</lastBuildDate>
     
     <item>
       <title>11/11/2026 • 7:00 PM ET — NBA — Indiana Pacers vs Washington Wizards</title>
@@ -445,16 +445,16 @@
       <guid isPermaLink="false">401858296</guid>
     </item>
     <item>
-      <title>11/14/2026 • 12:00 PM ET — College Football — Ohio State Buckeyes vs Northwestern Wildcats</title>
-      <description>Date: 11/14/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Northwestern Wildcats at Ohio State Buckeyes | Venue: Ohio Stadium</description>
-      <pubDate>Sat, 14 Nov 2026 12:00:00 -0500</pubDate>
-      <guid isPermaLink="false">401858522</guid>
-    </item>
-    <item>
       <title>11/14/2026 • 12:00 PM ET — College Football — SMU Mustangs vs Wake Forest Demon Deacons</title>
       <description>Date: 11/14/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Wake Forest Demon Deacons at SMU Mustangs | Venue: Gerald J. Ford Stadium</description>
       <pubDate>Sat, 14 Nov 2026 12:00:00 -0500</pubDate>
       <guid isPermaLink="false">401858301</guid>
+    </item>
+    <item>
+      <title>11/14/2026 • 12:00 PM ET — College Football — Ohio State Buckeyes vs Northwestern Wildcats</title>
+      <description>Date: 11/14/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Northwestern Wildcats at Ohio State Buckeyes | Venue: Ohio Stadium</description>
+      <pubDate>Sat, 14 Nov 2026 12:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401858522</guid>
     </item>
     <item>
       <title>11/14/2026 • 12:00 PM ET — College Football — Iowa State Cyclones vs Cincinnati Bearcats</title>
@@ -577,6 +577,12 @@
       <guid isPermaLink="false">401856883</guid>
     </item>
     <item>
+      <title>11/14/2026 • 3:30 PM ET — College Football — Notre Dame Fighting Irish vs Boston College Eagles</title>
+      <description>Date: 11/14/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Boston College Eagles at Notre Dame Fighting Irish | Venue: Notre Dame Stadium</description>
+      <pubDate>Sat, 14 Nov 2026 15:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401858294</guid>
+    </item>
+    <item>
       <title>11/14/2026 • 3:30 PM ET — College Football — Indiana Hoosiers vs USC Trojans</title>
       <description>Date: 11/14/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: USC Trojans at Indiana Hoosiers | Venue: Memorial Stadium (Bloomington, IN)</description>
       <pubDate>Sat, 14 Nov 2026 15:30:00 -0500</pubDate>
@@ -587,12 +593,6 @@
       <description>Date: 11/14/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Baylor Bears at BYU Cougars | Venue: LaVell Edwards Stadium</description>
       <pubDate>Sat, 14 Nov 2026 15:30:00 -0500</pubDate>
       <guid isPermaLink="false">401856858</guid>
-    </item>
-    <item>
-      <title>11/14/2026 • 3:30 PM ET — College Football — Notre Dame Fighting Irish vs Boston College Eagles</title>
-      <description>Date: 11/14/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Boston College Eagles at Notre Dame Fighting Irish | Venue: Notre Dame Stadium</description>
-      <pubDate>Sat, 14 Nov 2026 15:30:00 -0500</pubDate>
-      <guid isPermaLink="false">401858294</guid>
     </item>
     <item>
       <title>11/14/2026 • 3:30 PM ET — College Football — Oregon Ducks vs Michigan Wolverines</title>
