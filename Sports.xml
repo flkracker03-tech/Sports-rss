@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Fri, 13 Nov 2026 20:49:11 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 03:40:14 -0500</lastBuildDate>
     
     <item>
       <title>11/14/2026 • 12:00 PM ET — College Football — Miami Hurricanes vs Duke Blue Devils</title>
@@ -29,12 +29,6 @@
       <description>Date: 11/14/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Cincinnati Bearcats at Iowa State Cyclones | Venue: Jack Trice Stadium</description>
       <pubDate>Sat, 14 Nov 2026 12:00:00 -0500</pubDate>
       <guid isPermaLink="false">401856859</guid>
-    </item>
-    <item>
-      <title>11/14/2026 • 12:00 PM ET — College Football — Mississippi State Bulldogs vs Auburn Tigers</title>
-      <description>Date: 11/14/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Auburn Tigers at Mississippi State Bulldogs | Venue: Davis Wade Stadium</description>
-      <pubDate>Sat, 14 Nov 2026 12:00:00 -0500</pubDate>
-      <guid isPermaLink="false">401856886</guid>
     </item>
     <item>
       <title>11/14/2026 • 12:00 PM ET — College Football — NC State Wolfpack vs Syracuse Orange</title>
@@ -109,12 +103,6 @@
       <guid isPermaLink="false">401856862</guid>
     </item>
     <item>
-      <title>11/14/2026 • 2:00 PM ET — College Football — Rice Owls vs Tulane Green Wave</title>
-      <description>Date: 11/14/2026 | Time: 2:00 PM ET | Status: Scheduled | Sport: College Football | Event: Tulane Green Wave at Rice Owls | Venue: First Community Stadium</description>
-      <pubDate>Sat, 14 Nov 2026 14:00:00 -0500</pubDate>
-      <guid isPermaLink="false">401862828</guid>
-    </item>
-    <item>
       <title>11/14/2026 • 2:00 PM ET — College Football — Sam Houston Bearkats vs Kennesaw State Owls</title>
       <description>Date: 11/14/2026 | Time: 2:00 PM ET | Status: Scheduled | Sport: College Football | Event: Kennesaw State Owls at Sam Houston Bearkats | Venue: Elliott T. Bowers Stadium</description>
       <pubDate>Sat, 14 Nov 2026 14:00:00 -0500</pubDate>
@@ -157,34 +145,16 @@
       <guid isPermaLink="false">401858518</guid>
     </item>
     <item>
-      <title>11/14/2026 • 3:30 PM ET — College Football — BYU Cougars vs Baylor Bears</title>
-      <description>Date: 11/14/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Baylor Bears at BYU Cougars | Venue: LaVell Edwards Stadium</description>
-      <pubDate>Sat, 14 Nov 2026 15:30:00 -0500</pubDate>
-      <guid isPermaLink="false">401856858</guid>
-    </item>
-    <item>
       <title>11/14/2026 • 3:30 PM ET — College Football — Oregon Ducks vs Michigan Wolverines</title>
       <description>Date: 11/14/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Michigan Wolverines at Oregon Ducks | Venue: Autzen Stadium</description>
       <pubDate>Sat, 14 Nov 2026 15:30:00 -0500</pubDate>
       <guid isPermaLink="false">401858523</guid>
     </item>
     <item>
-      <title>11/14/2026 • 3:30 PM ET — College Football — UCF Knights vs Arizona State Sun Devils</title>
-      <description>Date: 11/14/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Arizona State Sun Devils at UCF Knights | Venue: Acrisure Bounce House</description>
-      <pubDate>Sat, 14 Nov 2026 15:30:00 -0500</pubDate>
-      <guid isPermaLink="false">401856857</guid>
-    </item>
-    <item>
       <title>11/14/2026 • 3:30 PM ET — College Football — Virginia Cavaliers vs California Golden Bears</title>
       <description>Date: 11/14/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: California Golden Bears at Virginia Cavaliers | Venue: Scott Stadium</description>
       <pubDate>Sat, 14 Nov 2026 15:30:00 -0500</pubDate>
       <guid isPermaLink="false">401858295</guid>
-    </item>
-    <item>
-      <title>11/14/2026 • 3:30 PM ET — College Football — Tulsa Golden Hurricane vs Florida Atlantic Owls</title>
-      <description>Date: 11/14/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Florida Atlantic Owls at Tulsa Golden Hurricane | Venue: H. A. Chapman Stadium</description>
-      <pubDate>Sat, 14 Nov 2026 15:30:00 -0500</pubDate>
-      <guid isPermaLink="false">401862826</guid>
     </item>
     <item>
       <title>11/14/2026 • 3:30 PM ET — College Football — Northern Illinois Huskies vs Nevada Wolf Pack</title>
@@ -211,6 +181,12 @@
       <guid isPermaLink="false">401871061</guid>
     </item>
     <item>
+      <title>11/14/2026 • 3:30 PM ET — College Football — West Virginia Mountaineers vs Kansas Jayhawks</title>
+      <description>Date: 11/14/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Kansas Jayhawks at West Virginia Mountaineers | Venue: Milan Puskar Stadium</description>
+      <pubDate>Sat, 14 Nov 2026 15:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401856861</guid>
+    </item>
+    <item>
       <title>11/14/2026 • 3:30 PM ET — College Basketball — Gonzaga Bulldogs vs LSU Tigers</title>
       <description>Date: 11/14/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Basketball | Event: LSU Tigers at Gonzaga Bulldogs | Venue: Spokane Numerica Veterans Arena</description>
       <pubDate>Sat, 14 Nov 2026 15:30:00 -0500</pubDate>
@@ -229,16 +205,16 @@
       <guid isPermaLink="false">401860916</guid>
     </item>
     <item>
-      <title>11/14/2026 • 4:15 PM ET — College Football — Oklahoma Sooners vs Ole Miss Rebels</title>
-      <description>Date: 11/14/2026 | Time: 4:15 PM ET | Status: Scheduled | Sport: College Football | Event: Ole Miss Rebels at Oklahoma Sooners | Venue: Memorial Stadium (Norman, OK)</description>
+      <title>11/14/2026 • 4:15 PM ET — College Football — Mississippi State Bulldogs vs Auburn Tigers</title>
+      <description>Date: 11/14/2026 | Time: 4:15 PM ET | Status: Scheduled | Sport: College Football | Event: Auburn Tigers at Mississippi State Bulldogs | Venue: Davis Wade Stadium</description>
       <pubDate>Sat, 14 Nov 2026 16:15:00 -0500</pubDate>
-      <guid isPermaLink="false">401856887</guid>
+      <guid isPermaLink="false">401856886</guid>
     </item>
     <item>
-      <title>11/14/2026 • 4:15 PM ET — College Football — Michigan State Spartans vs Washington Huskies</title>
-      <description>Date: 11/14/2026 | Time: 4:15 PM ET | Status: Scheduled | Sport: College Football | Event: Washington Huskies at Michigan State Spartans | Venue: Spartan Stadium</description>
-      <pubDate>Sat, 14 Nov 2026 16:15:00 -0500</pubDate>
-      <guid isPermaLink="false">401858521</guid>
+      <title>11/14/2026 • 4:30 PM ET — College Football — Rice Owls vs Tulane Green Wave</title>
+      <description>Date: 11/14/2026 | Time: 4:30 PM ET | Status: Scheduled | Sport: College Football | Event: Tulane Green Wave at Rice Owls | Venue: First Community Stadium</description>
+      <pubDate>Sat, 14 Nov 2026 16:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401862828</guid>
     </item>
     <item>
       <title>11/14/2026 • 5:00 PM ET — College Football — Louisiana Tech Bulldogs vs Southern Miss Golden Eagles</title>
@@ -247,10 +223,16 @@
       <guid isPermaLink="false">401871099</guid>
     </item>
     <item>
-      <title>11/14/2026 • 5:30 PM ET — College Football — West Virginia Mountaineers vs Kansas Jayhawks</title>
-      <description>Date: 11/14/2026 | Time: 5:30 PM ET | Status: Scheduled | Sport: College Football | Event: Kansas Jayhawks at West Virginia Mountaineers | Venue: Milan Puskar Stadium</description>
+      <title>11/14/2026 • 5:30 PM ET — College Football — UCF Knights vs Arizona State Sun Devils</title>
+      <description>Date: 11/14/2026 | Time: 5:30 PM ET | Status: Scheduled | Sport: College Football | Event: Arizona State Sun Devils at UCF Knights | Venue: Acrisure Bounce House</description>
       <pubDate>Sat, 14 Nov 2026 17:30:00 -0500</pubDate>
-      <guid isPermaLink="false">401856861</guid>
+      <guid isPermaLink="false">401856857</guid>
+    </item>
+    <item>
+      <title>11/14/2026 • 5:30 PM ET — College Football — Michigan State Spartans vs Washington Huskies</title>
+      <description>Date: 11/14/2026 | Time: 5:30 PM ET | Status: Scheduled | Sport: College Football | Event: Washington Huskies at Michigan State Spartans | Venue: Spartan Stadium</description>
+      <pubDate>Sat, 14 Nov 2026 17:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401858521</guid>
     </item>
     <item>
       <title>11/14/2026 • 6:00 PM ET — College Football — Boise State Broncos vs Oregon State Beavers</title>
@@ -269,6 +251,12 @@
       <description>Date: 11/14/2026 | Time: 6:15 PM ET | Status: Scheduled | Sport: College Football | Event: Florida Gators at Kentucky Wildcats | Venue: Kroger Field</description>
       <pubDate>Sat, 14 Nov 2026 18:15:00 -0500</pubDate>
       <guid isPermaLink="false">401856884</guid>
+    </item>
+    <item>
+      <title>11/14/2026 • 7:00 PM ET — College Football — BYU Cougars vs Baylor Bears</title>
+      <description>Date: 11/14/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Baylor Bears at BYU Cougars | Venue: LaVell Edwards Stadium</description>
+      <pubDate>Sat, 14 Nov 2026 19:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401856858</guid>
     </item>
     <item>
       <title>11/14/2026 • 7:00 PM ET — College Football — North Carolina Tar Heels vs Louisville Cardinals</title>
@@ -349,10 +337,10 @@
       <guid isPermaLink="false">401892716</guid>
     </item>
     <item>
-      <title>11/14/2026 • 7:30 PM ET — College Football — Arizona Wildcats vs Utah Utes</title>
-      <description>Date: 11/14/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Football | Event: Utah Utes at Arizona Wildcats | Venue: Casino Del Sol Stadium</description>
-      <pubDate>Sat, 14 Nov 2026 19:30:00 -0500</pubDate>
-      <guid isPermaLink="false">401856864</guid>
+      <title>11/14/2026 • 7:15 PM ET — College Football — Tulsa Golden Hurricane vs Florida Atlantic Owls</title>
+      <description>Date: 11/14/2026 | Time: 7:15 PM ET | Status: Scheduled | Sport: College Football | Event: Florida Atlantic Owls at Tulsa Golden Hurricane | Venue: H. A. Chapman Stadium</description>
+      <pubDate>Sat, 14 Nov 2026 19:15:00 -0500</pubDate>
+      <guid isPermaLink="false">401862826</guid>
     </item>
     <item>
       <title>11/14/2026 • 7:30 PM ET — College Football — LSU Tigers vs Texas Longhorns</title>
@@ -457,6 +445,12 @@
       <guid isPermaLink="false">401892720</guid>
     </item>
     <item>
+      <title>11/14/2026 • 10:30 PM ET — College Football — Arizona Wildcats vs Utah Utes</title>
+      <description>Date: 11/14/2026 | Time: 10:30 PM ET | Status: Scheduled | Sport: College Football | Event: Utah Utes at Arizona Wildcats | Venue: Casino Del Sol Stadium</description>
+      <pubDate>Sat, 14 Nov 2026 22:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401856864</guid>
+    </item>
+    <item>
       <title>11/14/2026 • 10:30 PM ET — College Football — Washington State Cougars vs Colorado State Rams</title>
       <description>Date: 11/14/2026 | Time: 10:30 PM ET | Status: Scheduled | Sport: College Football | Event: Colorado State Rams at Washington State Cougars | Venue: Martin Stadium</description>
       <pubDate>Sat, 14 Nov 2026 22:30:00 -0500</pubDate>
@@ -473,6 +467,12 @@
       <description>Date: 11/15/2026 | Time: 9:30 AM ET | Status: Scheduled | Sport: NFL | Event: New England Patriots at Detroit Lions | Venue: FC Bayern Munich Stadium</description>
       <pubDate>Sun, 15 Nov 2026 09:30:00 -0500</pubDate>
       <guid isPermaLink="false">401873053</guid>
+    </item>
+    <item>
+      <title>11/15/2026 • 1:00 PM ET — College Football — Oklahoma Sooners vs Ole Miss Rebels</title>
+      <description>Date: 11/15/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: College Football | Event: Ole Miss Rebels at Oklahoma Sooners | Venue: Memorial Stadium (Norman, OK)</description>
+      <pubDate>Sun, 15 Nov 2026 13:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401856887</guid>
     </item>
     <item>
       <title>11/15/2026 • 1:00 PM ET — NFL — Atlanta Falcons vs Kansas City Chiefs</title>
