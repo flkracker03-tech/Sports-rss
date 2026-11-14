@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sat, 14 Nov 2026 03:40:14 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 10:20:57 -0500</lastBuildDate>
     
     <item>
       <title>11/14/2026 • 12:00 PM ET — College Football — Miami Hurricanes vs Duke Blue Devils</title>
@@ -85,12 +85,6 @@
       <guid isPermaLink="false">401869937</guid>
     </item>
     <item>
-      <title>11/14/2026 • 1:00 PM ET — College Basketball — Texas Tech Red Raiders vs Stonehill Skyhawks</title>
-      <description>Date: 11/14/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: Stonehill Skyhawks at Texas Tech Red Raiders | Venue: United Supermarkets Arena</description>
-      <pubDate>Sat, 14 Nov 2026 13:00:00 -0500</pubDate>
-      <guid isPermaLink="false">401919847</guid>
-    </item>
-    <item>
       <title>11/14/2026 • 1:00 PM ET — NHL — Carolina Hurricanes vs Seattle Kraken</title>
       <description>Date: 11/14/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NHL | Event: Seattle Kraken at Carolina Hurricanes | Venue: Veikkaus Arena</description>
       <pubDate>Sat, 14 Nov 2026 13:00:00 -0500</pubDate>
@@ -107,6 +101,12 @@
       <description>Date: 11/14/2026 | Time: 2:00 PM ET | Status: Scheduled | Sport: College Football | Event: Kennesaw State Owls at Sam Houston Bearkats | Venue: Elliott T. Bowers Stadium</description>
       <pubDate>Sat, 14 Nov 2026 14:00:00 -0500</pubDate>
       <guid isPermaLink="false">401870769</guid>
+    </item>
+    <item>
+      <title>11/14/2026 • 2:00 PM ET — College Basketball — Texas Tech Red Raiders vs Stonehill Skyhawks</title>
+      <description>Date: 11/14/2026 | Time: 2:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: Stonehill Skyhawks at Texas Tech Red Raiders | Venue: United Supermarkets Arena</description>
+      <pubDate>Sat, 14 Nov 2026 14:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401919847</guid>
     </item>
     <item>
       <title>11/14/2026 • 3:00 PM ET — College Football — Texas A&amp;M Aggies vs Tennessee Volunteers</title>
@@ -151,6 +151,12 @@
       <guid isPermaLink="false">401858523</guid>
     </item>
     <item>
+      <title>11/14/2026 • 3:30 PM ET — College Football — West Virginia Mountaineers vs Kansas Jayhawks</title>
+      <description>Date: 11/14/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Kansas Jayhawks at West Virginia Mountaineers | Venue: Milan Puskar Stadium</description>
+      <pubDate>Sat, 14 Nov 2026 15:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401856861</guid>
+    </item>
+    <item>
       <title>11/14/2026 • 3:30 PM ET — College Football — Virginia Cavaliers vs California Golden Bears</title>
       <description>Date: 11/14/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: California Golden Bears at Virginia Cavaliers | Venue: Scott Stadium</description>
       <pubDate>Sat, 14 Nov 2026 15:30:00 -0500</pubDate>
@@ -179,12 +185,6 @@
       <description>Date: 11/14/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Middle Tennessee Blue Raiders at Liberty Flames | Venue: Williams Stadium (VA)</description>
       <pubDate>Sat, 14 Nov 2026 15:30:00 -0500</pubDate>
       <guid isPermaLink="false">401871061</guid>
-    </item>
-    <item>
-      <title>11/14/2026 • 3:30 PM ET — College Football — West Virginia Mountaineers vs Kansas Jayhawks</title>
-      <description>Date: 11/14/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Kansas Jayhawks at West Virginia Mountaineers | Venue: Milan Puskar Stadium</description>
-      <pubDate>Sat, 14 Nov 2026 15:30:00 -0500</pubDate>
-      <guid isPermaLink="false">401856861</guid>
     </item>
     <item>
       <title>11/14/2026 • 3:30 PM ET — College Basketball — Gonzaga Bulldogs vs LSU Tigers</title>
@@ -469,12 +469,6 @@
       <guid isPermaLink="false">401873053</guid>
     </item>
     <item>
-      <title>11/15/2026 • 1:00 PM ET — College Football — Oklahoma Sooners vs Ole Miss Rebels</title>
-      <description>Date: 11/15/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: College Football | Event: Ole Miss Rebels at Oklahoma Sooners | Venue: Memorial Stadium (Norman, OK)</description>
-      <pubDate>Sun, 15 Nov 2026 13:00:00 -0500</pubDate>
-      <guid isPermaLink="false">401856887</guid>
-    </item>
-    <item>
       <title>11/15/2026 • 1:00 PM ET — NFL — Atlanta Falcons vs Kansas City Chiefs</title>
       <description>Date: 11/15/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NFL | Event: Kansas City Chiefs at Atlanta Falcons | Venue: Mercedes-Benz Stadium</description>
       <pubDate>Sun, 15 Nov 2026 13:00:00 -0500</pubDate>
@@ -515,6 +509,12 @@
       <description>Date: 11/15/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NFL | Event: Buffalo Bills at New York Jets | Venue: MetLife Stadium</description>
       <pubDate>Sun, 15 Nov 2026 13:00:00 -0500</pubDate>
       <guid isPermaLink="false">401873054</guid>
+    </item>
+    <item>
+      <title>11/15/2026 • 1:00 PM ET — College Football — Oklahoma Sooners vs Ole Miss Rebels</title>
+      <description>Date: 11/15/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: College Football | Event: Ole Miss Rebels at Oklahoma Sooners | Venue: Memorial Stadium (Norman, OK)</description>
+      <pubDate>Sun, 15 Nov 2026 13:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401856887</guid>
     </item>
     <item>
       <title>11/15/2026 • 1:00 PM ET — NBA — Philadelphia 76ers vs Indiana Pacers</title>
