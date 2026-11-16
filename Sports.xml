@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 15 Nov 2026 21:56:28 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 05:48:20 -0500</lastBuildDate>
     
     <item>
       <title>11/16/2026 • 7:00 PM ET — NBA — Boston Celtics vs Orlando Magic</title>
@@ -697,12 +697,6 @@
       <guid isPermaLink="false">401858531</guid>
     </item>
     <item>
-      <title>11/21/2026 • 12:00 PM ET — College Football — Tulane Green Wave vs North Texas Mean Green</title>
-      <description>Date: 11/21/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: North Texas Mean Green at Tulane Green Wave | Venue: Yulman Stadium</description>
-      <pubDate>Sat, 21 Nov 2026 12:00:00 -0500</pubDate>
-      <guid isPermaLink="false">401862835</guid>
-    </item>
-    <item>
       <title>11/21/2026 • 12:00 PM ET — College Football — Florida Gators vs Vanderbilt Commodores</title>
       <description>Date: 11/21/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Vanderbilt Commodores at Florida Gators | Venue: Ben Hill Griffin Stadium</description>
       <pubDate>Sat, 21 Nov 2026 12:00:00 -0500</pubDate>
@@ -743,6 +737,12 @@
       <description>Date: 11/21/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Memphis Tigers at Navy Midshipmen | Venue: Navy-Marine Corps Memorial Stadium</description>
       <pubDate>Sat, 21 Nov 2026 12:00:00 -0500</pubDate>
       <guid isPermaLink="false">401862834</guid>
+    </item>
+    <item>
+      <title>11/21/2026 • 12:00 PM ET — College Football — Tulane Green Wave vs North Texas Mean Green</title>
+      <description>Date: 11/21/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: North Texas Mean Green at Tulane Green Wave | Venue: Yulman Stadium</description>
+      <pubDate>Sat, 21 Nov 2026 12:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401862835</guid>
     </item>
     <item>
       <title>11/21/2026 • 12:00 PM ET — College Basketball — Michigan State Spartans vs Detroit Mercy Titans</title>
