@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Mon, 16 Nov 2026 05:48:20 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:49:24 -0500</lastBuildDate>
     
     <item>
       <title>11/16/2026 • 7:00 PM ET — NBA — Boston Celtics vs Orlando Magic</title>
@@ -23,12 +23,6 @@
       <description>Date: 11/16/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: NBA | Event: Memphis Grizzlies at Washington Wizards | Venue: Capital One Arena</description>
       <pubDate>Mon, 16 Nov 2026 19:00:00 -0500</pubDate>
       <guid isPermaLink="false">401909996</guid>
-    </item>
-    <item>
-      <title>11/16/2026 • 7:00 PM ET — College Basketball — Kentucky Wildcats vs Grambling Tigers</title>
-      <description>Date: 11/16/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: Grambling Tigers at Kentucky Wildcats | Venue: Rupp Arena</description>
-      <pubDate>Mon, 16 Nov 2026 19:00:00 -0500</pubDate>
-      <guid isPermaLink="false">401921804</guid>
     </item>
     <item>
       <title>11/16/2026 • 7:30 PM ET — NBA — Brooklyn Nets vs Philadelphia 76ers</title>
@@ -355,6 +349,12 @@
       <guid isPermaLink="false">401910016</guid>
     </item>
     <item>
+      <title>11/18/2026 • 8:00 PM ET — College Basketball — LSU Tigers vs UL Monroe Warhawks</title>
+      <description>Date: 11/18/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: UL Monroe Warhawks at LSU Tigers | Venue: Pete Maravich Assembly Center</description>
+      <pubDate>Wed, 18 Nov 2026 20:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401917982</guid>
+    </item>
+    <item>
       <title>11/18/2026 • 8:30 PM ET — College Basketball — Nebraska Cornhuskers vs South Dakota Coyotes</title>
       <description>Date: 11/18/2026 | Time: 8:30 PM ET | Status: Scheduled | Sport: College Basketball | Event: South Dakota Coyotes at Nebraska Cornhuskers | Venue: Pinnacle Bank Arena</description>
       <pubDate>Wed, 18 Nov 2026 20:30:00 -0500</pubDate>
@@ -625,22 +625,16 @@
       <guid isPermaLink="false">401909310</guid>
     </item>
     <item>
-      <title>11/20/2026 • 8:00 PM ET — College Basketball — Arkansas Razorbacks vs Mississippi Valley State Delta Devils</title>
-      <description>Date: 11/20/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: Mississippi Valley State Delta Devils at Arkansas Razorbacks | Venue: Bud Walton Arena</description>
-      <pubDate>Fri, 20 Nov 2026 20:00:00 -0500</pubDate>
-      <guid isPermaLink="false">401925740</guid>
-    </item>
-    <item>
       <title>11/20/2026 • 8:00 PM ET — College Basketball — Vanderbilt Commodores vs UCF Knights</title>
       <description>Date: 11/20/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: UCF Knights at Vanderbilt Commodores | Venue: Memorial Gymnasium (TN)</description>
       <pubDate>Fri, 20 Nov 2026 20:00:00 -0500</pubDate>
       <guid isPermaLink="false">401921757</guid>
     </item>
     <item>
-      <title>11/20/2026 • 8:00 PM ET — College Basketball — Indiana Hoosiers vs Kentucky Wildcats</title>
-      <description>Date: 11/20/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: Kentucky Wildcats at Indiana Hoosiers | Venue: Lucas Oil Stadium</description>
+      <title>11/20/2026 • 8:00 PM ET — College Basketball — Arkansas Razorbacks vs Mississippi Valley State Delta Devils</title>
+      <description>Date: 11/20/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: Mississippi Valley State Delta Devils at Arkansas Razorbacks | Venue: Bud Walton Arena</description>
       <pubDate>Fri, 20 Nov 2026 20:00:00 -0500</pubDate>
-      <guid isPermaLink="false">401916290</guid>
+      <guid isPermaLink="false">401925740</guid>
     </item>
     <item>
       <title>11/20/2026 • 9:00 PM ET — College Football — Wyoming Cowboys vs New Mexico Lobos</title>
@@ -1115,6 +1109,12 @@
       <description>Date: 11/21/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: NBA | Event: New Orleans Pelicans at San Antonio Spurs | Venue: Frost Bank Center</description>
       <pubDate>Sat, 21 Nov 2026 20:00:00 -0500</pubDate>
       <guid isPermaLink="false">401910027</guid>
+    </item>
+    <item>
+      <title>11/21/2026 • 8:00 PM ET — College Basketball — LSU Tigers vs Queens University Royals</title>
+      <description>Date: 11/21/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: Queens University Royals at LSU Tigers | Venue: Pete Maravich Assembly Center</description>
+      <pubDate>Sat, 21 Nov 2026 20:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401921811</guid>
     </item>
     <item>
       <title>11/21/2026 • 9:00 PM ET — College Football — TCU Horned Frogs vs Utah Utes</title>
