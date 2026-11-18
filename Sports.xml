@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Wed, 18 Nov 2026 06:17:06 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:29:34 -0500</lastBuildDate>
     
     <item>
       <title>11/18/2026 • 4:30 PM ET — College Basketball — Florida Gators vs Houston Cougars</title>
@@ -535,6 +535,12 @@
       <guid isPermaLink="false">401910023</guid>
     </item>
     <item>
+      <title>11/21/2026 • 1:00 PM ET — College Basketball — LSU Tigers vs Queens University Royals</title>
+      <description>Date: 11/21/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: Queens University Royals at LSU Tigers | Venue: Pete Maravich Assembly Center</description>
+      <pubDate>Sat, 21 Nov 2026 13:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401921811</guid>
+    </item>
+    <item>
       <title>11/21/2026 • 1:00 PM ET — NHL — Carolina Hurricanes vs Edmonton Oilers</title>
       <description>Date: 11/21/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NHL | Event: Edmonton Oilers at Carolina Hurricanes | Venue: Lenovo Center</description>
       <pubDate>Sat, 21 Nov 2026 13:00:00 -0500</pubDate>
@@ -871,12 +877,6 @@
       <guid isPermaLink="false">401910027</guid>
     </item>
     <item>
-      <title>11/21/2026 • 8:00 PM ET — College Basketball — LSU Tigers vs Queens University Royals</title>
-      <description>Date: 11/21/2026 | Time: 8:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: Queens University Royals at LSU Tigers | Venue: Pete Maravich Assembly Center</description>
-      <pubDate>Sat, 21 Nov 2026 20:00:00 -0500</pubDate>
-      <guid isPermaLink="false">401921811</guid>
-    </item>
-    <item>
       <title>11/21/2026 • 9:00 PM ET — College Football — TCU Horned Frogs vs Utah Utes</title>
       <description>Date: 11/21/2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: College Football | Event: Utah Utes at TCU Horned Frogs | Venue: Amon G. Carter Stadium</description>
       <pubDate>Sat, 21 Nov 2026 21:00:00 -0500</pubDate>
@@ -937,12 +937,6 @@
       <guid isPermaLink="false">401909567</guid>
     </item>
     <item>
-      <title>11/22/2026 • 12:00 PM ET — College Basketball — Nebraska Cornhuskers vs Butler Bulldogs</title>
-      <description>Date: 11/22/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: Butler Bulldogs at Nebraska Cornhuskers | Venue: Credit Union 1 Arena</description>
-      <pubDate>Sun, 22 Nov 2026 12:00:00 -0500</pubDate>
-      <guid isPermaLink="false">401902281</guid>
-    </item>
-    <item>
       <title>11/22/2026 • 12:30 PM ET — NHL — New York Rangers vs Carolina Hurricanes</title>
       <description>Date: 11/22/2026 | Time: 12:30 PM ET | Status: Scheduled | Sport: NHL | Event: Carolina Hurricanes at New York Rangers | Venue: Madison Square Garden</description>
       <pubDate>Sun, 22 Nov 2026 12:30:00 -0500</pubDate>
@@ -989,6 +983,12 @@
       <description>Date: 11/22/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: NFL | Event: Baltimore Ravens at Carolina Panthers | Venue: Bank of America Stadium</description>
       <pubDate>Sun, 22 Nov 2026 13:00:00 -0500</pubDate>
       <guid isPermaLink="false">401873068</guid>
+    </item>
+    <item>
+      <title>11/22/2026 • 1:00 PM ET — College Basketball — Butler Bulldogs vs Nebraska Cornhuskers</title>
+      <description>Date: 11/22/2026 | Time: 1:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: Nebraska Cornhuskers at Butler Bulldogs | Venue: Credit Union 1 Arena</description>
+      <pubDate>Sun, 22 Nov 2026 13:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401902281</guid>
     </item>
     <item>
       <title>11/22/2026 • 3:00 PM ET — College Basketball — Texas Longhorns vs Southern Indiana Screaming Eagles</title>
