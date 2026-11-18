@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Tue, 17 Nov 2026 21:55:58 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 06:17:06 -0500</lastBuildDate>
     
     <item>
       <title>11/18/2026 • 4:30 PM ET — College Basketball — Florida Gators vs Houston Cougars</title>
@@ -71,6 +71,12 @@
       <description>Date: 11/18/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Basketball | Event: LSU New Orleans Privateers at Texas Tech Red Raiders | Venue: United Supermarkets Arena</description>
       <pubDate>Wed, 18 Nov 2026 19:30:00 -0500</pubDate>
       <guid isPermaLink="false">401921134</guid>
+    </item>
+    <item>
+      <title>11/18/2026 • 7:30 PM ET — College Basketball — West Virginia Mountaineers vs Kansas Jayhawks</title>
+      <description>Date: 11/18/2026 | Time: 7:30 PM ET | Status: Scheduled | Sport: College Basketball | Event: Kansas Jayhawks at West Virginia Mountaineers | Venue: Michelob ULTRA Arena</description>
+      <pubDate>Wed, 18 Nov 2026 19:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401920515</guid>
     </item>
     <item>
       <title>11/18/2026 • 7:30 PM ET — NHL — Detroit Red Wings vs Boston Bruins</title>
@@ -433,12 +439,6 @@
       <guid isPermaLink="false">401858310</guid>
     </item>
     <item>
-      <title>11/21/2026 • 12:00 PM ET — College Football — Ole Miss Rebels vs Wofford Terriers</title>
-      <description>Date: 11/21/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Wofford Terriers at Ole Miss Rebels | Venue: Vaught-Hemingway Stadium</description>
-      <pubDate>Sat, 21 Nov 2026 12:00:00 -0500</pubDate>
-      <guid isPermaLink="false">401856749</guid>
-    </item>
-    <item>
       <title>11/21/2026 • 12:00 PM ET — College Football — Nebraska Cornhuskers vs Ohio State Buckeyes</title>
       <description>Date: 11/21/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Ohio State Buckeyes at Nebraska Cornhuskers | Venue: Memorial Stadium (Lincoln, NE)</description>
       <pubDate>Sat, 21 Nov 2026 12:00:00 -0500</pubDate>
@@ -449,6 +449,12 @@
       <description>Date: 11/21/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Vanderbilt Commodores at Florida Gators | Venue: Ben Hill Griffin Stadium</description>
       <pubDate>Sat, 21 Nov 2026 12:00:00 -0500</pubDate>
       <guid isPermaLink="false">401856748</guid>
+    </item>
+    <item>
+      <title>11/21/2026 • 12:00 PM ET — College Football — Ole Miss Rebels vs Wofford Terriers</title>
+      <description>Date: 11/21/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Wofford Terriers at Ole Miss Rebels | Venue: Vaught-Hemingway Stadium</description>
+      <pubDate>Sat, 21 Nov 2026 12:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401856749</guid>
     </item>
     <item>
       <title>11/21/2026 • 12:00 PM ET — College Football — Cincinnati Bearcats vs Colorado Buffaloes</title>
@@ -613,16 +619,16 @@
       <guid isPermaLink="false">401856755</guid>
     </item>
     <item>
-      <title>11/21/2026 • 3:30 PM ET — College Football — Tennessee Volunteers vs LSU Tigers</title>
-      <description>Date: 11/21/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: LSU Tigers at Tennessee Volunteers | Venue: Neyland Stadium</description>
-      <pubDate>Sat, 21 Nov 2026 15:30:00 -0500</pubDate>
-      <guid isPermaLink="false">401856754</guid>
-    </item>
-    <item>
       <title>11/21/2026 • 3:30 PM ET — College Football — Washington Huskies vs Indiana Hoosiers</title>
       <description>Date: 11/21/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Indiana Hoosiers at Washington Huskies | Venue: Husky Stadium</description>
       <pubDate>Sat, 21 Nov 2026 15:30:00 -0500</pubDate>
       <guid isPermaLink="false">401858535</guid>
+    </item>
+    <item>
+      <title>11/21/2026 • 3:30 PM ET — College Football — Tennessee Volunteers vs LSU Tigers</title>
+      <description>Date: 11/21/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: LSU Tigers at Tennessee Volunteers | Venue: Neyland Stadium</description>
+      <pubDate>Sat, 21 Nov 2026 15:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401856754</guid>
     </item>
     <item>
       <title>11/21/2026 • 3:30 PM ET — College Football — Baylor Bears vs Texas Tech Red Raiders</title>
