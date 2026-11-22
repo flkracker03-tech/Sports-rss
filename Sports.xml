@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Sun, 22 Nov 2026 00:38:49 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 08:37:05 -0500</lastBuildDate>
     
     <item>
       <title>11/22/2026 • 12:00 PM ET — College Basketball — Butler Bulldogs vs Nebraska Cornhuskers</title>
@@ -931,30 +931,6 @@
       <guid isPermaLink="false">401933725</guid>
     </item>
     <item>
-      <title>11/28/2026 • 12:00 AM ET — College Football — Colorado State Rams vs TBD</title>
-      <description>Date: 11/28/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: TBD at Colorado State Rams | Venue: Canvas Stadium</description>
-      <pubDate>Sat, 28 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="false">401860926</guid>
-    </item>
-    <item>
-      <title>11/28/2026 • 12:00 AM ET — College Football — Fresno State Bulldogs vs TBD</title>
-      <description>Date: 11/28/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: TBD at Fresno State Bulldogs | Venue: Valley Children's Stadium</description>
-      <pubDate>Sat, 28 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="false">401860927</guid>
-    </item>
-    <item>
-      <title>11/28/2026 • 12:00 AM ET — College Football — Utah State Aggies vs TBD</title>
-      <description>Date: 11/28/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: TBD at Utah State Aggies | Venue: Maverik Stadium</description>
-      <pubDate>Sat, 28 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="false">401860928</guid>
-    </item>
-    <item>
-      <title>11/28/2026 • 12:00 AM ET — College Football — Washington State Cougars vs TBD</title>
-      <description>Date: 11/28/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Football | Event: TBD at Washington State Cougars | Venue: Martin Stadium</description>
-      <pubDate>Sat, 28 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="false">401860929</guid>
-    </item>
-    <item>
       <title>11/28/2026 • 12:00 AM ET — College Basketball — St. Thomas Tommies vs Princeton Tigers</title>
       <description>Date: 11/28/2026 | Time: 12:00 AM ET | Status: Scheduled | Sport: College Basketball | Event: Princeton Tigers at St. Thomas Tommies | Venue: Trask Coliseum</description>
       <pubDate>Sat, 28 Nov 2026 00:00:00 -0500</pubDate>
@@ -1573,6 +1549,12 @@
       <guid isPermaLink="false">401911459</guid>
     </item>
     <item>
+      <title>11/28/2026 • 6:00 PM ET — College Football — Colorado State Rams vs Boise State Broncos</title>
+      <description>Date: 11/28/2026 | Time: 6:00 PM ET | Status: Scheduled | Sport: College Football | Event: Boise State Broncos at Colorado State Rams | Venue: Canvas Stadium</description>
+      <pubDate>Sat, 28 Nov 2026 18:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401860926</guid>
+    </item>
+    <item>
       <title>11/28/2026 • 6:00 PM ET — NBA — Charlotte Hornets vs Brooklyn Nets</title>
       <description>Date: 11/28/2026 | Time: 6:00 PM ET | Status: Scheduled | Sport: NBA | Event: Brooklyn Nets at Charlotte Hornets | Venue: Spectrum Center</description>
       <pubDate>Sat, 28 Nov 2026 18:00:00 -0500</pubDate>
@@ -1619,6 +1601,12 @@
       <description>Date: 11/28/2026 | Time: 6:15 PM ET | Status: Scheduled | Sport: College Football | Event: Kansas Jayhawks at Oklahoma State Cowboys | Venue: Boone Pickens Stadium</description>
       <pubDate>Sat, 28 Nov 2026 18:15:00 -0500</pubDate>
       <guid isPermaLink="false">401856877</guid>
+    </item>
+    <item>
+      <title>11/28/2026 • 6:30 PM ET — College Football — Washington State Cougars vs San Diego State Aztecs</title>
+      <description>Date: 11/28/2026 | Time: 6:30 PM ET | Status: Scheduled | Sport: College Football | Event: San Diego State Aztecs at Washington State Cougars | Venue: Martin Stadium</description>
+      <pubDate>Sat, 28 Nov 2026 18:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401860929</guid>
     </item>
     <item>
       <title>11/28/2026 • 6:30 PM ET — College Basketball — Middle Tennessee Blue Raiders vs Toccoa Falls Eagles</title>
@@ -1817,6 +1805,18 @@
       <description>Date: 11/28/2026 | Time: 9:30 PM ET | Status: Scheduled | Sport: College Football | Event: Baylor Bears at Houston Cougars | Venue: TDECU Stadium</description>
       <pubDate>Sat, 28 Nov 2026 21:30:00 -0500</pubDate>
       <guid isPermaLink="false">401856874</guid>
+    </item>
+    <item>
+      <title>11/28/2026 • 9:30 PM ET — College Football — Utah State Aggies vs Texas State Bobcats</title>
+      <description>Date: 11/28/2026 | Time: 9:30 PM ET | Status: Scheduled | Sport: College Football | Event: Texas State Bobcats at Utah State Aggies | Venue: Maverik Stadium</description>
+      <pubDate>Sat, 28 Nov 2026 21:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401860928</guid>
+    </item>
+    <item>
+      <title>11/28/2026 • 10:00 PM ET — College Football — Fresno State Bulldogs vs Oregon State Beavers</title>
+      <description>Date: 11/28/2026 | Time: 10:00 PM ET | Status: Scheduled | Sport: College Football | Event: Oregon State Beavers at Fresno State Bulldogs | Venue: Valley Children's Stadium</description>
+      <pubDate>Sat, 28 Nov 2026 22:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401860927</guid>
     </item>
     <item>
       <title>11/28/2026 • 10:00 PM ET — College Basketball — UC San Diego Tritons vs Loyola Marymount Lions</title>
