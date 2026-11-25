@@ -4,7 +4,7 @@
     <title>Live &amp; Upcoming Sports</title>
     <description>Live and upcoming sports events with Eastern Time</description>
     <link>https://flkracker03-tech.github.io/Sports-rss/</link>
-    <lastBuildDate>Tue, 24 Nov 2026 19:44:52 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 04:15:40 -0500</lastBuildDate>
     
     <item>
       <title>11/25/2026 • 12:00 PM ET — College Basketball — Marquette Golden Eagles vs Virginia Cavaliers</title>
@@ -17,6 +17,12 @@
       <description>Date: 11/25/2026 | Time: 2:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: Arizona State Sun Devils at LSU Tigers | Venue: Acrisure Arena</description>
       <pubDate>Wed, 25 Nov 2026 14:00:00 -0500</pubDate>
       <guid isPermaLink="false">401921669</guid>
+    </item>
+    <item>
+      <title>11/25/2026 • 2:30 PM ET — College Basketball — Arizona Wildcats vs Ole Miss Rebels</title>
+      <description>Date: 11/25/2026 | Time: 2:30 PM ET | Status: Scheduled | Sport: College Basketball | Event: Ole Miss Rebels at Arizona Wildcats | Venue: Lahaina Civic Center</description>
+      <pubDate>Wed, 25 Nov 2026 14:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401921715</guid>
     </item>
     <item>
       <title>11/25/2026 • 4:30 PM ET — College Basketball — USC Trojans vs South Carolina Gamecocks</title>
@@ -205,6 +211,18 @@
       <guid isPermaLink="false">401906869</guid>
     </item>
     <item>
+      <title>11/26/2026 • 3:30 PM ET — College Basketball — Iowa State Cyclones vs Tennessee Volunteers</title>
+      <description>Date: 11/26/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Basketball | Event: Tennessee Volunteers at Iowa State Cyclones | Venue: Michelob ULTRA Arena</description>
+      <pubDate>Thu, 26 Nov 2026 15:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401920529</guid>
+    </item>
+    <item>
+      <title>11/26/2026 • 3:30 PM ET — College Basketball — Michigan Wolverines vs Miami Hurricanes</title>
+      <description>Date: 11/26/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Basketball | Event: Miami Hurricanes at Michigan Wolverines | Venue: T-Mobile Arena</description>
+      <pubDate>Thu, 26 Nov 2026 15:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401920537</guid>
+    </item>
+    <item>
       <title>11/26/2026 • 4:30 PM ET — NFL — Dallas Cowboys vs Philadelphia Eagles</title>
       <description>Date: 11/26/2026 | Time: 4:30 PM ET | Status: Scheduled | Sport: NFL | Event: Philadelphia Eagles at Dallas Cowboys | Venue: AT&amp;T Stadium</description>
       <pubDate>Thu, 26 Nov 2026 16:30:00 -0500</pubDate>
@@ -245,6 +263,30 @@
       <description>Date: 11/26/2026 | Time: 8:20 PM ET | Status: Scheduled | Sport: NFL | Event: Kansas City Chiefs at Buffalo Bills | Venue: Highmark Stadium</description>
       <pubDate>Thu, 26 Nov 2026 20:20:00 -0500</pubDate>
       <guid isPermaLink="false">401873082</guid>
+    </item>
+    <item>
+      <title>11/26/2026 • 9:00 PM ET — College Basketball — Louisville Cardinals vs St. John's Red Storm</title>
+      <description>Date: 11/26/2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: St. John's Red Storm at Louisville Cardinals | Venue: Michelob ULTRA Arena</description>
+      <pubDate>Thu, 26 Nov 2026 21:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401920530</guid>
+    </item>
+    <item>
+      <title>11/26/2026 • 9:00 PM ET — College Basketball — Alabama Crimson Tide vs Kansas State Wildcats</title>
+      <description>Date: 11/26/2026 | Time: 9:00 PM ET | Status: Scheduled | Sport: College Basketball | Event: Kansas State Wildcats at Alabama Crimson Tide | Venue: T-Mobile Arena</description>
+      <pubDate>Thu, 26 Nov 2026 21:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401920539</guid>
+    </item>
+    <item>
+      <title>11/26/2026 • 11:30 PM ET — College Basketball — Oregon Ducks vs Texas Tech Red Raiders</title>
+      <description>Date: 11/26/2026 | Time: 11:30 PM ET | Status: Scheduled | Sport: College Basketball | Event: Texas Tech Red Raiders at Oregon Ducks | Venue: Michelob ULTRA Arena</description>
+      <pubDate>Thu, 26 Nov 2026 23:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401920531</guid>
+    </item>
+    <item>
+      <title>11/26/2026 • 11:30 PM ET — College Basketball — Baylor Bears vs Gonzaga Bulldogs</title>
+      <description>Date: 11/26/2026 | Time: 11:30 PM ET | Status: Scheduled | Sport: College Basketball | Event: Gonzaga Bulldogs at Baylor Bears | Venue: T-Mobile Arena</description>
+      <pubDate>Thu, 26 Nov 2026 23:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401920540</guid>
     </item>
     <item>
       <title>11/27/2026 • 11:00 AM ET — College Basketball — Xavier Musketeers vs Virginia Cavaliers</title>
@@ -547,16 +589,16 @@
       <guid isPermaLink="false">401858311</guid>
     </item>
     <item>
-      <title>11/28/2026 • 12:00 PM ET — College Football — Ohio State Buckeyes vs Michigan Wolverines</title>
-      <description>Date: 11/28/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Michigan Wolverines at Ohio State Buckeyes | Venue: Ohio Stadium</description>
-      <pubDate>Sat, 28 Nov 2026 12:00:00 -0500</pubDate>
-      <guid isPermaLink="false">401858540</guid>
-    </item>
-    <item>
       <title>11/28/2026 • 12:00 PM ET — College Football — Kentucky Wildcats vs Louisville Cardinals</title>
       <description>Date: 11/28/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Louisville Cardinals at Kentucky Wildcats | Venue: Kroger Field</description>
       <pubDate>Sat, 28 Nov 2026 12:00:00 -0500</pubDate>
       <guid isPermaLink="false">401856761</guid>
+    </item>
+    <item>
+      <title>11/28/2026 • 12:00 PM ET — College Football — Ohio State Buckeyes vs Michigan Wolverines</title>
+      <description>Date: 11/28/2026 | Time: 12:00 PM ET | Status: Scheduled | Sport: College Football | Event: Michigan Wolverines at Ohio State Buckeyes | Venue: Ohio Stadium</description>
+      <pubDate>Sat, 28 Nov 2026 12:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401858540</guid>
     </item>
     <item>
       <title>11/28/2026 • 12:00 PM ET — College Football — North Carolina Tar Heels vs NC State Wolfpack</title>
@@ -931,6 +973,12 @@
       <guid isPermaLink="false">401856760</guid>
     </item>
     <item>
+      <title>11/28/2026 • 3:30 PM ET — College Football — Wake Forest Demon Deacons vs Duke Blue Devils</title>
+      <description>Date: 11/28/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Duke Blue Devils at Wake Forest Demon Deacons | Venue: Allegacy Federal Credit Union Stadium</description>
+      <pubDate>Sat, 28 Nov 2026 15:30:00 -0500</pubDate>
+      <guid isPermaLink="false">401858312</guid>
+    </item>
+    <item>
       <title>11/28/2026 • 3:30 PM ET — College Football — UCLA Bruins vs USC Trojans</title>
       <description>Date: 11/28/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: USC Trojans at UCLA Bruins | Venue: Rose Bowl</description>
       <pubDate>Sat, 28 Nov 2026 15:30:00 -0500</pubDate>
@@ -941,12 +989,6 @@
       <description>Date: 11/28/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Cincinnati Bearcats at BYU Cougars | Venue: LaVell Edwards Stadium</description>
       <pubDate>Sat, 28 Nov 2026 15:30:00 -0500</pubDate>
       <guid isPermaLink="false">401856876</guid>
-    </item>
-    <item>
-      <title>11/28/2026 • 3:30 PM ET — College Football — Wake Forest Demon Deacons vs Duke Blue Devils</title>
-      <description>Date: 11/28/2026 | Time: 3:30 PM ET | Status: Scheduled | Sport: College Football | Event: Duke Blue Devils at Wake Forest Demon Deacons | Venue: Allegacy Federal Credit Union Stadium</description>
-      <pubDate>Sat, 28 Nov 2026 15:30:00 -0500</pubDate>
-      <guid isPermaLink="false">401858312</guid>
     </item>
     <item>
       <title>11/28/2026 • 3:30 PM ET — College Football — Stanford Cardinal vs SMU Mustangs</title>
@@ -1213,16 +1255,16 @@
       <guid isPermaLink="false">401933722</guid>
     </item>
     <item>
-      <title>11/28/2026 • 7:00 PM ET — College Football — Indiana Hoosiers vs Purdue Boilermakers</title>
-      <description>Date: 11/28/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Purdue Boilermakers at Indiana Hoosiers | Venue: Memorial Stadium (Bloomington, IN)</description>
-      <pubDate>Sat, 28 Nov 2026 19:00:00 -0500</pubDate>
-      <guid isPermaLink="false">401858538</guid>
-    </item>
-    <item>
       <title>11/28/2026 • 7:00 PM ET — College Football — Vanderbilt Commodores vs Tennessee Volunteers</title>
       <description>Date: 11/28/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Tennessee Volunteers at Vanderbilt Commodores | Venue: FirstBank Stadium</description>
       <pubDate>Sat, 28 Nov 2026 19:00:00 -0500</pubDate>
       <guid isPermaLink="false">401856765</guid>
+    </item>
+    <item>
+      <title>11/28/2026 • 7:00 PM ET — College Football — Indiana Hoosiers vs Purdue Boilermakers</title>
+      <description>Date: 11/28/2026 | Time: 7:00 PM ET | Status: Scheduled | Sport: College Football | Event: Purdue Boilermakers at Indiana Hoosiers | Venue: Memorial Stadium (Bloomington, IN)</description>
+      <pubDate>Sat, 28 Nov 2026 19:00:00 -0500</pubDate>
+      <guid isPermaLink="false">401858538</guid>
     </item>
     <item>
       <title>11/28/2026 • 7:00 PM ET — College Basketball — Cornell Big Red vs St. Lawrence Saints</title>
